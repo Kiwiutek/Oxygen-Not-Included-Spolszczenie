@@ -8169,7 +8169,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CARBON.NAME
 msgctxt "STRINGS.ELEMENTS.CARBON.NAME"
 msgid "Coal"
-msgstr ""
+msgstr "Węgiel"
 
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.DESC"
@@ -8182,7 +8182,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.NAME"
 msgid "Carbon Dioxide"
-msgstr ""
+msgstr "Dwutlenek Węgla"
 
 #. STRINGS.ELEMENTS.CARBONFIBRE.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.DESC"
@@ -8192,7 +8192,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CARBONFIBRE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.NAME"
 msgid "Carbon Fiber"
-msgstr ""
+msgstr "Włókno Węglowe"
 
 #. STRINGS.ELEMENTS.CARBONGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONGAS.DESC"
@@ -8202,7 +8202,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CARBONGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONGAS.NAME"
 msgid "Carbon"
-msgstr ""
+msgstr "Węgiel"
 
 #. STRINGS.ELEMENTS.CHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINE.DESC"
@@ -8212,7 +8212,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINE.NAME"
 msgid "Chlorine"
-msgstr ""
+msgstr "Chlor"
 
 #. STRINGS.ELEMENTS.CHLORINEGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.DESC"
@@ -8235,7 +8235,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CLAY.NAME
 msgctxt "STRINGS.ELEMENTS.CLAY.NAME"
 msgid "Clay"
-msgstr ""
+msgstr "Glina"
 
 #. STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.DESC"
@@ -8248,7 +8248,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME"
 msgid "Contaminated Oxygen"
-msgstr ""
+msgstr "Zanieczyszczony Tlen"
 
 #. STRINGS.ELEMENTS.COPPER.DESC
 msgctxt "STRINGS.ELEMENTS.COPPER.DESC"
@@ -8261,7 +8261,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.COPPER.NAME
 msgctxt "STRINGS.ELEMENTS.COPPER.NAME"
 msgid "Copper"
-msgstr ""
+msgstr "Miedź"
 
 #. STRINGS.ELEMENTS.COPPERGAS.DESC
 msgctxt "STRINGS.ELEMENTS.COPPERGAS.DESC"
@@ -8271,7 +8271,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.COPPERGAS.NAME
 msgctxt "STRINGS.ELEMENTS.COPPERGAS.NAME"
 msgid "Copper"
-msgstr ""
+msgstr "Miedź"
 
 #. STRINGS.ELEMENTS.CRUDEOIL.DESC
 msgctxt "STRINGS.ELEMENTS.CRUDEOIL.DESC"
@@ -8291,7 +8291,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CRUSHEDICE.NAME
 msgctxt "STRINGS.ELEMENTS.CRUSHEDICE.NAME"
 msgid "Crushed Ice"
-msgstr ""
+msgstr "Kruszony lód"
 
 #. STRINGS.ELEMENTS.CRUSHEDROCK.DESC
 msgctxt "STRINGS.ELEMENTS.CRUSHEDROCK.DESC"
@@ -8314,7 +8314,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.CUPRITE.NAME
 msgctxt "STRINGS.ELEMENTS.CUPRITE.NAME"
 msgid "Copper Ore"
-msgstr ""
+msgstr "Ruda Miedzi"
 
 #. STRINGS.ELEMENTS.DIAMOND.DESC
 msgctxt "STRINGS.ELEMENTS.DIAMOND.DESC"
@@ -8350,7 +8350,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.DIRTYICE.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYICE.NAME"
 msgid "Contaminated Ice"
-msgstr ""
+msgstr "Zanieczyszczony Lód"
 
 #. STRINGS.ELEMENTS.DIRTYWATER.DESC
 msgctxt "STRINGS.ELEMENTS.DIRTYWATER.DESC"
@@ -8419,7 +8419,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.FERTILIZER.NAME
 msgctxt "STRINGS.ELEMENTS.FERTILIZER.NAME"
 msgid "Fertilizer"
-msgstr ""
+msgstr "Nawóz"
 
 #. STRINGS.ELEMENTS.FOOLSGOLD.DESC
 msgctxt "STRINGS.ELEMENTS.FOOLSGOLD.DESC"
@@ -8432,7 +8432,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.FOOLSGOLD.NAME
 msgctxt "STRINGS.ELEMENTS.FOOLSGOLD.NAME"
 msgid "Pyrite"
-msgstr ""
+msgstr "Piryt"
 
 #. STRINGS.ELEMENTS.GOLD.DESC
 msgctxt "STRINGS.ELEMENTS.GOLD.DESC"
@@ -8445,7 +8445,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.GOLD.NAME
 msgctxt "STRINGS.ELEMENTS.GOLD.NAME"
 msgid "Gold"
-msgstr ""
+msgstr "Złoto"
 
 #. STRINGS.ELEMENTS.GOLDAMALGAM.DESC
 msgctxt "STRINGS.ELEMENTS.GOLDAMALGAM.DESC"
@@ -8458,7 +8458,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.GOLDAMALGAM.NAME
 msgctxt "STRINGS.ELEMENTS.GOLDAMALGAM.NAME"
 msgid "Gold Amalgam"
-msgstr ""
+msgstr "Złoty Amalgamat"
 
 #. STRINGS.ELEMENTS.GOLDGAS.DESC
 msgctxt "STRINGS.ELEMENTS.GOLDGAS.DESC"
@@ -8468,7 +8468,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.GOLDGAS.NAME
 msgctxt "STRINGS.ELEMENTS.GOLDGAS.NAME"
 msgid "Gold"
-msgstr ""
+msgstr "Złoto"
 
 #. STRINGS.ELEMENTS.GRANITE.DESC
 msgctxt "STRINGS.ELEMENTS.GRANITE.DESC"
@@ -8814,7 +8814,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.PHOSPHORITE.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORITE.NAME"
 msgid "Phosphorite"
-msgstr ""
+msgstr "Fosforyt"
 
 #. STRINGS.ELEMENTS.PHOSPHORUS.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUS.DESC"
@@ -8965,7 +8965,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.SOLIDHYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDHYDROGEN.NAME"
 msgid "Hydrogen"
-msgstr ""
+msgstr "Wodór"
 
 #. STRINGS.ELEMENTS.SOLIDMERCURY.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDMERCURY.DESC"
@@ -8975,7 +8975,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.SOLIDMERCURY.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDMERCURY.NAME"
 msgid "Mercury"
-msgstr ""
+msgstr "Rtęć"
 
 #. STRINGS.ELEMENTS.SOLIDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDOXYGEN.DESC"
@@ -8995,22 +8995,22 @@ msgstr ""
 #. STRINGS.ELEMENTS.SOLIDPROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDPROPANE.NAME"
 msgid "Propane"
-msgstr ""
+msgstr "Propan"
 
 #. STRINGS.ELEMENTS.STATEGAS
 msgctxt "STRINGS.ELEMENTS.STATEGAS"
 msgid "Gas"
-msgstr ""
+msgstr "Gaz"
 
 #. STRINGS.ELEMENTS.STATELIQUID
 msgctxt "STRINGS.ELEMENTS.STATELIQUID"
 msgid "Liquid"
-msgstr ""
+msgstr "Ciecz"
 
 #. STRINGS.ELEMENTS.STATESOLID
 msgctxt "STRINGS.ELEMENTS.STATESOLID"
 msgid "Solid"
-msgstr ""
+msgstr "Solidny"
 
 #. STRINGS.ELEMENTS.STATEVACUUM
 msgctxt "STRINGS.ELEMENTS.STATEVACUUM"
@@ -9025,7 +9025,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.STEAM.NAME
 msgctxt "STRINGS.ELEMENTS.STEAM.NAME"
 msgid "Steam"
-msgstr ""
+msgstr "Parowy"
 
 #. STRINGS.ELEMENTS.STEEL.DESC
 msgctxt "STRINGS.ELEMENTS.STEEL.DESC"
@@ -9035,7 +9035,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.STEEL.NAME
 msgctxt "STRINGS.ELEMENTS.STEEL.NAME"
 msgid "Steel"
-msgstr ""
+msgstr "Stal"
 
 #. STRINGS.ELEMENTS.STEELDOOR.DESC
 msgctxt "STRINGS.ELEMENTS.STEELDOOR.DESC"
@@ -9430,7 +9430,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.NAME"
 msgid "TIP: Basic Controls"
-msgstr ""
+msgstr "TIP: Podstawowe Sterowanie"
 
 #. STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.BASICCONTROLS.TOOLTIP"
@@ -9728,7 +9728,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.NAME"
 msgid "TIP: Fetching Water"
-msgstr ""
+msgstr "TIP: Pobieranie wody"
 
 #. STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.FETCHINGWATERMESSAGE.TOOLTIP"
@@ -9882,7 +9882,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME"
 msgid "TIP: Duplicant Movement"
-msgstr ""
+msgstr "TIP: Przemieszczanie Duplikantów"
 
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.TOOLTIP"
@@ -10030,7 +10030,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.NAME"
 msgid "TIP: Priorities"
-msgstr ""
+msgstr "TIP: Priorytety"
 
 #. STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.PRIORITIESMESSAGE.TOOLTIP"
@@ -10124,7 +10124,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.NAME"
 msgid "TIP: Stress Management"
-msgstr ""
+msgstr "TIP: Zarządzanie stresem"
 
 #. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.TOOLTIP"
@@ -10669,12 +10669,12 @@ msgstr ""
 #. STRINGS.MISC.TAGS.ALLOY
 msgctxt "STRINGS.MISC.TAGS.ALLOY"
 msgid "Alloy"
-msgstr ""
+msgstr "Stop"
 
 #. STRINGS.MISC.TAGS.BLEACHSTONE
 msgctxt "STRINGS.MISC.TAGS.BLEACHSTONE"
 msgid "Bleach Stone"
-msgstr ""
+msgstr "Wybielający Kamień"
 
 #. STRINGS.MISC.TAGS.BREATHABLE
 msgctxt "STRINGS.MISC.TAGS.BREATHABLE"
@@ -10684,32 +10684,32 @@ msgstr ""
 #. STRINGS.MISC.TAGS.BUILDABLEPROCESSED
 msgctxt "STRINGS.MISC.TAGS.BUILDABLEPROCESSED"
 msgid "Refined Mineral"
-msgstr ""
+msgstr "Wytworzony Minerał"
 
 #. STRINGS.MISC.TAGS.BUILDABLERAW
 msgctxt "STRINGS.MISC.TAGS.BUILDABLERAW"
 msgid "Raw Mineral"
-msgstr ""
+msgstr "Surowy Minerał"
 
 #. STRINGS.MISC.TAGS.BURNS
 msgctxt "STRINGS.MISC.TAGS.BURNS"
 msgid "Flammable"
-msgstr ""
+msgstr "Łatwopalny"
 
 #. STRINGS.MISC.TAGS.COAL
 msgctxt "STRINGS.MISC.TAGS.COAL"
 msgid "Coal"
-msgstr ""
+msgstr "Węgiel"
 
 #. STRINGS.MISC.TAGS.CONSUMABLEORE
 msgctxt "STRINGS.MISC.TAGS.CONSUMABLEORE"
 msgid "Consumable Ore"
-msgstr ""
+msgstr "Użytkowa Ruda"
 
 #. STRINGS.MISC.TAGS.EMITSLIGHT
 msgctxt "STRINGS.MISC.TAGS.EMITSLIGHT"
 msgid "Light Emitter"
-msgstr ""
+msgstr "Emiter Światła"
 
 #. STRINGS.MISC.TAGS.FARMABLE
 msgctxt "STRINGS.MISC.TAGS.FARMABLE"
@@ -10719,27 +10719,27 @@ msgstr ""
 #. STRINGS.MISC.TAGS.FILTER
 msgctxt "STRINGS.MISC.TAGS.FILTER"
 msgid "Filtration Medium"
-msgstr ""
+msgstr "Średnia Filtracja"
 
 #. STRINGS.MISC.TAGS.GAS
 msgctxt "STRINGS.MISC.TAGS.GAS"
 msgid "Gas"
-msgstr ""
+msgstr "Gaz"
 
 #. STRINGS.MISC.TAGS.ICEORE
 msgctxt "STRINGS.MISC.TAGS.ICEORE"
 msgid "Ice"
-msgstr ""
+msgstr "Lód"
 
 #. STRINGS.MISC.TAGS.LIFE
 msgctxt "STRINGS.MISC.TAGS.LIFE"
 msgid "Life"
-msgstr ""
+msgstr "Życie"
 
 #. STRINGS.MISC.TAGS.LIQUID
 msgctxt "STRINGS.MISC.TAGS.LIQUID"
 msgid "Liquid"
-msgstr ""
+msgstr "Ciecz"
 
 #. STRINGS.MISC.TAGS.LIQUIFIABLE
 msgctxt "STRINGS.MISC.TAGS.LIQUIFIABLE"
@@ -10749,22 +10749,22 @@ msgstr ""
 #. STRINGS.MISC.TAGS.METAL
 msgctxt "STRINGS.MISC.TAGS.METAL"
 msgid "Raw Metal"
-msgstr ""
+msgstr "Surowy Metal"
 
 #. STRINGS.MISC.TAGS.MIXTURE
 msgctxt "STRINGS.MISC.TAGS.MIXTURE"
 msgid "Mixture"
-msgstr ""
+msgstr "Mieszanka"
 
 #. STRINGS.MISC.TAGS.ORE
 msgctxt "STRINGS.MISC.TAGS.ORE"
 msgid "Ore"
-msgstr ""
+msgstr "Ruda"
 
 #. STRINGS.MISC.TAGS.ORGANICS
 msgctxt "STRINGS.MISC.TAGS.ORGANICS"
 msgid "Organic"
-msgstr ""
+msgstr "Organiczny"
 
 #. STRINGS.MISC.TAGS.OTHER
 msgctxt "STRINGS.MISC.TAGS.OTHER"
@@ -10779,7 +10779,7 @@ msgstr ""
 #. STRINGS.MISC.TAGS.PRECIOUSMETAL
 msgctxt "STRINGS.MISC.TAGS.PRECIOUSMETAL"
 msgid "Precious Metal"
-msgstr ""
+msgstr "Metal Szlachetny"
 
 #. STRINGS.MISC.TAGS.RAWPRECIOUSMETAL
 msgctxt "STRINGS.MISC.TAGS.RAWPRECIOUSMETAL"
@@ -10789,22 +10789,22 @@ msgstr ""
 #. STRINGS.MISC.TAGS.REFINEDMETAL
 msgctxt "STRINGS.MISC.TAGS.REFINEDMETAL"
 msgid "Refined Metal"
-msgstr ""
+msgstr "Metal Rafinowany"
 
 #. STRINGS.MISC.TAGS.SOLID
 msgctxt "STRINGS.MISC.TAGS.SOLID"
 msgid "Solid"
-msgstr ""
+msgstr "Solidny"
 
 #. STRINGS.MISC.TAGS.SPECIAL
 msgctxt "STRINGS.MISC.TAGS.SPECIAL"
 msgid "Special"
-msgstr ""
+msgstr "Specjalny"
 
 #. STRINGS.MISC.TAGS.TOXIC
 msgctxt "STRINGS.MISC.TAGS.TOXIC"
 msgid "Toxic"
-msgstr ""
+msgstr "Toksyczny"
 
 #. STRINGS.MISC.TAGS.UNBREATHABLE
 msgctxt "STRINGS.MISC.TAGS.UNBREATHABLE"
@@ -11088,7 +11088,7 @@ msgstr "Baza"
 #. STRINGS.UI.BUILDCATEGORIES.BASE.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.BASE.TOOLTIP"
 msgid "Maintain your colony's infrastructure with these homebase basics."
-msgstr ""
+msgstr "Utrzymanie podstawowej infrastruktury kolonii."
 
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME"
@@ -11098,7 +11098,7 @@ msgstr "Nauka"
 #. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP"
 msgid "Unlock new technologies through the power of science!"
-msgstr ""
+msgstr "Odblokuj nową technologię dzięki sile nauki!"
 
 #. STRINGS.UI.BUILDCATEGORIES.FOOD.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.NAME"
@@ -11108,17 +11108,17 @@ msgstr "Jedzenie"
 #. STRINGS.UI.BUILDCATEGORIES.FOOD.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.TOOLTIP"
 msgid "Keep your Duplicants' spirits high and their bellies full."
-msgstr ""
+msgstr "Utrzymuj pełne brzuchy swoich Duplikantów."
 
 #. STRINGS.UI.BUILDCATEGORIES.FURNITURE.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FURNITURE.NAME"
 msgid "Furniture"
-msgstr "Zadowolenie"
+msgstr "Radość"
 
 #. STRINGS.UI.BUILDCATEGORIES.FURNITURE.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.FURNITURE.TOOLTIP"
 msgid "Amenities to keep your Duplicants happy, comfy and efficient."
-msgstr ""
+msgstr "Wyposażenie do utrzymania Duplikantów szczęśliwych, zrelaksowanych i efektownych."
 
 #. STRINGS.UI.BUILDCATEGORIES.MEDICAL.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MEDICAL.NAME"
@@ -11128,7 +11128,7 @@ msgstr "Medycyna"
 #. STRINGS.UI.BUILDCATEGORIES.MEDICAL.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MEDICAL.TOOLTIP"
 msgid "A cure for everything but the common cold."
-msgstr ""
+msgstr "Lekarstwo na wszystko."
 
 #. STRINGS.UI.BUILDCATEGORIES.MISC.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MISC.NAME"
@@ -11138,7 +11138,7 @@ msgstr "Dekoracje"
 #. STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP"
 msgid "Spruce up your colony with some lovely interior decorating."
-msgstr ""
+msgstr "Wystrój swoją kolonię pięknymi dekoracjami "
 
 #. STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME"
@@ -11148,7 +11148,7 @@ msgstr "Tlen"
 #. STRINGS.UI.BUILDCATEGORIES.OXYGEN.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.OXYGEN.TOOLTIP"
 msgid "Everything you need to keep your colony breathing."
-msgstr ""
+msgstr "Wszystko, czego potrzebujesz ,aby utrzymać tlen w kolonii."
 
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME"
@@ -11158,7 +11158,7 @@ msgstr "Instalacje"
 #. STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP"
 msgid "Move gases and liquid around with the greatest of ease."
-msgstr ""
+msgstr "Przenieś gazy i ciecze wokół z łatwością."
 
 #. STRINGS.UI.BUILDCATEGORIES.POWER.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.POWER.NAME"
@@ -11168,7 +11168,7 @@ msgstr "Moc"
 #. STRINGS.UI.BUILDCATEGORIES.POWER.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.POWER.TOOLTIP"
 msgid "Need to power your colony? Here's how you do it!"
-msgstr ""
+msgstr "Trzeba zasilać kolonię? Oto jak to zrobić!"
 
 #. STRINGS.UI.BUILDCATEGORIES.REFINING.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.REFINING.NAME"
@@ -11178,17 +11178,17 @@ msgstr "Ulepszenie"
 #. STRINGS.UI.BUILDCATEGORIES.REFINING.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.REFINING.TOOLTIP"
 msgid "Use the resources you want, filter the ones you don't."
-msgstr ""
+msgstr "Korzystaj z zasobów które chcesz filtrować."
 
 #. STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME"
 msgid "Utilities"
-msgstr ""
+msgstr "Użytkowe"
 
 #. STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP"
 msgid "Guaranteed to keep your colony warm and cozy."
-msgstr ""
+msgstr "Gwarantowane, aby utrzymać w kolonie miłą i przytulną."
 
 #. STRINGS.UI.BUILDINGEFFECTS.ASSIGNEDDUPLICANT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ASSIGNEDDUPLICANT"

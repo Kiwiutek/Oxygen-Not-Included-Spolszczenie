@@ -7910,7 +7910,7 @@ msgstr "Duplikant panicznie boi się kuchni i sztuki kulinarnej"
 #. STRINGS.DUPLICANTS.TRAITS.CANTCOOK.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTCOOK.NAME"
 msgid "Gastrophobia"
-msgstr "Gastroskopia"
+msgstr "Gastrofobia"
 
 #. STRINGS.DUPLICANTS.TRAITS.CANTDIG.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTDIG.DESC"

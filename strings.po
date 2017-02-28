@@ -31,7 +31,7 @@ msgstr "Oczekiwanie na dekorację"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.TOOLTIP"
 msgid "A Duplicant must work on this to create art"
-msgstr "Duplikant musi pracować by tworzyć dzieła sztuki"
+msgstr "Duplikant musi nad tym pracować by stworzyć dzieła sztuki"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.NAME"
@@ -41,7 +41,7 @@ msgstr "Wymaga przerzucenia"
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP"
 msgid "Compost must be flipped periodically to produce <style=\"solid\">Fertilizer</style>"
-msgstr "Kompost musi być okresowo przerzucony do produkcji <style=\"solid\">Nawozu</style>"
+msgstr "Kompost musi być okresowo przerzucony aby wyprodukować <style=\"solid\">Nawóz</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME"
@@ -74,7 +74,9 @@ msgid ""
 "This building was broken by a <style=\"stress\">Stressed</style> Duplicant\n"
 "\n"
 "It must be repaired"
-msgstr ""
+msgstr "Ten budynek został zepsuty przez <style=\"stress\">Zestresiwanego</style Duplikanta\n"
+"\n"
+"Musi być naprawiony"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME"
@@ -89,17 +91,17 @@ msgstr "Budynek został wyłączony."
 #. STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.NAME"
 msgid "Cannot cool further"
-msgstr "Nie jest możliwe dalsze schłodzenie"
+msgstr "Chłodzenie nie jest dłużej możliwe"
 
 #. STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CANNOTCOOLFURTHER.TOOLTIP"
 msgid "This building cannot cool the surrounding area any further"
-msgstr "Budynek nie może schłodzić więcej okolicy"
+msgstr "Budynek nie może już dłuzej ochładzać otoczenia"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.NAME"
 msgid "Pending Door State Change: {ControlState}"
-msgstr "Oczekiwanie na zmianę statusu otwarcia drzwi: {ControlState}"
+msgstr "Oczekiwanie na zmianę statusu drzwi: {ControlState}"
 
 #. STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CHANGEDOORCONTROLSTATE.TOOLTIP"
@@ -114,7 +116,7 @@ msgstr "Rura jest zablokowana"
 #. STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONDUITBLOCKED.TOOLTIP"
 msgid "This pipe system is not serviceable"
-msgstr "System rur jest niesprawny"
+msgstr "System rur jest nienaprawialny"
 
 #. STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CONSTRUCTIONUNREACHABLE.NAME"
@@ -134,7 +136,7 @@ msgstr "Chłodzenie"
 #. STRINGS.BUILDING.STATUSITEMS.COOLING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLING.TOOLTIP"
 msgid "This building is cooling the surrounding area"
-msgstr "Budynek chłodzi otoczenie"
+msgstr "Budynek chłodzi jego otoczenie"
 
 #. STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.AUTO
 msgctxt "STRINGS.BUILDING.STATUSITEMS.CURRENTDOORCONTROLSTATE.AUTO"
@@ -167,14 +169,14 @@ msgid ""
 msgstr ""
 "Stan Aktualny: {ControlState}\n"
 "\n"
-"Automatycznie: Duplikant może otworzyć lub zamknąć drzwi w razie potrzeby\n"
+"Automatycznie: Duplikanci mogą otwierać lub zamykać drzwi w razie potrzeby\n"
 "Zamknięte: Drzwi są zawsze zamknięte\n"
 "Otwarte: Drzwi są zawsze otwarte"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.NAME"
 msgid "Unreachable"
-msgstr "Niedostępny"
+msgstr "Nieosiągalny"
 
 #. STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.DIGUNREACHABLE.TOOLTIP"
@@ -189,7 +191,7 @@ msgstr "Zużywa {ElementTypes}: {FlowRate}"
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONSUMER.TOOLTIP"
 msgid "This building is utilizing ambient {ElementTypes} from the environment"
-msgstr "Budynek zużywa {ElementTypes z otoczenia"
+msgstr "Budynek zużywa {ElementTypes} z otoczenia"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.NAME"
@@ -199,7 +201,7 @@ msgstr "Używa {ElementTypes}: {FlowRate}"
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTERINPUT.TOOLTIP"
 msgid "This building is using {ElementTypes} from storage at a rate of {FlowRate}"
-msgstr ""
+msgstr "Budynek zużywa {ElementTypes} ze schowka z prędkością {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.NAME"
@@ -209,7 +211,7 @@ msgstr "Emituje {ElementTypes}: {FlowRate}"
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTCONVERTEROUTPUT.TOOLTIP"
 msgid "This building is releasing {ElementTypes} at a rate of {FlowRate}"
-msgstr ""
+msgstr "Budynek uwalnia {ElementTypes} z prędkocią {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.NAME"
@@ -219,7 +221,7 @@ msgstr "Emituje {ElementTypes}: {FlowRate}"
 #. STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ELEMENTEMITTEROUTPUT.TOOLTIP"
 msgid "This object is releasing {ElementTypes} at a rate of {FlowRate}"
-msgstr ""
+msgstr "Ten obiekt uwalnia {ElementTypes} z prędkością {FlowRate}"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGCO2.NAME"
@@ -259,7 +261,7 @@ msgstr "Emituje Światło"
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.TOOLTIP"
 msgid "Open the Light Overlay [{LightGridOverlay}] to view this <style=\"light\">Light</style>'s visibility radius"
-msgstr ""
+msgstr "Otwórz Jasną Nakładkę [{LightGridOverlay}], aby obejrzeć <style=\"light\">Jasny</style> promień widoczności"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.NAME"
@@ -274,12 +276,12 @@ msgstr "Produkuje <style=\"oxygen\">Tlen</style> w ilości {FlowRate}"
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NAME"
 msgid "Entombed"
-msgstr "Uwięziony"
+msgstr "Zasypany"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_NAME"
 msgid "Building entombment"
-msgstr "Budynek jest zalany"
+msgstr "Budynek jest zasypany"
 
 #. STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ENTOMBED.NOTIFICATION_TOOLTIP"
@@ -349,7 +351,7 @@ msgstr "Rura jest pusta"
 #. STRINGS.BUILDING.STATUSITEMS.GASPIPEEMPTY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASPIPEEMPTY.TOOLTIP"
 msgid "There is no <style=\"Gas\">Gas</style> in the pipe"
-msgstr ""
+msgstr "Nie ma <style=\"Gas\">Gazu</style> w rurze"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASPIPEOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASPIPEOBSTRUCTED.NAME"
@@ -369,7 +371,7 @@ msgstr "Wyjście wentylacji zapchane"
 #. STRINGS.BUILDING.STATUSITEMS.GASVENTOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASVENTOBSTRUCTED.TOOLTIP"
 msgid "Cannot release gas through this vent"
-msgstr "Nie można zwolnić gazu przez ten otwór wentylacyjny"
+msgstr "Nie można wypuścić gazu przez ten otwór wentylacyjny"
 
 #. STRINGS.BUILDING.STATUSITEMS.GASVENTOVERPRESSURE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASVENTOVERPRESSURE.NAME"
@@ -399,7 +401,7 @@ msgstr "Spoczywaj w pokoju, {DeadDupe}"
 #. STRINGS.BUILDING.STATUSITEMS.GRAVE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GRAVE.TOOLTIP"
 msgid "{Epitaph}"
-msgstr ""
+msgstr "Nagrobek"
 
 #. STRINGS.BUILDING.STATUSITEMS.GRAVEEMPTY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GRAVEEMPTY.NAME"
@@ -409,7 +411,7 @@ msgstr "Pusty"
 #. STRINGS.BUILDING.STATUSITEMS.GRAVEEMPTY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GRAVEEMPTY.TOOLTIP"
 msgid "This memorial honors no one."
-msgstr "Nagrobek nie należy do nikogo"
+msgstr "Nagrobek nie upamiętnia nikogo"
 
 #. STRINGS.BUILDING.STATUSITEMS.INVALIDBUILDINGLOCATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.INVALIDBUILDINGLOCATION.NAME"
@@ -429,7 +431,7 @@ msgstr "<style=\"power\">Zasilanie</style> Dostępne: {JoulesAvailable}"
 #. STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.JOULESAVAILABLE.TOOLTIP"
 msgid "{JoulesAvailable} of stored power available for use"
-msgstr "{JoulesAvailable} dostępnej energii do użytku"
+msgstr "{JoulesAvailable} dostępnej energii do użycia"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEEMPTY.NAME"
@@ -449,7 +451,7 @@ msgstr "Nie pompuje"
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEOBSTRUCTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDPIPEOBSTRUCTED.TOOLTIP"
 msgid "This pump is not active"
-msgstr "This pump is not active"
+msgstr "Ta pompa nie jest aktywna"
 
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOBSTRUCTED.NAME"
@@ -469,7 +471,7 @@ msgstr "Ciek otrzymuje zbyt duże ciśnienie"
 #. STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LIQUIDVENTOVERPRESSURE.TOOLTIP"
 msgid "Vent cannot function at current pressure"
-msgstr "Wylot gazu nie działa przy aktualnym ciśnieniu"
+msgstr "Wylot cieczy nie działa przy aktualnym ciśnieniu"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGGREAT.NAME"
@@ -489,7 +491,7 @@ msgstr "Osobliwy"
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGOKAY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGOKAY.TOOLTIP"
 msgid "Duplicants find this art quite charming"
-msgstr "Dla Duplikantów ta praca jest bardzo piękna"
+msgstr "Duplikanci uważają to dzieło za urzekające"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGUGLY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGUGLY.NAME"
@@ -509,7 +511,7 @@ msgstr "Ładowanie"
 #. STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORCHARGINGUP.TOOLTIP"
 msgid "This power source is being charged"
-msgstr "To źródło zasilania jest pobierane"
+msgstr "To źródło zasilania jest ładowane"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORRELEASINGENERGY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORRELEASINGENERGY.NAME"
@@ -519,7 +521,7 @@ msgstr "Zasilanie"
 #. STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORRELEASINGENERGY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALGENERATORRELEASINGENERGY.TOOLTIP"
 msgid "This <style=\"power\">Power</style> source is supplying <style=\"power\">Power</style> consumers"
-msgstr "To źródło <style=\"power\">Moc</style> zaopatruje odbiorców w <style=\"power\">Energię</style>"
+msgstr "To źródło <style=\"power\">Mocy</style> zaopatruje odbiorców w <style=\"power\">Energię</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.NAME"
@@ -529,7 +531,7 @@ msgstr "Sterowany Manualnie"
 #. STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MANUALLYCONTROLLED.TOOLTIP"
 msgid "This Duplicant is under your control"
-msgstr "Duplikant jest pod kontrolą"
+msgstr "Duplikant jest pod Twoją kontrolą"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLE.NAME"
@@ -561,7 +563,7 @@ msgid ""
 "Resources Low\n"
 "{ItemsRemaining}"
 msgstr ""
-"Zasoby Niskie\n"
+"Niskie Zasoby\n"
 "{ItemsRemaining}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.TOOLTIP
@@ -587,7 +589,7 @@ msgstr "Budynki rozpadają się:"
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.TOOLTIP"
 msgid "This building is collapsing"
-msgstr "Budynki rozpadają się"
+msgstr "Budynek rozpada się"
 
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.NAME"
@@ -608,7 +610,7 @@ msgstr ""
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME"
 msgid "Multitool Required"
-msgstr ""
+msgstr "Potrzebne narzędzie uniwersalne"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP"
@@ -617,6 +619,9 @@ msgid ""
 "------------------\n"
 "Multitools can be made at Crafting Stations in the Stations Tab <color=#FF0000>(9)</style> of the Build Menu"
 msgstr ""
+"<style=\"equipment\">Narzędzie uniwersalne</style> jest potrzebne do wydobycia tego materiału\n"
+"------------------\n"
+"Narzędzia uniwersalne mogą być wytworzone w Stacjach Rzemieślniczych w Zakładce Stacje <color=#FF0000>(9)</style> w Menu Budowy"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME"
@@ -626,7 +631,7 @@ msgstr "Brak Wejscia Gazu"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.TOOLTIP"
 msgid "This building has nowhere to receive <style=\"gas\">Gas</style> from"
-msgstr ""
+msgstr "Budynek nie ma którędy pobierać <style=\"gas\">Gazu</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.NAME"
@@ -636,17 +641,17 @@ msgstr "Brak Wyjścia Gazu"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASOUT.TOOLTIP"
 msgid "This building has nowhere to send <style=\"gas\">Gas</style>"
-msgstr ""
+msgstr "Budynek nie ma którędy odprowadzać <style=\"gas\">Gazu</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME"
 msgid "No Liquid Intake"
-msgstr ""
+msgstr "Brak Wejścia Cieczy"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.TOOLTIP"
 msgid "This building has nowhere to receive <style=\"liquid\">Liquid</style> from"
-msgstr ""
+msgstr "Budynek nie ma którędy pobierać <style=\"liquid\">Cieczy</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.NAME"
@@ -656,7 +661,7 @@ msgstr "Brak Wyjścia Cieczy"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDOUT.TOOLTIP"
 msgid "This building has nowhere to send <style=\"liquid\">Liquid</style>"
-msgstr ""
+msgstr "Budynek nie ma którędy odprowadzać <style=\"liquid\">Cieczy</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.NAME"
@@ -666,7 +671,7 @@ msgstr "Brak Nasion"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.TOOLTIP"
 msgid "Dig up wild <style=\"plant\">Plants</style> to obtain <style=\"seed\">Seeds</style>"
-msgstr ""
+msgstr "Wykop dziko rosnące <style=\"plant\">Rośliny</style>, aby zdobyć <style=\"seed\">Ziarna</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.NAME"
@@ -676,17 +681,17 @@ msgstr "Brak Mocy"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.TOOLTIP"
 msgid "All connected <style=\"power\">Power</style> sources have lost charge"
-msgstr ""
+msgstr "Wszystkie podlączone źródła <style=\"power\">Energii</style> zostały wyczerpane"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.NAME"
 msgid "Resource Required"
-msgstr ""
+msgstr "Potrzebne Zasoby"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDRESOURCE.TOOLTIP"
 msgid "This building is missing required materials"
-msgstr ""
+msgstr "Budynek potrzebuje niezbędnych materiałów"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSEED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSEED.NAME"
@@ -696,27 +701,27 @@ msgstr "Nie wybrano nasion"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSEED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSEED.TOOLTIP"
 msgid "Dig up wild plants to obtain <style=\"seed\">Seeds</style>"
-msgstr ""
+msgstr "Wykop dziko rosnące rośliny, aby zdobyć <style=\"seed\">Ziarna</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSREGION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSREGION.NAME"
 msgid "Missing Region"
-msgstr ""
+msgstr "Brakuje Obszarów"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSREGION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSREGION.TOOLTIP"
 msgid "This building must be inside a {0} region"
-msgstr ""
+msgstr "Ten budynek musi być wewnątrz {0} obszaru"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSVALIDREGION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSVALIDREGION.NAME"
 msgid "Valid Region Required"
-msgstr "WYmaga Właściwego Obszaru"
+msgstr "Wymaga Właściwego Obszaru"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDSVALIDREGION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDSVALIDREGION.TOOLTIP"
 msgid "This building region has not yet met its requirements"
-msgstr ""
+msgstr "Ten obszar budowlany nie spełnia wymagań"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME"
@@ -726,7 +731,7 @@ msgstr "Nie można kopać"
 #. STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.TOOLTIP"
 msgid "This material cannot be mined by Duplicant tools"
-msgstr ""
+msgstr "Ten materiał nie może być wydobyty przez narzędzia Duplikanta"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NAME"
@@ -767,12 +772,12 @@ msgstr "<style=\"research\">Centrum Badań</style> idle"
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.NOTIFICATION_TOOLTIP"
 msgid "These buildings cannot produce the correct <style=\"research\">Research Type</style> for the selected <style=\"research\">Research Task</style>:"
-msgstr ""
+msgstr "Te budynki nie mogą stworzyć poprawnego <style=\"research\">Rodzaju Badania</style> dla wybranego <style=\"research\">Zadania</style>:"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.TOOLTIP"
 msgid "This building cannot produce the correct <style=\"research\">Research Type</style> for the selected <style=\"research\">Research Task</style>"
-msgstr ""
+msgstr "Ten budynek nie może stworzyć poprawnego <style=\"research\">Rodzaju Badania</style> dla wybranego <style=\"research\">Zadania</style>:"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAVAILABLESEED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAVAILABLESEED.NAME"
@@ -807,7 +812,7 @@ msgstr "Brak jadalnych ryb spod tej struktury"
 #. STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.NAME"
 msgid "Pump Not In Gas"
-msgstr "Popma nie jest w Gazie"
+msgstr "Pompa nie jest umieszczona w Gazie"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.TOOLTIP"
@@ -817,7 +822,7 @@ msgstr "Pompa musi być zanurzona w <style=\"gas\">Gazie</style> by pracowała"
 #. STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.NAME"
 msgid "Pump Not In Liquid"
-msgstr "Pompa nie jest w cieczy"
+msgstr "Pompa nie jest w zanurzona cieczy"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.TOOLTIP"
@@ -832,7 +837,7 @@ msgstr "Brak odbiorców mocy"
 #. STRINGS.BUILDING.STATUSITEMS.NOPOWERCONSUMERS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOPOWERCONSUMERS.TOOLTIP"
 msgid "No buildings are connected to this <style=\"power\">Power</style> source"
-msgstr "Brak podłączonych budynków do tego miejsca <style=\"power\">Mocy</style>"
+msgstr "Brak podłączonych budynków do tego źródła <style=\"power\">Mocy</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOPOWERSOURCE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOPOWERSOURCE.NAME"
@@ -857,7 +862,7 @@ msgstr "Nie wybrano <style=\"research\">Zadania Badawczego</style> w zakresie ba
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_TOOLTIP"
 msgid "Open the <color=#833A5FFF>RESEARCH TREE</color> [R] to select a new <style=\"research\">Research</style> project"
-msgstr "Otwórz <color=#833A5FFF>DRZEWKO BADAŃ</color> [R] i wybiuerz nowy projekt <style=\"research\">Badań</style>"
+msgstr "Otwórz <color=#833A5FFF>DRZEWKO BADAŃ</color> [R] i wybierz nowy projekt <style=\"research\">Badań</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.TOOLTIP"
@@ -877,7 +882,7 @@ msgstr "Nie ma tu nic specjalnego"
 #. STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.NAME"
 msgid "Storage Not Allocated"
-msgstr "Miejsce przechowywania nie jest zaznaczone"
+msgstr "Miejsce przechowywania nie jest określone"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOSTORAGEFILTERSET.TOOLTIP"
@@ -897,12 +902,12 @@ msgstr "Budynek nie jest podłączony do <style=\"power\">Zasilania</style> siec
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME"
 msgid "Deconstruction Pending"
-msgstr "Oczekuje dekonstrukcji"
+msgstr "Oczekuje na rozbiórkę"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.TOOLTIP"
 msgid "Waiting for a Duplicant to deconstruct this building"
-msgstr "Czeka na dekonstrukcje budynku przez Duplikanta"
+msgstr "Czeka na rozbiórkę budynku przez Duplikanta"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.NAME"
@@ -912,7 +917,7 @@ msgstr "Oczekuje wyłowienia"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGFISH.TOOLTIP"
 msgid "Waiting for a Duplicant to fish"
-msgstr "Ryba oczekuje na Duplikanta"
+msgstr "Oczekiwanie na Duplikanta, aby rozpocząć połów"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.NAME"
@@ -937,22 +942,22 @@ msgstr "Oczekuje na naprawę przez Duplikanta"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.NAME"
 msgid "Toggle Switch Pending"
-msgstr "Oczekiwanie Zmiany Przełącznika"
+msgstr "Oczekiwanie na zmianę Przełącznika"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGSWITCHTOGGLE.TOOLTIP"
 msgid "Waiting for a Duplicant to toggle switch"
-msgstr "Oczekiwanie zmiany przełącznika przez Duplikanta"
+msgstr "Oczekiwanie na zmianę przełącznika przez Duplikanta"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME"
 msgid "Dig Up Pending"
-msgstr "Oczekuje Kopania"
+msgstr "Oczekiwanie na wykopanie"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
 msgid "Waiting for a Duplicant to dig up"
-msgstr "Czeka na Duplikanta do kopania"
+msgstr "Czeka na Duplikanta aby wykopać"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGWORK.NAME"
@@ -1018,12 +1023,12 @@ msgstr "Budynek pompuje średnią wielkość natężenia przepływu"
 #. STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.NAME"
 msgid "Storing: {Stored}"
-msgstr "Przechowywanie: {Stored}"
+msgstr "Przechowuje: {Stored}"
 
 #. STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.TOOLTIP"
 msgid "This box contains {Stored} of <style=\"food\">Food</style>"
-msgstr "Pudełko zawiera {Stored} z <style=\"food\">Jedzenie</style>"
+msgstr "Pudełko zawiera {Stored} z <style=\"food\">Jedzenia</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME"
@@ -1053,7 +1058,7 @@ msgstr "{FlushesRemaining} \"Wizyty\" Pozostały"
 #. STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP"
 msgid "This amenity can handle {FlushesRemaining} more \"visits\" before needing maintenance"
-msgstr "Budynek nadal może służyć {FlushesRemaining} razy zanim będzie wymagać czyszczenia "
+msgstr "Toaleta może obsłużyć jeszcze {FlushesRemaining} razy zanim będzie wymagać czyszczenia "
 
 #. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME"
@@ -1067,6 +1072,9 @@ msgid ""
 "------------------\n"
 "Emptying it will produce <style=\"solid\">Contaminated Dirt</style>"
 msgstr ""
+"Ta toaleta jest pełna i nie może być użyta\n"
+"------------------\n"
+"Opróżnienie jej wytworzy <style=\"solid\">Skażony brud</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME"
@@ -1076,27 +1084,27 @@ msgstr "Nieprzypisany"
 #. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.TOOLTIP"
 msgid "Assign a Duplicant to use this amenity"
-msgstr ""
+msgstr "Przypisz Duplikanta, aby korzystał z tej toalety"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.NAME"
 msgid "Under Construction"
-msgstr ""
+msgstr "W trakcie budowy"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.TOOLTIP"
 msgid "This building is currently being built"
-msgstr ""
+msgstr "Ten budynek jest aktualnie budowany"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.NAME"
 msgid "Pending Construction"
-msgstr ""
+msgstr "Oczekuje na budowę"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.TOOLTIP"
 msgid "Waiting for a Duplicant to build"
-msgstr ""
+msgstr "W oczekiwaniu na Duplikanta, który rozpocznie budowę"
 
 #. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME"
@@ -1106,27 +1114,27 @@ msgstr "Nieczynny"
 #. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP"
 msgid "This amenity requires maintenance"
-msgstr ""
+msgstr "Ta toaleta wymaga serwisu"
 
 #. STRINGS.BUILDING.STATUSITEMS.VALVE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVE.NAME"
 msgid "Max Flow Rate: {MaxFlow}"
-msgstr ""
+msgstr "Maksymalna wartość przepływ: {MaxFlow}"
 
 #. STRINGS.BUILDING.STATUSITEMS.VALVE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVE.TOOLTIP"
 msgid "This valve is allowing flow at a volume of {MaxFlow}"
-msgstr ""
+msgstr "Zawór pozwala na przepływ z wartością  {MaxFlow}"
 
 #. STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.NAME"
 msgid "Requested Flow Rate: {QueuedMaxFlow}"
-msgstr ""
+msgstr "Porządana wartość przepływu: {QueuedMaxFlow}"
 
 #. STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.TOOLTIP"
 msgid "Waiting for a Duplicant to adjust flow rate"
-msgstr ""
+msgstr "Oczekiwanie aż Duplikant dostosuje wartość przepływu"
 
 #. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.NAME"
@@ -1143,6 +1151,8 @@ msgid ""
 "Waiting for a Duplicant to deliver:\n"
 "{ItemsRemaining}"
 msgstr ""
+"Oczekuje na dostarczenie przez Duplikanta:\n"
+"{ItemsRemaining}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WATTAGE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTAGE.NAME"
@@ -1165,6 +1175,8 @@ msgid ""
 "The Printing Pod can print out new Duplicants over time.\n"
 "The next one will be ready in {TimeRemaining}s"
 msgstr ""
+"Biodrukarka może wydrukować nowych Duplikantów nadprogramowo.\n"
+"Następny będzie gotowy w {TimeRemaining}s"
 
 #. STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.NAME"
@@ -1184,17 +1196,17 @@ msgstr "Kabel Podłączony"
 #. STRINGS.BUILDING.STATUSITEMS.WIRECONNECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECONNECTED.TOOLTIP"
 msgid "This wire is connected to a network"
-msgstr ""
+msgstr "Kabel jest podłączony do sieci"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.NAME"
 msgid "Wire Disconnected"
-msgstr ""
+msgstr "Kabel Odłączony"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.TOOLTIP"
 msgid "This wire is not connecting a power consumer to a generator"
-msgstr ""
+msgstr "Ten kabel nie łączy odbiornika mocy z generatorem"
 
 #. STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.NAME"
@@ -1204,27 +1216,27 @@ msgstr "Normalny Kabel"
 #. STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.TOOLTIP"
 msgid "This wire is in good condition"
-msgstr ""
+msgstr "Kabel jest w dobrym stanie"
 
 #. STRINGS.BUILDING.STATUSITEMS.WORKING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.NAME"
 msgid "Functioning"
-msgstr ""
+msgstr "Pracuje"
 
 #. STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP"
 msgid "This building is working as intended"
-msgstr ""
+msgstr "Budynek pracuje jak zamierzono"
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC"
 msgid "Every additional monitor multiplies the research potential exponentially."
-msgstr ""
+msgstr "Każdy dodatkowy monitor pomnaża zdolność badawczą wykładniczo"
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT"
 msgid "Can be worked by Duplicants to conduct <style=\"research\">Intermediary Research</style> and unlock new technologies."
-msgstr ""
+msgstr "Może być wykorzystane przez Duplikantów by prowadzić <style=\"research\">Pośrednie Badania</style> i odblokować nowe technologie."
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME"
@@ -1234,12 +1246,12 @@ msgstr "Super Komputer"
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.DESC"
 msgid "You'll know it's on when the little flag is wiggling."
-msgstr ""
+msgstr "Jeśli mała flaga się porusza, to znaczy, że urzadzenie działa"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT"
 msgid "Cools the <style=\"gas\">Gas</style> piped through it, but outputs <style=\"heat\">Heat</style> in its immediate vicinity."
-msgstr ""
+msgstr "Chłodzi przepływający <style=\"gas\">Gaz</style>, lecz w efekcie <style=\"heat\">Ogrzewa</style>, jego bezpośrednie otoczenie"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME"
@@ -1249,12 +1261,12 @@ msgstr "Termo Regulator"
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC"
 msgid "Oh! Citrus scented!"
-msgstr ""
+msgstr "Oh! Pachnie cytrusami"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT"
 msgid "Reduces the threat of <style=\"disease\">Disease</style> by filtering <style=\"gas\">Contaminated Oxygen</style> out of the air."
-msgstr ""
+msgstr "Zmniejsza zagrożenie <style=\"disease\">Chorobami</style> poprzez filtrowanie <style=\"gas\">Zanieczyszczonego Tlenu</style> z zasysanego powietrza"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME"
@@ -1264,17 +1276,17 @@ msgstr "Odświeżacz powietrza"
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC"
 msgid "The resulting algae still looks pretty slimy, to be honest."
-msgstr ""
+msgstr "Powstałe glony nadal wyglądają całkiem śluzowato szczerze mówiąc"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT"
 msgid "Converts <style=\"misc\">Slime</style> into <style=\"misc\">Algae</style>."
-msgstr ""
+msgstr "Zmienia <style=\"misc\">Śluz</style> w <style=\"misc\">Glony</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME"
 msgid "Bio Distiller"
-msgstr ""
+msgstr "Destylator"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC"
@@ -1282,6 +1294,8 @@ msgid ""
 "Algae colony. Duplicant colony.\n"
 "We're more similar than we are different."
 msgstr ""
+"Kolonia Glonów. Kolonia Duplikantów.\n"
+"Jesteśmy do siebie bardziej podobni niż mógłbyś przypuszczać"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT"
@@ -1290,6 +1304,9 @@ msgid ""
 "\n"
 "Gains a minor efficiency boost in direct <style=\"light\">Light</style>."
 msgstr ""
+"Zamienia <style=\"gas\">Dwutlenek Węgla</style> w niewielkie ilości <style=\"oxygen\">Tlenu</style>.\n"
+"\n"
+"Zyskuje niewielki wzrost wydajności, znajdując się na wprost <style=\"light\">Światła</style>.
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.NAME"
@@ -1299,7 +1316,7 @@ msgstr "Terarium glonów"
 #. STRINGS.BUILDINGS.PREFABS.APOTHECARY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.DESC"
 msgid "All-natural remedies to cure what ails you."
-msgstr ""
+msgstr "Naturalne medkamenty, aby wyleczyć Twoje dolegliwości."
 
 #. STRINGS.BUILDINGS.PREFABS.APOTHECARY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.EFFECT"
@@ -1308,36 +1325,39 @@ msgid ""
 "\n"
 "Duplicants will not fabricate unless recipes are queued."
 msgstr ""
+"Leczy większość <style=\"disease\">Chorób</style> dolegających Duplikantom, poprzez produkcje prostych <style=\"medicine\">Medykamentów</style>.\n"
+"\n"
+"Duplikant nie będzie produkował, dopóki nie pojawi się recepta"
 
 #. STRINGS.BUILDINGS.PREFABS.APOTHECARY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.NAME"
 msgid "Apothecary"
-msgstr ""
+msgstr "Aptekarz"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.DESC"
 msgid "It isn't very efficient to let half your energy seep into the cosmos. Fight that entropy!"
-msgstr ""
+msgstr "To niezbyt dobre rozwiązanie pozwolić połowie Twej energii przedostać się do kosmosu. Zwalcz tę entropię"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.EFFECT"
 msgid "Stores a bit of runoff <style=\"power\">Power</style> from generators, but loses charge over time."
-msgstr ""
+msgstr "Magazynuje nieco <style=\"power\">Mocy</style> z generatorów, ale traci swój ładunek po pewnym czasie."
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.NAME"
 msgid "Tiny Battery"
-msgstr "Bateria"
+msgstr "Malutka Bateria"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.DESC"
 msgid "Wow! Apparently size does matter."
-msgstr ""
+msgstr "Wow! Jak widać rozmiar ma znacznie."
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.EFFECT"
 msgid "Stores most of the runoff <style=\"power\">Power</style> from generators, but loses charge over time."
-msgstr ""
+msgstr "Magazynuje większość <style=\"power\">Mocy</style> z generatorów, ale traci swój ładunek po pewnym czasie."
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.NAME"
@@ -1350,6 +1370,8 @@ msgid ""
 "A soft patch in a hard world.\n"
 "Your Duplicants will be grateful to have their own bed."
 msgstr ""
+"Przytulny zakątek, w tym okrutnym świecie"
+"Twoi Duplikanci będą wdzęczni, za ich własne łóżko."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.EFFECT"
@@ -1358,6 +1380,9 @@ msgid ""
 "\n"
 "At night Duplicants will automatically sleep in the cot that has been assigned to them."
 msgstr ""
+"Redukuje <style=\"stress\">Stres</style>, będąc miejscem gdzie mogą odpocząć.\n"
+"\n"
+"W nocy Duplikanci będą automatycznie zasypiać w miejscach, które są im przypisane."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.NAME"
@@ -1367,12 +1392,12 @@ msgstr "Łóżko"
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME"
 msgid "Mediocre Painting"
-msgstr ""
+msgstr "Przeciętny Obraz"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.DESC"
 msgid "Hopefully your Duplicants have been practicing their color theory."
-msgstr ""
+msgstr "Na szczęście Duplikanci poszerzali swoją wiedzę na temat kolorów"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.EFFECT"
@@ -1381,6 +1406,9 @@ msgid ""
 "\n"
 "Must be painted by a Duplicant."
 msgstr ""
+"Zwiększa pojęcie Duplikanta o <style=\"decor\">Dekoracjach</style> oraz redukuje jego <style=\"stress\">Stres</style>.\n"
+"\n"
+"Musi być namalowane przez Duplikanta."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.EXCELLENTQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.EXCELLENTQUALITYNAME"
@@ -1390,12 +1418,12 @@ msgstr "Arcydzieło"
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.NAME"
 msgid "Blank Canvas"
-msgstr ""
+msgstr "Czyste Płótno"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.POORQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.POORQUALITYNAME"
 msgid "Crude Painting"
-msgstr ""
+msgstr "Okropny obraz"
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.DESC"
@@ -1403,11 +1431,13 @@ msgid ""
 "This light imitates the Duplicants' natural aboveground habitat.\n"
 "Sort of. Maybe."
 msgstr ""
+"Imituje naturalne dla Duplikanta światło, znajdujące się ponad ziemią.\n"
+"Tak coś jakby..."
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.EFFECT"
 msgid "Improves <style=\"decor\">Decor Opinion</style> and reduces <style=\"stress\">Stress</style> by providing <style=\"light\">Light</style>."
-msgstr ""
+msgstr "Zwiększa pojęcie Duplikanta o <style=\"decor\">Dekoracjach</style> oraz redukuje jego <style=\"stress\">Stres</style>, poprzez dostarczenie <style=\"light\">Światła</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME"
@@ -1417,27 +1447,27 @@ msgstr "Lampa Sufitowa"
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.DESC"
 msgid "Everyone appreciates a little clean air."
-msgstr ""
+msgstr "Każdy doceni odrobinę świeżego powietrza"
 
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.EFFECT"
 msgid "Filters <style=\"gas\">Carbon Dioxide</style> and removes it from the air."
-msgstr ""
+msgstr "Filtruje <style=\"gas\">Dwutlenek Węgla</style> i usuwa go z powietrza."
 
 #. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME"
 msgid "Air Scrubber"
-msgstr "Płuczka Powietrzna"
+msgstr "Oczyszczarka powietrzna"
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.DESC"
 msgid "Don't waste your waste!"
-msgstr ""
+msgstr "To się jeszcze da wykorzystać!."
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT"
 msgid "Breaks <style=\"solid\">Contaminated Dirt</style> down into <style=\"solid\">Fertilizer</style>."
-msgstr ""
+msgstr "Zamienia <style=\"solid\">Brud</style> w <style=\"solid\">Nawóz</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.NAME"
@@ -1447,7 +1477,7 @@ msgstr "Kompost"
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.DESC"
 msgid "Two wrongs don't make a right, but two mush bars apparently make one okay meal."
-msgstr ""
+msgstr "??Z dwóch składników nie zrobisz nic dobrego, ale dwa kawałki papki to całkiem dobry posiłek."
 
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.EFFECT"
@@ -1460,12 +1490,12 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.NAME"
 msgid "Cooking Station"
-msgstr ""
+msgstr "Stacja Gotująca"
 
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.DESC"
 msgid "The colony that eats together, excretes together."
-msgstr ""
+msgstr "Kolonia pożerająca razem, wydala razem."
 
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT"

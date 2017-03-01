@@ -16074,9 +16074,7 @@ msgstr "Dziś Zdjedzone"
 
 #. STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP
 msgctxt "STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP"
-msgid ""
-"The amount of <style=\"food\">Food</style> your Duplicant has eaten this "
-"cycle"
+msgid "The amount of <style=\"food\">Food</style> your Duplicant has eaten this cycle"
 msgstr ""
 
 #. STRINGS.UI.VITALSSCREEN_NAME
@@ -16107,7 +16105,7 @@ msgstr "Do Pełna"
 #. STRINGS.UI.WELCOMEMESSAGEBEGIN
 msgctxt "STRINGS.UI.WELCOMEMESSAGEBEGIN"
 msgid "BEGIN"
-msgstr "ZACZNIJ"
+msgstr "ROZPOCZNIJ"
 
 #. STRINGS.UI.WELCOMEMESSAGEBODY
 msgctxt "STRINGS.UI.WELCOMEMESSAGEBODY"
@@ -16236,7 +16234,7 @@ msgstr "Dociskanie pasa asteroid..."
 #. STRINGS.UI.WORLDGEN.CHOOSEWORLDSIZE
 msgctxt "STRINGS.UI.WORLDGEN.CHOOSEWORLDSIZE"
 msgid "Select the magnitude of your new galaxy."
-msgstr ""
+msgstr "Wybierz wielkość nowej galaktyki"
 
 #. STRINGS.UI.WORLDGEN.CLEARINGLEVEL
 msgctxt "STRINGS.UI.WORLDGEN.CLEARINGLEVEL"

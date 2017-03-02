@@ -1,18 +1,5 @@
-msgid ""
-msgstr ""
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: pl_PL\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.8.12\n"
-"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
-"|| n%100>=20) ? 1 : 2);\n"
-"X-Poedit-SourceCharset: iso-8859-1\n"
+"Application: Oxygen Not Included"
+"POT Version: 2.0"
 
 #. STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.ASSIGNEDTO.NAME"
@@ -41,9 +28,7 @@ msgstr "Wymaga przerzucenia"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGCOMPOSTFLIP.TOOLTIP"
-msgid ""
-"Compost must be flipped periodically to produce <style=\"solid\">Fertilizer</"
-"style>"
+msgid "Compost must be flipped periodically to produce <style=\"solid\">Fertilizer</style>"
 msgstr "Kompost musi być okresowo przerzucony aby wyprodukować <style=\"solid"\">Nawóz</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME
@@ -2029,7 +2014,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.LADDER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDER.EFFECT"
 msgid "Enables vertical mobility for Duplicants."
-msgstr ""
+msgstr "Umożliwia pinową mobilność Duplikantów"
 
 #. STRINGS.BUILDINGS.PREFABS.LADDER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.LADDER.NAME"
@@ -2630,7 +2615,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.TILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.EFFECT"
 msgid "Used as wall and floor tile to build rooms."
-msgstr ""
+msgstr "Używaj do budowy ścian i podłóg pomieszczeń.
 
 #. STRINGS.BUILDINGS.PREFABS.TILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.TILE.NAME"
@@ -5172,17 +5157,17 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.RESTING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTING.NAME"
 msgid "Resting"
-msgstr ""
+msgstr "Wypoczywa"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.ROTTING.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTTING.NAME"
 msgid "Rotting"
-msgstr ""
+msgstr "Gnije"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.NAME"
 msgid "Severe wounds"
-msgstr ""
+msgstr "Ciężkie rany"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.TOOLTIP"
@@ -5193,12 +5178,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.SKILLLEVEL.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SKILLLEVEL.NAME"
 msgid "Skill Level"
-msgstr ""
+msgstr "Poziom Umiejęności"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEP.NAME"
 msgid "Sleeping"
-msgstr ""
+msgstr "Śpi"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SLEEP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEP.TOOLTIP"
@@ -5228,30 +5213,26 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.CAUSE"
 msgid "Obtained by sleeping on the ground"
-msgstr ""
+msgstr "Uzyskane przez spanie na ziemi"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.NAME"
 msgid "Sore Back"
-msgstr ""
+msgstr "Ból Pleców"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.TOOLTIP"
-msgid ""
-"This Duplicant was forced to sleep on the floor and would appreciate their "
-"own bed"
-msgstr ""
+msgid "This Duplicant was forced to sleep on the floor and would appreciate their own bed"
+msgstr "Duplikant został zmuszony do spania na podłodze, bardziej jednak docenia własne łóżko"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.NAME"
 msgid "Stale Food"
-msgstr ""
+msgstr "Nieświeże Jedzenie"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.TOOLTIP"
-msgid ""
-"This Duplicant is in a bad mood from having to eat stale <style=\"food"
-"\">Food</style>"
+msgid "This Duplicant is in a bad mood from having to eat stale <style=\"food\">Food</style>"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STARVING.NAME
@@ -7643,14 +7624,11 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.NAME"
 msgid "Drab decor"
-msgstr ""
+msgstr "Monotonny wystrój"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.POORDECOR.TOOLTIP"
-msgid ""
-"This Duplicant finds this room's lack of <style=\"decor\">Decor</style> "
-"depressing"
-msgstr ""
+msgid "This Duplicant finds this room's lack of <style=\"decor\">Decor</style> depressing"msgstr ""
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNASSIGNED.NAME"
@@ -10520,16 +10498,12 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.NAME"
 msgid "Insufficient oxygen generation"
-msgstr ""
+msgstr "Niewystarczająca produkcja tlenu"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDOXYGENSOURCE.TOOLTIP"
-msgid ""
-"Your colony has produced {EmittingRate} of <style=\"oxygen\">Oxygen</style> "
-"today\n"
-"Your Duplicants have consumed {ConsumptionRate} of <style=\"oxygen\">Oxygen</"
-"style> today"
-msgstr ""
+msgid "Your colony has produced {EmittingRate} of <style=\"oxygen\">Oxygen</style> today\nYour Duplicants have consumed {ConsumptionRate} of <style=\"oxygen\">Oxygen</style> today"
+msgstr "Kolonia produkuje {EmittingRate} <style=\"oxygen\">Tlenu</style>" na dzień \nDuplikanci zużywają {ConsumptionRate} <style=\"oxygen\">Tlenu</style> na dzień"
 
 #. STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.NEEDSLEEP.NAME"
@@ -16097,7 +16071,7 @@ msgstr "ROZPOCZNIJ"
 #. STRINGS.UI.WELCOMEMESSAGEBODY
 msgctxt "STRINGS.UI.WELCOMEMESSAGEBODY"
 msgid "Your crew has awoken miles beneath the surface of an unfamiliar terrestrial body. Oddly, they have no recollection of how they got here.\n\nIt might be best to start digging."
-msgstr "Twoja załoga obudziła się głęboko pod powierzchią nieznanej planety. Nikt nie pamięta jak się tu dostał.\nNadszedł czas by kopać."
+msgstr "Twoja załoga obudziła się głęboko pod powierzchią nieznanej planety. Nikt nie pamięta jak się tu dostał.\nNadszedł czas by zacząć kopać."
 
 
 #. STRINGS.UI.WELCOMEMESSAGETITLE

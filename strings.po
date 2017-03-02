@@ -7671,7 +7671,7 @@ msgstr "Nie może znaleźć jedzenia"
 #. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NOTIFICATION_NAME"
 msgid "Food beyond reach"
-msgstr ""
+msgstr "Jedzenie poza zasięgiem"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RATIONSUNREACHABLE.NOTIFICATION_TOOLTIP
 msgctxt ""
@@ -10398,7 +10398,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.NAME"
 msgid "TIP: Duplicant Movement"
-msgstr ""
+msgstr "TIP: Przenoszenie Duplikantów"
 
 #. STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.LOCOMOTIONMESSAGE.TOOLTIP"
@@ -10408,7 +10408,7 @@ msgstr ""
 #. STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.NAME"
 msgid "Missing materials"
-msgstr ""
+msgstr "Brakujące materiały"
 
 #. STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.TOOLTIP
 msgctxt "STRINGS.MISC.NOTIFICATIONS.MISSINGMATERIALS.TOOLTIP"
@@ -11129,7 +11129,7 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.NAME"
 msgid "Missing Walls"
-msgstr ""
+msgstr "Brakujące Ściany"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.TOOLTIP"
@@ -11139,7 +11139,7 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.NAME"
 msgid "Missing Doors"
-msgstr ""
+msgstr "Brakujące Drzwi"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.TOOLTIP"
@@ -13533,7 +13533,7 @@ msgstr ""
 #. STRINGS.UI.JOBS
 msgctxt "STRINGS.UI.JOBS"
 msgid "JOBS"
-msgstr "ZAJĘCIA"
+msgstr "OBOWIĄZKI"
 
 #. STRINGS.UI.JOBSCREEN_EVERYONE
 msgctxt "STRINGS.UI.JOBSCREEN_EVERYONE"
@@ -14244,29 +14244,17 @@ msgstr ""
 
 #. STRINGS.UI.PRIORITYSCREEN.BUILDMENUPRIORITYTOOLTIP
 msgctxt "STRINGS.UI.PRIORITYSCREEN.BUILDMENUPRIORITYTOOLTIP"
-msgid ""
-"Set construction priority level\n"
-"------------------\n"
-"Priority 1: Lowest\n"
-"Priority 9: Highest"
+msgid "Set construction priority level\n------------------\nPriority 1: Lowest\nPriority 9: Highest"
 msgstr ""
 
 #. STRINGS.UI.PRIORITYSCREEN.TOOLPRIORITYTOOLTIP
 msgctxt "STRINGS.UI.PRIORITYSCREEN.TOOLPRIORITYTOOLTIP"
-msgid ""
-"Set priority level for the currently selected tool\n"
-"------------------\n"
-"Priority 1: Lowest\n"
-"Priority 9: Highest"
+msgid "Set priority level for the currently selected tool\n------------------\nPriority 1: Lowest\nPriority 9: Highest"
 msgstr ""
 
 #. STRINGS.UI.PRIORITYSCREEN.USERMENUPRIORITYTOOLTIP
 msgctxt "STRINGS.UI.PRIORITYSCREEN.USERMENUPRIORITYTOOLTIP"
-msgid ""
-"Set priority level for the currently selected object\n"
-"------------------\n"
-"Priority 1: Lowest\n"
-"Priority 9: Highest"
+msgid "Set priority level for the currently selected object\n------------------\nPriority 1: Lowest\nPriority 9: Highest"
 msgstr ""
 
 #. STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES
@@ -14282,17 +14270,17 @@ msgstr ""
 #. STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_HOVER
 msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_HOVER"
 msgid "Missing resource(s)"
-msgstr ""
+msgstr "Brakujące zasoby"
 
 #. STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_TITLE
 msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_TITLE"
 msgid "Requires {0}: {1}"
-msgstr ""
+msgstr "Wymaga {0}: {1}"
 
 #. STRINGS.UI.PRODUCTINFO_REQUIRESRESEARCHDESC
 msgctxt "STRINGS.UI.PRODUCTINFO_REQUIRESRESEARCHDESC"
 msgid "Requires {0} Research"
-msgstr ""
+msgstr "Wymaga {0} Badań"
 
 #. STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED
 msgctxt "STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED"
@@ -14302,17 +14290,17 @@ msgstr ""
 #. STRINGS.UI.PRODUCTINFO_SELECTMATERIAL
 msgctxt "STRINGS.UI.PRODUCTINFO_SELECTMATERIAL"
 msgid "Select {0}:"
-msgstr ""
+msgstr "Wybierz {0}:"
 
 #. STRINGS.UI.QUEUE
 msgctxt "STRINGS.UI.QUEUE"
 msgid "Queue"
-msgstr ""
+msgstr "Kolejka"
 
 #. STRINGS.UI.RED_ALERT
 msgctxt "STRINGS.UI.RED_ALERT"
 msgid "RED ALERT"
-msgstr ""
+msgstr "CZERWONY ALARM"
 
 #. STRINGS.UI.REMOVEFROMRECEPTACLE
 msgctxt "STRINGS.UI.REMOVEFROMRECEPTACLE"
@@ -14346,9 +14334,7 @@ msgstr ""
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION"
-msgid ""
-"EAT:\n"
-"During Mealtime Duplicants will head to their assigned mess halls and eat."
+msgid "EAT:\nDuring Mealtime Duplicants will head to their assigned mess halls and eat."
 msgstr ""
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.NAME
@@ -14358,10 +14344,7 @@ msgstr ""
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.DESCRIPTION"
-msgid ""
-"HYGIENE:\n"
-"During <style=\"hygiene\">Hygiene</style> hours Duplicants will head to "
-"their assigned washrooms to get cleaned up."
+msgid "HYGIENE:\nDuring <style=\"hygiene\">Hygiene</style> hours Duplicants will head to their assigned washrooms to get cleaned up."
 msgstr ""
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.NAME
@@ -14371,11 +14354,7 @@ msgstr ""
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.DESCRIPTION
 msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.DESCRIPTION"
-msgid ""
-"HAMMER TIME:\n"
-"During Hammer Time, Duplicants will relieve their <style=\"stress\">Stress</"
-"style> through dance. Please be aware that no matter how hard your "
-"Duplicants try, they will absolutely not be able to touch this."
+msgid "HAMMER TIME:\nDuring Hammer Time, Duplicants will relieve their <style=\"stress\">Stress</style> through dance. Please be aware that no matter how hard your Duplicants try, they will absolutely not be able to touch this."
 msgstr ""
 
 #. STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.NAME

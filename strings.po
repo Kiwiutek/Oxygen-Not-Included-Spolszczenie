@@ -58,10 +58,7 @@ msgstr "Uszkodzony"
 
 #. STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP"
-msgid ""
-"This building was broken by a <style=\"stress\">Stressed</style> Duplicant\n"
-"\n"
-"It must be repaired"
+msgid "This building was broken by a <style=\"stress\">Stressed</style> Duplicant\n\nIt must be repaired"
 msgstr "Ten budynek został zepsuty przez <style=\"stress\">Zestresiwanego</style>Duplikanta\n\nMusi być naprawiony"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME
@@ -5135,13 +5132,11 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.REDALERT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.REDALERT.NAME"
 msgid "Red Alert"
-msgstr ""
+msgstr "Czerwony Alarm"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.REDALERT.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.REDALERT.TOOLTIP"
-msgid ""
-"This Duplicant is <style=\"stress\">Stressed</style> out by the current Red "
-"Alert"
+msgid "This Duplicant is <style=\"stress\">Stressed</style> out by the current Red Alert"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME
@@ -5342,9 +5337,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.TOOLTIP"
-msgid ""
-"This Duplicant was recently attacked by something and it <style=\"stress"
-"\">Stressed</style> them out"
+msgid "This Duplicant was recently attacked by something and it <style=\"stress\">Stressed</style> them out"
 msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WELLFED.NAME
@@ -5369,14 +5362,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP"
-msgid ""
-"Areas with <style=\"decor\">Decor</style> values lower than a Duplicant's "
-"<style=\"decor\">Decor Expectations</style> will cause their <style=\"stress"
-"\">Stress</style>\n"
-"to rise, while high decor values will cause their stress to fall.\n"
-"\n"
-"A Duplicant's expectations will increase as they level up and become better "
-"at their jobs."
+msgid "Areas with <style=\"decor\">Decor</style> values lower than a Duplicant's <style=\"decor\">Decor Expectations</style> will cause their <style=\"stress\">Stress</style>\nto rise, while high decor values will cause their stress to fall.\n\nA Duplicant's expectations will increase as they level up and become better at their jobs."
 msgstr ""
 
 #. STRINGS.DUPLICANTS.NEEDS.DECOR.NAME
@@ -5408,17 +5394,12 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.OPINIONS.LIGHTOPINION
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.LIGHTOPINION"
-msgid ""
-"Duplicants are drawn to lit places, and dislike being in the dark.\n"
-"Make sure your Duplicants have plenty of <style=\"light\">Light</style> to "
-"keep their eyes unstrained and their <style=\"stress\">Stress</style> low."
+msgid "Duplicants are drawn to lit places, and dislike being in the dark.\nMake sure your Duplicants have plenty of <style=\"light\">Light</style> to keep their eyes unstrained and their <style=\"stress\">Stress</style> low."
 msgstr ""
 
 #. STRINGS.DUPLICANTS.OPINIONS.MESSHALLWALLSOPINION
 msgctxt "STRINGS.DUPLICANTS.OPINIONS.MESSHALLWALLSOPINION"
-msgid ""
-"Duplicants don't find bare rockface very inviting.\n"
-"Use wall tiles and doors to build more comfortable Mess Halls for them."
+msgid "Duplicants don't find bare rockface very inviting.\nUse wall tiles and doors to build more comfortable Mess Halls for them."
 msgstr ""
 
 #. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSMISSING
@@ -5457,9 +5438,7 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ABE.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ABE.DESC"
-msgid ""
-"{0}s are sweet, delicate flowers. They need to be treated gingerly, and with "
-"great consideration for their feelings."
+msgid "{0}s are sweet, delicate flowers. They need to be treated gingerly, and with great consideration for their feelings."
 msgstr ""
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.ABE.NAME
@@ -13374,7 +13353,7 @@ msgstr "Anuluj"
 #. STRINGS.UI.FRONTEND.SAVESCREEN.CONFIRMNAME
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.CONFIRMNAME"
 msgid "Confirm"
-msgstr ""
+msgstr "Potwiedź"
 
 #. STRINGS.UI.FRONTEND.SAVESCREEN.NEWSAVEBUTTON
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.NEWSAVEBUTTON"
@@ -13384,7 +13363,7 @@ msgstr "Nowy Zapis"
 #. STRINGS.UI.FRONTEND.SAVESCREEN.OVERWRITEMESSAGE
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.OVERWRITEMESSAGE"
 msgid "Are you sure you want to overwrite {0}?"
-msgstr ""
+msgstr "Czy napewno chcesz nadpisać{0}?"
 
 #. STRINGS.UI.FRONTEND.SAVESCREEN.SAVENAMETITLE
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.SAVENAMETITLE"
@@ -13399,7 +13378,7 @@ msgstr "MIEJSCE ZAPISU"
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS"
 msgid "Celsius"
-msgstr ""
+msgstr "Celsjusza"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP"
@@ -13409,7 +13388,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT"
 msgid "Fahrenheit"
-msgstr ""
+msgstr "Fahrenheita"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP"
@@ -13419,17 +13398,17 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN"
 msgid "Kelvin"
-msgstr ""
+msgstr "Kelwinów"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN_TOOLTIP"
 msgid "Change temperature unit to Kelvin (K)"
-msgstr ""
+msgstr "Zmień jednostki temperatury na Kelwiny (K)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.TITLE"
 msgid "TEMPERATURE UNITS"
-msgstr ""
+msgstr "JEDNOSTKI TEMPERATURY"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.GENERATINGWORLD
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.GENERATINGWORLD"
@@ -13454,27 +13433,27 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.LARGE
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.LARGE"
 msgid "Big"
-msgstr ""
+msgstr "Duży"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.SMALL
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.SMALL"
 msgid "Small"
-msgstr ""
+msgstr "Mały"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.STANDARD
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.STANDARD"
 msgid "Standard"
-msgstr ""
+msgstr "Standartowy"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.TINY
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.TINY"
 msgid "Tiny"
-msgstr ""
+msgstr "Malutki"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.TITLE"
 msgid "NEW GAME"
-msgstr ""
+msgstr "NOWA GRA"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.CALORIES
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.CALORIES"
@@ -13484,13 +13463,11 @@ msgstr ""
 #. STRINGS.UI.GAMEOBJECTEFFECTS.FORGAVEATTACKER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.FORGAVEATTACKER"
 msgid "Forgiveness"
-msgstr ""
+msgstr "Przebaczenie"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.FRIEDMUSHBARREMOVESDISEASE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.FRIEDMUSHBARREMOVESDISEASE"
-msgid ""
-"Removes <style=\"disease\">Disease</style> chance from <style=\"food\">Mush "
-"Bar</style>"
+msgid "Removes <style=\"disease\">Disease</style> chance from <style=\"food\">Mush Bar</style>"
 msgstr ""
 
 #. STRINGS.UI.IMMIGRANTSCREEN.BACK
@@ -13505,15 +13482,8 @@ msgstr "Anuluj"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY"
-msgid ""
-"Are you sure you want to reject all Duplicants?\n"
-"\n"
-"It won't hurt their feelings, but it'll be awhile before the Printing Pod "
-"can print again."
-msgstr ""
-"Czy na pewno chcesz odrzucić wszystkich Duplikantów?\n"
-"To nie wplynie na ich uczucia, ale zajmie to trochę czasu zanim będzie można "
-"wydrukować ponownie."
+msgid "Are you sure you want to reject all Duplicants?\n\nIt won't hurt their feelings, but it'll be awhile before the Printing Pod can print again."
+msgstr "Czy na pewno chcesz odrzucić wszystkich Duplikantów?\nTo nie wplynie na ich uczucia, ale zajmie to trochę czasu zanim będzie można wydrukować ponownie."
 
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE"
@@ -13573,17 +13543,17 @@ msgstr ""
 #. STRINGS.UI.JOBSCREEN_HIGH
 msgctxt "STRINGS.UI.JOBSCREEN_HIGH"
 msgid "High"
-msgstr ""
+msgstr "Wysoki"
 
 #. STRINGS.UI.JOBSCREEN_LOW
 msgctxt "STRINGS.UI.JOBSCREEN_LOW"
 msgid "Low"
-msgstr ""
+msgstr "Niski"
 
 #. STRINGS.UI.JOBSCREEN_PRIORITY
 msgctxt "STRINGS.UI.JOBSCREEN_PRIORITY"
 msgid "Priority"
-msgstr ""
+msgstr "Priorytet"
 
 #. STRINGS.UI.LISTENTRYSTRING
 msgctxt "STRINGS.UI.LISTENTRYSTRING"
@@ -13603,7 +13573,7 @@ msgstr ""
 #. STRINGS.UI.MESSAGES
 msgctxt "STRINGS.UI.MESSAGES"
 msgid "MESSAGES"
-msgstr ""
+msgstr "KOMUNIKATY"
 
 #. STRINGS.UI.METERS.BREATH.TOOLTIP
 msgctxt "STRINGS.UI.METERS.BREATH.TOOLTIP"
@@ -13633,7 +13603,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.DECOR.HIGHDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.HIGHDECOR"
 msgid "High Decor"
-msgstr ""
+msgstr "Wysoki Wystrój"
 
 #. STRINGS.UI.OVERLAYS.DECOR.LIGHTING
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.LIGHTING"
@@ -13643,7 +13613,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.DECOR.LOWDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.LOWDECOR"
 msgid "Low Decor"
-msgstr ""
+msgstr "Niski Wystrój"
 
 #. STRINGS.UI.OVERLAYS.DECOR.NAME
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.NAME"
@@ -13663,7 +13633,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.DECOR.TOTAL
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOTAL"
 msgid "Total"
-msgstr ""
+msgstr "Całkowity"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.BUTTON"
@@ -13678,22 +13648,22 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND2"
 msgid "Consumer"
-msgstr ""
+msgstr "Konsumuje"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND3"
 msgid "Producer"
-msgstr ""
+msgstr "Produkuje"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND4"
 msgid "<b>CIRCUIT POWER</b>"
-msgstr ""
+msgstr "OBWÓD MOCY"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND5"
 msgid "Stable"
-msgstr ""
+msgstr "Stabilny"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND6"
@@ -13703,7 +13673,7 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7"
 msgid "Broken"
-msgstr ""
+msgstr "Popsuty"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.NAME
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.NAME"

@@ -233,9 +233,7 @@ msgstr "Emituje Światło"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EMITTINGLIGHT.TOOLTIP"
-msgid ""
-"Open the Light Overlay [{LightGridOverlay}] to view this <style=\"light"
-"\">Light</style>'s visibility radius"
+msgid "Open the Light Overlay [{LightGridOverlay}] to view this <style=\"light\">Light</style>'s visibility radius"
 msgstr "Otwórz Jasną Nakładkę [{LightGridOverlay}], aby obejrzeć <style=\"light"\">Jasny</style> promień widoczności"
 
 #. STRINGS.BUILDING.STATUSITEMS.EMITTINGOXYGENAVG.NAME
@@ -533,9 +531,7 @@ msgstr "Materiały do budynku są poza zasięgiem lub są niedostępne"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.NAME"
-msgid ""
-"Resources Low\n"
-"{ItemsRemaining}"
+msgid "Resources Low\n{ItemsRemaining}"
 msgstr "Niskie Zasoby\n{ItemsRemaining}"
 
 #. STRINGS.BUILDING.STATUSITEMS.MATERIALSUNAVAILABLEFORREFILL.TOOLTIP
@@ -561,7 +557,7 @@ msgstr "Budynki rozpadają się:"
 #. STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MELTINGDOWN.TOOLTIP"
 msgid "This building is collapsing"
-msgstr "Budynek rozpada się"
+msgstr " Ten budynek rozpada się"
 
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.NAME"
@@ -570,11 +566,7 @@ msgstr "Brakuje Fundamentu"
 
 #. STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.MISSINGFOUNDATION.TOOLTIP"
-msgid ""
-"Build Tiles beneath this building\n"
-"------------------\n"
-"Tiles can be found in the Base Tab <color=#FF0000>(1)</color> of the Build "
-"Menu"
+msgid "Build Tiles beneath this building\n------------------\nTiles can be found in the Base Tab <color=#FF0000>(1)</color> of the Build Menu"
 msgstr "Wybuduj Płytki pod tym budynkiem\n------------------\nPłytki znajdziesz w zakładce Baza <color=#FF0000>(1)</color> w Menu Budowy"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.NAME
@@ -584,11 +576,7 @@ msgstr "Potrzebne narzędzie uniwersalne"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDBORINGMACHINE.TOOLTIP"
-msgid ""
-"A <style=\"equipment\">Multitool</style> is required to mine this material\n"
-"------------------\n"
-"Multitools can be made at Crafting Stations in the Stations Tab "
-"<color=#FF0000>(9)</style> of the Build Menu"
+msgid "A <style=\"equipment\">Multitool</style> is required to mine this material\n------------------\nMultitools can be made at Crafting Stations in the Stations Tab <color=#FF0000>(9)</style> of the Build Menu"
 msgstr "<style=\"equipment\">Narzędzie uniwersalne</style> jest potrzebne do wydobycia tego materiału\n------------------\nNarzędzia uniwersalne mogą być wytworzone w Stacjach Rzemieślniczych w Zakładce Stacje <color=#FF0000>(9)</style> w Menu Budowy"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME
@@ -712,15 +700,12 @@ msgstr "Nowi Duplikanci są dostępni"
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_NAME"
 msgid "New Duplicants are available"
-msgstr "Nowi Duplikanci są Dostępni"
+msgstr "Nowi Duplikanci są dostępni"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP
 msgctxt ""
 "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP"
-msgid ""
-"The Printing Pod is ready to print a new colony member\n"
-"\n"
-"Please select a DNA blueprint"
+msgid "The Printing Pod is ready to print a new colony member\n\nPlease select a DNA blueprint"
 msgstr "Biodrukarka jest gotowa do wydrukowania nowego członka kolonii\n\nProszę wybrać cechy"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP
@@ -743,16 +728,12 @@ msgstr "<style=\"research\">Centrum Badań</style> idle"
 msgctxt ""
 "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED."
 "NOTIFICATION_TOOLTIP"
-msgid ""
-"These buildings cannot produce the correct <style=\"research\">Research "
-"Type</style> for the selected <style=\"research\">Research Task</style>:"
+msgid "These buildings cannot produce the correct <style=\"research\">Research Type</style> for the selected <style=\"research\">Research Task</style>:"
 msgstr "Te budynki nie mogą stworzyć poprawnego <style=\"research\">Rodzaju Badania</style> dla wybranego <style=\"research\">Zadania</style>:"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOAPPLICABLERESEARCHSELECTED.TOOLTIP"
-msgid ""
-"This building cannot produce the correct <style=\"research\">Research Type</"
-"style> for the selected <style=\"research\">Research Task</style>"
+msgid "This building cannot produce the correct <style=\"research\">Research Type</style> for the selected <style=\"research\">Research Task</style>"
 msgstr "Ten budynek nie może stworzyć poprawnego <style=\"research\">Rodzaju Badania</style> dla wybranego <style=\"research\">Zadania</style>:"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOAVAILABLESEED.NAME
@@ -793,7 +774,7 @@ msgstr "Pompa nie jest umieszczona w Gazie"
 #. STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.TOOLTIP"
 msgid "This pump must be submerged in <style=\"gas\">Gas</style> to work"
-msgstr "Pompa musi być zanurzona w <style=\"gas\">Gazie</style>, by funkcjonowała"
+msgstr "Ta pompa musi być zanurzona w <style=\"gas\">Gazie</style>, by funkcjonowała"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.NAME"
@@ -803,7 +784,7 @@ msgstr "Pompa nie jest w zanurzona cieczy"
 #. STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.TOOLTIP"
 msgid "This pump must be submerged in <style=\"liquid\">Liquid</style> to work"
-msgstr "Pompa musi być zanurzona w <style=\"liquid\">Cieczy</style>, by funkcjonowała"
+msgstr "Ta pompa musi być zanurzona w <style=\"liquid\">Cieczy</style>, by funkcjonowała"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOPOWERCONSUMERS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOPOWERCONSUMERS.NAME"
@@ -823,9 +804,8 @@ msgstr "Brak Zasilania"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOPOWERSOURCE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOPOWERSOURCE.TOOLTIP"
-msgid ""
-"This building must be connected to a <style=\"power\">Power</style> source"
-msgstr "Budynek musi być podłączony do źródła <style=\"power\">Mocy</style>"
+msgid "This building must be connected to a <style=\"power\">Power</style> source"
+msgstr "Ten budynek musi być podłączony do źródła <style=\"power\">Mocy</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NAME"
@@ -839,16 +819,12 @@ msgstr "Nie wybrano <style=\"research\">Zadania Badawczego</style> w zakresie ba
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_TOOLTIP"
-msgid ""
-"Open the <color=#833A5FFF>RESEARCH TREE</color> [R] to select a new <style="
-"\"research\">Research</style> project"
+msgid "Open the <color=#833A5FFF>RESEARCH TREE</color> [R] to select a new <style=\"research\">Research</style> project"
 msgstr "Otwórz <color=#833A5FFF>DRZEWKO BADAŃ</color> [R] i wybierz nowy projekt <style=\"research\">Badań</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.TOOLTIP"
-msgid ""
-"Open the <color=#833A5FFF>RESEARCH TREE</color> [R] to select a new <style="
-"\"research\">Research</style> project"
+msgid "Open the <color=#833A5FFF>RESEARCH TREE</color> [R] to select a new <style=\"research\">Research</style> project"
 msgstr "Otwórz <color=#833A5FFF>DRZEWKO BADAŃ</color> [R] i wybierz nowy projekt <style=\"research\">Badań</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORMAL.NAME
@@ -878,8 +854,7 @@ msgstr "Nie podłączono kabla"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOWIRECONNECTED.TOOLTIP"
-msgid ""
-"This building has not been connected to a <style=\"power\">Power</style> grid"
+msgid "This building has not been connected to a <style=\"power\">Power</style> grid"
 msgstr "Budynek nie podłączony do <style=\"power\">Zasilania</style> sieci"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGDECONSTRUCTION.NAME
@@ -935,7 +910,7 @@ msgstr "Oczekiwanie na zmianę przełącznika przez Duplikanta"
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.NAME"
 msgid "Dig Up Pending"
-msgstr "Oczekiwanie na wykopanie"
+msgstr "Oczekuje wykopania"
 
 #. STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
@@ -974,10 +949,7 @@ msgstr "Funkcja Zawieszona"
 
 #. STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.POWERBUTTONOFF.TOOLTIP"
-msgid ""
-"This building has been toggled off\n"
-"\n"
-"Press Enable Building to resume its use"
+msgid "This building has been toggled off\n\nPress Enable Building to resume its use"
 msgstr "Budynek został wyłączony\n\nKliknij Włącz budynek, aby wznowić jego działanie"
 
 #. STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.NAME
@@ -998,7 +970,7 @@ msgstr "Średnie natężenie przepływu: {FlowRate}"
 #. STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.PUMPINGLIQUIDORGAS.TOOLTIP"
 msgid "This building is pumping an average volume of {FlowRate}"
-msgstr "Budynek pompuje średnią wielkość natężenia przepływu"
+msgstr "Ten budynek pompuje średnią wielkość natężenia przepływu"
 
 #. STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.NAME"
@@ -1008,7 +980,7 @@ msgstr "Przechowuje: {Stored}"
 #. STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RATIONBOXCONTENTS.TOOLTIP"
 msgid "This box contains {Stored} of <style=\"food\">Food</style>"
-msgstr "Pudełko zawiera {Stored} z <style=\"food\">Jedzenia</style>"
+msgstr "To pudełko zawiera {Stored} z <style=\"food\">Jedzenia</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.RESEARCHING.NAME"

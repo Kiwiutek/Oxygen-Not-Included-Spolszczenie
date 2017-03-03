@@ -2,7 +2,7 @@
 Zostało sprawdzone 1-1000 linijek
 
 # Instrukcja edytowania tłumaczenia
-1.Zakładacoe konto.<br>
+1.Zakładacie konto<br>
 2.Logujcie się do konta.<br>
 3.Wchodzicie na mojego githuba (https://github.com/Kiwiutek/Oxygen-Not-Included-Spolszczenie)<br>
 4.Klikacie strings.po<br>

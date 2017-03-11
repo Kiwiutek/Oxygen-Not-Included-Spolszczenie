@@ -2781,7 +2781,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.COLD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.COLD.NAME"
 msgid "Chilled ({InternalTemperature} / {TargetTemperature})"
-msgstr ""
+msgstr "Schłodzony ({InternalTemperature} / {TargetTemperature})"
 
 #. STRINGS.CREATURES.STATUSITEMS.COLD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.COLD.TOOLTIP"

@@ -756,7 +756,7 @@ msgstr "Woda nie nadaje się do połowów"
 #. STRINGS.BUILDING.STATUSITEMS.NOFISHABLEWATERBELOW.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOFISHABLEWATERBELOW.TOOLTIP"
 msgid "There are no edible fish beneath this structure"
-msgstr "Brak jadalnych ryb w tej struktury"
+msgstr "Brak jadalnych ryb w tej strukturze"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.NAME"

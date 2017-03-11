@@ -8,7 +8,7 @@ Zostało sprawdzone 1-1000 linijek
 4.Klikacie strings.po<br>
 5.Gdy załaduje się nowa strona, to klikacie ikonkę ołówka/pióra jak kto woli obok kosza<br>
 6.Następnie macie dostęp do edycji spolszczenia, gdy skończycie klikacie na dole strony zielony guzik z napisem Propose file change<br>
-7.Później klikacie zielone Create pull request -> i jeszcze raz Create pull request (możęcie wpisać komentarz)
+7.Później klikacie zielone Create pull request -> i jeszcze raz Create pull request (możęcie wpisać komentarz)<br>
 8.Wasza publikacja trafia do mnie i czeka na zatwierdzenie <br>
 <br><br>
 Pytania, sugestie, błędy itp. proszę kierować na kiwiutek@gmail.com

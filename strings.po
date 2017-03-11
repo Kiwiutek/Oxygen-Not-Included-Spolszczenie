@@ -10371,7 +10371,7 @@ msgstr "Specjalny"
 #. STRINGS.MISC.TAGS.TOXIC
 msgctxt "STRINGS.MISC.TAGS.TOXIC"
 msgid "Toxic"
-msgstr ""
+msgstr "Toksyczny"
 
 #. STRINGS.MISC.TAGS.UNBREATHABLE
 msgctxt "STRINGS.MISC.TAGS.UNBREATHABLE"
@@ -10381,7 +10381,7 @@ msgstr "Gaz Beztlenowy"
 #. STRINGS.MISC.TAGS.UNSTABLE
 msgctxt "STRINGS.MISC.TAGS.UNSTABLE"
 msgid "Unstable Material"
-msgstr ""
+msgstr "Niestabilny Materiał"
 
 #. STRINGS.REGIONS.EXOSUITREGION.NAME
 msgctxt "STRINGS.REGIONS.EXOSUITREGION.NAME"
@@ -10391,42 +10391,42 @@ msgstr ""
 #. STRINGS.REGIONS.MISSINGREQUIREMENTS.BLOCKED
 msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.BLOCKED"
 msgid "Cells must be cleared of solid materials and tiles"
-msgstr ""
+msgstr "Komórki muszą być wyczyszczone z minerałów stałych i pól"
 
 #. STRINGS.REGIONS.MISSINGREQUIREMENTS.BUILDINGTAG
 msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.BUILDINGTAG"
 msgid "A building tagged '{0}'\n"
-msgstr ""
+msgstr "Budynek oznaczony '{0}'\n"
 
 #. STRINGS.REGIONS.MISSINGREQUIREMENTS.DOOR
 msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.DOOR"
 msgid "A Door"
-msgstr ""
+msgstr "Drzwi"
 
 #. STRINGS.REGIONS.MISSINGREQUIREMENTS.ENCLOSED
 msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.ENCLOSED"
 msgid "To be enclosed"
-msgstr ""
+msgstr "W trakcie dopinania"
 
 #. STRINGS.REGIONS.MISSINGREQUIREMENTS.HEIGHT
 msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.HEIGHT"
 msgid "A height of at least {0} cells"
-msgstr ""
+msgstr "Wysokość na {0} komórek"
 
 #. STRINGS.REGIONS.MISSINGREQUIREMENTS.WIDTH
 msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.WIDTH"
 msgid "A width of at least {0} cells"
-msgstr ""
+msgstr "Szerokość na {0} komórek"
 
 #. STRINGS.RESEARCH.ADVANCEDFILTRATION.DESC
 msgctxt "STRINGS.RESEARCH.ADVANCEDFILTRATION.DESC"
 msgid "Cutting-edge technologies to get the most out of your recycled materials."
-msgstr ""
+msgstr "Najnowsze technologie by wycisnąć jak najwięcej z przetworzonych materiałów."
 
 #. STRINGS.RESEARCH.ADVANCEDFILTRATION.NAME
 msgctxt "STRINGS.RESEARCH.ADVANCEDFILTRATION.NAME"
 msgid "Advanced Filtration"
-msgstr "Zawansowana Filtracja"
+msgstr "Zaawansowana Filtracja"
 
 #. STRINGS.RESEARCH.COMBUSTION.DESC
 msgctxt "STRINGS.RESEARCH.COMBUSTION.DESC"
@@ -10441,7 +10441,7 @@ msgstr "Spalanie"
 #. STRINGS.RESEARCH.FARMINGTECH.DESC
 msgctxt "STRINGS.RESEARCH.FARMINGTECH.DESC"
 msgid "Produce <style=\"food\">Food</style> by mastering the peaceful art of agriculture."
-msgstr ""
+msgstr "Produkuj <style=\"food\">Żywność</style> poprzez opanowanie do perfekcji spokojnej sztuki rolnictwa."
 
 #. STRINGS.RESEARCH.FARMINGTECH.NAME
 msgctxt "STRINGS.RESEARCH.FARMINGTECH.NAME"
@@ -10451,7 +10451,7 @@ msgstr "Technologia Rolnicza"
 #. STRINGS.RESEARCH.FINEDINING.DESC
 msgctxt "STRINGS.RESEARCH.FINEDINING.DESC"
 msgid "Prepare more nutritious <style=\"food\">Food</style> and store it longer before spoiling."
-msgstr ""
+msgstr "Przygotuj bardziej pożywną <style=\"food\">Żywność</style> i przechowuj ją dłużej nim się popsuje."
 
 #. STRINGS.RESEARCH.FINEDINING.NAME
 msgctxt "STRINGS.RESEARCH.FINEDINING.NAME"
@@ -10471,7 +10471,7 @@ msgstr "Rurociągi Gazowe"
 #. STRINGS.RESEARCH.INSULATION.DESC
 msgctxt "STRINGS.RESEARCH.INSULATION.DESC"
 msgid "Improve <style=\"heat\">Heat</style> distribution in your base and guard buildings from extreme temperatures."
-msgstr ""
+msgstr "Ulepsz dystrybucję <style=\"heat\">Ciepła</style> w swojej bazie i chroń budynki od ekstremalnych temperatur."
 
 #. STRINGS.RESEARCH.INSULATION.NAME
 msgctxt "STRINGS.RESEARCH.INSULATION.NAME"
@@ -10481,7 +10481,7 @@ msgstr "Izolacja"
 #. STRINGS.RESEARCH.INTERIORDECOR.DESC
 msgctxt "STRINGS.RESEARCH.INTERIORDECOR.DESC"
 msgid "<style=\"decor\">Decor</style> boosting items to counteract the gloom of underground living."
-msgstr ""
+msgstr "Przedmioty podnoszące <style=\"decor\">Wystrój</style> w celu niwelowania przygnębiającego klimatu życia pod ziemią."
 
 #. STRINGS.RESEARCH.INTERIORDECOR.NAME
 msgctxt "STRINGS.RESEARCH.INTERIORDECOR.NAME"

@@ -11631,7 +11631,7 @@ msgstr ""
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.BODY
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.BODY"
 msgid "This game is in the early stages of development which means you're likely to encounter strange, amusing, and occasionally just downright frustrating bugs.\n\nDuring this time Oxygen Not Included will be receiving regular updates to fix bugs, add features and introduce additional content, so if you encounter issues or just have suggestions to share, please let us know on our forums: <u>http://forums.kleientertainment.com</u>\n\nWe value your feedback and thank you for joining us in the development process. We couldn't do this without you.\n\nEnjoy your time in deep space!\n\n- Klei"
-msgstr "Gra jest we wczesnym stadium rozwoju, co oznacza, że możesz napotkać dziwne, zabawne, a czasami po prostu wręcz frustrujące błędy.\n\nOxygen Not Included będzie regularnie otrzymywać aktualizację, aby naprawić błędy, dodać nowe funkcje i wprowadzić dodatkową zawartość, więc jeśli pojawią się problemy lub po prostu chcesz podzielić się sugestiami, proszę dać nam znać na naszym forum: <u>http://forums.kleientertainment.com</u>\n\nCenimy Twoją opinię i dziękujemy za udział w procesie rozwoju. Nie moglibyśmy tego zrobić bez Ciebie.\nBaw się dobrze w przestrzeni kosmicznej!\n\n- Klei"
+msgstr "Gra jest we wczesnym stadium rozwoju, co oznacza, że możesz napotkać dziwne, zabawne, a czasami po prostu wręcz frustrujące błędy.\n\nOxygen Not Included będzie regularnie otrzymywać aktualizacje, aby naprawić błędy, dodać nowe funkcje i wprowadzić dodatkową zawartość, więc jeśli pojawią się problemy lub po prostu chcesz podzielić się sugestiami, proszę daj nam znać na naszym forum: <u>http://forums.kleientertainment.com</u>\n\nCenimy Twoją opinię i dziękujemy za udział w procesie rozwoju. Nie moglibyśmy tego zrobić bez Ciebie.\nBaw się dobrze w przestrzeni kosmicznej!\n\n- Klei"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.CONTINUEBUTTON
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.CONTINUEBUTTON"
@@ -11646,7 +11646,7 @@ msgstr "Witamy w Oxygen Not Included!"
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.BODY
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.BODY"
 msgid "Stay up to date by joining our mailing list, or head on over to the forums and join the discussion."
-msgstr "Bądź na bieżąco przystępując do naszej listy mailingowej lub zarejestruj się na naszy forum i weź udział w dyskusji."
+msgstr "Bądź na bieżąco zapisując się do listy mailingowej lub zarejestruj się na forum i weź udział w dyskusji."
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.FORUMBUTTON
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.MESSAGES.FORUMBUTTON"
@@ -15282,14 +15282,14 @@ msgstr "Mieszanie magmy..."
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT7
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT7"
 msgid "Sprinkling sand..."
-msgstr "Sypanie piasku..."
+msgstr "Sypanie pisaku..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT8
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT8"
 msgid "Sprinkling sand..."
-msgstr "Sypanie piasku..."
+msgstr "Sypanie pisaku..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT9
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT9"
 msgid "Sprinkling sand..."
-msgstr "Sypanie piasku..."
+msgstr "Sypanie pisaku..."

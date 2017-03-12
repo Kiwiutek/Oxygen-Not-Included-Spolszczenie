@@ -1356,7 +1356,7 @@ msgstr "To się jeszcze da wykorzystać!."
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT"
 msgid "Breaks <style=\"solid\">Contaminated Dirt</style> down into <style=\"solid\">Fertilizer</style>."
-msgstr "Zamienia <style=\"solid\">zanieczyszczoną Ziemię</style> w <style=\"solid\">Nawóz</style>."
+msgstr "Zamienia <style=\"solid\">Zanieczyszczoną Ziemię</style> w <style=\"solid\">Nawóz</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.NAME"
@@ -13301,7 +13301,7 @@ msgstr "PRZECIĄGNIJ BY ZEBRAĆ"
 #. STRINGS.UI.TOOLS.ATTACK.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.ATTACK.TOOLNAME"
 msgid "Harvest tool"
-msgstr "Narzędzie "
+msgstr "Narzędzie"
 
 #. STRINGS.UI.TOOLS.BUILD.NAME
 msgctxt "STRINGS.UI.TOOLS.BUILD.NAME"
@@ -13706,7 +13706,7 @@ msgstr "Pokaż Drzewko Badań"
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_SCHEDULE
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_SCHEDULE"
 msgid "Adjust the colony's timetable"
-msgstr "Nanieś smiany na rozkład zajęć kolonii"
+msgstr "Nanieś zmiany na rozkład zajęć kolonii"
 
 #. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_VITALS
 msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_VITALS"

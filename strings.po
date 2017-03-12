@@ -11631,7 +11631,7 @@ msgstr ""
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.BODY
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.BODY"
 msgid "This game is in the early stages of development which means you're likely to encounter strange, amusing, and occasionally just downright frustrating bugs.\n\nDuring this time Oxygen Not Included will be receiving regular updates to fix bugs, add features and introduce additional content, so if you encounter issues or just have suggestions to share, please let us know on our forums: <u>http://forums.kleientertainment.com</u>\n\nWe value your feedback and thank you for joining us in the development process. We couldn't do this without you.\n\nEnjoy your time in deep space!\n\n- Klei"
-msgstr "Gra jest we wczesnym stadium rozwoju, co oznacza, że możesz napotkać dziwne, zabawne, a czasami po prostu wręcz frustrujące błędy.\n\nOxygen Not Included będzie regularnie otrzymywać aktualizację, aby naprawić błędy, dodać nowe funkcje i wprowadzić dodatkową zawartość, więc jeśli pojawią się problemy lub po prostu chcesz podzielić się sugestiami, proszę dać nam znać na forum: <u>http://forums.kleientertainment.com</u>\n\nCenimy Twoją opinię i dziękujemy za udział w procesie rozwoju. Nie moglibyśmy tego zrobić bez Ciebie.\nBaw się dobrze w przestrzeni kosmicznej!\n\n- Klei"
+msgstr "Gra jest we wczesnym stadium rozwoju, co oznacza, że możesz napotkać dziwne, zabawne, a czasami po prostu wręcz frustrujące błędy.\n\nOxygen Not Included będzie regularnie otrzymywać aktualizacje, aby naprawić błędy, dodać nowe funkcje i wprowadzić dodatkową zawartość, więc jeśli pojawią się problemy lub po prostu chcesz podzielić się sugestiami, proszę dać nam znać na forum: <u>http://forums.kleientertainment.com</u>\n\nCenimy Twoją opinię i dziękujemy za udział w procesie rozwoju. Nie moglibyśmy tego zrobić bez Ciebie.\nBaw się dobrze w przestrzeni kosmicznej!\n\n- Klei"
 
 #. STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.CONTINUEBUTTON
 msgctxt "STRINGS.UI.DEVELOPMENTBUILDS.ALPHA.LOADING.CONTINUEBUTTON"
@@ -11716,22 +11716,22 @@ msgstr "Przewodność ciepła wskazuje, jak dobrze obiekt ten przewodzi <style=\
 #. STRINGS.UI.ENDOFDAYREPORT.ADDED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.ADDED"
 msgid "Added"
-msgstr ""
+msgstr "Dodane"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NAME"
 msgid "Calorie Generation:"
-msgstr ""
+msgstr "Generowanie Kalorii:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.NEGATIVE_TOOLTIP"
 msgid "Your colony consumed {0} of <style=\"food\">Food</style> over the course of the day"
-msgstr ""
+msgstr "Twoja kolonia skonsumowała {0} <style=\"food\">Żywności</style> przez cały dzień"
 
 #. STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.CALORIES_CREATED.POSITIVE_TOOLTIP"
 msgid "Your colony produced {0} of <style=\"food\">Food</style> over the course of the day"
-msgstr ""
+msgstr "Twoja kolonia wyprodukowała {0} <style=\"food\">Żywności</style> przez cały dzień"
 
 #. STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.DAY_TITLE"
@@ -14606,27 +14606,27 @@ msgstr "Zbierz <style=\"food\">Żywność</style> z tej <style=\"plant\">Roślin
 #. STRINGS.UI.USERMENUACTIONS.HARVEST.TOOLTIP_DISABLED
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST.TOOLTIP_DISABLED"
 msgid "This <style=\"plant\">Plant</style> must reach maturity before being harvested"
-msgstr ""
+msgstr "Ta <style=\"plant\">Roślina</style> musi dojrzeć zanim będzie ją można zebrać"
 
 #. STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.NAME"
 msgid "Manual Control"
-msgstr ""
+msgstr "Sterowanie Manualne"
 
 #. STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.NAME_OFF"
 msgid "Release Control"
-msgstr ""
+msgstr "Porzuć Sterowanie"
 
 #. STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.TOOLTIP"
 msgid "Manually control this Duplicant\nControlled Duplicants cannot perform tasks unless ordered"
-msgstr ""
+msgstr "Manualnie steruj tym Duplikantem\nSterowani Duplikanci nie mogą wykonywać obowiązków dopóki nie zostaną im zlecone"
 
 #. STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.MANUALCONTROL.TOOLTIP_OFF"
 msgid "Release control of this Duplicant"
-msgstr ""
+msgstr "Porzuć sterowanie tym Duplikantem"
 
 #. STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.NAME"
@@ -14636,72 +14636,72 @@ msgstr "Idź do"
 #. STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.TOOLTIP"
 msgid "Tell this Duplicant to move to a specific spot"
-msgstr ""
+msgstr "Powiedz temu Duplikantowi, by poszedł w konkretne miejsce"
 
 #. STRINGS.UI.USERMENUACTIONS.OVERRIDETASK.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.OVERRIDETASK.NAME"
 msgid "Override Task"
-msgstr ""
+msgstr "Nadpisz Zadanie"
 
 #. STRINGS.UI.USERMENUACTIONS.OVERRIDETASK.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.OVERRIDETASK.TOOLTIP"
 msgid "Force this Duplicant to perform a specific task"
-msgstr ""
+msgstr "Zmuś tego Duplikanta do wykonania konkretnego zadania"
 
 #. STRINGS.UI.USERMENUACTIONS.QUARANTINE.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.QUARANTINE.NAME"
 msgid "Quarantine"
-msgstr ""
+msgstr "Kwarantanna"
 
 #. STRINGS.UI.USERMENUACTIONS.QUARANTINE.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.QUARANTINE.NAME_OFF"
 msgid "Cancel Quarantine"
-msgstr ""
+msgstr "Anuluj Kwarantannę"
 
 #. STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP"
 msgid "Isolate this Duplicant"
-msgstr ""
+msgstr "Izoluj tego Duplikanta"
 
 #. STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP_DISABLED
 msgctxt "STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP_DISABLED"
 msgid "No quarantine zone assigned"
-msgstr ""
+msgstr "Nieokreślona strefa kwarantanny"
 
 #. STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP_OFF"
 msgid "Cancel this quarantine order"
-msgstr ""
+msgstr "Anuluj to zlecenie kwarantanny"
 
 #. STRINGS.UI.USERMENUACTIONS.RELEASEELEMENT.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELEASEELEMENT.NAME"
 msgid "Empty Building"
-msgstr ""
+msgstr "Opróżnij Budynek"
 
 #. STRINGS.UI.USERMENUACTIONS.RELEASEELEMENT.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELEASEELEMENT.TOOLTIP"
 msgid "Take out all resources currently used by this building"
-msgstr ""
+msgstr "Wyjmij wszystkie surowce obecnie przebywające w tym budynku"
 
 #. STRINGS.UI.USERMENUACTIONS.RELOCATE.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELOCATE.NAME"
 msgid "Relocate"
-msgstr ""
+msgstr "Przemieść"
 
 #. STRINGS.UI.USERMENUACTIONS.RELOCATE.NAME_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELOCATE.NAME_OFF"
 msgid "Cancel Relocation"
-msgstr ""
+msgstr "Anuluj Przemieszczanie"
 
 #. STRINGS.UI.USERMENUACTIONS.RELOCATE.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELOCATE.TOOLTIP"
 msgid "Move this building to a new location\n------------------\nCosts no additional resources"
-msgstr ""
+msgstr "Przenieś ten budynek do innej lokacji\n------------------\nDodatkowe surowce nie są wymagane"
 
 #. STRINGS.UI.USERMENUACTIONS.RELOCATE.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELOCATE.TOOLTIP_OFF"
 msgid "Cancel this relocation order"
-msgstr ""
+msgstr "Anuluj to zlecenie relokacji"
 
 #. STRINGS.UI.USERMENUACTIONS.SELECTRESEARCH.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.SELECTRESEARCH.NAME"
@@ -14711,7 +14711,7 @@ msgstr "Wybierz Badania"
 #. STRINGS.UI.USERMENUACTIONS.SELECTRESEARCH.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.SELECTRESEARCH.TOOLTIP"
 msgid "Choose a technology from the research tree"
-msgstr ""
+msgstr "Wybierz technologię z drzewka badań"
 
 #. STRINGS.UI.USERMENUACTIONS.TAGFILTER.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.TAGFILTER.NAME"
@@ -14721,7 +14721,7 @@ msgstr "Ustawienia Filtra"
 #. STRINGS.UI.USERMENUACTIONS.TAGFILTER.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.TAGFILTER.TOOLTIP"
 msgid "Assign materials to storage"
-msgstr ""
+msgstr "Przypisz materiały do magazynu"
 
 #. STRINGS.UI.USERMENUACTIONS.UPROOT.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.UPROOT.NAME"
@@ -14731,7 +14731,7 @@ msgstr "Wykopać"
 #. STRINGS.UI.USERMENUACTIONS.UPROOT.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.UPROOT.TOOLTIP"
 msgid "Convert this <style=\"plant\">Plant</style> into a <style=\"seed\">Seed</style>"
-msgstr ""
+msgstr "Zamień tę <style=\"plant\">Roślinę</style> na <style=\"seed\">Naniono</style>"
 
 #. STRINGS.UI.VIEWDUPLICANTS
 msgctxt "STRINGS.UI.VIEWDUPLICANTS"
@@ -14746,7 +14746,7 @@ msgstr "ZDROWIE"
 #. STRINGS.UI.VITALSSCREEN_CALORIES
 msgctxt "STRINGS.UI.VITALSSCREEN_CALORIES"
 msgid "Fullness"
-msgstr ""
+msgstr "Sytość"
 
 #. STRINGS.UI.VITALSSCREEN_EATENTODAY
 msgctxt "STRINGS.UI.VITALSSCREEN_EATENTODAY"
@@ -14756,7 +14756,7 @@ msgstr "Dziś Zdjedzone"
 #. STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP
 msgctxt "STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP"
 msgid "The amount of <style=\"food\">Food</style> your Duplicant has eaten this cycle"
-msgstr ""
+msgstr "Ilość <style=\"food\">Pożywienia</style>, jakie zjadł twój Duplikant w tym cyklu"
 
 #. STRINGS.UI.VITALSSCREEN_NAME
 msgctxt "STRINGS.UI.VITALSSCREEN_NAME"
@@ -14771,7 +14771,7 @@ msgstr "Kalorie/Dzień"
 #. STRINGS.UI.VITALSSCREEN_RATIONS_TOOLTIP
 msgctxt "STRINGS.UI.VITALSSCREEN_RATIONS_TOOLTIP"
 msgid "Set how many calories this Duplicant may consume daily"
-msgstr ""
+msgstr "Ustal, ile kalorii ten Duplikant może zjeść dziennie"
 
 #. STRINGS.UI.VITALSSCREEN_STRESS
 msgctxt "STRINGS.UI.VITALSSCREEN_STRESS"
@@ -14802,97 +14802,97 @@ msgstr "! ALARM !"
 #. STRINGS.UI.WORLDGEN.ANALYZINGWORLD
 msgctxt "STRINGS.UI.WORLDGEN.ANALYZINGWORLD"
 msgid "Shuffling DNA Blueprints..."
-msgstr ""
+msgstr "Mieszanie w DNA..."
 
 #. STRINGS.UI.WORLDGEN.ANALYZINGWORLDCOMPLETE
 msgctxt "STRINGS.UI.WORLDGEN.ANALYZINGWORLDCOMPLETE"
 msgid "Tidying up for the Duplicants..."
-msgstr ""
+msgstr "Porządkowanie przed przybyciem Duplikantów..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS"
 msgid "Just adding water..."
-msgstr ""
+msgstr "Zalewanie świata cieczami..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS1
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS1"
 msgid "Just adding water..."
-msgstr ""
+msgstr "Zalewanie świata cieczami..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS2
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS2"
 msgid "Staring at the void..."
-msgstr ""
+msgstr "Patrzenie w pustkę..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS3
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS3"
 msgid "Staring at the void..."
-msgstr ""
+msgstr "Patrzenie w pustkę..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS4
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS4"
 msgid "Staring at the void..."
-msgstr ""
+msgstr "Patrzenie w pustkę...
 
 #. STRINGS.UI.WORLDGEN.BORDERS5
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS5"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr ""
+msgstr "Unikanie krępującego kontaktu wzrokowego z pustką..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS6
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS6"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr ""
+msgstr "Unikanie krępującego kontaktu wzrokowego z pustką..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS7
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS7"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr ""
+msgstr "Unikanie krępującego kontaktu wzrokowego z pustką..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS8
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS8"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr ""
+msgstr "Unikanie krępującego kontaktu wzrokowego z pustką..."
 
 #. STRINGS.UI.WORLDGEN.BORDERS9
 msgctxt "STRINGS.UI.WORLDGEN.BORDERS9"
 msgid "Avoiding awkward eye contact with the void..."
-msgstr ""
+msgstr "Unikanie krępującego kontaktu wzrokowego z pustką..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE"
 msgid "Sorting quadrillions of atoms..."
-msgstr ""
+msgstr "Sortowanie kwadryliona atomów..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE1
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE1"
 msgid "Sorting quadrillions of atoms..."
-msgstr ""
+msgstr "Sortowanie kwadryliona atomów..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE2
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE2"
 msgid "Sorting quadrillions of atoms..."
-msgstr ""
+msgstr "Sortowanie kwadryliona atomów..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE3
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE3"
 msgid "Ironing the fabric of creation..."
-msgstr ""
+msgstr "Szlifowanie materiału stworzenia..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE4
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE4"
 msgid "Ironing the fabric of creation..."
-msgstr ""
+msgstr "Szlifowanie materiału stworzenia..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE5
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE5"
 msgid "Ironing the fabric of creation..."
-msgstr ""
+msgstr "Szlifowanie materiału stworzenia..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE6
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE6"
 msgid "Taking hot meteor shower..."
-msgstr ""
+msgstr "Branie gorącej kąpieli w meteorze..."
 
 #. STRINGS.UI.WORLDGEN.BUILDNOISESOURCE7
 msgctxt "STRINGS.UI.WORLDGEN.BUILDNOISESOURCE7"
@@ -14917,12 +14917,12 @@ msgstr "Wybierz wielkość nowej galaktyki"
 #. STRINGS.UI.WORLDGEN.CLEARINGLEVEL
 msgctxt "STRINGS.UI.WORLDGEN.CLEARINGLEVEL"
 msgid "Staring into the void..."
-msgstr "Wpatruje się w otchłań..."
+msgstr "Wpatrywanie się w otchłań..."
 
 #. STRINGS.UI.WORLDGEN.COMPLETE
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETE"
 msgid "Success! Space adventure awaits."
-msgstr "Powodzenia! Kosmiczna przygoda czeka."
+msgstr "Sukces! Kosmiczna przygoda czeka."
 
 #. STRINGS.UI.WORLDGEN.COMPLETELAYOUT
 msgctxt "STRINGS.UI.WORLDGEN.COMPLETELAYOUT"
@@ -14992,7 +14992,7 @@ msgstr "Ustalanie granic osobistych..."
 #. STRINGS.UI.WORLDGEN.FAILED
 msgctxt "STRINGS.UI.WORLDGEN.FAILED"
 msgid "Goodness, has this ever gone terribly wrong!"
-msgstr ""
+msgstr "O rany, coś poszło bardzo nie tak!"
 
 #. STRINGS.UI.WORLDGEN.GENERATENOISE
 msgctxt "STRINGS.UI.WORLDGEN.GENERATENOISE"
@@ -15052,47 +15052,47 @@ msgstr "Tworzenie katalizatora Big Bang..."
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM1
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM1"
 msgid "Catalyzing Big Bang..."
-msgstr "Tworzenie katalizatora Big Bang..."
+msgstr "Katalizowanie Wielkiego Wybuchu..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM2
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM2"
 msgid "Catalyzing Big Bang..."
-msgstr "Tworzenie katalizatora Big Bang..."
+msgstr "Katalizowanie Wielkiego Wybuchu..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM3
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM3"
 msgid "Catalyzing Big Bang..."
-msgstr "Tworzenie katalizatora Big Bang..."
+msgstr "Katalizowanie Wielkiego Wybuchu..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM4
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM4"
 msgid "Catalyzing Big Bang..."
-msgstr "Tworzenie katalizatora Big Bang..."
+msgstr "Katalizowanie Wielkiego Wybuchu..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM5
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM5"
 msgid "Catalyzing Big Bang..."
-msgstr "Tworzenie katalizatora Big Bang..."
+msgstr "Katalizowanie Wielkiego Wybuchu..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM6
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM6"
 msgid "Approaching event horizon..."
-msgstr "Zbliża się horyzont zdarzeń..."
+msgstr "Zbliżanie się do horyzontu zdarzeń..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM7
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM7"
 msgid "Approaching event horizon..."
-msgstr "Zbliża się horyzont zdarzeń..."
+msgstr "Zbliżanie się do horyzontu zdarzeń..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM8
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM8"
 msgid "Approaching event horizon..."
-msgstr "Zbliża się horyzont zdarzeń..."
+msgstr "Zbliżanie się do horyzontu zdarzeń..."
 
 #. STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM9
 msgctxt "STRINGS.UI.WORLDGEN.GENERATESOLARSYSTEM9"
 msgid "Approaching event horizon..."
-msgstr "Zbliża się horyzont zdarzeń..."
+msgstr "Zbliżanie się do horyzontu zdarzeń..."
 
 #. STRINGS.UI.WORLDGEN.GENERATINGWORLD
 msgctxt "STRINGS.UI.WORLDGEN.GENERATINGWORLD"
@@ -15177,12 +15177,12 @@ msgstr "Wylewanie rzek..."
 #. STRINGS.UI.WORLDGEN.RESTARTING
 msgctxt "STRINGS.UI.WORLDGEN.RESTARTING"
 msgid "Rebooting..."
-msgstr "Ponowne uruchomienie..."
+msgstr "Ponowne uruchamienie..."
 
 #. STRINGS.UI.WORLDGEN.RETRYCOUNT
 msgctxt "STRINGS.UI.WORLDGEN.RETRYCOUNT"
 msgid "Oh dear, let's try that again."
-msgstr "Och, spróbuj  jeszcze raz."
+msgstr "O rany, spróbujmy jeszcze raz."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM"
@@ -15217,22 +15217,22 @@ msgstr "Idealny poziom tlenu osiągnięty..."
 #. STRINGS.UI.WORLDGEN.SETTLESIM6
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM6"
 msgid "Planting space flora..."
-msgstr "Sadzenie flory w przestrzeni kosmicznej..."
+msgstr "Sadzenie kosmicznej flory..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM7
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM7"
 msgid "Planting space flora..."
-msgstr "Sadzenie flory w przestrzeni kosmicznej..."
+msgstr "Sadzenie kosmicznej flory..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM8
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM8"
 msgid "Releasing wildlife..."
-msgstr "Uwalnianie przyrody..."
+msgstr "Uwalnianie fauny i flory..."
 
 #. STRINGS.UI.WORLDGEN.SETTLESIM9
 msgctxt "STRINGS.UI.WORLDGEN.SETTLESIM9"
 msgid "Releasing wildlife..."
-msgstr "Uwalnianie przyrody..."
+msgstr "Uwalnianie fauny i flory..."
 
 #. STRINGS.UI.WORLDGEN.SETUPNOISE
 msgctxt "STRINGS.UI.WORLDGEN.SETUPNOISE"
@@ -15252,7 +15252,7 @@ msgstr "Zamrażanie formacji lodowych..."
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT10
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT10"
 msgid "Sprinkling sand..."
-msgstr "Sypanie pisaku..."
+msgstr "Sypanie piasku..."
 
 #. STRINGS.UI.WORLDGEN.WORLDLAYOUT2
 msgctxt "STRINGS.UI.WORLDGEN.WORLDLAYOUT2"

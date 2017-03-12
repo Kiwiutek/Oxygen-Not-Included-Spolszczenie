@@ -1,5 +1,6 @@
 # Oxygen-Not-Included-Spolszczenie<br>
-# Stashkin<br> 
+<br>
+<b>Stashkin</b><br> 
 Cześć!<br> 
 Wydaje mi się, że najważniejszą kwestią będzie ustalenie, jak wszyscy powinniśmy tłumaczyć kluczowe pojęcia w grze. Sam grę dość mocno ogrywam, więc oto moje propozycje (będę edytował ten post z czasem i dodawał kolejne pojęcia) i zapraszam do dyskusji:<br> 
 

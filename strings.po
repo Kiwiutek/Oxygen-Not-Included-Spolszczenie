@@ -12521,22 +12521,22 @@ msgstr "OBWÓD MOCY"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND5"
 msgid "Stable"
-msgstr "Stabilny"
+msgstr "Stabilna"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND6"
 msgid "Straining"
-msgstr "Stężony"
+msgstr "Nadwyrężona"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7"
 msgid "Broken"
-msgstr "Popsuty"
+msgstr "Przerwana"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.NAME
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.NAME"
 msgid "POWER GRID OVERLAY"
-msgstr "NAKŁADKA ZASILANIA"
+msgstr "NAKŁADKA ENERGII"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2"
@@ -12791,7 +12791,7 @@ msgstr "Nakładka Tlenu"
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND1"
 msgid "Very Breathable"
-msgstr "Bardzo natleniony"
+msgstr "Bardzo Natleniony"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND2"
@@ -12801,7 +12801,7 @@ msgstr "Natleniony"
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND3"
 msgid "Barely Breathable"
-msgstr "Ledwo natleniony"
+msgstr "Ledwo Natleniony"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND4"
@@ -12811,12 +12811,12 @@ msgstr "Niezdatny do oddychania"
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND5"
 msgid "Slightly Toxic"
-msgstr "Nieco Toksyczny"
+msgstr "Lekko Toksyczne"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND6"
 msgid "Very Toxic"
-msgstr "Bardzo Toksyczny"
+msgstr "Bardzo Toksyczne"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.NAME
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.NAME"
@@ -13061,12 +13061,12 @@ msgstr "Temperatura sięgająca {0}"
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.VERYCOLD
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.VERYCOLD"
 msgid "Cold"
-msgstr "Zimno"
+msgstr "Zimny"
 
 #. STRINGS.UI.OVERLAYS.TEMPERATURE.VERYHOT
 msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.VERYHOT"
 msgid "Hot"
-msgstr "Gorąco"
+msgstr "Gorący"
 
 #. STRINGS.UI.OVERLAYSTITLE
 msgctxt "STRINGS.UI.OVERLAYSTITLE"

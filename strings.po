@@ -1356,7 +1356,7 @@ msgstr "To się jeszcze da wykorzystać!."
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT"
 msgid "Breaks <style=\"solid\">Contaminated Dirt</style> down into <style=\"solid\">Fertilizer</style>."
-msgstr "Zamienia <style=\"solid\">zanieczyszczoną Ziemię</style> w <style=\"solid\">Nawóz</style>."
+msgstr "Zamienia <style=\"solid\">Zanieczyszczoną Ziemię</style> w <style=\"solid\">Nawóz</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.NAME"
@@ -1701,7 +1701,7 @@ msgstr "Brudne ręce są spoko, jeśli chcesz rozsiewać różne paskudne choró
 #. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.EFFECT"
 msgid "Produces a sanitizing gel to remove the <style=\"disease\">Dirty Hands</style> effect from Duplicants.\n\nDuplicants will only use the Hand Sanitizer before eating a meal."
-msgstr "Wytwarza żel odkażający do usuwania efetu <style=\"disease\">Brudnych Rąk</ style> u Duplikantów.\n\nDuplikanci użyją go tylko przed posiłkiem."
+msgstr "Wytwarza żel odkażający do usuwania efetu <style=\"disease\">Brudnych Rąk</style> u Duplikantów.\n\nDuplikanci użyją go tylko przed posiłkiem."
 
 #. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.NAME"

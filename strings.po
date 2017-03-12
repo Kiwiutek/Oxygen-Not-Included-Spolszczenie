@@ -13861,7 +13861,7 @@ msgstr "Normalna szybkość {0}"
 #. STRINGS.UI.TOOLTIPS.STATSPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.STATSPANEL"
 msgid "The Stats Panel gives an overview of your Duplicant's individual stats"
-msgstr "Panek Statusu zapewnia podgląd wszystkich statystyk Duplikanta"
+msgstr "Panel Statusu zapewnia podgląd wszystkich statystyk Duplikanta"
 
 #. STRINGS.UI.TOOLTIPS.STORAGEMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.STORAGEMAINBUTTON"

@@ -11791,117 +11791,117 @@ msgstr ""
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.NAME"
 msgid "Idle Time:"
-msgstr ""
+msgstr "Czas Bezczynności:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.IDLE_TIME.POSITIVE_TOOLTIP"
 msgid "Your Duplicants spent a total of {0} idling over the course of the day"
-msgstr ""
+msgstr "Twoi Duplikanci spędzili dzisiaj {0} na bezczynności w ciągu trwania dnia"
 
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.NAME"
 msgid "Skill Increases:"
-msgstr "Umiejętności Zwiększone:"
+msgstr "Wzrost Umiejętności:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.LEVEL_UP.TOOLTIP"
 msgid "Your Duplicants gained a total of {0} skill levels today"
-msgstr ""
+msgstr "Twoi Duplikanci zdobyli dzisiaj {0} poziomów umiejętności"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NET
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NET"
 msgid "Net"
-msgstr ""
+msgstr "Sieć"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NEXT
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NEXT"
 msgid "Next"
-msgstr ""
+msgstr "Następny"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TITLE"
 msgid "Cycle {0} report ready"
-msgstr "Cykl {0} raport gotowy"
+msgstr "Raport dla Cyklu {0} gotowy"
 
 #. STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.NOTIFICATION_TOOLTIP"
 msgid "View the end of day report for Cycle {0}"
-msgstr ""
+msgstr "Zobacz raport z końca dnia dla Cyklu {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NAME"
 msgid "<style=\"oxygen\">Oxygen</style> Generation:"
-msgstr ""
+msgstr "Produkcja <style=\"oxygen\">Tlenu</style>:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.NEGATIVE_TOOLTIP"
 msgid "Your colony consumed {0} of <style=\"oxygen\">Oxygen</style> over the course of the day"
-msgstr ""
+msgstr "Twoja kolonia skonsumowała {0} <style=\"oxygen\">Tlenu</style> w ciągu trwania dnia"
 
 #. STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.OXYGEN_CREATED.POSITIVE_TOOLTIP"
 msgid "Your colony generated {0} of <style=\"oxygen\">Oxygen</style> over the course of the day"
-msgstr ""
+msgstr "Twoja kolonia wytworzyła {0} <style=\"oxygen\">Tlenu</style> w ciągu trwania dnia"
 
 #. STRINGS.UI.ENDOFDAYREPORT.PREV
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.PREV"
 msgid "Prev"
-msgstr ""
+msgstr "Poprz"
 
 #. STRINGS.UI.ENDOFDAYREPORT.REMOVED
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REMOVED"
 msgid "Removed"
-msgstr ""
+msgstr "Usunięte"
 
 #. STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.REPORT_TITLE"
 msgid "DAILY REPORTS"
-msgstr "DZIENNY RAPORT"
+msgstr "DZIENNE RAPORTY"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NAME"
 msgid "<style=\"stress\">Stress</style> Change:"
-msgstr ""
+msgstr "Zmiania poziomu <style=\"stress\">Stresu</style>"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NEGATIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.NEGATIVE_TOOLTIP"
 msgid "Your colony's total <style=\"stress\">Stress</style> has decreased by {0}"
-msgstr ""
+msgstr "Całkowity <style=\"stress\">Stress</style> twojej kolonii spadł o {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.STRESS_DELTA.POSITIVE_TOOLTIP"
 msgid "Your colony's total <style=\"stress\">Stress</style> has increased by {0}"
-msgstr ""
+msgstr "Całkowity <style=\"stress\">Stress</style> twojej kolonii wzrósł o {0}"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.NAME"
 msgid "Restroom Accidents:"
-msgstr ""
+msgstr "Wypadki w Restroom: (?)"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TOILET_INCIDENT.TOOLTIP"
 msgid "{0} Duplicants didn't quite reach the toilet in time today"
-msgstr ""
+msgstr "{0} Duplikantów nie do końca zdążyło dzisiaj do toalety"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.NAME
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.NAME"
 msgid "Travel Time:"
-msgstr ""
+msgstr "Czas Podróżowania:"
 
 #. STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.POSITIVE_TOOLTIP
 msgctxt "STRINGS.UI.ENDOFDAYREPORT.TRAVEL_TIME.POSITIVE_TOOLTIP"
 msgid "Your Duplicants spent a total of {0} traveling over the course of the day"
-msgstr ""
+msgstr "Twoi Duplikanci spędzili łączne {0} na podróżowaniu przez cały dzień"
 
 #. STRINGS.UI.EQUIPMENTTAB_HELD
 msgctxt "STRINGS.UI.EQUIPMENTTAB_HELD"
 msgid "Held Items"
-msgstr ""
+msgstr "Trzymane Przedmioty"
 
 #. STRINGS.UI.EQUIPMENTTAB_OWNED
 msgctxt "STRINGS.UI.EQUIPMENTTAB_OWNED"
 msgid "Owned Items"
-msgstr ""
+msgstr "Posiadane Przedmioty"
 
 #. STRINGS.UI.EQUIPMENTTAB_ROOM
 msgctxt "STRINGS.UI.EQUIPMENTTAB_ROOM"
@@ -11916,17 +11916,17 @@ msgstr "{0} cyklów"
 #. STRINGS.UI.FORMATSECONDS
 msgctxt "STRINGS.UI.FORMATSECONDS"
 msgid "{0}s"
-msgstr ""
+msgstr "{0}s"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr "Gotowy"
+msgstr "Gotowe"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.TITLE"
 msgid "AUDIO OPTIONS"
-msgstr "OPCJE DZWIEKU"
+msgstr "OPCJE DŹWIĘKU"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.ACCEPT_CHANGES
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.ACCEPT_CHANGES"
@@ -11941,17 +11941,17 @@ msgstr "Zatwierdź"
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.DONE_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.DONE_BUTTON"
 msgid "Done"
-msgstr "Gotowy"
+msgstr "Gotowe"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.FULLSCREEN
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.FULLSCREEN"
 msgid "Fullscreen:"
-msgstr "Pełnyekran"
+msgstr "Pełnyekran:"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.RESOLUTION
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.RESOLUTION"
 msgid "Resolution:"
-msgstr "Rozdzielczość"
+msgstr "Rozdzielczość:"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.REVERTBUTTON
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.REVERTBUTTON"
@@ -11976,22 +11976,22 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.UNBOUND_ACTION
 msgctxt "STRINGS.UI.FRONTEND.INPUTBINDINGSCREEN.UNBOUND_ACTION"
 msgid "{0} is unbound. Are you sure you want to continue?"
-msgstr ""
+msgstr "{0} nie jest związany (?). Czy jesteś pewien, że chcesz kontynuować?"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING"
 msgid "<b><color=#ff0000>(Auto Save: This file will get deleted as new Auto Saves are created)</color></b>"
-msgstr ""
+msgstr "<b><color=#ff0000>(Auto Zapis: Ten plik zostanie usunięty, gdy pojawią się kolejne pliki Auto Zapisu)</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CONFIRMDELETE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CONFIRMDELETE"
 msgid "Are you sure you want to delete {0}?\nYou cannot undo this action."
-msgstr ""
+msgstr "Czy jesteś pewny usunięcia {0}?\nNie możesz cofnąć tej akcji."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.CORRUPTEDSAVE
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.CORRUPTEDSAVE"
 msgid "<b><color=#ff0000>Could not load file {0}. Its data may be corrupted.</color></b>"
-msgstr ""
+msgstr "<b><color=#ff0000>Błąd ładowania pliku {0}. Dane mogą być uszkodzone.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.DELETEBUTTON
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.DELETEBUTTON"
@@ -12001,7 +12001,7 @@ msgstr "Usuń Zapis"
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_TOO_NEW
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVE_TOO_NEW"
 msgid "<b><color=#ff0000>Could not load file {0}. File is using build {1}. This build is {2}.</color></b>"
-msgstr ""
+msgstr "<b><color=#ff0000>Błąd ładowania pliku {0}. Plik korzysta z buildu {1}. Ten build jest {2}.</color></b>"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.SAVEDETAILS
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.SAVEDETAILS"
@@ -12046,7 +12046,7 @@ msgstr "WYJŚCIE"
 #. STRINGS.UI.FRONTEND.MAINMENU.RESTARTCONFIRM
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RESTARTCONFIRM"
 msgid "Are you sure you want to quit?\nAll unsaved progress will be lost."
-msgstr ""
+msgstr "Czy na pewno chcesz zakończyć?\nWszystkie niezapisane postępy zostaną utracone."
 
 #. STRINGS.UI.FRONTEND.MAINMENU.RESUMEBUTTON_BASENAME
 msgctxt "STRINGS.UI.FRONTEND.MAINMENU.RESUMEBUTTON_BASENAME"
@@ -12071,17 +12071,17 @@ msgstr "Włącz"
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TITLE"
 msgid "METRICS OPTIONS"
-msgstr "OPCJE JEDNOSTEK"
+msgstr "OPCJE JEDNOSTEK (?)"
 
 #. STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.METRICS_OPTIONS_SCREEN.TOOLTIP"
 msgid "Collect metrics to help us improve the game"
-msgstr ""
+msgstr "Zbierz dane by pomóc nam ulepszyć grę"
 
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.BODY
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.BODY"
 msgid "We've detected that this computer does not meet the minimum requirements to run Oxygen Not Included. While you may continue with your current specs, the game might not run smoothly for you.\n\nPlease be aware that your experience may suffer as a result."
-msgstr ""
+msgstr "Zauważyliśmy, że ten komputer nie spełnia minimalnych wymagań, by odpalić Oxygen Not Included. Mimo, że możesz kontynuować na obecnym sprzęcie, gra może nie działać płynnie.\n\nMiej proszę na uwadze, że twoje doświadczenia z grą mogą na tym ucierpieć."
 
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.OKBUTTON
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.OKBUTTON"
@@ -12096,12 +12096,12 @@ msgstr "Opuść"
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.SIMFAILEDTOLOAD
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.SIMFAILEDTOLOAD"
 msgid "A problem occurred loading Oxygen Not Included. This is usually caused by the Visual Studio C++ 2015 runtime being improperly installed on the system. "Please exit the game, run Windows Update and try re-launching Oxygen Not Included."
-msgstr ""
+msgstr "Wystąpił problem ładując Oxygen Not Included. To zazwyczaj sprawka źle zainstalowanego Visual Studio C++ 2015 w systemie. Wyjdź proszę z gry, uruchom Windows Update i spróbuj ponownie uruchomić Oxygen Not Included."
 
 #. STRINGS.UI.FRONTEND.MINSPECSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.MINSPECSCREEN.TITLE"
 msgid "WARNING!"
-msgstr "OSTRZEŻENIE!"
+msgstr "UWAGA!"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.AUDIO
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.AUDIO"
@@ -12146,12 +12146,12 @@ msgstr "Jednostki Temperatury"
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.BODY"
 msgid "<b>Changes you should know about: </b>\n\n{0}"
-msgstr ""
+msgstr "<b>Zmiany, o których powinieneś wiedzieć: </b>\n\n{0}"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.OK_BUTTON"
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.PATCHNOTES
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.PATCHNOTES"
@@ -12161,7 +12161,7 @@ msgstr ""
 #. STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.PATCHNOTESSCREEN.TITLE"
 msgid "IMPORTANT UPDATE NOTES"
-msgstr ""
+msgstr "WAŻNE NOTKI DO AKTUALIZACJI"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.DESKTOPQUIT"
@@ -12176,7 +12176,7 @@ msgstr "Wczytaj"
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.OPTIONS
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.OPTIONS"
 msgid "Options"
-msgstr ""
+msgstr "Opcje"
 
 #. STRINGS.UI.FRONTEND.PAUSE_SCREEN.QUIT
 msgctxt "STRINGS.UI.FRONTEND.PAUSE_SCREEN.QUIT"
@@ -12231,17 +12231,17 @@ msgstr "NAZWA ZAPISU"
 #. STRINGS.UI.FRONTEND.SAVESCREEN.TITLE
 msgctxt "STRINGS.UI.FRONTEND.SAVESCREEN.TITLE"
 msgid "SAVE SLOTS"
-msgstr "MIEJSCE ZAPISU"
+msgstr "MIEJSCA ZAPISU"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS"
 msgid "Celsius"
-msgstr "Celsjusza"
+msgstr "Stopni Celsjusza"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.CELSIUS_TOOLTIP"
 msgid "Change temperature unit to Celsius (�C)"
-msgstr ""
+msgstr "Zmień jednostki temperatury na stopnie Celsjusza (�C)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT"
@@ -12251,7 +12251,7 @@ msgstr "Fahrenheita"
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.FAHRENHEIT_TOOLTIP"
 msgid "Change temperature unit to Fahrenheit (�F)"
-msgstr ""
+msgstr "Zmień jednostki temperatury na Fahrenheity (�F)"
 
 #. STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN
 msgctxt "STRINGS.UI.FRONTEND.UNIT_OPTIONS_SCREEN.KELVIN"
@@ -12276,17 +12276,17 @@ msgstr "TWORZENIE ŚWIATA"
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.LOADINGGAME
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.LOADINGGAME"
 msgid "LOADING WORLD..."
-msgstr "ŁADOWANIE ŚWIATA"
+msgstr "ŁADOWANIE ŚWIATA..."
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SELECTSIZEPROMPT
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SELECTSIZEPROMPT"
 msgid "A new world is about to be created. Please select its size."
-msgstr ""
+msgstr "Nowy świat za chwilę zostanie stworzony. Wybierz jego wielkość."
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.HUGE
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.HUGE"
 msgid "Colossal"
-msgstr ""
+msgstr "Kolosalny"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.LARGE
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.LARGE"
@@ -12301,7 +12301,7 @@ msgstr "Mały"
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.STANDARD
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.STANDARD"
 msgid "Standard"
-msgstr "Standartowy"
+msgstr "Standardowy"
 
 #. STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.TINY
 msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.TINY"
@@ -12316,7 +12316,7 @@ msgstr "NOWA GRA"
 #. STRINGS.UI.GAMEOBJECTEFFECTS.CALORIES
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.CALORIES"
 msgid "<style=\"produced\">+{0}</style>"
-msgstr ""
+msgstr "<style=\"produced\">+{0}</style>"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.FORGAVEATTACKER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.FORGAVEATTACKER"
@@ -12326,7 +12326,7 @@ msgstr "Przebaczenie"
 #. STRINGS.UI.GAMEOBJECTEFFECTS.FRIEDMUSHBARREMOVESDISEASE
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.FRIEDMUSHBARREMOVESDISEASE"
 msgid "Removes <style=\"disease\">Disease</style> chance from <style=\"food\">Mush Bar</style>"
-msgstr ""
+msgstr "Usuwa szansę na <style=\"disease\">Chorobę</style> z <style=\"food\">Batonu z Papki</style>"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.BACK
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.BACK"
@@ -12341,7 +12341,7 @@ msgstr "Anuluj"
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONBODY"
 msgid "Are you sure you want to reject all Duplicants?\n\nIt won't hurt their feelings, but it'll be awhile before the Printing Pod can print again."
-msgstr "Czy na pewno chcesz odrzucić wszystkich Duplikantów?\nTo nie wplynie na ich uczucia, ale zajmie to trochę czasu zanim będzie można wydrukować ponownie."
+msgstr "Czy na pewno chcesz odrzucić wszystkich Duplikantów?\nTo nie zrani ich uczuć, ale upłynie trochę czasu, zanim będzie można wydrukować ponownie."
 
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE"
@@ -12356,7 +12356,7 @@ msgstr "ROZPOCZNIJ"
 #. STRINGS.UI.IMMIGRANTSCREEN.IMMIGRANTSCREENTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.IMMIGRANTSCREENTITLE"
 msgid "Select a DNA Blueprint"
-msgstr "Wybierz cechy"
+msgstr "Wybierz cechy DNA"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.PROCEEDBUTTON
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.PROCEEDBUTTON"
@@ -12366,17 +12366,17 @@ msgstr "Drukuj"
 #. STRINGS.UI.IMMIGRANTSCREEN.REJECTALL
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.REJECTALL"
 msgid "Reject All"
-msgstr "Wymień Wszystkich"
+msgstr "Odrzuć Wszystkich"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SELECTDUPLICANTS
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SELECTDUPLICANTS"
 msgid "Select {0} Duplicants"
-msgstr ""
+msgstr "Wybierz {0} Duplikantów"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SELECTYOURCREW
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SELECTYOURCREW"
 msgid "ASSEMBLE YOUR CREW TO BEGIN"
-msgstr "POCZĄTKOWA ZAŁOGA"
+msgstr "DOBIERZ SWOJĄ ZAŁOGĘ BY ROZPOCZĄĆ"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLE"
@@ -12386,7 +12386,7 @@ msgstr "LOSUJ"
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP"
 msgid "Reshuffle this dupe for a different one"
-msgstr ""
+msgstr "Wylosuj innego Duplikanta"
 
 #. STRINGS.UI.JOBS
 msgctxt "STRINGS.UI.JOBS"
@@ -12396,7 +12396,7 @@ msgstr "FUNKCJE"
 #. STRINGS.UI.JOBSCREEN_EVERYONE
 msgctxt "STRINGS.UI.JOBSCREEN_EVERYONE"
 msgid "Everyone"
-msgstr ""
+msgstr "Wszyscy"
 
 #. STRINGS.UI.JOBSCREEN_HIGH
 msgctxt "STRINGS.UI.JOBSCREEN_HIGH"
@@ -12416,17 +12416,17 @@ msgstr "Priorytet"
 #. STRINGS.UI.LISTENTRYSTRING
 msgctxt "STRINGS.UI.LISTENTRYSTRING"
 msgid "     {0}\n"
-msgstr ""
+msgstr "     {0}\n"
 
 #. STRINGS.UI.LISTENTRYSTRINGNOLINEBREAK
 msgctxt "STRINGS.UI.LISTENTRYSTRINGNOLINEBREAK"
 msgid "     {0}"
-msgstr ""
+msgstr "     {0}"
 
 #. STRINGS.UI.LISTENTRYTAB
 msgctxt "STRINGS.UI.LISTENTRYTAB"
 msgid "     "
-msgstr ""
+msgstr "     "
 
 #. STRINGS.UI.MESSAGES
 msgctxt "STRINGS.UI.MESSAGES"
@@ -12441,17 +12441,17 @@ msgstr "Tlen"
 #. STRINGS.UI.METERS.HEALTH.TOOLTIP
 msgctxt "STRINGS.UI.METERS.HEALTH.TOOLTIP"
 msgid "Health"
-msgstr ""
+msgstr "Zdrowie"
 
 #. STRINGS.UI.NEUTRONIUMMASS
 msgctxt "STRINGS.UI.NEUTRONIUMMASS"
 msgid "Immeasurable"
-msgstr "Bezgraniczny"
+msgstr "Niepoliczany"
 
 #. STRINGS.UI.OVERLAYS.DECOR.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.BUTTON"
 msgid "Decor Overlay"
-msgstr ""
+msgstr "Nakładka Dekoracji"
 
 #. STRINGS.UI.OVERLAYS.DECOR.CLUTTER
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.CLUTTER"
@@ -12466,7 +12466,7 @@ msgstr "Wysoki Wystrój"
 #. STRINGS.UI.OVERLAYS.DECOR.LIGHTING
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.LIGHTING"
 msgid "Lighting"
-msgstr ""
+msgstr "Oświetlenie"
 
 #. STRINGS.UI.OVERLAYS.DECOR.LOWDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.LOWDECOR"
@@ -12476,17 +12476,17 @@ msgstr "Niski Wystrój"
 #. STRINGS.UI.OVERLAYS.DECOR.NAME
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.NAME"
 msgid "DECOR OVERLAY"
-msgstr ""
+msgstr "NAKŁADKA DEKORACJI"
 
 #. STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.HIGHDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.HIGHDECOR"
 msgid "Areas with sufficient decor values"
-msgstr ""
+msgstr "Obszary z wystarczającymi wartościami dekoracji"
 
 #. STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.LOWDECOR
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOOLTIPS.LOWDECOR"
 msgid "Areas with insufficient decor values"
-msgstr ""
+msgstr "Obszary z niewystarczającymi wartościami dekoracji"
 
 #. STRINGS.UI.OVERLAYS.DECOR.TOTAL
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.TOTAL"
@@ -12496,7 +12496,7 @@ msgstr "Całkowity"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.BUTTON"
 msgid "Power Grid Overlay"
-msgstr ""
+msgstr "Nakładka Zasilania"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND1"
@@ -12506,12 +12506,12 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND2"
 msgid "Consumer"
-msgstr "Konsumuje"
+msgstr "Konsument"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND3"
 msgid "Producer"
-msgstr "Produkuje"
+msgstr "Producent"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND4"
@@ -12526,7 +12526,7 @@ msgstr "Stabilny"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND6"
 msgid "Straining"
-msgstr ""
+msgstr "Stężony"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7"
@@ -12536,32 +12536,32 @@ msgstr "Popsuty"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.NAME
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.NAME"
 msgid "POWER GRID OVERLAY"
-msgstr ""
+msgstr "NAKŁADKA ZASILANIA"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND2"
 msgid "Uses <style=\"power\">Power</style> from circuit"
-msgstr ""
+msgstr "Korzysta z <style=\"power\">Energii</style> z obwodów"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND3"
 msgid "Generates <style=\"power\">Power</style> for circuit"
-msgstr ""
+msgstr "Generuje <style=\"power\">Energię</style> dla obwodów"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND5"
 msgid "Optimal <style=\"power\">Power</style> usage"
-msgstr ""
+msgstr "Optymalne zużycie <style=\"power\">Energii</style>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND6"
 msgid "Requires more <style=\"power\">Power</style>"
-msgstr ""
+msgstr "Potrzeba więcej <style=\"power\">Energii</style>"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND7
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND7"
 msgid "System overloaded"
-msgstr ""
+msgstr "System przeciążony"
 
 #. STRINGS.UI.OVERLAYS.EXOSUIT.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.EXOSUIT.BUTTON"
@@ -12586,77 +12586,77 @@ msgstr ""
 #. STRINGS.UI.OVERLAYS.EXOSUIT.TOOLTIPS.EXOSUITNOTREQUIRED
 msgctxt "STRINGS.UI.OVERLAYS.EXOSUIT.TOOLTIPS.EXOSUITNOTREQUIRED"
 msgid "Duplicants can safely enter these areas unprotected"
-msgstr ""
+msgstr "Duplikanci mogą bezpiecznie wejść na te tereny bez ochrony"
 
 #. STRINGS.UI.OVERLAYS.EXOSUIT.TOOLTIPS.EXOSUITREQUIRED
 msgctxt "STRINGS.UI.OVERLAYS.EXOSUIT.TOOLTIPS.EXOSUITREQUIRED"
 msgid "Duplicants must wear an <style=\"equipment\">Exosuit</style> to survive in these areas"
-msgstr ""
+msgstr "Duplikanci muszą nosić <style=\"equipment\">Exosuit</style> by przeżyć w tych obszarach"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.BUTTON"
 msgid "Gas Plumbing Overlay"
-msgstr ""
+msgstr "Nakładka gazociągów"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.CONNECTED"
 msgid "Connected"
-msgstr ""
+msgstr "Połączony"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.CONSUMER"
 msgid "Output"
-msgstr ""
+msgstr "Ujście"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_AFTER_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_AFTER_ARROW"
 msgid "Intake via pipes"
-msgstr ""
+msgstr "Wlot przez rury"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_BEFORE_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_BEFORE_ARROW"
 msgid "Gas flows from Output"
-msgstr ""
+msgstr "Gaz wylatuje z Ujścia"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.DISCONNECTED"
 msgid "Disconnected"
-msgstr ""
+msgstr "Rozłączony"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.FILTERED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.FILTERED"
 msgid "Filtered Output"
-msgstr ""
+msgstr "Filtrowane Ujście"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.NAME
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.NAME"
 msgid "GAS PLUMBING OVERLAY"
-msgstr ""
+msgstr "NAKŁADKA GAZOCIĄGÓW"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.NETWORK
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.NETWORK"
 msgid "Gas Network {0}"
-msgstr ""
+msgstr "Sieć Gazowa {0}"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.PRODUCER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.PRODUCER"
 msgid "Intake"
-msgstr ""
+msgstr "Wlot"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONNECTED"
 msgid "Connected to a <style=\"GasPiping\">Gas Pipe</style>"
-msgstr ""
+msgstr "Połączone z <style=\"GasPiping\">Rurą Gazową</style>"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONSUMER
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.CONSUMER"
 msgid "Point where a building sends gas into pipes\n* Must be connected to a <style=\"GasDestination\">Destination</style>"
-msgstr ""
+msgstr "Punkt w którym budynek wysyła gaz do rur\n* Musi być połączone z <style=\"GasDestination\">Miejscem docelowym</style>"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.DISCONNECTED"
 msgid "Not connected to a <style=\"GasPiping\">Gas Pipe</style>"
-msgstr ""
+msgstr "Nie podłączone do <style=\"GasPiping\">Rury Gazowej</style>"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.NETWORK
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.TOOLTIPS.NETWORK"

@@ -580,7 +580,7 @@ msgstr "<style=\"equipment\">Narzędzie uniwersalne</style> jest potrzebne do wy
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.NAME"
 msgid "No Gas Intake"
-msgstr "Brak Źródła Gazu"
+msgstr "Brak Wlotu Gazu"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDGASIN.TOOLTIP"
@@ -600,7 +600,7 @@ msgstr "Budynek nie ma gdzie odprowadzać <style=\"gas\">Gazu</style>"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.NAME"
 msgid "No Liquid Intake"
-msgstr "Brak Źródła Płynów"
+msgstr "Brak Wlotu Cieczy"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDLIQUIDIN.TOOLTIP"
@@ -1566,7 +1566,7 @@ msgstr "Transport gazu jest łatwy jeśli użyjesz tych szczelnych rór."
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUIT.EFFECT"
 msgid "Transports <style=\"gas\">Gas</style> between <style=\"GasPiping\">Gas Intakes</style> and <style=\"GasPiping\">Gas Outputs</style>.\n\nCan be run through floor and wall tiles."
-msgstr "Transportuje <style=\"gas\">Gaz</style> od <style=\"GasPiping\">Wlotu Gazu</style> do <style=\"GasPiping\">Wylotu Gazu</style>.\n\nCan be run through floor and wall tiles."
+msgstr "Transportuje <style=\"gas\">Gaz</style> od <style=\"GasPiping\">Wlotów</style> do <style=\"GasPiping\">Ujść</style>.\n\nMoże przechodzić przez podłogi i ściany."
 
 #. STRINGS.BUILDINGS.PREFABS.GASCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUIT.NAME"
@@ -1746,7 +1746,7 @@ msgstr "Gwarantuje, że gazy pozostaną gorące lub zimne.\nAlbo cokolwiek inneg
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.EFFECT"
 msgid "Transports <style=\"gas\">Gas</style> between <style=\"GasPiping\">Intakes</style> and <style=\"GasPiping\">Outputs</style> with minimal change in <style=\"heat\">Temperature</style>.\n\nCan be run through floor and wall tiles."
-msgstr "Przemieszcza <style=\"gas\">Gazy</style> pomiędzy <style=\"GasPiping\">Źrudłem</style> i <style=\"GasPiping\">Wylotem</style> z minimalną stratą <style=\"heat\">Temperatury</style>.\n\nMożna poprowadzić poprzez ściany i podłogi."
+msgstr "Przemieszcza <style=\"gas\">Gazy</style> pomiędzy <style=\"GasPiping\">Wlotami</style> i <style=\"GasPiping\">Ujściami</style> z minimalną stratą <style=\"heat\">Temperatury</style>.\n\nMożna poprowadzić poprzez ściany i podłogi."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.NAME"
@@ -1761,7 +1761,7 @@ msgstr "Gwarantuje, że płyny pozostaną gorące lub zimne.\nAlbo cokolwiek inn
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.EFFECT"
 msgid "Transports <style=\"liquid\">Liquid</style> between <style=\"LiquidPiping\">Intakes</style> and <style=\"LiquidPiping\">Outputs</style> with minimal change in <style=\"heat\">Temperature</style>.\n\nCan be run through floor and wall tiles."
-msgstr "Przemieszcza <style=\"liquid\">Płyny</style> pomiędzy <style=\"LiquidPiping\">Ujęciem</style> i <style=\"LiquidPiping\">Ujściem</style> z minimalną stratą <style=\"heat\">Temperatury</style>.\n\nMożna poprowadzić poprzez ściany i podłogi."
+msgstr "Przemieszcza <style=\"liquid\">Ciecze</style> pomiędzy <style=\"LiquidPiping\">Wlotami</style> i <style=\"LiquidPiping\">Ujściami</style> z minimalną stratą <style=\"heat\">Temperatury</style>.\n\nMożna poprowadzić poprzez ściany i podłogi."
 
 #. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.NAME"
@@ -10866,32 +10866,32 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASINPUT"
 msgid "<style=\"GasPiping\">Gas Intake Pipe</style>"
-msgstr ""
+msgstr "<style=\"GasPiping\">Wlot Gazu</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUT"
 msgid "<style=\"GasPiping\">Gas Output Pipe</style>"
-msgstr ""
+msgstr "<style=\"GasPiping\">Ujście Gazu</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUTS"
 msgid "Two <style=\"GasPiping\">Gas Output Pipes</style>"
-msgstr ""
+msgstr "Dwa <style=\"GasPiping\">Ujścia Gazu</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDINPUT"
 msgid "<style=\"LiquidPiping\">Liquid Intake Pipe</style>"
-msgstr ""
+msgstr "<style=\"LiquidPiping\">Wlot Cieczy</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUT"
 msgid "<style=\"LiquidPiping\">Liquid Output Pipe</style>"
-msgstr ""
+msgstr "<style=\"LiquidPiping\">Ujście Cieczy</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUTS"
 msgid "Two <style=\"LiquidPiping\">Liquid Output Pipes</style>"
-msgstr ""
+msgstr "Dwa <style=\"LiquidPiping\">Ujścia Cieczy</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESMANUALOPERATION
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESMANUALOPERATION"
@@ -10901,27 +10901,27 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWER
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWER"
 msgid "<style=\"power\">Power</style>: <style=\"consumed\">-{0}</style>"
-msgstr ""
+msgstr "<style=\"power\">Power</style>: <style=\"consumed\">-{0}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWERGENERATOR
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWERGENERATOR"
 msgid "<style=\"power\">Power</style> generator"
-msgstr ""
+msgstr "Generator <style=\"power\">Energii</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESSEED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESSEED"
 msgid "1 Unplanted <style=\"seed\">Seed</style>"
-msgstr ""
+msgstr "1 Niezasadzone <style=\"seed\">Nasiono</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY"
 msgid "Storage capacity: {0}"
-msgstr ""
+msgstr "Pojemność Magazynu: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.STRESSREDUCEDPERMINUTE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.STRESSREDUCEDPERMINUTE"
 msgid "<style=\"stress\">Stress</style>: <style=\"consumed\">{0} per minute</style>"
-msgstr ""
+msgstr "<style=\"stress\">Stres</style>: <style=\"consumed\">{0} na minutę</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ASSIGNEDDUPLICANT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ASSIGNEDDUPLICANT"
@@ -12721,12 +12721,12 @@ msgstr "Wyjście"
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_AFTER_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_AFTER_ARROW"
 msgid "Intake via pipes"
-msgstr "Wlot rury"
+msgstr "Wlot przez rury"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_BEFORE_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_BEFORE_ARROW"
 msgid "Liquid flows from Output"
-msgstr "Płyny przepływają z Wyjścia"
+msgstr "Płyny wypływają z Wyjścia"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DISCONNECTED
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DISCONNECTED"
@@ -12786,17 +12786,17 @@ msgstr "Punkt, z którego budynek otrzymuje płyny z rur\n* Musi być podłączo
 #. STRINGS.UI.OVERLAYS.OXYGEN.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.BUTTON"
 msgid "Oxygen Overlay"
-msgstr "Ilość Tlenu"
+msgstr "Nakładka Tlenu"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND1"
 msgid "Very Breathable"
-msgstr "Dużo tlenu"
+msgstr "Bardzo natleniony"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND2"
 msgid "Breathable"
-msgstr "Zdatny do oddychania"
+msgstr "Natleniony"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND3"
@@ -12806,7 +12806,7 @@ msgstr "Ledwo natleniony"
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND4"
 msgid "Unbreathable"
-msgstr "Gaz Beztlenowy"
+msgstr "Niezdatny do oddychania"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND5
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND5"
@@ -12816,12 +12816,12 @@ msgstr "Nieco Toksyczny"
 #. STRINGS.UI.OVERLAYS.OXYGEN.LEGEND6
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.LEGEND6"
 msgid "Very Toxic"
-msgstr "Bardzo Tokstyczny"
+msgstr "Bardzo Toksyczny"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.NAME
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.NAME"
 msgid "OXYGEN OVERLAY"
-msgstr "ILOŚĆ TLENU"
+msgstr "NAKŁADKA TLENU"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND1"
@@ -12831,7 +12831,7 @@ msgstr "Duże stężenie tlenu"
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND2"
 msgid "Prominent oxygen concentration"
-msgstr "Znaczna koncentracja tlenu"
+msgstr "Znaczne stężenie tlenu"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND3"
@@ -12856,7 +12856,7 @@ msgstr "Zabójcze stężenie gazu"
 #. STRINGS.UI.OVERLAYS.PRIORITIES.BUTTON
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.BUTTON"
 msgid "Priority Overlay"
-msgstr "Nakładka Priorytet"
+msgstr "Nakładka Priorytetów"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.EIGHT"
@@ -12891,7 +12891,7 @@ msgstr "Priorytet 4"
 #. STRINGS.UI.OVERLAYS.PRIORITIES.NAME
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.NAME"
 msgid "PRIORITY OVERLAY"
-msgstr "NAKŁADKA PRIORYTET"
+msgstr "NAKŁADKA PRIORYTETÓW"
 
 #. STRINGS.UI.OVERLAYS.PRIORITIES.NINE
 msgctxt "STRINGS.UI.OVERLAYS.PRIORITIES.NINE"
@@ -13416,7 +13416,7 @@ msgstr "Budynki"
 #. STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR"
 msgid "Sweep & Mop Orders"
-msgstr "Rozkazy Zamiatania i Mopowania"
+msgstr "Rozkazy Zamiatania i Zmywania"
 
 #. STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER
 msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER"
@@ -13471,12 +13471,12 @@ msgstr "Mop"
 #. STRINGS.UI.TOOLS.MOP.TOOLACTION
 msgctxt "STRINGS.UI.TOOLS.MOP.TOOLACTION"
 msgid "DRAG TO MOP"
-msgstr "PRZECIĄGNIJ BY ZMOPOWAĆ"
+msgstr "PRZECIĄGNIJ BY ZMYĆ"
 
 #. STRINGS.UI.TOOLS.MOP.TOOLNAME
 msgctxt "STRINGS.UI.TOOLS.MOP.TOOLNAME"
 msgid "Mop tool"
-msgstr "Narzędzie do mopowania"
+msgstr "Narzędzie do zmywania"
 
 #. STRINGS.UI.TOOLS.PRIORITIESCATEGORY.NAME
 msgctxt "STRINGS.UI.TOOLS.PRIORITIESCATEGORY.NAME"
@@ -13536,7 +13536,7 @@ msgstr "Powiadomienia pokazują ważne informacje o tym, co obecnie dzieje się 
 #. STRINGS.UI.TOOLTIPS.ATTACKBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.ATTACKBUTTON"
 msgid "Drag to batch harvest mature plants"
-msgstr ""
+msgstr "Przeciągnij by zebrać zbiorczo pożywienie z dorosłych roślin"
 
 #. STRINGS.UI.TOOLTIPS.BASE_VALUE
 msgctxt "STRINGS.UI.TOOLTIPS.BASE_VALUE"
@@ -13556,7 +13556,7 @@ msgstr "Anuluj skolejkowane rozkazy lub zdemontuj istniejące budynki"
 #. STRINGS.UI.TOOLTIPS.CLEANUPMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CLEANUPMAINBUTTON"
 msgid "Mop and declutter messy floors"
-msgstr "Zmopuj i posprzątaj bałagan na podłogach"
+msgstr "Zmyj i posprzątaj bałagan na podłogach"
 
 #. STRINGS.UI.TOOLTIPS.CLEARBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CLEARBUTTON"
@@ -13621,7 +13621,7 @@ msgstr "Pokazuje i modyfikuje systemy gazociągów"
 #. STRINGS.UI.TOOLTIPS.HARVESTBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.HARVESTBUTTON"
 msgid "Drag to batch harvest mature plants"
-msgstr ""
+msgstr "Przeciągnij by zebrać zbiorczo pożywienie z dorosłych roślin"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_CEILING
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_CEILING"

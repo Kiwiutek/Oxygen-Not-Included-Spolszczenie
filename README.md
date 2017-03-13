@@ -1,6 +1,6 @@
 # Oxygen Not Included: Spolszczenie<br>
 
-<b>Prosimy o zapoznanie się z tymi wątkami przed rozpoczęciem pierwszych tłumaczeń!</b>
+<b><u>WAŻNE! Prosimy o zapoznanie się z tymi wątkami przed rozpoczęciem pierwszych tłumaczeń!</u></b>
 
 PODZIAŁ OBOWIĄZKÓW!
 ► https://github.com/Kiwiutek/Oxygen-Not-Included-Spolszczenie/issues/21

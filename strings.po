@@ -761,7 +761,7 @@ msgstr "Brak jadalnych ryb w tej strukturze"
 #. STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.NAME"
 msgid "Pump Not In Gas"
-msgstr "Pompa nie jest umieszczona w Gazie"
+msgstr "Pompa nie ma dostępu do Gazu"
 
 #. STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NOGASELEMENTTOPUMP.TOOLTIP"
@@ -1156,12 +1156,12 @@ msgstr "Budynek pracuje jak zamierzono"
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC"
 msgid "Every additional monitor multiplies the research potential exponentially."
-msgstr "Każdy dodatkowy monitor zwiększa zdolność badawczą wykładniczo"
+msgstr "Każdy dodatkowy monitor gwałtownie zwiększa potencjał naukowo-badawczy."
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT"
 msgid "Can be worked by Duplicants to conduct <style=\"research\">Intermediary Research</style> and unlock new technologies."
-msgstr "Może być wykorzystywany przez Duplikantów do prowadzenia <style=\"research\">Pośrednich Badania</style> wcelu odblokowania nowych technologii."
+msgstr "Może być wykorzystywany przez Duplikantów do prowadzenia <style=\"research\">Pośrednich Badań</style> w celu odblokowania nowych technologii."
 
 #. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME"
@@ -1181,7 +1181,7 @@ msgstr "Chłodzi przepływający <style=\"gas\">Gaz</style>, lecz w efekcie <sty
 #. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME"
 msgid "Thermo Regulator"
-msgstr "Termo Regulator"
+msgstr "Termoregulator"
 
 #. STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC"
@@ -1201,12 +1201,12 @@ msgstr "Odświeżacz powietrza"
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC"
 msgid "The resulting algae still looks pretty slimy, to be honest."
-msgstr "Powstałe glony nadal wyglądają całkiem śluzowato szczerze mówiąc"
+msgstr "Szczerze mówiąc, powstałe glony nadal wyglądają ohydnie"
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT"
 msgid "Converts <style=\"misc\">Slime</style> into <style=\"misc\">Algae</style>."
-msgstr "Zmienia <style=\"misc\">Śluz</style> w <style=\"misc\">Glony</style>."
+msgstr "Przetwarza <style=\"misc\">Śluz</style> w <style=\"misc\">Glony</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME"
@@ -1221,7 +1221,7 @@ msgstr "Kolonia Glonów. Kolonia Duplikantów.\nJesteśmy do siebie bardziej pod
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT"
 msgid "Recycles <style=\"gas\">Carbon Dioxide</style> into a small amount of <style=\"oxygen\">Oxygen</style>.\n\nGains a minor efficiency boost in direct <style=\"light\">Light</style>."
-msgstr "Zamienia <style=\"gas\">Dwutlenek Węgla</style> w niewielkie ilości <style=\"oxygen\">Tlenu</style>."
+msgstr "Przetwarza <style=\"gas\">Dwutlenek Węgla</style> w niewielkie ilości <style=\"oxygen\">Tlenu</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.NAME"
@@ -1231,12 +1231,12 @@ msgstr "Terarium glonów"
 #. STRINGS.BUILDINGS.PREFABS.APOTHECARY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.DESC"
 msgid "All-natural remedies to cure what ails you."
-msgstr "Naturalne medkamenty, aby wyleczyć Twoje dolegliwości."
+msgstr "Całkowicie naturalne lekarstwa, które pomogą na Twoje dolegliwości."
 
 #. STRINGS.BUILDINGS.PREFABS.APOTHECARY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.EFFECT"
 msgid "Cures most Duplicant <style=\"disease\">Diseases</style> by producing basic <style=\"medicine\">Medicines</style>.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr "Leczy większość <style=\"disease\">Chorób</style> dolegających Duplikantom, poprzez produkcje prostych <style=\"medicine\">Medykamentów</style>.\n\nDuplikant nie będzie produkował, dopóki nie pojawi się recepta"
+msgstr "Leczy większość <style=\"disease\">Chorób</style> dolegających Duplikantom, poprzez produkcje podstawowych <style=\"medicine\">Leków</style>.\n\nDuplikant nie będzie produkował, dopóki nie pojawi się recepta"
 
 #. STRINGS.BUILDINGS.PREFABS.APOTHECARY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.NAME"
@@ -1246,7 +1246,7 @@ msgstr "Pigularz"
 #. STRINGS.BUILDINGS.PREFABS.BATTERY.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.DESC"
 msgid "It isn't very efficient to let half your energy seep into the cosmos. Fight that entropy!"
-msgstr "To niezbyt wydajne rozwiązanie, pozwala połowie Twojej energii ulecieć w kosmosu. Zwalcz tę entropię"
+msgstr "Pozwalasz, by połowa twojej energi uleciała w kosmos. Zakończ ten obłęd!"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERY.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.EFFECT"
@@ -1256,7 +1256,7 @@ msgstr "Magazynuje nieco <style=\"power\">Energi</style> z generatorów, ale tra
 #. STRINGS.BUILDINGS.PREFABS.BATTERY.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.NAME"
 msgid "Tiny Battery"
-msgstr "Malutka Bateria"
+msgstr "Malutki akumulator"
 
 #. STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.DESC"
@@ -1276,7 +1276,7 @@ msgstr "Akumulator"
 #. STRINGS.BUILDINGS.PREFABS.BED.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.DESC"
 msgid "A soft patch in a hard world.\nYour Duplicants will be grateful to have their own bed."
-msgstr "Przytulny zakątek, w tym okrutnym świecie. Twoi Duplikanci będą wdzęczni, za ich własne łóżko."
+msgstr "Pozwala na odpoczynek, w tym okrutnym świecie. Twoi Duplikanci będą wdzęczni, że posiadają swoje własne łóżko."
 
 #. STRINGS.BUILDINGS.PREFABS.BED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.BED.EFFECT"
@@ -1296,12 +1296,12 @@ msgstr "Przeciętny Obraz"
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.DESC"
 msgid "Hopefully your Duplicants have been practicing their color theory."
-msgstr "Na szczęście Duplikanci poszerzyli swoją wiedzę na temat barw."
+msgstr "Na szczęście Duplikanci poszerzają swoją wiedzę o kolorach."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.EFFECT"
 msgid "Increases <style=\"decor\">Decor Opinion</style> and reduces Duplicants' <style=\"stress\">Stress</style>.\n\nMust be painted by a Duplicant."
-msgstr "Zwiększa zadowolenie Duplikanta z <style=\"decor\">Wystroju</style> oraz redukuje jego <style=\"stress\">Stres</style>.\n\nMusi być namalowane przez Duplikanta."
+msgstr "Zwiększa zadowolenie Duplikanta z <style=\"decor\">Wystroju</style> oraz redukuje jego <style=\"stress\">Stres</style>.\n\nMusi być namalowany przez Duplikanta."
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.EXCELLENTQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.EXCELLENTQUALITYNAME"
@@ -1311,7 +1311,7 @@ msgstr "Arcydzieło"
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.NAME"
 msgid "Blank Canvas"
-msgstr "Czyste Płótno"
+msgstr "Płótno na Obraz"
 
 #. STRINGS.BUILDINGS.PREFABS.CANVAS.POORQUALITYNAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.POORQUALITYNAME"
@@ -1351,12 +1351,12 @@ msgstr "Filtr powietrzna"
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.DESC"
 msgid "Don't waste your waste!"
-msgstr "To się jeszcze da wykorzystać!."
+msgstr "To się jeszcze da wykorzystać!"
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT"
 msgid "Breaks <style=\"solid\">Contaminated Dirt</style> down into <style=\"solid\">Fertilizer</style>."
-msgstr "Zamienia <style=\"solid\">Zanieczyszczoną Ziemię</style> w <style=\"solid\">Nawóz</style>."
+msgstr "Przetwarza <style=\"solid\">Zanieczyszczoną Ziemię</style> na <style=\"solid\">Nawóz</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.COMPOST.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.NAME"
@@ -1386,7 +1386,7 @@ msgstr "Kolonia jedząca razem, wydala razem."
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT"
 msgid "Gives Duplicants a place to eat and reduces <style=\"stress\">Stress</style>.\n\nDuplicants will automatically eat at their assigned table when hungry."
-msgstr "Stwórz miejsce gdzie Duplikanci będą jeść i zmniejszać <style=\"stress\">Stres</style>.\n\nDuplikant zostanie automatycznie przypisany do stolika jesli tylko zgłodnieje."
+msgstr "Miejsce, gdzie Duplikanci mogą jeść i redukować <style=\"stress\">Stres</style>.\n\nDuplikant zostanie automatycznie przypisany do stolika jesli tylko będzie głodny."
 
 #. STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME"
@@ -1396,7 +1396,7 @@ msgstr "Stół"
 #. STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.DESC"
 msgid "Gets hot and steamy."
-msgstr "Uzyskaj ciepło i parę wodną."
+msgstr "Robi się gorąca i paruje."
 
 #. STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.EFFECT"

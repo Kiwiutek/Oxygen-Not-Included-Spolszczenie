@@ -22,5 +22,7 @@ Inne uwagi:
 6. Następnie macie dostęp do edycji spolszczenia, gdy skończycie klikacie na dole strony zielony guzik z napisem Propose file change<br>
 7. Później klikacie zielone Create pull request -> i jeszcze raz Create pull request (możęcie wpisać komentarz)<br>
 8. Wasza publikacja trafia do mnie i czeka na zatwierdzenie <br>
-<br><br>
-Pytania, sugestie, błędy itp. proszę kierować na kiwiutek@gmail.com
+
+Pytania, sugestie, błędy itp. proszę kierować na:
+- Kiwiutek: kiwiutek@gmail.com
+- Staszek: igraszkastaszka@gmail.com

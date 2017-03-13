@@ -1,0 +1,999 @@
+#. STRINGS.UI.OVERLAYS.STORAGEREGIONS.REGION
+msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.REGION"
+msgid "Exosuit Region {0}"
+msgstr ""
+
+#. STRINGS.UI.OVERLAYS.STORAGEREGIONS.TOOLTIPS.NOREGIONS
+msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.TOOLTIPS.NOREGIONS"
+msgid "No storage areas have been designated to receive materials"
+msgstr "Żadne obszary magazynowania nie zostały przeznaczone do otrzymywania materiałów"
+
+#. STRINGS.UI.OVERLAYS.STORAGEREGIONS.TOOLTIPS.REGION
+msgctxt "STRINGS.UI.OVERLAYS.STORAGEREGIONS.TOOLTIPS.REGION"
+msgid "{0} is accepting materials"
+msgstr "{0} przyjmuje materiały"
+
+#. STRINGS.UI.OVERLAYS.TEMPERATURE.BUTTON
+msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.BUTTON"
+msgid "Temperature Overlay"
+msgstr "Nakładka Temperatury"
+
+#. STRINGS.UI.OVERLAYS.TEMPERATURE.COLD
+msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.COLD"
+msgid "Chilled"
+msgstr "Chłodny"
+
+#. STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMECOLD
+msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMECOLD"
+msgid "Absolute Zero"
+msgstr "Zero Absolutne"
+
+#. STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMEHOT
+msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.EXTREMEHOT"
+msgid "Scorching"
+msgstr "Palący"
+
+#. STRINGS.UI.OVERLAYS.TEMPERATURE.HOT
+msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.HOT"
+msgid "Warm"
+msgstr "Ciepły"
+
+#. STRINGS.UI.OVERLAYS.TEMPERATURE.MAXHOT
+msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.MAXHOT"
+msgid "Molten"
+msgstr "Topniejący"
+
+#. STRINGS.UI.OVERLAYS.TEMPERATURE.NAME
+msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.NAME"
+msgid "TEMPERATURE OVERLAY"
+msgstr "NAKŁADKA TEMPERATURY"
+
+#. STRINGS.UI.OVERLAYS.TEMPERATURE.TEMPERATE
+msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.TEMPERATE"
+msgid "Temperate"
+msgstr "Umiarkowany"
+
+#. STRINGS.UI.OVERLAYS.TEMPERATURE.TOOLTIPS.TEMPERATURE
+msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.TOOLTIPS.TEMPERATURE"
+msgid "Temperatures reaching {0}"
+msgstr "Temperatura sięgająca {0}"
+
+#. STRINGS.UI.OVERLAYS.TEMPERATURE.VERYCOLD
+msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.VERYCOLD"
+msgid "Cold"
+msgstr "Zimny"
+
+#. STRINGS.UI.OVERLAYS.TEMPERATURE.VERYHOT
+msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.VERYHOT"
+msgid "Hot"
+msgstr "Gorący"
+
+#. STRINGS.UI.OVERLAYSTITLE
+msgctxt "STRINGS.UI.OVERLAYSTITLE"
+msgid "OVERLAYS"
+msgstr "NAKŁADKI"
+
+#. STRINGS.UI.PICKEDUP
+msgctxt "STRINGS.UI.PICKEDUP"
+msgid "Picked Up: {0} {1}"
+msgstr "Podniesiono: {0} {1}"
+
+#. STRINGS.UI.PLACEINRECEPTACLE
+msgctxt "STRINGS.UI.PLACEINRECEPTACLE"
+msgid "Plant"
+msgstr "Zasiej"
+
+#. STRINGS.UI.POSITIVE_FORMAT
+msgctxt "STRINGS.UI.POSITIVE_FORMAT"
+msgid "+{0}"
+msgstr "+{0}"
+
+#. STRINGS.UI.PRIORITYSCREEN.BUILDMENUPRIORITYTOOLTIP
+msgctxt "STRINGS.UI.PRIORITYSCREEN.BUILDMENUPRIORITYTOOLTIP"
+msgid "Set construction priority level\n------------------\nPriority 1: Lowest\nPriority 9: Highest"
+msgstr "Ustal priorytet budowy\n------------------\nPriorytet 1: Najniższy\nPriorytet 9: Najwyższy"
+
+#. STRINGS.UI.PRIORITYSCREEN.TOOLPRIORITYTOOLTIP
+msgctxt "STRINGS.UI.PRIORITYSCREEN.TOOLPRIORITYTOOLTIP"
+msgid "Set priority level for the currently selected tool\n------------------\nPriority 1: Lowest\nPriority 9: Highest"
+msgstr "Ustal priorytet dla aktualnie wybranego narzędzia\n------------------\nPriorytet 1: Najniższy\nPriorytet 9: Najwyższy"
+
+#. STRINGS.UI.PRIORITYSCREEN.USERMENUPRIORITYTOOLTIP
+msgctxt "STRINGS.UI.PRIORITYSCREEN.USERMENUPRIORITYTOOLTIP"
+msgid "Set priority level for the currently selected object\n------------------\nPriority 1: Lowest\nPriority 9: Highest"
+msgstr "Ustal priorytet dla obecnie wybranego obiektu\n------------------\nPriorytet 1: Najniższy\nPriorytet 9: Najwyższy"
+
+#. STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES
+msgctxt "STRINGS.UI.PRODUCTINFO_APPLICABLERESOURCES"
+msgid "Required resources:"
+msgstr "Wymagane surowce:"
+
+#. STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_DESC
+msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_DESC"
+msgid "{0} has not yet been discovered."
+msgstr "{0} nie został jeszcze odkryty."
+
+#. STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_HOVER
+msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_HOVER"
+msgid "Missing resource(s)"
+msgstr "Brakujące zasoby"
+
+#. STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_TITLE
+msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_TITLE"
+msgid "Requires {0}: {1}"
+msgstr "Wymaga {0}: {1}"
+
+#. STRINGS.UI.PRODUCTINFO_REQUIRESRESEARCHDESC
+msgctxt "STRINGS.UI.PRODUCTINFO_REQUIRESRESEARCHDESC"
+msgid "Requires {0} Research"
+msgstr "Wymaga {0} Badań"
+
+#. STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED
+msgctxt "STRINGS.UI.PRODUCTINFO_RESEARCHREQUIRED"
+msgid "Research required..."
+msgstr "Badanie wymagane..."
+
+#. STRINGS.UI.PRODUCTINFO_SELECTMATERIAL
+msgctxt "STRINGS.UI.PRODUCTINFO_SELECTMATERIAL"
+msgid "Select {0}:"
+msgstr "Wybierz {0}:"
+
+#. STRINGS.UI.QUEUE
+msgctxt "STRINGS.UI.QUEUE"
+msgid "Queue"
+msgstr "Kolejka"
+
+#. STRINGS.UI.RED_ALERT
+msgctxt "STRINGS.UI.RED_ALERT"
+msgid "RED ALERT"
+msgstr "CZERWONY ALARM"
+
+#. STRINGS.UI.REMOVEFROMRECEPTACLE
+msgctxt "STRINGS.UI.REMOVEFROMRECEPTACLE"
+msgid "Dig Up"
+msgstr "Kopanie"
+
+#. STRINGS.UI.REPORT
+msgctxt "STRINGS.UI.REPORT"
+msgid "REPORTS"
+msgstr "RAPORTY"
+
+#. STRINGS.UI.RESEARCH
+msgctxt "STRINGS.UI.RESEARCH"
+msgid "RESEARCH"
+msgstr "BADANIA"
+
+#. STRINGS.UI.RESEARCHPOINTS
+msgctxt "STRINGS.UI.RESEARCHPOINTS"
+msgid "Research points"
+msgstr "Punkty badań"
+
+#. STRINGS.UI.RESEARCHSCREEN_UNLOCKSTOOLTIP
+msgctxt "STRINGS.UI.RESEARCHSCREEN_UNLOCKSTOOLTIP"
+msgid "Unlocks: {0}"
+msgstr "Odblokowuje: {0}"
+
+#. STRINGS.UI.SCHEDULE
+msgctxt "STRINGS.UI.SCHEDULE"
+msgid "SCHEDULE"
+msgstr "HARMONOGRAM"
+
+#. STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION
+msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION"
+msgid "EAT:\nDuring Mealtime Duplicants will head to their assigned mess halls and eat."
+msgstr "JEDZ:\nPodczas Obiadu Duplikanci powędrują do przypisanych stolików i tam zjedzą posiłek."
+
+#. STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.NAME
+msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.NAME"
+msgid "Mealtime"
+msgstr "Czas na posiłek"
+
+#. STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.DESCRIPTION
+msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.DESCRIPTION"
+msgid "HYGIENE:\nDuring <style=\"hygiene\">Hygiene</style> hours Duplicants will head to their assigned washrooms to get cleaned up."
+msgstr "HIGIENA:\nPodczas <style=\"hygiene\">Kąpieli</style> Duplikanci powędrują do przypisanych toalet by się umyć."
+
+#. STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.NAME
+msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.NAME"
+msgid "Hygiene"
+msgstr "Kąpiel"
+
+#. STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.DESCRIPTION
+msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.DESCRIPTION"
+msgid "HAMMER TIME:\nDuring Hammer Time, Duplicants will relieve their <style=\"stress\">Stress</style> through dance. Please be aware that no matter how hard your Duplicants try, they will absolutely not be able to touch this."
+msgstr "HAMMER TIME:\nPodczas Hammer Time Duplikanci zniosą swój <style=\"stress\">Stres</style> poprzez taniec. Proszę, miej świadomość, że bez względu na to, jak bardzo twoi Duplikanci będą próbować, absolutnie nie będą w stanie tego dotknąć."
+
+#. STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.NAME
+msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.NAME"
+msgid "Recreation"
+msgstr "Rekreacja"
+
+#. STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.DESCRIPTION
+msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.DESCRIPTION"
+msgid "SLEEP:\nWhen it's time to sleep, Duplicants will head to their assigned rooms and rest."
+msgstr "SEN:\nKiedy nadchodzi czas snu, Duplikacji powędrują do przypisanych pokoi i udadzą się na spoczynek."
+
+#. STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.NAME
+msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.NAME"
+msgid "Sleep"
+msgstr "Sen"
+
+#. STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.DESCRIPTION
+msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.DESCRIPTION"
+msgid "WORK:\nDuring Work hours Duplicants will perform any pending job tasks in the colony."
+msgstr "PRACA:\nPoczas godzin Pracy Duplikancji zajmą się każdym przypisanym zadaniem w kolonii."
+
+#. STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.NAME
+msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.WORK.NAME"
+msgid "Work"
+msgstr "Praca"
+
+#. STRINGS.UI.SCHEDULESCREEN.ALLOWED
+msgctxt "STRINGS.UI.SCHEDULESCREEN.ALLOWED"
+msgid "Allowed"
+msgstr "Pozwolono"
+
+#. STRINGS.UI.SCHEDULESCREEN.BLOCKS
+msgctxt "STRINGS.UI.SCHEDULESCREEN.BLOCKS"
+msgid "BLOCKS:"
+msgstr "BLOKI:"
+
+#. STRINGS.UI.SCHEDULESCREEN.CLICKTOCHANGE
+msgctxt "STRINGS.UI.SCHEDULESCREEN.CLICKTOCHANGE"
+msgid "Click to change block type."
+msgstr "Kliknij, by zmienić typ bloku."
+
+#. STRINGS.UI.SCHEDULESCREEN.CLICKTOSELECT
+msgctxt "STRINGS.UI.SCHEDULESCREEN.CLICKTOSELECT"
+msgid "Click to select."
+msgstr "Kliknij, aby wybrać."
+
+#. STRINGS.UI.SCHEDULESCREEN.DENIED
+msgctxt "STRINGS.UI.SCHEDULESCREEN.DENIED"
+msgid "Denied"
+msgstr "Odrzucone"
+
+#. STRINGS.UI.SCHEDULESCREEN.SCHEDULE
+msgctxt "STRINGS.UI.SCHEDULESCREEN.SCHEDULE"
+msgid "SCHEDULE:"
+msgstr "HARMONOGRAM:"
+
+#. STRINGS.UI.SCHEDULESCREEN.SELECTBLOCKTYPETOOLTIP
+msgctxt "STRINGS.UI.SCHEDULESCREEN.SELECTBLOCKTYPETOOLTIP"
+msgid "Select a block type to adjust the colony's schedule"
+msgstr "Wybierz typ bloku aby nanieść zmiany na harmonogram kolonii"
+
+#. STRINGS.UI.SCHEDULESCREEN.SELECTHELP
+msgctxt "STRINGS.UI.SCHEDULESCREEN.SELECTHELP"
+msgid "Select an option and then click or drag on the timetable to adjust the Duplicant's schedule."
+msgstr "Wybierz opcję, a następnie kliknij lub przesuń na rozkładzie by nanieść zmiany w harmonogramie Duplikanta."
+
+#. STRINGS.UI.SCHEDULESCREEN.TIMESLOT
+msgctxt "STRINGS.UI.SCHEDULESCREEN.TIMESLOT"
+msgid "Time Slot"
+msgstr "Slot Czasu"
+
+#. STRINGS.UI.SPEED_FAST
+msgctxt "STRINGS.UI.SPEED_FAST"
+msgid "FAST"
+msgstr "SZYBKO"
+
+#. STRINGS.UI.SPEED_MEDIUM
+msgctxt "STRINGS.UI.SPEED_MEDIUM"
+msgid "MEDIUM"
+msgstr "UMIARKOWANIE"
+
+#. STRINGS.UI.SPEED_SLOW
+msgctxt "STRINGS.UI.SPEED_SLOW"
+msgid "SLOW"
+msgstr "WOLNO"
+
+#. STRINGS.UI.TOOLS.ATTACK.NAME
+msgctxt "STRINGS.UI.TOOLS.ATTACK.NAME"
+msgid "Harvest"
+msgstr "Zbiory"
+
+#. STRINGS.UI.TOOLS.ATTACK.TOOLACTION
+msgctxt "STRINGS.UI.TOOLS.ATTACK.TOOLACTION"
+msgid "DRAG TO HARVEST"
+msgstr "PRZECIĄGNIJ BY ZEBRAĆ"
+
+#. STRINGS.UI.TOOLS.ATTACK.TOOLNAME
+msgctxt "STRINGS.UI.TOOLS.ATTACK.TOOLNAME"
+msgid "Harvest tool"
+msgstr "Narzędzie"
+
+#. STRINGS.UI.TOOLS.BUILD.NAME
+msgctxt "STRINGS.UI.TOOLS.BUILD.NAME"
+msgid "Build {0}"
+msgstr "Konstrukcja {0}"
+
+#. STRINGS.UI.TOOLS.BUILD.TOOLACTION
+msgctxt "STRINGS.UI.TOOLS.BUILD.TOOLACTION"
+msgid "CLICK TO BUILD"
+msgstr "KLIKNIJ BY ZBUDOWAĆ"
+
+#. STRINGS.UI.TOOLS.BUILD.TOOLACTION_DRAG
+msgctxt "STRINGS.UI.TOOLS.BUILD.TOOLACTION_DRAG"
+msgid "DRAG TO BUILD"
+msgstr "PRZECIĄGNIEJ BY ZBUDOWAĆ"
+
+#. STRINGS.UI.TOOLS.BUILD.TOOLNAME
+msgctxt "STRINGS.UI.TOOLS.BUILD.TOOLNAME"
+msgid "Build tool"
+msgstr "Narzędzie budowania"
+
+#. STRINGS.UI.TOOLS.CANCEL.NAME
+msgctxt "STRINGS.UI.TOOLS.CANCEL.NAME"
+msgid "Cancel"
+msgstr "Anuluj"
+
+#. STRINGS.UI.TOOLS.CANCEL.TOOLACTION
+msgctxt "STRINGS.UI.TOOLS.CANCEL.TOOLACTION"
+msgid "DRAG TO CANCEL ACTION"
+msgstr "PRZECIĄGNIJ BY ANULOWAĆ AKCJĘ"
+
+#. STRINGS.UI.TOOLS.CANCEL.TOOLNAME
+msgctxt "STRINGS.UI.TOOLS.CANCEL.TOOLNAME"
+msgid "Cancel tool"
+msgstr "Narzędzie anulowania"
+
+#. STRINGS.UI.TOOLS.CLEANUPCATEGORY.NAME
+msgctxt "STRINGS.UI.TOOLS.CLEANUPCATEGORY.NAME"
+msgid "Clean"
+msgstr "Wyczyść"
+
+#. STRINGS.UI.TOOLS.CLEANUPCATEGORY.TOOLNAME
+msgctxt "STRINGS.UI.TOOLS.CLEANUPCATEGORY.TOOLNAME"
+msgid "Clean Up tools"
+msgstr "Wyczyść narzędzia"
+
+#. STRINGS.UI.TOOLS.DECONSTRUCT.NAME
+msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.NAME"
+msgid "Deconstruct"
+msgstr "Zdemontuj"
+
+#. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION
+msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLACTION"
+msgid "DRAG TO DECONSTRUCT"
+msgstr "PRZECIĄGNIJ BY ZDEMONTOWAĆ"
+
+#. STRINGS.UI.TOOLS.DECONSTRUCT.TOOLNAME
+msgctxt "STRINGS.UI.TOOLS.DECONSTRUCT.TOOLNAME"
+msgid "Deconstruct tool"
+msgstr "Narzędzie Demontowania"
+
+#. STRINGS.UI.TOOLS.DIG.NAME
+msgctxt "STRINGS.UI.TOOLS.DIG.NAME"
+msgid "Dig"
+msgstr "Kopanie"
+
+#. STRINGS.UI.TOOLS.DIG.TOOLACTION
+msgctxt "STRINGS.UI.TOOLS.DIG.TOOLACTION"
+msgid "DRAG TO DIG"
+msgstr "PRZECIĄGNIJ BY KOPAĆ"
+
+#. STRINGS.UI.TOOLS.DIG.TOOLNAME
+msgctxt "STRINGS.UI.TOOLS.DIG.TOOLNAME"
+msgid "Dig tool"
+msgstr "Narzędzie do kopania"
+
+#. STRINGS.UI.TOOLS.ERASEREGION.NAME
+msgctxt "STRINGS.UI.TOOLS.ERASEREGION.NAME"
+msgid "Clear Region"
+msgstr "Wyczyść Region"
+
+#. STRINGS.UI.TOOLS.ERASEREGION.TOOLACTION
+msgctxt "STRINGS.UI.TOOLS.ERASEREGION.TOOLACTION"
+msgid "DRAG TO ERASE"
+msgstr "PRZECIĄGNIJ BY USUNĄĆ"
+
+#. STRINGS.UI.TOOLS.ERASEREGION.TOOLNAME
+msgctxt "STRINGS.UI.TOOLS.ERASEREGION.TOOLNAME"
+msgid "Clear Region tool"
+msgstr "Narzędzie do Czyszczenia Regionów"
+
+#. STRINGS.UI.TOOLS.EXOSUITREGION.NAME
+msgctxt "STRINGS.UI.TOOLS.EXOSUITREGION.NAME"
+msgid "Drag to designate an exosuit region"
+msgstr ""
+
+#. STRINGS.UI.TOOLS.EXOSUITREGION.TOOLNAME
+msgctxt "STRINGS.UI.TOOLS.EXOSUITREGION.TOOLNAME"
+msgid "Exosuit Region tool"
+msgstr ""
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.ALL
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.ALL"
+msgid "All"
+msgstr "Wszystko"
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS"
+msgid "Buildings"
+msgstr "Budynki"
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.CLEANANDCLEAR"
+msgid "Sweep & Mop Orders"
+msgstr "Rozkazy Zamiatania i Zmywania"
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.DIGPLACER"
+msgid "Dig Orders"
+msgstr "Rozkazy Kopania"
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.GASPIPES"
+msgid "Gas Pipes"
+msgstr "Rury Gazowe"
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIDPIPES
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.LIQUIDPIPES"
+msgid "Liquid Pipes"
+msgstr "Rura Wodna"
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.TILES
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.TILES"
+msgid "Tiles"
+msgstr "Płytki"
+
+#. STRINGS.UI.TOOLS.FILTERLAYERS.WIRES
+msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.WIRES"
+msgid "Wires"
+msgstr "Przewody"
+
+#. STRINGS.UI.TOOLS.GENERIC.BACK
+msgctxt "STRINGS.UI.TOOLS.GENERIC.BACK"
+msgid "Back"
+msgstr "Powrót"
+
+#. STRINGS.UI.TOOLS.MARKFORSTORAGE.NAME
+msgctxt "STRINGS.UI.TOOLS.MARKFORSTORAGE.NAME"
+msgid "Sweep"
+msgstr "Transport"
+
+#. STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLACTION
+msgctxt "STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLACTION"
+msgid "DRAG TO SWEEP"
+msgstr "PRZECIĄGNIJ BY ZAMIEŚĆ"
+
+#. STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLNAME
+msgctxt "STRINGS.UI.TOOLS.MARKFORSTORAGE.TOOLNAME"
+msgid "Sweep tool"
+msgstr "Narzędzie do zamiatania"
+
+#. STRINGS.UI.TOOLS.MOP.NAME
+msgctxt "STRINGS.UI.TOOLS.MOP.NAME"
+msgid "Mop"
+msgstr "Mop"
+
+#. STRINGS.UI.TOOLS.MOP.TOOLACTION
+msgctxt "STRINGS.UI.TOOLS.MOP.TOOLACTION"
+msgid "DRAG TO MOP"
+msgstr "PRZECIĄGNIJ BY ZMYĆ"
+
+#. STRINGS.UI.TOOLS.MOP.TOOLNAME
+msgctxt "STRINGS.UI.TOOLS.MOP.TOOLNAME"
+msgid "Mop tool"
+msgstr "Narzędzie do zmywania"
+
+#. STRINGS.UI.TOOLS.PRIORITIESCATEGORY.NAME
+msgctxt "STRINGS.UI.TOOLS.PRIORITIESCATEGORY.NAME"
+msgid "Prioritize"
+msgstr "Nadaj priorytet"
+
+#. STRINGS.UI.TOOLS.PRIORITIZE.NAME
+msgctxt "STRINGS.UI.TOOLS.PRIORITIZE.NAME"
+msgid "Prioritize"
+msgstr "Nadaj priorytet"
+
+#. STRINGS.UI.TOOLS.PRIORITIZE.SPECIFIC_PRIORITY
+msgctxt "STRINGS.UI.TOOLS.PRIORITIZE.SPECIFIC_PRIORITY"
+msgid "Set Priority: {0}"
+msgstr "Ustaw Priorytet: {0}"
+
+#. STRINGS.UI.TOOLS.PRIORITIZE.TOOLACTION
+msgctxt "STRINGS.UI.TOOLS.PRIORITIZE.TOOLACTION"
+msgid "DRAG TO PRIORITIZE"
+msgstr "PRZECIĄGNIJ BY NADAĆ PRIORYTET"
+
+#. STRINGS.UI.TOOLS.PRIORITIZE.TOOLNAME
+msgctxt "STRINGS.UI.TOOLS.PRIORITIZE.TOOLNAME"
+msgid "Prioritize tool"
+msgstr "Narzędzie do nadawania priorytetu"
+
+#. STRINGS.UI.TOOLS.REGIONCATEGORY.CREATETOOLTIP
+msgctxt "STRINGS.UI.TOOLS.REGIONCATEGORY.CREATETOOLTIP"
+msgid "DRAG TO CREATE"
+msgstr "PRZECIĄGNIJ BY STWORZYĆ"
+
+#. STRINGS.UI.TOOLS.REGIONCATEGORY.ERASETOOLTIP
+msgctxt "STRINGS.UI.TOOLS.REGIONCATEGORY.ERASETOOLTIP"
+msgid "DRAG TO ERASE"
+msgstr "PRZECIĄGNIJ BY USUNĄĆ"
+
+#. STRINGS.UI.TOOLS.REGIONCATEGORY.MERGETOOLTIP
+msgctxt "STRINGS.UI.TOOLS.REGIONCATEGORY.MERGETOOLTIP"
+msgid "DRAG TO MERGE"
+msgstr "PRZECIĄGNIJ BY SCALIĆ"
+
+#. STRINGS.UI.TOOLS.REGIONCATEGORY.NAME
+msgctxt "STRINGS.UI.TOOLS.REGIONCATEGORY.NAME"
+msgid "Regions"
+msgstr "Regiony"
+
+#. STRINGS.UI.TOOLS.REGIONCATEGORY.TOOLNAME
+msgctxt "STRINGS.UI.TOOLS.REGIONCATEGORY.TOOLNAME"
+msgid "Region tool"
+msgstr "Narzędzie regionów"
+
+#. STRINGS.UI.TOOLTIPS.ALERTSTOOLTIP
+msgctxt "STRINGS.UI.TOOLTIPS.ALERTSTOOLTIP"
+msgid "Alerts provide important information about what's happening to your colony right now"
+msgstr "Powiadomienia pokazują ważne informacje o tym, co obecnie dzieje się w twojej kolonii"
+
+#. STRINGS.UI.TOOLTIPS.ATTACKBUTTON
+msgctxt "STRINGS.UI.TOOLTIPS.ATTACKBUTTON"
+msgid "Drag to batch harvest mature plants"
+msgstr "Przeciągnij by zebrać zbiorczo pożywienie z dorosłych roślin"
+
+#. STRINGS.UI.TOOLTIPS.BASE_VALUE
+msgctxt "STRINGS.UI.TOOLTIPS.BASE_VALUE"
+msgid "Base Value"
+msgstr "Podstawowa Wartość"
+
+#. STRINGS.UI.TOOLTIPS.CANCELBUTTON
+msgctxt "STRINGS.UI.TOOLTIPS.CANCELBUTTON"
+msgid "Drag to cancel pending job tasks"
+msgstr "Przeciągnij by anulować wiszące zadania"
+
+#. STRINGS.UI.TOOLTIPS.CANCELDECONSTRUCTIONBUTTON
+msgctxt "STRINGS.UI.TOOLTIPS.CANCELDECONSTRUCTIONBUTTON"
+msgid "Cancel queued orders or deconstruct existing buildings"
+msgstr "Anuluj skolejkowane rozkazy lub zdemontuj istniejące budynki"
+
+#. STRINGS.UI.TOOLTIPS.CLEANUPMAINBUTTON
+msgctxt "STRINGS.UI.TOOLTIPS.CLEANUPMAINBUTTON"
+msgid "Mop and declutter messy floors"
+msgstr "Zmyj i posprzątaj bałagan na podłogach"
+
+#. STRINGS.UI.TOOLTIPS.CLEARBUTTON
+msgctxt "STRINGS.UI.TOOLTIPS.CLEARBUTTON"
+msgid "Drag to declutter floors and move resources into storage"
+msgstr "Przeciągnij by odgruzować podłogi i przenieść surowce do magazynów"
+
+#. STRINGS.UI.TOOLTIPS.CLOSETOOLTIP
+msgctxt "STRINGS.UI.TOOLTIPS.CLOSETOOLTIP"
+msgid "Close"
+msgstr "Zamknij"
+
+#. STRINGS.UI.TOOLTIPS.DECONSTRUCTBUTTON
+msgctxt "STRINGS.UI.TOOLTIPS.DECONSTRUCTBUTTON"
+msgid "Drag to demolish buildings and refund their resources"
+msgstr "Przeciągnij by zburzyć budynki i otrzymać zwrot surowców"
+
+#. STRINGS.UI.TOOLTIPS.DECOROVERLAYSTRING
+msgctxt "STRINGS.UI.TOOLTIPS.DECOROVERLAYSTRING"
+msgid "Displays decor values"
+msgstr "Wyświetl wartość wystroju"
+
+#. STRINGS.UI.TOOLTIPS.DEPRIORITIZEBUTTON
+msgctxt "STRINGS.UI.TOOLTIPS.DEPRIORITIZEBUTTON"
+msgid "Drag to deprioritize dig and build tasks"
+msgstr "Przeciągnij by znieść priorytet zadań związanych z kopaniem i budowaniem"
+
+#. STRINGS.UI.TOOLTIPS.DIGBUTTON
+msgctxt "STRINGS.UI.TOOLTIPS.DIGBUTTON"
+msgid "Drag to set dig tasks and excavate resources"
+msgstr "Przeciągnij by ustawić zlecenia na kopanie i wydobyć surowce"
+
+#. STRINGS.UI.TOOLTIPS.DISMISSMESSAGE
+msgctxt "STRINGS.UI.TOOLTIPS.DISMISSMESSAGE"
+msgid "Dismiss message"
+msgstr "Odrzuć wiadomość"
+
+#. STRINGS.UI.TOOLTIPS.EDITNAME
+msgctxt "STRINGS.UI.TOOLTIPS.EDITNAME"
+msgid "Give this Duplicant a name"
+msgstr "Nadaj imię Duplikantowi"
+
+#. STRINGS.UI.TOOLTIPS.ENERGYGENERATED
+msgctxt "STRINGS.UI.TOOLTIPS.ENERGYGENERATED"
+msgid "<style=\"power\">Power</style> Produced"
+msgstr "<style=\"power\">Energia</style> Wyprodukowana"
+
+#. STRINGS.UI.TOOLTIPS.ENERGYREQUIRED
+msgctxt "STRINGS.UI.TOOLTIPS.ENERGYREQUIRED"
+msgid "<style=\"power\">Power</style> Required"
+msgstr "<style=\"power\">Energia</style> Wymagana"
+
+#. STRINGS.UI.TOOLTIPS.ERASEREGIONBUTTON
+msgctxt "STRINGS.UI.TOOLTIPS.ERASEREGIONBUTTON"
+msgid "Drag to erase existing exosuit regions"
+msgstr ""
+
+#. STRINGS.UI.TOOLTIPS.GASVENTOVERLAYSTRING
+msgctxt "STRINGS.UI.TOOLTIPS.GASVENTOVERLAYSTRING"
+msgid "Displays and edits gas pipe systems"
+msgstr "Pokazuje i modyfikuje systemy gazociągów"
+
+#. STRINGS.UI.TOOLTIPS.HARVESTBUTTON
+msgctxt "STRINGS.UI.TOOLTIPS.HARVESTBUTTON"
+msgid "Drag to batch harvest mature plants"
+msgstr "Przeciągnij by zebrać zbiorczo pożywienie z dorosłych roślin"
+
+#. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_CEILING
+msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_CEILING"
+msgid "Must be built on the ceiling"
+msgstr "Musi być zbudowane na suficie"
+
+#. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_FLOOR
+msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_FLOOR"
+msgid "Must be built on the ground"
+msgstr "Musi być zbudowany na ziemi"
+
+#. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_INSIDEGROUND
+msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_INSIDEGROUND"
+msgid "Must be built in the ground"
+msgstr "Musi być zbudowane w ziemi"
+
+#. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_OCCUPIED
+msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_OCCUPIED"
+msgid "Must be built in unoccupied space"
+msgstr "Musi być zbudowane w wolnej przestrzeni"
+
+#. STRINGS.UI.TOOLTIPS.HELP_ROTATE_KEY
+msgctxt "STRINGS.UI.TOOLTIPS.HELP_ROTATE_KEY"
+msgid "Press <color=#833A5FFF>[O]</color> to Rotate."
+msgstr "Wciśnij <color=#833A5FFF>[O]</color> by obrócić."
+
+#. STRINGS.UI.TOOLTIPS.INFOPANEL
+msgctxt "STRINGS.UI.TOOLTIPS.INFOPANEL"
+msgid "The Info Panel contains an overview of the basic information about your Duplicant"
+msgstr "Panel Informacyjny zawiera przegląd podstawowych informacji o twoim Duplikancie"
+
+#. STRINGS.UI.TOOLTIPS.ITEMSPANEL
+msgctxt "STRINGS.UI.TOOLTIPS.ITEMSPANEL"
+msgid "The Items Panel displays everything your Duplicant is in possession of"
+msgstr "Panel Przedmiotów pokazuje wszystkie przedmioty, które posiada twój Duplikant"
+
+#. STRINGS.UI.TOOLTIPS.JOBSSCREEN_ATTRIBUTES
+msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_ATTRIBUTES"
+msgid "The following attributes affect a Duplicant's efficiency at this job:"
+msgstr "Następujące atrybuty wpływają na efektywność Duplikanta w tej pracy:"
+
+#. STRINGS.UI.TOOLTIPS.JOBSSCREEN_CANNOTPERFORMTASK
+msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_CANNOTPERFORMTASK"
+msgid "{0} cannot perform this task."
+msgstr "{0} nie można wykonać tego zadania."
+
+#. STRINGS.UI.TOOLTIPS.JOBSSCREEN_PRIORITY
+msgctxt "STRINGS.UI.TOOLTIPS.JOBSSCREEN_PRIORITY"
+msgid "High priority jobs are performed before low priority jobs. A Duplicant will always continue work on their current job until it is complete, even if a higher priority job becomes available."
+msgstr "Prace z wysokim priorytetem są wykonywane przed pracami z niskim priorytetem. Duplikat zawsze będzie kontynuował bieżącą pracę aż do jej ukończenia, nawet jeśli praca o wyższym priorytecie stanie się dostępna."
+
+#. STRINGS.UI.TOOLTIPS.LIGHTSOVERLAYSTRING
+msgctxt "STRINGS.UI.TOOLTIPS.LIGHTSOVERLAYSTRING"
+msgid "Displays the visibility radius of light sources"
+msgstr "Pokazuje promień widoczności źródeł światła"
+
+#. STRINGS.UI.TOOLTIPS.LIQUIDVENTOVERLAYSTRING
+msgctxt "STRINGS.UI.TOOLTIPS.LIQUIDVENTOVERLAYSTRING"
+msgid "Displays and edits liquid pipe systems"
+msgstr "Pokazuje i umożliwia edycję rurociągów oraz gazociągów"
+
+#. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_DAILYREPORT
+msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_DAILYREPORT"
+msgid "View Daily Reports"
+msgstr "Pokaż Dzienny Raport"
+
+#. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_JOBS
+msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_JOBS"
+msgid "Manage Duplicants' job prioritizations"
+msgstr "Zarządzaj Priorytetami pracy Duplikantów"
+
+#. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_RESEARCH
+msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_REQUIRES_RESEARCH"
+msgid "Build a <style=\"light\">Research Station</style> to unlock"
+msgstr "Wybuduj <style=\"light\">Stacje Badawczą</style> aby odblokować"
+
+#. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH
+msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_RESEARCH"
+msgid "View Research Tree"
+msgstr "Pokaż Drzewko Badań"
+
+#. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_SCHEDULE
+msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_SCHEDULE"
+msgid "Adjust the colony's timetable"
+msgstr "Nanieś zmiany na rozkład zajęć kolonii"
+
+#. STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_VITALS
+msgctxt "STRINGS.UI.TOOLTIPS.MANAGEMENTMENU_VITALS"
+msgid "View Duplicants' vitals"
+msgstr "Pokaż Zdrowie Duplikantów"
+
+#. STRINGS.UI.TOOLTIPS.MESSAGESTOOLTIP
+msgctxt "STRINGS.UI.TOOLTIPS.MESSAGESTOOLTIP"
+msgid "Messages are events that have happened and tips to help you manage your colony"
+msgstr ""
+
+#. STRINGS.UI.TOOLTIPS.METERSCREEN_AVGSTRESS
+msgctxt "STRINGS.UI.TOOLTIPS.METERSCREEN_AVGSTRESS"
+msgid "Highest Stress: {0}"
+msgstr "Najwyższy Stres: {0}"
+
+#. STRINGS.UI.TOOLTIPS.METERSCREEN_MEALHISTORY
+msgctxt "STRINGS.UI.TOOLTIPS.METERSCREEN_MEALHISTORY"
+msgid "Calories Available: {0}"
+msgstr "Kalorie Dostępne {0}"
+
+#. STRINGS.UI.TOOLTIPS.MOPBUTTON
+msgctxt "STRINGS.UI.TOOLTIPS.MOPBUTTON"
+msgid "Drag to wipe up liquid messes"
+msgstr "Przeciągnij by zmyć bałagan z cieczami"
+
+#. STRINGS.UI.TOOLTIPS.NEXTMESSAGESTOOLTIP
+msgctxt "STRINGS.UI.TOOLTIPS.NEXTMESSAGESTOOLTIP"
+msgid "Next message"
+msgstr "Następna wiadomość"
+
+#. STRINGS.UI.TOOLTIPS.NOMATERIAL
+msgctxt "STRINGS.UI.TOOLTIPS.NOMATERIAL"
+msgid "Not enough materials"
+msgstr "Nie ma wystarczającej liczby materiałów"
+
+#. STRINGS.UI.TOOLTIPS.OXYGENOVERLAYSTRING
+msgctxt "STRINGS.UI.TOOLTIPS.OXYGENOVERLAYSTRING"
+msgid "Displays ambient oxygen density"
+msgstr "Wyświetla gęstość tlenu"
+
+#. STRINGS.UI.TOOLTIPS.PAUSE
+msgctxt "STRINGS.UI.TOOLTIPS.PAUSE"
+msgid "Pause simulation"
+msgstr "Zatrzymaj symulację"
+
+#. STRINGS.UI.TOOLTIPS.PAUSEBUTTON
+msgctxt "STRINGS.UI.TOOLTIPS.PAUSEBUTTON"
+msgid "Pause"
+msgstr "Pauza"
+
+#. STRINGS.UI.TOOLTIPS.PLAYBUTTON
+msgctxt "STRINGS.UI.TOOLTIPS.PLAYBUTTON"
+msgid "Start"
+msgstr "Start"
+
+#. STRINGS.UI.TOOLTIPS.POWEROVERLAYSTRING
+msgctxt "STRINGS.UI.TOOLTIPS.POWEROVERLAYSTRING"
+msgid "Displays and edits power grids"
+msgstr "Pokazuje i umożliwia edycję sieci elektrycznych"
+
+#. STRINGS.UI.TOOLTIPS.PRIORITIESOVERLAYSTRING
+msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIESOVERLAYSTRING"
+msgid "Displays task priority values"
+msgstr "Pokazuje wartości priorytetów zadań"
+
+#. STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON
+msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEBUTTON"
+msgid "Drag to bump job tasks up or down in importance"
+msgstr "Przeciągnij by przenieść zlecenie pracy wyżej lub niżej w hierarchii ważności"
+
+#. STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON
+msgctxt "STRINGS.UI.TOOLTIPS.PRIORITIZEMAINBUTTON"
+msgid "Drag to bump tasks up or down in importance"
+msgstr "Przeciągnij by przenieść zadanie wyżej lub niżej w hierarchii ważności"
+
+#. STRINGS.UI.TOOLTIPS.RANDOMIZENAME
+msgctxt "STRINGS.UI.TOOLTIPS.RANDOMIZENAME"
+msgid "Randomize this Duplicant's name"
+msgstr "Wylosuj imię dla tego Duplikanta"
+
+#. STRINGS.UI.TOOLTIPS.REACHABILITYOVERLAYSTRING
+msgctxt "STRINGS.UI.TOOLTIPS.REACHABILITYOVERLAYSTRING"
+msgid "Displays areas accessible by Duplicants"
+msgstr "Wyświetla obszary, do których Duplikanci mają dostęp"
+
+#. STRINGS.UI.TOOLTIPS.RECIPE_QUEUE
+msgctxt "STRINGS.UI.TOOLTIPS.RECIPE_QUEUE"
+msgid "Queue 1 {0} for fabrication"
+msgstr "Kolejkuj 1 {0} do wyprodukowania"
+
+#. STRINGS.UI.TOOLTIPS.RECIPE_QUEUE_INFINITE
+msgctxt "STRINGS.UI.TOOLTIPS.RECIPE_QUEUE_INFINITE"
+msgid "Continuously fabricate {0} if resources are available"
+msgstr "Produkuj {0} bez przerwy, jeśli surowce są dostępne"
+
+#. STRINGS.UI.TOOLTIPS.RED_ALERT
+msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT"
+msgid "Toggle Red Alert\nDuplicants will enter a state of emergency and ignore their basic needs to work"
+msgstr "Włącz Czerwony Alarm\nDuplikanci wejdą w stan podwyższonej gotowości i zignorują podstawowe potrzeby by pracować"
+
+#. STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_OFF
+msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_OFF"
+msgid "Disable Red Alert"
+msgstr "Wyłącz Czerwony Alarm"
+
+#. STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_ON
+msgctxt "STRINGS.UI.TOOLTIPS.RED_ALERT_BUTTON_ON"
+msgid "Enable Red Alert"
+msgstr "Włącz Czerwony Alarm"
+
+#. STRINGS.UI.TOOLTIPS.REGIONOVERLAYSTRING
+msgctxt "STRINGS.UI.TOOLTIPS.REGIONOVERLAYSTRING"
+msgid "Displays areas requiring Duplicant safety gear"
+msgstr "Wyświetla obszary wymagające ekwipunku bezpieczeństwa Duplikanta"
+
+#. STRINGS.UI.TOOLTIPS.ROOMSOVERLAYSTRING
+msgctxt "STRINGS.UI.TOOLTIPS.ROOMSOVERLAYSTRING"
+msgid "Displays fully enclosed rooms"
+msgstr "Wyświetla w pełni ogrodzone pokoje"
+
+#. STRINGS.UI.TOOLTIPS.SELECTAMATERIAL
+msgctxt "STRINGS.UI.TOOLTIPS.SELECTAMATERIAL"
+msgid "There are insufficient materials to construct this building"
+msgstr "Nie ma wystarczających materiałów by zbudować ten budynek"
+
+#. STRINGS.UI.TOOLTIPS.SELECTREGIONBUTTON
+msgctxt "STRINGS.UI.TOOLTIPS.SELECTREGIONBUTTON"
+msgid "Click to select existing storage regions"
+msgstr "Kliknij by wybrać istniejące regiony magazynowania"
+
+#. STRINGS.UI.TOOLTIPS.SORTCOLUMN
+msgctxt "STRINGS.UI.TOOLTIPS.SORTCOLUMN"
+msgid "Click to sort"
+msgstr "Kliknij by posortować"
+
+#. STRINGS.UI.TOOLTIPS.SPEEDBUTTON_FAST
+msgctxt "STRINGS.UI.TOOLTIPS.SPEEDBUTTON_FAST"
+msgid "Fast speed {0}"
+msgstr "Duża szybosć {0}"
+
+#. STRINGS.UI.TOOLTIPS.SPEEDBUTTON_MEDIUM
+msgctxt "STRINGS.UI.TOOLTIPS.SPEEDBUTTON_MEDIUM"
+msgid "Medium speed {0}"
+msgstr "Średnia szybkość {0}"
+
+#. STRINGS.UI.TOOLTIPS.SPEEDBUTTON_SLOW
+msgctxt "STRINGS.UI.TOOLTIPS.SPEEDBUTTON_SLOW"
+msgid "Slow speed {0}"
+msgstr "Normalna szybkość {0}"
+
+#. STRINGS.UI.TOOLTIPS.STATSPANEL
+msgctxt "STRINGS.UI.TOOLTIPS.STATSPANEL"
+msgid "The Stats Panel gives an overview of your Duplicant's individual stats"
+msgstr "Panel Statusu zapewnia podgląd wszystkich statystyk Duplikanta"
+
+#. STRINGS.UI.TOOLTIPS.STORAGEMAINBUTTON
+msgctxt "STRINGS.UI.TOOLTIPS.STORAGEMAINBUTTON"
+msgid "Create and manage exosuit regions"
+msgstr ""
+
+#. STRINGS.UI.TOOLTIPS.STRESSDESCRIPTION
+msgctxt "STRINGS.UI.TOOLTIPS.STRESSDESCRIPTION"
+msgid "Accommodate your Duplicant's needs to manage their <style=\"stress\">Stress</style>.\n\nLow <style=\"stress\">Stress</style> can provide a productivity boost, while high <style=\"stress\">Stress</style> can impair production or even lead to a nervous breakdown."
+msgstr ""
+
+#. STRINGS.UI.TOOLTIPS.STRESSPANEL
+msgctxt "STRINGS.UI.TOOLTIPS.STRESSPANEL"
+msgid "The Stress Panel offers an in detail look at what is affecting your Duplicant psychologically"
+msgstr "Panel Stresu oferuje szczegółowy wgląd w to, co ma wpływ na psychikę Duplikanta"
+
+#. STRINGS.UI.TOOLTIPS.TEMPERATUREOVERLAYSTRING
+msgctxt "STRINGS.UI.TOOLTIPS.TEMPERATUREOVERLAYSTRING"
+msgid "Displays ambient temperature"
+msgstr "Wyświetla temperaturę otoczenia"
+
+#. STRINGS.UI.TOOLTIPS.TOOLTIP_SEPERATOR
+msgctxt "STRINGS.UI.TOOLTIPS.TOOLTIP_SEPERATOR"
+msgid "\n----------\n"
+msgstr "\n----------\n"
+
+#. STRINGS.UI.TOOLTIPS.TRASHREGIONBUTTON
+msgctxt "STRINGS.UI.TOOLTIPS.TRASHREGIONBUTTON"
+msgid "Drag to create storage regions for materials"
+msgstr "Przeciągnij by stworzyć regiony magazynowania na materiały"
+
+#. STRINGS.UI.TOOLTIPS.UNPAUSE
+msgctxt "STRINGS.UI.TOOLTIPS.UNPAUSE"
+msgid "Unpause simulation"
+msgstr "Wznów symulację"
+
+#. STRINGS.UI.TOOLTIPS.VITALSPANEL
+msgctxt "STRINGS.UI.TOOLTIPS.VITALSPANEL"
+msgid "The Vitals Panel monitors the status and well being of your Duplicant"
+msgstr "Panel Witalny monitoruje status i samopoczucie Duplikanta"
+
+#. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.ASSIGNEDTO
+msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.ASSIGNEDTO"
+msgid "Assigned to: {0}"
+msgstr "Przypisane do: {0}"
+
+#. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.GENERAL_CURRENTASSIGNED
+msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.GENERAL_CURRENTASSIGNED"
+msgid "(Owner)"
+msgstr "(Właściciel)"
+
+#. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.NEEDSREGION
+msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.NEEDSREGION"
+msgid "This {0} needs to be inside a {1} region"
+msgstr "To {0} musi znajdować się w {1} regionie"
+
+#. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.NEEDSREGIONS
+msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.NEEDSREGIONS"
+msgid "This {0} needs to be inside one of the following regions: {1}"
+msgstr "To {0} musi znajdować się w jednym z tych regionów: {1}"
+
+#. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.TITLE
+msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.TITLE"
+msgid "Assign {0}"
+msgstr "Przypisz {0}"
+
+#. STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.UNASSIGNED
+msgctxt "STRINGS.UI.UISIDESCREENS.ASSIGNABLESIDESCREEN.UNASSIGNED"
+msgid "Unassigned"
+msgstr "Nieprzypisane"
+
+#. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.CURRENTLY_EQUIPPED
+msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.CURRENTLY_EQUIPPED"
+msgid "Currently Equipped:\n{0}"
+msgstr "Obecnie wyposażone:\n{0}"
+
+#. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.NONE_EQUIPPED
+msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.NONE_EQUIPPED"
+msgid "None"
+msgstr "Żaden"
+
+#. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.TITLE
+msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.TITLE"
+msgid "Assign Duplicant"
+msgstr "Przypisz Duplikanta"
+
+#. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CANCEL
+msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.CANCEL"
+msgid "Cancel"
+msgstr "Anuluj"
+
+#. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.COST
+msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.COST"
+msgid "<b>Ingredients:</b>\n"
+msgstr "<b>Składiki:</b>\n"
+
+#. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.OXYGENTANK
+msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.OXYGENTANK"
+msgid "Surface <style=\"equipment\">Oxygen Tank</style> (<style=\"produced\">{0}</style>)"
+msgstr "Powierzchniowa <style=\"equipment\">Butla Tlenowa</style> (<style=\"produced\">{0}</style>)"
+
+#. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.OXYGENTANKUNDERWATER
+msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.OXYGENTANKUNDERWATER"
+msgid "Underwater <style=\"equipment\">Oxygen Tank</style> (<style=\"produced\">{0}</style>)"
+msgstr "Podwodna <style=\"equipment\">Butla Tlenowa</style> (<style=\"produced\">{0}</style>)"
+
+#. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.RESEARCHPOINT
+msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.EFFECTS.RESEARCHPOINT"
+msgid "<style=\"research\">{0}</style>: <style=\"produced\">+1</style>"
+msgstr "<style=\"research\">{0}</style>: <style=\"produced\">+1</style>"
+
+#. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.INFORMATION
+msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.INFORMATION"
+msgid "INFORMATION"
+msgstr INFORMACJA""
+
+#. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.KG
+msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.KG"
+msgid "- {0}: {1}\n"
+msgstr "- {0}: {1}\n"
+
+#. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.NORECIPESELECTED
+msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.NORECIPESELECTED"
+msgid "No recipe selected"
+msgstr "Nie wybrano żadnego przepisu"
+
+#. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPERQUIREMENT
+msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RECIPERQUIREMENT"
+msgid "<style={0}>{1}</style>: <style=\"consumed\">-{2}</style>"
+msgstr "<style={0}>{1}</style>: <style=\"consumed\">-{2}</style>"
+
+#. STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RESULTEFFECTS
+msgctxt "STRINGS.UI.UISIDESCREENS.FABRICATORSIDESCREEN.RESULTEFFECTS"
+msgid "<b>Effects:</b>"
+msgstr "<b>Efekty:</b>"

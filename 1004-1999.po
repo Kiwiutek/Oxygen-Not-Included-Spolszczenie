@@ -1,0 +1,995 @@
+
+#. STRINGS.BUILDING.STATUSITEMS.TOILET.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.NAME"
+msgid "{FlushesRemaining} \"Visits\" Remaining"
+msgstr "{FlushesRemaining} \"Wizyt\" Pozostało"
+
+#. STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILET.TOOLTIP"
+msgid "This amenity can handle {FlushesRemaining} more \"visits\" before needing maintenance"
+msgstr "Toaleta może obsłużyć jeszcze {FlushesRemaining} razy zanim będzie wymagać czyszczenia"
+
+#. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.NAME"
+msgid "Requires Emptying"
+msgstr "Wymaga Opróżnienia"
+
+#. STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.TOILETNEEDSEMPTYING.TOOLTIP"
+msgid "This amenity cannot be used while full\n------------------\nEmptying it will produce <style=\"solid\">Contaminated Dirt</style>"
+msgstr "Ta toaleta jest pełna i nie może być użyta\n------------------\nOpróżnienie jej wytworzy <style=\"solid\">Skażoną Ziemię</style>"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.NAME"
+msgid "Unassigned"
+msgstr "Nieprzypisany"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNASSIGNED.TOOLTIP"
+msgid "Assign a Duplicant to use this amenity"
+msgstr "Przypisz Duplikanta, aby korzystał z tej toalety"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.NAME"
+msgid "Under Construction"
+msgstr "W trakcie budowy"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTION.TOOLTIP"
+msgid "This building is currently being built"
+msgstr "Ten budynek jest aktualnie budowany"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.NAME"
+msgid "Pending Construction"
+msgstr "Oczekuje budowy"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNDERCONSTRUCTIONNOWORKER.TOOLTIP"
+msgid "Waiting for a Duplicant to build"
+msgstr "W oczekiwaniu na Duplikanta, który rozpocznie budowę"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.NAME"
+msgid "Out of Order"
+msgstr "Nieczynny"
+
+#. STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.UNUSABLE.TOOLTIP"
+msgid "This amenity requires maintenance"
+msgstr "Ta toaleta wymaga serwisu"
+
+#. STRINGS.BUILDING.STATUSITEMS.VALVE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVE.NAME"
+msgid "Max Flow Rate: {MaxFlow}"
+msgstr "Maksymalna wartość przepływ: {MaxFlow}"
+
+#. STRINGS.BUILDING.STATUSITEMS.VALVE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVE.TOOLTIP"
+msgid "This valve is allowing flow at a volume of {MaxFlow}"
+msgstr "Zawór pozwala na przepływ z wartością  {MaxFlow}"
+
+#. STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.NAME"
+msgid "Requested Flow Rate: {QueuedMaxFlow}"
+msgstr "Porządana wartość przepływu: {QueuedMaxFlow}"
+
+#. STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.VALVEREQUEST.TOOLTIP"
+msgid "Waiting for a Duplicant to adjust flow rate"
+msgstr "Oczekiwanie aż Duplikant dostosuje wartość przepływu"
+
+#. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.NAME"
+msgid "Awaiting Material Delivery\n{ItemsRemaining}"
+msgstr "Oczekuje na dostawę materiału\n{ItemsRemaining}"
+
+#. STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WAITINGFORMATERIALS.TOOLTIP"
+msgid "Waiting for a Duplicant to deliver:\n{ItemsRemaining}"
+msgstr "Oczekuje na dostarczenie przez Duplikanta:\n{ItemsRemaining}"
+
+#. STRINGS.BUILDING.STATUSITEMS.WATTAGE.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTAGE.NAME"
+msgid "Wattage: {Wattage}"
+msgstr "Moc: {Wattage}"
+
+#. STRINGS.BUILDING.STATUSITEMS.WATTAGE.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTAGE.TOOLTIP"
+msgid "This building is generating {Wattage} of <style=\"power\">Power</style>"
+msgstr "Budynek generuje {Wattage} <style=\"power\">Energii</style> "
+
+#. STRINGS.BUILDING.STATUSITEMS.WATTSON.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSON.NAME"
+msgid "Next Duplicant: {TimeRemaining}s"
+msgstr "Następny Duplikant: {TimeRemaining}s"
+
+#. STRINGS.BUILDING.STATUSITEMS.WATTSON.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSON.TOOLTIP"
+msgid "The Printing Pod can print out new Duplicants over time.\nThe next one will be ready in {TimeRemaining}s"
+msgstr "Biodrukarka może wydrukować nowych Duplikantów nadprogramowo.\nNastępny będzie gotowy w {TimeRemaining}s"
+
+#. STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.NAME"
+msgid "Colony Lost"
+msgstr "Kolonia Stracona"
+
+#. STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSONGAMEOVER.TOOLTIP"
+msgid "Colony Lost"
+msgstr "Kolonia Stracona"
+
+#. STRINGS.BUILDING.STATUSITEMS.WIRECONNECTED.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECONNECTED.NAME"
+msgid "Wire Connected"
+msgstr "Kabel Podłączony"
+
+#. STRINGS.BUILDING.STATUSITEMS.WIRECONNECTED.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRECONNECTED.TOOLTIP"
+msgid "This wire is connected to a network"
+msgstr "Kabel jest podłączony do sieci"
+
+#. STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.NAME"
+msgid "Wire Disconnected"
+msgstr "Kabel Odłączony"
+
+#. STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WIREDISCONNECTED.TOOLTIP"
+msgid "This wire is not connecting a power consumer to a generator"
+msgstr "Ten kabel nie łączy odbiornika mocy z generatorem"
+
+#. STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.NAME"
+msgid "Wire Nominal"
+msgstr "Normalny Kabel"
+
+#. STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WIRENOMINAL.TOOLTIP"
+msgid "This wire is in good condition"
+msgstr "Kabel w dobrym stanie"
+
+#. STRINGS.BUILDING.STATUSITEMS.WORKING.NAME
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.NAME"
+msgid "Functioning"
+msgstr "Pracuje"
+
+#. STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP
+msgctxt "STRINGS.BUILDING.STATUSITEMS.WORKING.TOOLTIP"
+msgid "This building is working as intended"
+msgstr "Budynek pracuje jak zamierzono"
+
+#. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.DESC"
+msgid "Every additional monitor multiplies the research potential exponentially."
+msgstr "Każdy dodatkowy monitor pomnaża zdolność badawczą wykładniczo"
+
+#. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.EFFECT"
+msgid "Can be worked by Duplicants to conduct <style=\"research\">Intermediary Research</style> and unlock new technologies."
+msgstr "Może być wykorzystane przez Duplikantów by prowadzić <style=\"research\">Pośrednie Badania</style> i odblokować nowe technologie."
+
+#. STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ADVANCEDRESEARCHCENTER.NAME"
+msgid "Super Computer"
+msgstr "Super Komputer"
+
+#. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.DESC"
+msgid "You'll know it's on when the little flag is wiggling."
+msgstr "Jeśli mała flaga się porusza, to znaczy, że urzadzenie działa"
+
+#. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.EFFECT"
+msgid "Cools the <style=\"gas\">Gas</style> piped through it, but outputs <style=\"heat\">Heat</style> in its immediate vicinity."
+msgstr "Chłodzi przepływający <style=\"gas\">Gaz</style>, lecz w efekcie <style=\"heat\">Ogrzewa</style>, jego bezpośrednie otoczenie"
+
+#. STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.AIRCONDITIONER.NAME"
+msgid "Thermo Regulator"
+msgstr "Termo Regulator"
+
+#. STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.DESC"
+msgid "Oh! Citrus scented!"
+msgstr "Oh! Pachnie cytrusami"
+
+#. STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.EFFECT"
+msgid "Reduces the threat of <style=\"disease\">Disease</style> by filtering <style=\"gas\">Contaminated Oxygen</style> out of the air."
+msgstr "Zmniejsza zagrożenie <style=\"disease\">Chorobami</style> poprzez filtrowanie <style=\"gas\">Zanieczyszczonego Tlenu</style> z zasysanego powietrza"
+
+#. STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.AIRFILTER.NAME"
+msgid "Air Deodorizer"
+msgstr "Odświeżacz powietrza"
+
+#. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.DESC"
+msgid "The resulting algae still looks pretty slimy, to be honest."
+msgstr "Powstałe glony nadal wyglądają całkiem śluzowato szczerze mówiąc"
+
+#. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.EFFECT"
+msgid "Converts <style=\"misc\">Slime</style> into <style=\"misc\">Algae</style>."
+msgstr "Zmienia <style=\"misc\">Śluz</style> w <style=\"misc\">Glony</style>."
+
+#. STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEDISTILLERY.NAME"
+msgid "Bio Distiller"
+msgstr "Destylator"
+
+#. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.DESC"
+msgid "Algae colony. Duplicant colony.\nWe're more similar than we are different."
+msgstr "Kolonia Glonów. Kolonia Duplikantów.\nJesteśmy do siebie bardziej podobni niż mógłbyś przypuszczać"
+
+#. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.EFFECT"
+msgid "Recycles <style=\"gas\">Carbon Dioxide</style> into a small amount of <style=\"oxygen\">Oxygen</style>.\n\nGains a minor efficiency boost in direct <style=\"light\">Light</style>."
+msgstr "Zamienia <style=\"gas\">Dwutlenek Węgla</style> w niewielkie ilości <style=\"oxygen\">Tlenu</style>."
+
+#. STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ALGAEHABITAT.NAME"
+msgid "Algae Terrarium"
+msgstr "Terarium glonów"
+
+#. STRINGS.BUILDINGS.PREFABS.APOTHECARY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.DESC"
+msgid "All-natural remedies to cure what ails you."
+msgstr "Naturalne medkamenty, aby wyleczyć Twoje dolegliwości."
+
+#. STRINGS.BUILDINGS.PREFABS.APOTHECARY.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.EFFECT"
+msgid "Cures most Duplicant <style=\"disease\">Diseases</style> by producing basic <style=\"medicine\">Medicines</style>.\n\nDuplicants will not fabricate unless recipes are queued."
+msgstr "Leczy większość <style=\"disease\">Chorób</style> dolegających Duplikantom, poprzez produkcje prostych <style=\"medicine\">Medykamentów</style>.\n\nDuplikant nie będzie produkował, dopóki nie pojawi się recepta"
+
+#. STRINGS.BUILDINGS.PREFABS.APOTHECARY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.APOTHECARY.NAME"
+msgid "Apothecary"
+msgstr "Aptekarz"
+
+#. STRINGS.BUILDINGS.PREFABS.BATTERY.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.DESC"
+msgid "It isn't very efficient to let half your energy seep into the cosmos. Fight that entropy!"
+msgstr "To niezbyt dobre rozwiązanie pozwolić połowie Twej energii przedostać się do kosmosu. Zwalcz tę entropię"
+
+#. STRINGS.BUILDINGS.PREFABS.BATTERY.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.EFFECT"
+msgid "Stores a bit of runoff <style=\"power\">Power</style> from generators, but loses charge over time."
+msgstr "Magazynuje nieco <style=\"power\">Mocy</style> z generatorów, ale traci swój ładunek po pewnym czasie."
+
+#. STRINGS.BUILDINGS.PREFABS.BATTERY.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERY.NAME"
+msgid "Tiny Battery"
+msgstr "Malutka Bateria"
+
+#. STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.DESC"
+msgid "Wow! Apparently size does matter."
+msgstr "Wow! Jak widać rozmiar ma znacznie."
+
+#. STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.EFFECT"
+msgid "Stores most of the runoff <style=\"power\">Power</style> from generators, but loses charge over time."
+msgstr "Magazynuje większość <style=\"power\">Mocy</style> z generatorów, ale traci swój ładunek po pewnym czasie."
+
+#. STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.BATTERYMEDIUM.NAME"
+msgid "Battery"
+msgstr "Akumulator"
+
+#. STRINGS.BUILDINGS.PREFABS.BED.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.BED.DESC"
+msgid "A soft patch in a hard world.\nYour Duplicants will be grateful to have their own bed."
+msgstr "Przytulny zakątek, w tym okrutnym świecieTwoi Duplikanci będą wdzęczni, za ich własne łóżko."
+
+#. STRINGS.BUILDINGS.PREFABS.BED.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.BED.EFFECT"
+msgid "Reduces <style=\"stress\">Stress</style> by giving Duplicants a place to rest.\n\nAt night Duplicants will automatically sleep in the cot that has been assigned to them."
+msgstr "Redukuje <style=\"stress\">Stres</style>, będąc miejscem gdzie mogą odpocząć.\n\nW nocy Duplikanci będą automatycznie zasypiać w miejscach, które są im przypisane."
+
+#. STRINGS.BUILDINGS.PREFABS.BED.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.BED.NAME"
+msgid "Cot"
+msgstr "Łóżko"
+
+#. STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.AVERAGEQUALITYNAME"
+msgid "Mediocre Painting"
+msgstr "Przeciętny Obraz"
+
+#. STRINGS.BUILDINGS.PREFABS.CANVAS.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.DESC"
+msgid "Hopefully your Duplicants have been practicing their color theory."
+msgstr "Na szczęście Duplikanci poszerzali swoją wiedzę na temat kolorów"
+
+#. STRINGS.BUILDINGS.PREFABS.CANVAS.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.EFFECT"
+msgid "Increases <style=\"decor\">Decor Opinion</style> and reduces Duplicants' <style=\"stress\">Stress</style>.\n\nMust be painted by a Duplicant."
+msgstr "Zwiększa pojęcie Duplikanta o <style=\"decor\">Dekoracjach</style> oraz redukuje jego <style=\"stress\">Stres</style>.\n\nMusi być namalowane przez Duplikanta."
+
+#. STRINGS.BUILDINGS.PREFABS.CANVAS.EXCELLENTQUALITYNAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.EXCELLENTQUALITYNAME"
+msgid "Masterpiece"
+msgstr "Arcydzieło"
+
+#. STRINGS.BUILDINGS.PREFABS.CANVAS.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.NAME"
+msgid "Blank Canvas"
+msgstr "Czyste Płótno"
+
+#. STRINGS.BUILDINGS.PREFABS.CANVAS.POORQUALITYNAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.POORQUALITYNAME"
+msgid "Crude Painting"
+msgstr "Okropny obraz"
+
+#. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.DESC"
+msgid "This light imitates the Duplicants' natural aboveground habitat.\nSort of. Maybe."
+msgstr "Imituje naturalne dla Duplikanta światło, znajdujące się ponad ziemią.\nTak coś jakby..."
+
+#. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.EFFECT"
+msgid "Improves <style=\"decor\">Decor Opinion</style> and reduces <style=\"stress\">Stress</style> by providing <style=\"light\">Light</style>."
+msgstr "Zwiększa pojęcie Duplikanta o <style=\"decor\">Dekoracjach</style> oraz redukuje jego <style=\"stress\">Stres</style>, poprzez dostarczenie <style=\"light\">Światła</style>."
+
+#. STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CEILINGLIGHT.NAME"
+msgid "Ceiling Lamp"
+msgstr "Lampa Sufitowa"
+
+#. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.DESC"
+msgid "Everyone appreciates a little clean air."
+msgstr "Każdy doceni odrobinę świeżego powietrza"
+
+#. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.EFFECT"
+msgid "Filters <style=\"gas\">Carbon Dioxide</style> and removes it from the air."
+msgstr "Filtruje <style=\"gas\">Dwutlenek Węgla</style> i usuwa go z powietrza."
+
+#. STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.CO2SCRUBBER.NAME"
+msgid "Air Scrubber"
+msgstr "Oczyszczarka powietrzna"
+
+#. STRINGS.BUILDINGS.PREFABS.COMPOST.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.DESC"
+msgid "Don't waste your waste!"
+msgstr "To się jeszcze da wykorzystać!."
+
+#. STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.EFFECT"
+msgid "Breaks <style=\"solid\">Contaminated Dirt</style> down into <style=\"solid\">Fertilizer</style>."
+msgstr "Zamienia <style=\"solid\">Brud</style> w <style=\"solid\">Nawóz</style>."
+
+#. STRINGS.BUILDINGS.PREFABS.COMPOST.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.COMPOST.NAME"
+msgid "Compost"
+msgstr "Kompost"
+
+#. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.DESC"
+msgid "Two wrongs don't make a right, but two mush bars apparently make one okay meal."
+msgstr "??Z dwóch składników nie zrobisz nic dobrego, ale dwa kawałki papki to całkiem dobry posiłek."
+
+#. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.EFFECT"
+msgid "Converts two <style=\"food\">Mush Bars</style> into one improved <style=\"food\">Deep Fried Mush Bar</style>.\n\nDuplicants will not fabricate unless recipes are queued."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.COOKINGSTATION.NAME"
+msgid "Cooking Station"
+msgstr "Stacja Gotująca"
+
+#. STRINGS.BUILDINGS.PREFABS.DININGTABLE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.DESC"
+msgid "The colony that eats together, excretes together."
+msgstr "Kolonia pożerająca razem, wydala razem."
+
+#. STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.EFFECT"
+msgid "Gives Duplicants a place to eat and reduces <style=\"stress\">Stress</style>.\n\nDuplicants will automatically eat at their assigned table when hungry."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DININGTABLE.NAME"
+msgid "Mess Table"
+msgstr "Stół"
+
+#. STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.DESC"
+msgid "Gets hot and steamy."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.EFFECT"
+msgid "Separates any <style=\"liquid\">Contaminated Water</style> piped through it into <style=\"gas\">Steam</style> and <style=\"solid\">Contaminated Dirt</style>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DISTILLATIONCOLUMN.NAME"
+msgid "Distillation Column"
+msgstr "Kolumna Destylacyjna"
+
+#. STRINGS.BUILDINGS.PREFABS.DOOR.ABOVE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.ABOVE"
+msgid "above"
+msgstr "powyżej"
+
+#. STRINGS.BUILDINGS.PREFABS.DOOR.BELOW
+msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.BELOW"
+msgid "below"
+msgstr "poniżej"
+
+#. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.AUTO
+msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.AUTO"
+msgid "Auto"
+msgstr "Automatyczne"
+
+#. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.CLOSE
+msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.CLOSE"
+msgid "Close Door"
+msgstr "Zamknij Drzwi"
+
+#. STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.OPEN
+msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.CONTROL_STATE.OPEN"
+msgid "Open Door"
+msgstr "Otwórz Drzwi"
+
+#. STRINGS.BUILDINGS.PREFABS.DOOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.DESC"
+msgid "Makes a decent bedroom door, if you don't mind the occasional voyeur."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DOOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.EFFECT"
+msgid "Encloses rooms without blocking the flow of <style=\"gas\">Gas</style> or <style=\"liquid\">Liquid</style>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DOOR.LEFT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.LEFT"
+msgid "on the left"
+msgstr "po lewo"
+
+#. STRINGS.BUILDINGS.PREFABS.DOOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.NAME"
+msgid "Pneumatic Door"
+msgstr "Drzwi Pneumatyczne"
+
+#. STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED
+msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_NOT_REQUIRED"
+msgid "<style=\"equipment\">Exosuit</style> not required {0}"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_REQUIRED
+msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.PRESSURE_SUIT_REQUIRED"
+msgid "<style=\"equipment\">Exosuit</style> required {0}"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.DOOR.RIGHT
+msgctxt "STRINGS.BUILDINGS.PREFABS.DOOR.RIGHT"
+msgid "on the right"
+msgstr "po prawej"
+
+#. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.DESC"
+msgid "Water goes in one end, life-sustaining oxygen comes out the other."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.EFFECT"
+msgid "Produces a steady supply of <style=\"oxygen\">Oxygen</style> using piped in <style=\"liquid\">Water</style>.\n\nBecomes idle when the room enters maximum air pressure range."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.ELECTROLYZER.NAME"
+msgid "Electrolyzer"
+msgstr "Elektrolizer"
+
+#. STRINGS.BUILDINGS.PREFABS.FARMTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.DESC"
+msgid "Shag rugs are out. Farm floors are all the rage now!"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FARMTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.EFFECT"
+msgid "Grows a single <style=\"plant\">Plant</style> when sown with a <style=\"seed\">Seed</style>.\n\nCan be used as floor tile."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FARMTILE.NAME"
+msgid "Farm Tile"
+msgstr "Płyta Rolnicza"
+
+#. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.DESC"
+msgid "Don't breathe too deeply."
+msgstr "Nie wdychać zbyt głęboko."
+
+#. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.EFFECT"
+msgid "Uses <style=\"liquid\">Contaminated Water</style> to produce <style=\"solid\">Fertilizer</style>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FERTILIZERMAKER.NAME"
+msgid "Fertilizer Maker"
+msgstr "Twórca Nawozu"
+
+#. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.DESC"
+msgid "Now your Duplicants can read all those books they don't have!"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.EFFECT"
+msgid "Improves <style=\"decor\">Decor Opinion</style> and reduces <style=\"stress\">Stress</style> by providing <style=\"light\">Light</style>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOORLAMP.NAME"
+msgid "Floor Lamp"
+msgstr "Lampa Podłogowa"
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.DESC"
+msgid "Duplicants can't agree on how to pronounce \"vase\", but they *can* agree it looks nice."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT"
+msgid "Increases <style=\"decor\">Decor Opinion</style> and reduces Duplicant <style=\"stress\">Stress</style>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FLOWERVASE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.NAME"
+msgid "Flower Vase"
+msgstr "Wazon"
+
+#. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.DESC"
+msgid "No muss, no fuss.\nThis toilet is highly functional and (almost) always clean."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.EFFECT"
+msgid "Greatly reduces <style=\"stress\">Stress</style> and <style=\"disease\">Disease</style> by more hygienically handling Duplicant waste."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.FLUSHTOILET.NAME"
+msgid "Lavatory"
+msgstr "Toaleta"
+
+#. STRINGS.BUILDINGS.PREFABS.GASCONDUIT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUIT.DESC"
+msgid "Easily transport gas with this simple, airtight piping."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GASCONDUIT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUIT.EFFECT"
+msgid "Transports <style=\"gas\">Gas</style> between <style=\"GasPiping\">Gas Intakes</style> and <style=\"GasPiping\">Gas Outputs</style>.\n\nCan be run through floor and wall tiles."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GASCONDUIT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUIT.NAME"
+msgid "Gas Pipe"
+msgstr "Rura Gazowa"
+
+#. STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.DESC"
+msgid "Keep those gas pipes separated."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.EFFECT"
+msgid "Runs one section of <style=\"GasPiping\">Gas Pipe</style> over another without joining their systems.\n\nCannot be run through floor or wall tiles."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASCONDUITBRIDGE.NAME"
+msgid "Gas Pipe Bridge"
+msgstr "Most Rur Gazowych"
+
+#. STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.DESC"
+msgid "Remind those gases it's time for work, not mingling."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GASFILTER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.EFFECT"
+msgid "Sieves one type of <style=\"gas\">Gas</style> out from a mixed composition, sending it into a separate <style=\"GasPiping\">Pipe</style>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GASFILTER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASFILTER.NAME"
+msgid "Gas Filter"
+msgstr "Filtr Gazu"
+
+#. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.DESC"
+msgid "It's like walking on a dream!"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.EFFECT"
+msgid "Used as wall and floor tile to build rooms.\n\nBlocks the flow of <style=\"liquid\">Liquid</style> without obstructing the flow of <style=\"gas\">Gas</style>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASPERMEABLEMEMBRANE.NAME"
+msgid "Gas Permeable Tile"
+msgstr "Przepuszczalna Gaz Płyta"
+
+#. STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.DESC"
+msgid "Get your colony all pumped up!"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GASPUMP.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.EFFECT"
+msgid "Draws in <style=\"gas\">Gas</style> and runs it through the connected <style=\"GasPiping\">Gas Pipe</style>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GASPUMP.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASPUMP.NAME"
+msgid "Gas Pump"
+msgstr "Pompa Gazu"
+
+#. STRINGS.BUILDINGS.PREFABS.GASVALVE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.DESC"
+msgid "It's the metal pipe equivalent of kinking a garden hose."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GASVALVE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.EFFECT"
+msgid "Increases or decreases <style=\"gas\">Gas</style> volume in pipes to maintain ideal <style=\"GasPiping>Gas Pipe</style> pressure."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GASVALVE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASVALVE.NAME"
+msgid "Gas Valve"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GASVENT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.DESC"
+msgid "Sometimes you just gotta vent."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GASVENT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.EFFECT"
+msgid "An output point for <style=\"GasPiping\">Gas Pipes</style>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GASVENT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GASVENT.NAME"
+msgid "Gas Vent"
+msgstr "Wylot Gazu"
+
+#. STRINGS.BUILDINGS.PREFABS.GENERATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.DESC"
+msgid "It may not be the most clean-burning power source, but at least it's also inefficient!"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GENERATOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.EFFECT"
+msgid "A <style=\"power\">Power</style> source that burns <style=\"RawMineral\">Coal</style> to generate electricity."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME"
+msgid "Coal Generator"
+msgstr "Generator Węglowy"
+
+#. STRINGS.BUILDINGS.PREFABS.GRAVE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVE.DESC"
+msgid "A way to remember your fallen comrades... without remembering the smell."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GRAVE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVE.EFFECT"
+msgid "Reduces the spread of <style=\"disease\">Disease</style> and <style=\"stress\">Stress</style> caused by dead Duplicants.\n\nLiving Duplicants will automatically place an unburied corpse inside."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.GRAVE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVE.NAME"
+msgid "Tasteful Memorial"
+msgstr "Nagrobek"
+
+#. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.DESC"
+msgid "The only thing filthy hands are good for is picking up nasty diseases."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.EFFECT"
+msgid "Produces a sanitizing gel to remove the <style=\"disease\">Dirty Hands</style> effect from Duplicants.\n\nDuplicants will only use the Hand Sanitizer before eating a meal."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.HANDSANITIZER.NAME"
+msgid "Hand Sanitizer"
+msgstr "Odkażacz do rąk"
+
+#. STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.DESC"
+msgid "Newly printed Duplicants will come out here, but thank goodness, they'll never go back in."
+msgstr "Nowy Duplikant zostanie wydrukowany tutaj, ale dzięki Bogu nigdy tam nie wróci"
+
+#. STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.EFFECT"
+msgid "A bioprinting machine that periodically produces new Duplicants."
+msgstr "Maszyna biodrukująca, która czasowo wytwarza nowych Duplikantów."
+
+#. STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.HEADQUARTERS.NAME"
+msgid "Printing Pod"
+msgstr "Maszyna Drukująca"
+
+#. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.DESC"
+msgid "Hey, wait... this thing doesn't generate hydrogen at all!"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.EFFECT"
+msgid "A <style=\"power\">Power</style> source that converts <style=\"gas\">Hydrogen</style> into electricity."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.HYDROGENGENERATOR.NAME"
+msgid "Hydrogen Generator"
+msgstr "Generator Wodorowy"
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.DESC"
+msgid "Ensure your gas stays piping hot. Or cold.\nOr whatever."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.EFFECT"
+msgid "Transports <style=\"gas\">Gas</style> between <style=\"GasPiping\">Intakes</style> and <style=\"GasPiping\">Outputs</style> with minimal change in <style=\"heat\">Temperature</style>.\n\nCan be run through floor and wall tiles."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDGASCONDUIT.NAME"
+msgid "Insulated Gas Pipe"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.DESC"
+msgid "Ensure your liquids stay piping hot. Or cold.\nOr whatever."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.EFFECT"
+msgid "Transports <style=\"liquid\">Liquid</style> between <style=\"LiquidPiping\">Intakes</style> and <style=\"LiquidPiping\">Outputs</style> with minimal change in <style=\"heat\">Temperature</style>.\n\nCan be run through floor and wall tiles."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDLIQUIDCONDUIT.NAME"
+msgid "Insulated Liquid Pipe"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.DESC"
+msgid "This stuff won't go melting if things get heated."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.EFFECT"
+msgid "Connects buildings to <style=\"power\">Power</style> sources in extreme <style=\"heat\">Heat</style>.\n\nCan be run through wall and floor tiles."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATEDWIRE.NAME"
+msgid "Insulated Wire"
+msgstr "Izolowany Kabel"
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.DESC"
+msgid "Gives your Duplicants nice, toasty feet.\nPlus it's purple!"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.EFFECT"
+msgid "Used as wall and floor tile to build rooms.\n\nReduces <style=\"heat\">Heat</style> transfer between walls."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONTILE.NAME"
+msgid "Insulated Tile"
+msgstr "Płyta Izolująca"
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.DESC"
+msgid "You'd be surprised how much research went into making warm wallpaper."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.EFFECT"
+msgid "Reduces <style=\"heat\">Heat</style> loss through colony walls."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.NAME"
+msgid "Insulation"
+msgstr "Izolacja"
+
+#. STRINGS.BUILDINGS.PREFABS.LADDER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LADDER.DESC"
+msgid "(That means they climb it.)"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LADDER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LADDER.EFFECT"
+msgid "Enables vertical mobility for Duplicants."
+msgstr "Umożliwia pinową mobilność Duplikantów"
+
+#. STRINGS.BUILDINGS.PREFABS.LADDER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LADDER.NAME"
+msgid "Ladder"
+msgstr "Drabina"
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.DESC"
+msgid "Easily transport liquid with this simple, airtight piping."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.EFFECT"
+msgid "Transports <style=\"liquid\">Liquid</style> between <style=\"LiquidPiping\">Liquid Intakes</style> and <style=\"LiquidPiping\">Liquid Outputs</style>.\n\nCan be run through floor and wall tiles."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUIT.NAME"
+msgid "Liquid Pipe"
+msgstr "Rura Wodna"
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.DESC"
+msgid "A pipe bridge for making sure your streams don't cross."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.EFFECT"
+msgid "Runs one section of <style=\"LiquidPiping\">Liquid Pipe</style> overtop another without joining their systems.\n\nCannot be run through wall or floor tiles."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCONDUITBRIDGE.NAME"
+msgid "Liquid Pipe Bridge"
+msgstr "Most Rur Wodnych"
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.DESC"
+msgid "It's almost like a real breeze.\nHow refreshing!"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.EFFECT"
+msgid "Dissipates a small amount of the <style=\"heat\">Heat</style>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.NAME"
+msgid "Hydrofan"
+msgstr "Hydro Wentylator"
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.DESC"
+msgid "Ever tried separating liquids with your bare hands?\nVery difficult!"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.EFFECT"
+msgid "Can sieve one selected <style=\"liquid\">Liquid</style> out of a liquid mixture, sending it into a separate <style=\"LiquidPiping\">Pipe</style>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDFILTER.NAME"
+msgid "Liquid Filter"
+msgstr "Filtr Cieczy"
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.DESC"
+msgid "Get your colony all pumped up!"
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.EFFECT"
+msgid "Draws in <style=\"liquid\">Liquid</style> and runs it through the connected <style=\"LiquidPiping\">Liquid Pipe</style>.\n\nMust be submerged in liquid to function."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDPUMP.NAME"
+msgid "Liquid Pump"
+msgstr "Pompa Cieczy"
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.DESC"
+msgid "Store your colony's liquids for those not-so-rainy days."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.EFFECT"
+msgid "Manually accepts <style=\"liquid\">Liquid</style> and moves it through the connected <style=\"LiquidPiping\">Pipe</style>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDRESERVOIR.NAME"
+msgid "Reservoir"
+msgstr "Zbiornik"
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.DESC"
+msgid "It's the metal pipe equivalent of kinking a garden hose."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.EFFECT"
+msgid "Increases or decreases <style=\"liquid\">Liquid</style> volume in pipes to maintain ideal <style=\"LiquidPiping>Liquid Pipe</style> pressure."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVALVE.NAME"
+msgid "Liquid Valve"
+msgstr "Zawór Cieczy"
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.DESC"
+msgid "Sometimes you just gotta vent."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.EFFECT"
+msgid "An output point for <style=\"LiquidPiping\">Liquid Pipes</style>."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDVENT.NAME"
+msgid "Liquid Vent"
+msgstr "Otwór Spustowy"
+
+#. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.DESC"
+msgid "Watching Duplicants run on it is adorable... the electrical power is just an added bonus."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.EFFECT"
+msgid "A <style=\"power\">Power</style> source that must be manually operated to produce electricity."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALGENERATOR.NAME"
+msgid "Manual Generator"
+msgstr "Generator Ręczny"
+
+#. STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.DESC"
+msgid "No gas escapes these airlocks, yet oddly you can smell what's on the other side."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.EFFECT"
+msgid "Creates an airtight seal that maintains atmosphere and pressure between areas."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.NAME
+msgctxt "STRINGS.BUILDINGS.PREFABS.MANUALPRESSUREDOOR.NAME"
+msgid "Manual Airlock"
+msgstr "Ręczna Śluza Powietrzna"
+
+#. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.DESC
+msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.DESC"
+msgid "The Duplicants are carrying a lot of tension in their... everything."
+msgstr ""
+
+#. STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.EFFECT
+msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.EFFECT"
+msgid "Rapidly reduces <style=\"stress\">Stress</style> for one Duplicant at a time."
+msgstr ""

@@ -1,67 +1,67 @@
 #. STRINGS.MISC.STATUSITEMS.ORETEMP.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.ORETEMP.TOOLTIP"
 msgid "This object is currently {Temp}"
-msgstr ""
+msgstr "Ten obiekt jest obecnie {Temp}"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCK.NEIGHBORSBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.NEIGHBORSBLOCKED.NAME"
 msgid "Oxylite blocked"
-msgstr ""
+msgstr "Oxylite zablokowany"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCK.NEIGHBORSBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.NEIGHBORSBLOCKED.TOOLTIP"
 msgid "This <style=\"solid\">Oxylite</style> deposit is not exposed to air and cannot emit <style=\"oxygen\">Oxygen</style>"
-msgstr ""
+msgstr "To złoże <style=\"solid\">Oxylite</style> nie jest wystawione na działanie powietrza i nie może wydzielać <style=\"oxygen\">Tlenu</style>"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.NAME"
 msgid "Inert"
-msgstr ""
+msgstr "Włóż"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.TOOLTIP"
 msgid "Environmental air pressure is too high for this <style=\"solid\">Oxylite</style> deposit to emit <style=\"oxygen\">Oxygen</style>"
-msgstr ""
+msgstr "Ciśnienie środowiska jest zbyt wysokie dla tego złoża <style=\"solid\">Oxylite</style> i nie może wydzielać <style=\"oxygen\">Tlenu</style>"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.NAME"
 msgid "{BlockedString}"
-msgstr ""
+msgstr "{BlockedString}"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.TOOLTIP"
 msgid "This <style=\"solid\">Oxylite</style> deposit has no room to emit <style=\"oxygen\">Oxygen</style>"
-msgstr ""
+msgstr "To złoże <style=\"solid\">Oxylite</style> nie ma wolnej przestrzeni by wydzielać <style=\"oxygen\">Tlen</style>"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCKEMITTING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKEMITTING.NAME"
 msgid "Emitting <style=\"oxygen\">Oxygen</style>: {FlowRate}"
-msgstr ""
+msgstr "Wydzielanie <style=\"oxygen\">Tlenu</style>: {FlowRate}"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCKEMITTING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKEMITTING.TOOLTIP"
 msgid "Producing <style=\"oxygen\">Oxygen</style> at {FlowRate}"
-msgstr ""
+msgstr "Produkowanie <style=\"oxygen\">Tlenu</style> na poziomie {FlowRate}"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCKINACTIVE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKINACTIVE.NAME"
-msgid "Inert"
-msgstr ""
+msgid "Insert"
+msgstr "Włóż"
 
 #. STRINGS.MISC.STATUSITEMS.OXYROCKINACTIVE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKINACTIVE.TOOLTIP"
 msgid "Environmental air pressure is too high for this <style=\"solid\">Oxylite</style> deposit to emit <style=\"oxygen\">Oxygen</style>"
-msgstr ""
+msgstr "Ciśnienie środowiska jest zbyt wysokie dla tego złoża <style=\"solid\">Oxylite</style> i nie może wydzielać <style=\"oxygen\">Tlenu</style>"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME"
 msgid "Sweep pending"
-msgstr ""
+msgstr "Oczekuje zamiecenia"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP"
 msgid "Awaiting a Duplicant to sweep"
-msgstr ""
+msgstr "Oczekuje na zamiecenie przez Duplikanta"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME"
@@ -71,17 +71,17 @@ msgstr "Oczekuje zbioru"
 #. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP"
 msgid "Awaiting a Duplicant to harvest"
-msgstr ""
+msgstr "Oczekuje na zebranie przez Duplikanta"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.NAME"
 msgid "Dig up pending"
-msgstr ""
+msgstr "Oczekuje wykopania"
 
 #. STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
 msgid "Awaiting a Duplicant to dig up"
-msgstr ""
+msgstr "Oczekuje na wykopanie przez Duplikanta"
 
 #. STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.NAME"
@@ -91,37 +91,37 @@ msgstr "Nieosiąglany"
 #. STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.TOOLTIP"
 msgid "Duplicants cannot reach this item"
-msgstr "Duplikanci nie mogą osiągnąć tego przemiotu"
+msgstr "Duplikanci nie mogą dosięgnąć tego przemiotu"
 
 #. STRINGS.MISC.STATUSITEMS.PRIORITIZED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.PRIORITIZED.NAME"
 msgid "Prioritized"
-msgstr ""
+msgstr "Nadano Priorytet"
 
 #. STRINGS.MISC.STATUSITEMS.PRIORITIZED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.PRIORITIZED.TOOLTIP"
 msgid "This task has been made a high priority"
-msgstr ""
+msgstr "Temu zadaniu nadano wysoki priorytet"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONINVALID.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONINVALID.NAME"
 msgid "Invalid Region"
-msgstr ""
+msgstr "Niewłaściwy Obszar"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONINVALID.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONINVALID.TOOLTIP"
 msgid "This region currently needs:\n{0}"
-msgstr ""
+msgstr "Ten obszar obecnie wymaga:\n{0}"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.NAME"
 msgid "Blocked"
-msgstr ""
+msgstr "Zablokowane"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.TOOLTIP"
 msgid "Undug material is blocking off an essential tile"
-msgstr ""
+msgstr "Niewykopany materiał blokuje ważne miejsce (?)"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.NAME"
@@ -131,7 +131,7 @@ msgstr "Brakujące Ściany"
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.TOOLTIP"
 msgid "Use tiles to build walls around this region"
-msgstr ""
+msgstr "Użyj płyt aby zbudować ściany wokół tego obszaru"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.NAME"
@@ -141,67 +141,67 @@ msgstr "Brakujące Drzwi"
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.TOOLTIP"
 msgid "This region must have at least one door"
-msgstr ""
+msgstr "Ten obszar wymaga przynajmniej jednych drzwi"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSFURNITURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSFURNITURE.NAME"
 msgid "Missing Furniture"
-msgstr ""
+msgstr "Brakujące Meble"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSFURNITURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSFURNITURE.TOOLTIP"
 msgid "This region still needs:\n{0}"
-msgstr ""
+msgstr "Ten obszar wciąż wymaga:\n{0}"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSSIZE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSSIZE.NAME"
 msgid "Insufficient Size"
-msgstr ""
+msgstr "Niewystarczający Rozmiar"
 
 #. STRINGS.MISC.STATUSITEMS.REGIONNEEDSSIZE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSSIZE.TOOLTIP"
 msgid "This region must be a minimum of {0} tiles high and {0} tiles wide"
-msgstr ""
+msgstr "Ten obszar musi mieć przynamniej {0} pól wysokości i {0} pól szerokości"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.NAME"
 msgid "Venting"
-msgstr ""
+msgstr "Wentylowane"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.TOOLTIP"
 msgid "This spout is releasing gas"
-msgstr ""
+msgstr "Ta wylewka wypuszcza gaz"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.NAME"
 msgid "Over pressure"
-msgstr ""
+msgstr "Nadciśnienie"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.TOOLTIP"
 msgid "Spout cannot vent due to high environmental pressure"
-msgstr ""
+msgstr "Wylewka (?) nie może wentylować z racji zbyt wysokiego ciśnienia"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.NAME"
 msgid "Pressure rising"
-msgstr ""
+msgstr "Ciśnienie wzrasta"
 
 #. STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.TOOLTIP"
 msgid "Gas pressure is building"
-msgstr ""
+msgstr "Ciśnienie gazu zwiększa się"
 
 #. STRINGS.MISC.STATUSITEMS.TREEFILTERABLETAGS.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.TREEFILTERABLETAGS.NAME"
 msgid "{Tags}"
-msgstr ""
+msgstr "{Tags}"
 
 #. STRINGS.MISC.STATUSITEMS.TREEFILTERABLETAGS.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.TREEFILTERABLETAGS.TOOLTIP"
 msgid "{Tags}"
-msgstr ""
+msgstr "{Tags}"
 
 #. STRINGS.MISC.STATUSITEMS.USING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.USING.NAME"
@@ -211,7 +211,7 @@ msgstr "Używa {Target}"
 #. STRINGS.MISC.STATUSITEMS.USING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.USING.TOOLTIP"
 msgid "{Target} is currently in use"
-msgstr ""
+msgstr "{Target} jest obecnie w użyciu"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME"
@@ -221,37 +221,37 @@ msgstr "Oczekuje kopania"
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP"
 msgid "Awaiting a Duplicant to dig"
-msgstr ""
+msgstr "Oczekiwanie na wykopanie przez Duplikanta"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME"
 msgid "Mop pending"
-msgstr "Oczekuje Mopu"
+msgstr "Oczekuje Zmycia"
 
 #. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP"
 msgid "Awaiting a Duplicant to mop"
-msgstr ""
+msgstr "Oczekiwanie na zmycie przez Duplikanta"
 
 #. STRINGS.MISC.TAGS.ALLOY
 msgctxt "STRINGS.MISC.TAGS.ALLOY"
 msgid "Alloy"
-msgstr ""
+msgstr "Stop"
 
 #. STRINGS.MISC.TAGS.BLEACHSTONE
 msgctxt "STRINGS.MISC.TAGS.BLEACHSTONE"
 msgid "Bleach Stone"
-msgstr ""
+msgstr "Wybielony Kamień"
 
 #. STRINGS.MISC.TAGS.BREATHABLE
 msgctxt "STRINGS.MISC.TAGS.BREATHABLE"
 msgid "Breathable Gas"
-msgstr "Gaz Tlenowy"
+msgstr "Da się oddychać"
 
 #. STRINGS.MISC.TAGS.BUILDABLEPROCESSED
 msgctxt "STRINGS.MISC.TAGS.BUILDABLEPROCESSED"
 msgid "Refined Mineral"
-msgstr ""
+msgstr "Wyrafinowany Minerał"
 
 #. STRINGS.MISC.TAGS.BUILDABLERAW
 msgctxt "STRINGS.MISC.TAGS.BUILDABLERAW"
@@ -276,12 +276,12 @@ msgstr "Ruda użytkowa"
 #. STRINGS.MISC.TAGS.EMITSLIGHT
 msgctxt "STRINGS.MISC.TAGS.EMITSLIGHT"
 msgid "Light Emitter"
-msgstr ""
+msgstr "Źródło Światła"
 
 #. STRINGS.MISC.TAGS.FARMABLE
 msgctxt "STRINGS.MISC.TAGS.FARMABLE"
 msgid "Cultivable Soil"
-msgstr "Gleba Uprawna"
+msgstr "Ziemia Uprawna"
 
 #. STRINGS.MISC.TAGS.FILTER
 msgctxt "STRINGS.MISC.TAGS.FILTER"
@@ -311,7 +311,7 @@ msgstr "Ciecz"
 #. STRINGS.MISC.TAGS.LIQUIFIABLE
 msgctxt "STRINGS.MISC.TAGS.LIQUIFIABLE"
 msgid "Liquifiable"
-msgstr "?Stan Ciekły"
+msgstr "Możliwe skroplenie"
 
 #. STRINGS.MISC.TAGS.METAL
 msgctxt "STRINGS.MISC.TAGS.METAL"
@@ -336,12 +336,12 @@ msgstr "Organiczny"
 #. STRINGS.MISC.TAGS.OTHER
 msgctxt "STRINGS.MISC.TAGS.OTHER"
 msgid "Miscellaneous"
-msgstr "Różne"
+msgstr "Rozmaity"
 
 #. STRINGS.MISC.TAGS.PHOSPHORUS
 msgctxt "STRINGS.MISC.TAGS.PHOSPHORUS"
 msgid "Phosphorus"
-msgstr ""
+msgstr "Fosfor"
 
 #. STRINGS.MISC.TAGS.PRECIOUSMETAL
 msgctxt "STRINGS.MISC.TAGS.PRECIOUSMETAL"
@@ -351,17 +351,17 @@ msgstr "Metal Szlachetny"
 #. STRINGS.MISC.TAGS.RAWPRECIOUSMETAL
 msgctxt "STRINGS.MISC.TAGS.RAWPRECIOUSMETAL"
 msgid "Raw Precious Metal"
-msgstr "?Surowy Metal Szlachetny"
+msgstr "Surowy Metal Szlachetny"
 
 #. STRINGS.MISC.TAGS.REFINEDMETAL
 msgctxt "STRINGS.MISC.TAGS.REFINEDMETAL"
 msgid "Refined Metal"
-msgstr "?Przetworzony Metal"
+msgstr "Wyrafinowany Metal"
 
 #. STRINGS.MISC.TAGS.SOLID
 msgctxt "STRINGS.MISC.TAGS.SOLID"
 msgid "Solid"
-msgstr ""
+msgstr "Stały"
 
 #. STRINGS.MISC.TAGS.SPECIAL
 msgctxt "STRINGS.MISC.TAGS.SPECIAL"
@@ -376,7 +376,7 @@ msgstr "Toksyczny"
 #. STRINGS.MISC.TAGS.UNBREATHABLE
 msgctxt "STRINGS.MISC.TAGS.UNBREATHABLE"
 msgid "Unbreathable"
-msgstr "Gaz Beztlenowy"
+msgstr "Niezdatny do oddychania"
 
 #. STRINGS.MISC.TAGS.UNSTABLE
 msgctxt "STRINGS.MISC.TAGS.UNSTABLE"
@@ -411,12 +411,12 @@ msgstr "W trakcie dopinania"
 #. STRINGS.REGIONS.MISSINGREQUIREMENTS.HEIGHT
 msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.HEIGHT"
 msgid "A height of at least {0} cells"
-msgstr "Wysokość na {0} komórek"
+msgstr "Wysokość na przynajmniej {0} komórek"
 
 #. STRINGS.REGIONS.MISSINGREQUIREMENTS.WIDTH
 msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.WIDTH"
 msgid "A width of at least {0} cells"
-msgstr "Szerokość na {0} komórek"
+msgstr "Szerokość na przynajmniej {0} komórek"
 
 #. STRINGS.RESEARCH.ADVANCEDFILTRATION.DESC
 msgctxt "STRINGS.RESEARCH.ADVANCEDFILTRATION.DESC"
@@ -431,7 +431,7 @@ msgstr "Zaawansowana Filtracja"
 #. STRINGS.RESEARCH.COMBUSTION.DESC
 msgctxt "STRINGS.RESEARCH.COMBUSTION.DESC"
 msgid "Crude fuel-powered generators for automatic <style=\"power\">Power</style> production."
-msgstr ""
+msgstr "Rubaszne generatory napędzane paliwem, służące do automatycznej produkcji <style=\"power\">Energii</style> "
 
 #. STRINGS.RESEARCH.COMBUSTION.NAME
 msgctxt "STRINGS.RESEARCH.COMBUSTION.NAME"
@@ -461,7 +461,7 @@ msgstr "Ekskluzywne Jedzenie"
 #. STRINGS.RESEARCH.GASPIPING.DESC
 msgctxt "STRINGS.RESEARCH.GASPIPING.DESC"
 msgid "Rudimentary technologies for installing <style=\"gas\">Gas</style> infrastructure."
-msgstr ""
+msgstr "Podstawowe technologie służące do instalowania infrastruktury <style=\"gas\">Gazowej</style>"
 
 #. STRINGS.RESEARCH.GASPIPING.NAME
 msgctxt "STRINGS.RESEARCH.GASPIPING.NAME"
@@ -471,7 +471,7 @@ msgstr "Rurociągi Gazowe"
 #. STRINGS.RESEARCH.INSULATION.DESC
 msgctxt "STRINGS.RESEARCH.INSULATION.DESC"
 msgid "Improve <style=\"heat\">Heat</style> distribution in your base and guard buildings from extreme temperatures."
-msgstr "Ulepsz dystrybucję <style=\"heat\">Ciepła</style> w swojej bazie i chroń budynki od ekstremalnych temperatur."
+msgstr "Ulepsz dystrybucję <style=\"heat\">Ciepła</style> w swojej bazie i chroń budynki przed ekstremalnymi temperaturami."
 
 #. STRINGS.RESEARCH.INSULATION.NAME
 msgctxt "STRINGS.RESEARCH.INSULATION.NAME"
@@ -491,7 +491,7 @@ msgstr "Wystrój Wnętrz"
 #. STRINGS.RESEARCH.LIQUIDPIPING.DESC
 msgctxt "STRINGS.RESEARCH.LIQUIDPIPING.DESC"
 msgid "Rudimentary technologies for installing <style=\"liquid\">Liquid</style> infrastructure."
-msgstr ""
+msgstr "Podstawowe technologie służące do instalowania infrastruktury <style=\"liquid\">Wodnej</style>"
 
 #. STRINGS.RESEARCH.LIQUIDPIPING.NAME
 msgctxt "STRINGS.RESEARCH.LIQUIDPIPING.NAME"
@@ -696,7 +696,7 @@ msgstr "Lekarstwo na wszystko."
 #. STRINGS.UI.BUILDCATEGORIES.MISC.NAME
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MISC.NAME"
 msgid "Decor"
-msgstr "Ozdoby"
+msgstr "Wystrój"
 
 #. STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP
 msgctxt "STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP"
@@ -766,67 +766,67 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED"
 msgid "<style=\"decor\">Decor</style>: <style=\"{0}\">{1}</style> ({2} tile radius)"
-msgstr ""
+msgstr "<style=\"decor\">Wystrój</style>: <style=\"{0}\">{1}</style> ({2} pól zasięgu)"
 
 #. STRINGS.UI.BUILDINGEFFECTS.DUPLICANTMOVEMENTBOOST
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.DUPLICANTMOVEMENTBOOST"
 msgid "Runspeed: <style=\"produced\">+{0}</style>"
-msgstr ""
+msgstr "Prędkość biegu: <style=\"produced\">+{0}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMED"
 msgid "<style={0}>{1}</style>: <style=\"consumed\">-{2}</style>"
-msgstr ""
+msgstr "<style={0}>{1}</style>: <style=\"consumed\">-{2}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMEDPERUSE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMEDPERUSE"
 msgid "<style={0}>{1}</style>: <style=\"consumed\">-{2} per use</style>"
-msgstr ""
+msgstr "<style={0}>{1}</style>: <style=\"consumed\">-{2} na użycie</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED"
 msgid "<style={0}>{1}</style>: <style=\"produced\">+{2}</style>"
-msgstr ""
+msgstr "<style={0}>{1}</style>: <style=\"produced\">+{2}</style"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTEDPERUSE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTEDPERUSE"
 msgid "<style={0}>{1}</style>: <style=\"produced\">+{2} per use</style>"
-msgstr ""
+msgstr "<style={0}>{1}</style>: <style=\"produced\">+{2} na użycie</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ENERGYCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ENERGYCONSUMED"
 msgid "<style=\"power\">Power</style> consumed: {0}"
-msgstr ""
+msgstr "<style=\"power\">Energia</style> zużyta: {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.ENERGYGENERATED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.ENERGYGENERATED"
 msgid "<style=\"power\">Power</style>: <style=\"produced\">+{0}</style>"
-msgstr ""
+msgstr "<style=\"power\">Energia</style>: <style=\"produced\">+{0}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.FABRICATEDITEM
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.FABRICATEDITEM"
 msgid "<style=\"{0}\">{1}</style>"
-msgstr ""
+msgstr "<style=\"{0}\">{1}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.FABRICATES
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.FABRICATES"
 msgid "Fabricates"
-msgstr ""
+msgstr "Pracuje"
 
 #. STRINGS.UI.BUILDINGEFFECTS.GASCOOLING
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.GASCOOLING"
 msgid "<style=\"heat\">Cooling factor: </style>: <style=\"produced\">{0}</style>"
-msgstr ""
+msgstr "<style=\"heat\">Czynnik chłodzący: </style>: <style=\"produced\">{0}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.HEATCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.HEATCONSUMED"
 msgid "<style=\"heat\">Heat</style>: <style=\"consumed\">-{0}</style>"
-msgstr ""
+msgstr "<style=\"heat\">Ciepło</style>: <style=\"consumed\">-{0}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.HEATGENERATED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.HEATGENERATED"
 msgid "<style=\"heat\">Heat</style>: <style=\"produced\">+{0}</style>"
-msgstr ""
+msgstr "<style=\"heat\">Ciepło</style>: <style=\"produced\">+{0}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.OPERATIONEFFECTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.OPERATIONEFFECTS"
@@ -836,7 +836,7 @@ msgstr "<b>Efekty:</b>""
 #. STRINGS.UI.BUILDINGEFFECTS.OPERATIONREQUIREMENTS
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.OPERATIONREQUIREMENTS"
 msgid "<b>Requirements:</b>"
-msgstr ""
+msgstr "<b>Wymagania:</b>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.PLANTERBOX_PENTALTY
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.PLANTERBOX_PENTALTY"
@@ -846,22 +846,22 @@ msgstr ""
 #. STRINGS.UI.BUILDINGEFFECTS.REFILLOXYGENTANK
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REFILLOXYGENTANK"
 msgid "Refills <style=\"equipment\">Exosuit Oxygen Tank</style>"
-msgstr ""
+msgstr "Napełnia <style=\"equipment\">Butlę Tlenową Egzoszkieletu</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REMOVEDEFFECT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REMOVEDEFFECT"
 msgid "<style=\"disease\">{0}</style>"
-msgstr ""
+msgstr "<style=\"disease\">{0}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REMOVESEFFECTSUBTITLE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REMOVESEFFECTSUBTITLE"
 msgid "Cures"
-msgstr "Lekarstwo"
+msgstr "Lekarstwa"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESELEMENT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESELEMENT"
 msgid "Supply of <style={0}>{1}</style>"
-msgstr ""
+msgstr "Wymagane do <style={0}>{1}</style>"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASINPUT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASINPUT"
@@ -896,7 +896,7 @@ msgstr "Dwa <style=\"LiquidPiping\">Ujścia Cieczy</style>"
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESMANUALOPERATION
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESMANUALOPERATION"
 msgid "Duplicant operation"
-msgstr ""
+msgstr "Obsługiwane przez Duplikanta"
 
 #. STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWER
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWER"
@@ -926,74 +926,74 @@ msgstr "<style=\"stress\">Stres</style>: <style=\"consumed\">{0} na minutę</sty
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ASSIGNEDDUPLICANT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ASSIGNEDDUPLICANT"
 msgid "This amenity may only be used by the Duplicant it is assigned to"
-msgstr ""
+msgstr "To udogodnienie może zostać użyte jedynie przez przypisanego do niego Duplikanta"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.BATTERYEFFECT
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.BATTERYEFFECT"
 msgid "Can hold {0} of power when connected to a generator"
-msgstr ""
+msgstr "Może zmagazynować {0} energii, jeśli podłączona pod generator"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED"
 msgid "Decreases Decor values by {0} in a {1} tile radius"
-msgstr ""
+msgstr "Zmniejsza wartość Wystroju o {0} w zasięgu {1} pól"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED"
 msgid "Improves Decor values by {0} in a {1} tile radius"
-msgstr ""
+msgstr "Zwiększa wartość Wystroju o {0} w zasięgu {1} pól"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST"
 msgid "Duplicants walk {0} faster on this tile"
-msgstr ""
+msgstr "Duplikancie podróżują o {0} szybciej na tej płytce"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMED"
 msgid "Consumes {2} of {1} when in use"
-msgstr ""
+msgstr "Zużywa {2} z {1}, kiedy w użyciu"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMEDPERUSE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMEDPERUSE"
 msgid "Consumes {2} of {1} with each use"
-msgstr ""
+msgstr "Zużywa {2} z {1} z każdym użyciem"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED"
 msgid "Produces {2} of {1} when in use"
-msgstr ""
+msgstr "Wytwarza {2} z {1}, kiedy w użyciu"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTEDPERUSE
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTEDPERUSE"
 msgid "Produces {2} of {1} with each use"
-msgstr ""
+msgstr "Wytwarza {2} z {1} z każdym użyciem"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYCONSUMED"
 msgid "Draws {0} from the power grid it's connected to"
-msgstr ""
+msgstr "Pobiera {0} z sieci elektrycznej, do której jest podłączony"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYGENERATED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYGENERATED"
 msgid "Produces {0} for the power grid it's connected to"
-msgstr ""
+msgstr "Wytwarza {0} dla sieci elektrycznej, do której jest podłączony"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.FABRICATES
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.FABRICATES"
 msgid "Fabrication is the production of items and equipment"
-msgstr ""
+msgstr "Wytwarzanie to produkcja przedmiotów i osprzętu"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GASCOOLING
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GASCOOLING"
 msgid "Reduces the temperature of piped gases by {0}"
-msgstr ""
+msgstr "Redukuje temperaturę transportowanych gazów o {0}"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATCONSUMED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATCONSUMED"
 msgid "Dissipates -{0} of heat"
-msgstr ""
+msgstr "Marnuje -{0} ciepła"
 
 #. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED
 msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED"
 msgid "Generates +{0} of heat"
-msgstr ""
+msgstr "Generuje +{0} ciepła"

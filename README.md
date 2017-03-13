@@ -1,4 +1,4 @@
-# Oxygen-Not-Included-Spolszczenie<br>
+# Oxygen Not Included: Spolszczenie<br>
 
 <b>Prosimy o zapoznanie się z tymi wątkami przed rozpoczęciem pierwszych tłumaczeń!</b>
 
@@ -11,6 +11,7 @@ UJEDNOLICONE NAZWY!
 Inne uwagi:
 - Polecałbym również <b>wstawiać symbol "(?)"</b> (bez apostrofów) w miejscach, w których nie jesteśmy pewni co do poprawności tłumaczenia. Ktoś inny będzie mógł szybko znaleźć takie miejsca i je poprawić.<br> 
 - Zwracajmy uwagę na to, czy słowa są pisane z Wielkiej Litery w wersji angielskiej i piszmy tak samo w polskiej.<br> 
+
 
 # Instrukcja edytowania tłumaczenia
 1. Zakładacie konto<br>

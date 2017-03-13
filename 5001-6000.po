@@ -1,0 +1,999 @@
+#. STRINGS.DUPLICANTS.PERSONALITIES.ADA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ADA.DESC"
+msgid "{0}s enjoy writing poetry in their downtime. Dark poetry."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ADA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ADA.NAME"
+msgid "Ada"
+msgstr "Ada"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ARCHIBALD.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ARCHIBALD.DESC"
+msgid "The colony is convinced that this {0} was some sort of fancy monarch in a past life."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ARCHIBALD.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ARCHIBALD.NAME"
+msgid "Archibald"
+msgstr "Archibald"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BEA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BEA.DESC"
+msgid "A little ray of sunshine in a bleak world, {0}s loves people and they love her right back."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BEA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BEA.NAME"
+msgid "Bea"
+msgstr "Bea"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BERTIE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BERTIE.DESC"
+msgid "This {0} is convinced she can remember bits of her past prints. Everyone else is convinced she's making it up."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BERTIE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BERTIE.NAME"
+msgid "Bertie"
+msgstr "Bertie"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BERTRAND.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BERTRAND.DESC"
+msgid "This {0} always feels great after a bubble bath and a good long cry."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BERTRAND.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BERTRAND.NAME"
+msgid "Bertrand"
+msgstr "Bertrand"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BLANCHE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BLANCHE.DESC"
+msgid "{0}s have zero redeeming qualities. People only ever keep them around because they make genius puns."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BLANCHE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BLANCHE.NAME"
+msgid "Blanche"
+msgstr "Blanche"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BRADY.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BRADY.DESC"
+msgid "{0}s are pretty cool when they can manage to suppress their natural narcissism."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BRADY.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BRADY.NAME"
+msgid "Brady"
+msgstr "Brady"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BRAYNEN.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BRAYNEN.DESC"
+msgid "This {0} is severely disappointed by the colony's lack of cute, pudgy birds."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BRAYNEN.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BRAYNEN.NAME"
+msgid "Braynen"
+msgstr "Braynen"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.DESC"
+msgid "This {0} is constantly challenging others to fight her, regardless of whether or not she can actually take them."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.NAME"
+msgid "Bubbles"
+msgstr "Bubbles"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BURT.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BURT.DESC"
+msgid "Only the bleak void of space could understand the depths of a {0}'s tortured soul."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BURT.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BURT.NAME"
+msgid "Burt"
+msgstr "Burt"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.CAMILLA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CAMILLA.DESC"
+msgid "This {0} has a dark, terrible secret... She LOVES scrapbooking."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.CAMILLA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CAMILLA.NAME"
+msgid "Camilla"
+msgstr "Camilla"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.CASPER.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CASPER.DESC"
+msgid "This {0} can't wait to die so their poetry can be appreciated posthumously."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.CASPER.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CASPER.NAME"
+msgid "Casper"
+msgstr "Casper"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.CASS.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CASS.DESC"
+msgid "This {0} is painfully aware that she spits when she talks. She avoids joining in on most conversations because of it."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.CASS.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CASS.NAME"
+msgid "Cass"
+msgstr "Cass"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.CECIL.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CECIL.DESC"
+msgid "There's a technical term for a {0}'s personality... \"Dweeb\"."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.CECIL.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CECIL.NAME"
+msgid "Cecil"
+msgstr "Cecil"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.CELESTE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CELESTE.DESC"
+msgid "This {0} is paralyzed by the knowledge that others have memories and perceptions of her she can't control."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.CELESTE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CELESTE.NAME"
+msgid "Celeste"
+msgstr "Celeste"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.CHUANLI.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CHUANLI.DESC"
+msgid "A {0}'s one dream is to shed their mortal coil and converge with all of time and space. It shouldn't be too much to ask."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.CHUANLI.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CHUANLI.NAME"
+msgid "Chuanli"
+msgstr "Chuanli"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.DAN.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DAN.DESC"
+msgid "Every {0} has this unshakable feeling that his life has already happened and he's just watching it as if in a movie."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.DAN.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DAN.NAME"
+msgid "Dan"
+msgstr "Dan"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.DORRIS.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DORRIS.DESC"
+msgid "This {0} wakes up every day of her life with an urge to clip coupons for stores that don't exist."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.DORRIS.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DORRIS.NAME"
+msgid "Dorris"
+msgstr "Dorris"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ELEANOR.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELEANOR.DESC"
+msgid "A severe climate requires a severe woman. This {0} is that woman."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ELEANOR.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELEANOR.NAME"
+msgid "Eleanor"
+msgstr "Eleanor"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.DESC"
+msgid "Nothing makes an {0} happier than a big tin of glitter and a pack of unicorn stickers."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.NAME"
+msgid "Ellie"
+msgstr "Ellie"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ELVIRA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELVIRA.DESC"
+msgid "This {0} can't remember a time when she wasn't blanketed in the cold embrace of darkness."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ELVIRA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELVIRA.NAME"
+msgid "Elvira"
+msgstr "Elvira"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ELVIS.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELVIS.DESC"
+msgid "Every {0} is convinced he was printed in the wrong generation... And on the wrong celestial body."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ELVIS.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELVIS.NAME"
+msgid "Elvis"
+msgstr "Elvis"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ERNESTINE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ERNESTINE.DESC"
+msgid "This {0} has one stubborn hair on her chin that plucking never seems to deter. It's okay though, she's growing attached to it."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ERNESTINE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ERNESTINE.NAME"
+msgid "Ernestine"
+msgstr "Ernestine"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.EUGENE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.EUGENE.DESC"
+msgid "Once you get a {0} talking it's impossible to get them to stop. Chitchat at your own risk."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.EUGENE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.EUGENE.NAME"
+msgid "Eugene"
+msgstr "Eugene"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.FERGUS.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FERGUS.DESC"
+msgid "{0}es are well known for being wholly incorrigible pranksters."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.FERGUS.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FERGUS.NAME"
+msgid "Fergus"
+msgstr "Fergus"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.FLOYD.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FLOYD.DESC"
+msgid "{0}s have a theory that no matter what time it is, it's always actually 3AM."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.FLOYD.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FLOYD.NAME"
+msgid "Floyd"
+msgstr "Floyd"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.FRAN.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FRAN.DESC"
+msgid "This {0} dreams of owning their own personal computer so they can start a blog full of pictures of toast."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.FRAN.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FRAN.NAME"
+msgid "Fran"
+msgstr "Fran"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.GABRIEL.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GABRIEL.DESC"
+msgid "{0}s are spoiled rotten, but at least they have great hair."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.GABRIEL.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GABRIEL.NAME"
+msgid "Gabriel"
+msgstr "Gabriel"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.GOSSMAN.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GOSSMAN.DESC"
+msgid "{0}s love baseball and dogs, neither of which exist in space. It's been a bit of an ordeal for her."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.GOSSMAN.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GOSSMAN.NAME"
+msgid "Gossman"
+msgstr "Gossman"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.GRUB.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GRUB.DESC"
+msgid "{0}s think plants are neat."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.GRUB.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GRUB.NAME"
+msgid "Grub"
+msgstr "Grub"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.GRUNGY.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GRUNGY.DESC"
+msgid "A {0} deeply relishes the feeling of dirt beneath her nails."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.GRUNGY.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GRUNGY.NAME"
+msgid "Grungy"
+msgstr "Grungy"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.GUS.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GUS.DESC"
+msgid "This {0} just wants everyone to be happy."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.GUS.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GUS.NAME"
+msgid "Gus"
+msgstr "Gus"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.DESC"
+msgid "This {0} is cripplingly self-conscious of his long middle toes."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.NAME"
+msgid "Harold"
+msgstr "Harold"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.DESC"
+msgid "If someone says something nice to a {0} he'll think about it nonstop for no less than three weeks."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.NAME"
+msgid "Hassan"
+msgstr "Hassan"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HIDEKI.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HIDEKI.DESC"
+msgid "This {0} is consumed by a deep, soulful weariness that no amount of sleep could possibly vanquish."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HIDEKI.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HIDEKI.NAME"
+msgid "Hideki"
+msgstr "Hideki"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HORATIO.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HORATIO.DESC"
+msgid "{0}s always feel as if someone is staring at them, although people rarely are."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HORATIO.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HORATIO.NAME"
+msgid "Horatio"
+msgstr "Horatio"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HOWARD.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HOWARD.DESC"
+msgid "This {0} can control a room with his exceptionally loud sneezes."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HOWARD.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HOWARD.NAME"
+msgid "Howard"
+msgstr "Howard"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HUGH.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HUGH.DESC"
+msgid "A {0} is truly a man stuck in the past. And in a space colony."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HUGH.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HUGH.NAME"
+msgid "Hugh"
+msgstr "Hugh"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ISAMU.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ISAMU.DESC"
+msgid "This {0} traps people in long conversations about her \"novel\", but she's never once sat down to actually write it."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ISAMU.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ISAMU.NAME"
+msgid "Isamu"
+msgstr "Isamu"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.JACK.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JACK.DESC"
+msgid "A lifetime of running from his responsibilities has made this {0} emotionally impenetrable."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.JACK.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JACK.NAME"
+msgid "Jack"
+msgstr "Jack"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.JASPER.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JASPER.DESC"
+msgid "{0}s just want to dance!"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.JASPER.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JASPER.NAME"
+msgid "Jasper"
+msgstr "Jasper"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.DESC"
+msgid "{0}s are precious goobers. Other Duplicants are strangely incapable of cursing in a {0}'s presence."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.NAME"
+msgid "Joshua"
+msgstr "Joshua"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.JOSIE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSIE.DESC"
+msgid "A {0} is admired by all for her seemingly tireless work ethic. Little do people know, she's dying on the inside."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.JOSIE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSIE.NAME"
+msgid "Josie"
+msgstr "Josie"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.KARL.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.KARL.DESC"
+msgid "Every single {0} has perpetually damp hands. It must be genetic."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.KARL.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.KARL.NAME"
+msgid "Karl"
+msgstr "Karl"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.KATRIN.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.KATRIN.DESC"
+msgid "{0}s have trouble making eye contact in conversation, but no one really minds. They know she's listening."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.KATRIN.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.KATRIN.NAME"
+msgid "Katrin"
+msgstr "Katrin"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.LEAH.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LEAH.DESC"
+msgid "There's nothing {0}s are more proud of than their thick, dignified eyebrows."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.LEAH.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LEAH.NAME"
+msgid "Leah"
+msgstr "Leah"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.LENNY.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LENNY.DESC"
+msgid "Dirt's great. Space's great. Everything's great, according to {0}s."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.LENNY.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LENNY.NAME"
+msgid "Lenny"
+msgstr "Lenny"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.LONGWEI.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LONGWEI.DESC"
+msgid "This {0} picks his nose when he thinks no one's watching. Thankfully, he never eats it."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.LONGWEI.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LONGWEI.NAME"
+msgid "Longwei"
+msgstr "Longwei"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MAE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAE.DESC"
+msgid "There's nothing a {0} can't do if she sets her mind to it."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MAE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAE.NAME"
+msgid "Mae"
+msgstr "Mae"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MAHA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAHA.DESC"
+msgid "{0}s always snort when they laugh. It's the worst."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MAHA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAHA.NAME"
+msgid "Maha"
+msgstr "Maha"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MAMORU.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAMORU.DESC"
+msgid "The \"cool loner\" vibes that radiate off a {0} never fail to make the colony swoon."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MAMORU.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAMORU.NAME"
+msgid "Mamoru"
+msgstr "Mamoru"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MARIE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MARIE.DESC"
+msgid "This {0} is positively glowing! What's her secret? Radioactive isotopes, of course."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MARIE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MARIE.NAME"
+msgid "Marie"
+msgstr "Marie"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MAX.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAX.DESC"
+msgid "{0}es are painfully gullible, and other Duplicants like to take advantage of it every chance they get."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MAX.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAX.NAME"
+msgid "Max"
+msgstr "Max"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MCNAIR.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MCNAIR.DESC"
+msgid "All of space is brightened by a {0}'s dazzling smile."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MCNAIR.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MCNAIR.NAME"
+msgid "McNair"
+msgstr "McNair"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MEEP.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.DESC"
+msgid "{0}s have a face only a twelve tonne DNA Replicator could love."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MEEP.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.NAME"
+msgid "Meep"
+msgstr "Meep"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MELODY.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MELODY.DESC"
+msgid "Who wants to hear the song this {0} wrote about her last breakup? ...Anyone?"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MELODY.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MELODY.NAME"
+msgid "Melody"
+msgstr "Melody"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.METRODORA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.METRODORA.DESC"
+msgid "{0}s love watching old black and white films, especially if they have robots in them."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.METRODORA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.METRODORA.NAME"
+msgid "Metrodora"
+msgstr "Metrodora"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MILDRED.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MILDRED.DESC"
+msgid "The world's a tad too complex for this here {0}, but good golly gosh if she doesn't try her darnedest."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MILDRED.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MILDRED.NAME"
+msgid "Mildred"
+msgstr "Mildred"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MIMA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MIMA.DESC"
+msgid "Ol' {0} here can't stand lookin' at people's knees."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MIMA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MIMA.NAME"
+msgid "Mi-Ma"
+msgstr "Mi-Ma"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MINGMEI.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MINGMEI.DESC"
+msgid "One time a {0} declared herself mayor of the colony for a whole week and no one even questioned it."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MINGMEI.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MINGMEI.NAME"
+msgid "Ming-Mei"
+msgstr "Ming-Mei"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MOON.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MOON.DESC"
+msgid "A {0}'s monotonous voice and lack of facial expression make it impossible for others to tell when she's messing with them."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MOON.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MOON.NAME"
+msgid "Moon"
+msgstr "Moon"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MOZZARELLA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MOZZARELLA.DESC"
+msgid "World... too... bright...."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MOZZARELLA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MOZZARELLA.NAME"
+msgid "Mozzarella"
+msgstr "Mozzarella"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MYSTIQUE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MYSTIQUE.DESC"
+msgid "{0}s defy all labels."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MYSTIQUE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MYSTIQUE.NAME"
+msgid "Mystique"
+msgstr "Mystique"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NADIA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NADIA.DESC"
+msgid "The burden of living is just too much for some people. Like this {0}, for instance."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NADIA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NADIA.NAME"
+msgid "Nadia"
+msgstr "Nadia"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NAILS.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NAILS.DESC"
+msgid "People usually expect a Duplicant named \"{0}\" to be tough, but they're all pretty huge wimps."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NAILS.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NAILS.NAME"
+msgid "Nails"
+msgstr "Nails"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NEIL.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NEIL.DESC"
+msgid "{0}s generally like to wear strange and unusual hats to compensate for their total lack of personality."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NEIL.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NEIL.NAME"
+msgid "Neil"
+msgstr "Neil"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.DESC"
+msgid "This {0} once claimed he could build a laser so powerful it would rip the colony in half. No one dared him to prove it."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.NAME"
+msgid "Nikola"
+msgstr "Nikola"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NISBET.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NISBET.DESC"
+msgid "{0}s like to punch people to show their affection. Everyone's too afraid to tell them it sort of hurts."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NISBET.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NISBET.NAME"
+msgid "Nisbet"
+msgstr "Nisbet"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NORI.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NORI.DESC"
+msgid "Get a bunch of {0}s together in a room and you'll have... a bunch of {0}s together in a room."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NORI.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NORI.NAME"
+msgid "Nori"
+msgstr "Nori"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.OLIVE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.OLIVE.DESC"
+msgid "This {0} feels like there's an emotional wall between themself and the world that their multitool just can't penetrate."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.OLIVE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.OLIVE.NAME"
+msgid "Olive"
+msgstr "Olive"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.OTTO.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.OTTO.DESC"
+msgid "{0}s always insult people by accident and exist in a perpetual state of deep regret."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.OTTO.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.OTTO.NAME"
+msgid "Otto"
+msgstr "Otto"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.PAM.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.PAM.DESC"
+msgid "No one ever asks for a {0}'s bad opinions, but she's always happy to offer them anyway."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.PAM.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.PAM.NAME"
+msgid "Pam"
+msgstr "Pam"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.PEIJING.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.PEIJING.DESC"
+msgid "Everyone who meets a {0} has to admit that they are, in fact, extremely cool."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.PEIJING.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.PEIJING.NAME"
+msgid "Peijing"
+msgstr "Peijing"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.PIERRE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.PIERRE.DESC"
+msgid "Big softies with a tendency to nag, {0}s sometimes feel like the mothers the other Duplicants never had."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.PIERRE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.PIERRE.NAME"
+msgid "Pierre"
+msgstr "Pierre"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.PRICE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.PRICE.DESC"
+msgid "This {0} once had dreams of becoming a doctor, but sadly he's averse to the sight of blood."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.PRICE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.PRICE.NAME"
+msgid "Price"
+msgstr "Price"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.QUINCY.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.QUINCY.DESC"
+msgid "At any given moment a {0} is viscerally reliving ten different humiliating memories."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.QUINCY.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.QUINCY.NAME"
+msgid "Quincy"
+msgstr "Quincy"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.RALPH.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.RALPH.DESC"
+msgid "Everyone feels slightly more irritable after having spent time with a {0}."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.RALPH.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.RALPH.NAME"
+msgid "Ralph"
+msgstr "Ralph"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.RED.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.RED.DESC"
+msgid "{0}s are completely incapable of distinguishing between positive and negative attention, much to the colony's dismay."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.RED.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.RED.NAME"
+msgid "Red"
+msgstr "Red"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ROSALIND.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ROSALIND.DESC"
+msgid "Sometimes this {0} feels like she'd have to keel over to get people to notice her."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ROSALIND.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ROSALIND.NAME"
+msgid "Rosalind"
+msgstr "Rosalind"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.DESC"
+msgid "{0}s have good hearts and express their emotions most efficiently by yelling."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.NAME"
+msgid "Rowan"
+msgstr "Rowan"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.RUBY.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.RUBY.DESC"
+msgid "This {0} asks the pressing questions, like \"Where can I get a leather jacket in space?\""
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.RUBY.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.RUBY.NAME"
+msgid "Ruby"
+msgstr "Ruby"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.SADIE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SADIE.DESC"
+msgid "This {0} never clips her fingernails. The unchecked growth is starting to get a little unsettling."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.SADIE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SADIE.NAME"
+msgid "Sadie"
+msgstr "Sadie"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.SAUL.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SAUL.DESC"
+msgid "This {0}'s the kind of guy who'd pull the legs off a Hatch for fun."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.SAUL.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SAUL.NAME"
+msgid "Saul"
+msgstr "Saul"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.SETH.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SETH.DESC"
+msgid "Sometimes the colony sends {0}s on fake \"spelunking missions\" to get some peace and quiet."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.SETH.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SETH.NAME"
+msgid "Seth"
+msgstr "Seth"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.SHANNON.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SHANNON.DESC"
+msgid "Some have described {0}s as \"paranoid\". They prefer the term \"prepared\"."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.SHANNON.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SHANNON.NAME"
+msgid "Shannon"
+msgstr "Shannon"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.SPIKE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SPIKE.DESC"
+msgid "{0}s detest small spaces. You can imagine how they feel about the colony."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.SPIKE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SPIKE.NAME"
+msgid "Spike"
+msgstr "Spike"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.STACY.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.STACY.DESC"
+msgid "A {0} can somehow talk for hours and say absolutely nothing. It's a feat to behold!"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.STACY.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.STACY.NAME"
+msgid "Stacy"
+msgstr "Stacy"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.STINKY.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.STINKY.DESC"
+msgid "This {0} has never been invited to a party, which is a shame... his dance moves are incredible."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.STINKY.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.STINKY.NAME"
+msgid "Stinky"
+msgstr "Stinky"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.SUKI.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SUKI.DESC"
+msgid "{0}s have grins like sharks and stares to pierce through your soul."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.SUKI.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SUKI.NAME"
+msgid "Suki"
+msgstr "Suki"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.SYBIL.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SYBIL.DESC"
+msgid "{0}s always get what they want... Even when they shouldn't."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.SYBIL.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.SYBIL.NAME"
+msgid "Sybil"
+msgstr "Sybil"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.TILLY.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.TILLY.DESC"
+msgid "{0}s like to frequently and loudly remind everyone of the pointlessness of existence."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.TILLY.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.TILLY.NAME"
+msgid "Tilly"
+msgstr "Tilly"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.TURNER.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.TURNER.DESC"
+msgid "{0}s alway packs a juice box on their way to political protests."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.TURNER.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.TURNER.NAME"
+msgid "Turner"
+msgstr "Turner"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.VERNON.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.VERNON.DESC"
+msgid "The colony's managed to convince this {0} he's totally and completely unique. It's hilarious!"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.VERNON.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.VERNON.NAME"
+msgid "Vernon"
+msgstr "Vernon"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.VIOLA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.VIOLA.DESC"
+msgid "Small, gentle, quiet. {0}s always look as if the slightest breeze might shatter them."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.VIOLA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.VIOLA.NAME"
+msgid "Viola"
+msgstr "Viola"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.VIRGIL.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.VIRGIL.DESC"
+msgid "{0}s are overcome with childlike wonder at the infinite nature of the universe."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.VIRGIL.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.VIRGIL.NAME"
+msgid "Virgil"
+msgstr "Virgil"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.WILL.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.WILL.DESC"
+msgid "{0}s have great hair and are always about ten seconds away from starving to death."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.WILL.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.WILL.NAME"
+msgid "Will"
+msgstr "Will"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.WOODROW.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.WOODROW.DESC"
+msgid "{0}s are exceptionally bad at reading social cues and never know when to stop talking."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.WOODROW.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.WOODROW.NAME"
+msgid "Woodrow"
+msgstr "Woodrow"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.YVETTE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.YVETTE.DESC"
+msgid "A {0}'s every waking moment is plagued by her terrible genetic curse... a horrifyingly acute sense of smell."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.YVETTE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.YVETTE.NAME"
+msgid "Yvette"
+msgstr "Yvette"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ZEKE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ZEKE.DESC"
+msgid "A {0}'s snobby exterior is a defense to protect the kind, mushy heart that lurks within."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ZEKE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ZEKE.NAME"
+msgid "Zeke"
+msgstr "Zeke"
+
+#. STRINGS.DUPLICANTS.RACE
+msgctxt "STRINGS.DUPLICANTS.RACE"
+msgid "Duplicant"
+msgstr "Duplikant"
+
+#. STRINGS.DUPLICANTS.RACE_PREFIX
+msgctxt "STRINGS.DUPLICANTS.RACE_PREFIX"
+msgid "Race: {0}"
+msgstr "Wyścig: {0}"

@@ -2,25 +2,10 @@
 <br>
 <b>Stashkin</b><br> 
 Cześć!<br> 
-Wydaje mi się, że najważniejszą kwestią będzie ustalenie, jak wszyscy powinniśmy tłumaczyć kluczowe pojęcia w grze. Sam grę dość mocno ogrywam, więc oto moje propozycje (będę edytował ten post z czasem i dodawał kolejne pojęcia) i zapraszam do dyskusji:<br> 
+Wydaje mi się, że najważniejszą kwestią będzie ustalenie, jak wszyscy powinniśmy tłumaczyć kluczowe pojęcia w grze. Sam grę dość mocno ogrywam, więc oto moje propozycje (będę edytował ten post z czasem i dodawał kolejne pojęcia) i zapraszam do dyskusji.<br> 
 
-POWER - energia <br> 
-FOOD - żywność <br> 
-DECOR - ozdoby <br> 
-DISEASE - choroba <br> 
-INTAKE - wlot <br> 
-OUTPUT - ujście <br> 
-MOP - mop / mopowanie<br> 
-<br> 
-MUSH BAR - baton z papki <br> 
-MEAL LICE - wszy jadalne (?) <br> 
-LICELOAF - wszanapka ;) <br> 
-DUPLICANT \ DUPE - duplikant <br> 
+Link do wątku: https://github.com/Kiwiutek/Oxygen-Not-Included-Spolszczenie/issues/15
 
-MATERIAL - materiał <br> 
-BUILDING - budynek <br> 
-RESOURCE - surowiec <br> 
-<br> 
 #WAŻNE!<br> 
 <br> 
 Polecałbym wstawiać symbol "(?)" (bez apostrofów) w miejscach, w których nie jesteśmy pewni co do poprawności tłumaczenia. Ktoś inny będzie mógł szybko znaleźć takie miejsca i je poprawić.<br> 

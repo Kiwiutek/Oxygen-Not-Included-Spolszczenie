@@ -676,7 +676,7 @@ msgstr "<style=\"power\">Energia</style> elektryczna wytwarzana jest w wyniku sp
 #. STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.GENERATOR.NAME"
 msgid "Coal Generator"
-msgstr "Piec Węglowy"
+msgstr "Generator Węglowy"
 
 #. STRINGS.BUILDINGS.PREFABS.GRAVE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.GRAVE.DESC"

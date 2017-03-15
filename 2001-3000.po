@@ -1,22 +1,22 @@
 #. STRINGS.BUILDINGS.PREFABS.MEDICALBED.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALBED.EFFECT"
 msgid "Greatly accelerates the regeneration of a wounded Duplicant's <style=\"Health\">Health</style>."
-msgstr ""
+msgstr "Wspaniale przyspiesza regenerację <style=\"Health\">Zdrowia</style> zranionego Duplikanta"
 
 #. STRINGS.BUILDINGS.PREFABS.MEDICALBED.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALBED.NAME"
 msgid "Rejuvenator"
-msgstr "Odmładzacz"
+msgstr "Odnawiacz" 
 
 #. STRINGS.BUILDINGS.PREFABS.MEDICALCOT.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALCOT.DESC"
 msgid "Nurse Duplicants back to health after a harrowing brush with death."
-msgstr ""
+msgstr "Pomaga wrócić do zdrowia Duplikantom, którzy byli blisko śmierci"
 
 #. STRINGS.BUILDINGS.PREFABS.MEDICALCOT.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALCOT.EFFECT"
 msgid "Accelerates the regeneration of a wounded Duplicant's <style=\"Health\">Health</style>."
-msgstr ""
+msgstr "Przyspiesza regenerację <style=\"Health\">Zdrowia</style> zranionych Duplikantów"
 
 #. STRINGS.BUILDINGS.PREFABS.MEDICALCOT.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MEDICALCOT.NAME"
@@ -26,37 +26,37 @@ msgstr "Łóżko Medyczne"
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.DESC"
 msgid "How do Duplicants keep their tiny feet from slipping through the holes?"
-msgstr ""
+msgstr "Jak Duplikanci mogą utrzymywać swoje malutkie stópki na takiej powierzchni?"
 
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.EFFECT"
 msgid "Can be used as wall or floor tile to enclose rooms.\n\nDoes not obstruct the flow of <style=\"liquid\">Liquid</style> or <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "Ta płytka może być zastosowana jako ściana lub podłoga.\n\nNie blokuje przepływu <style=\"liquid\">Cieczy</style> i <style=\"gas\">Gazu</style>."
 
 #. STRINGS.BUILDINGS.PREFABS.MESHTILE.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MESHTILE.NAME"
 msgid "Mesh Tile"
-msgstr "Płyta Siatki"
+msgstr "Kratka"
 
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.DESC"
 msgid "Apparently Duplicants can glean some nutrition from the various goops this outputs."
-msgstr ""
+msgstr "Najwyraźniej Duplikanci korzystając z różnych lepkich substancji są w stanie zdobyć trochę pożywienia."
 
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.EFFECT"
 msgid "Produces low quality <style=\"food\">Food</style> for Duplicants using common ingredients.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr ""
+msgstr "Produkuje <style=\"food\">Jedzenie</style> niskiej jakości, z użyciem pospolitych składników.\n\nDuplikancji nie będą wykonywać dań, dopóki nie zostanie utworzona kolejka dań."
 
 #. STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MICROBEMUSHER.NAME"
 msgid "Microbe Musher"
-msgstr "Konwenter Żywności"
+msgstr "Zgniatarka drobnoustrojów"
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.DESC"
 msgid "Breathe easy knowing you've crushed a bunch of helpless algae into oblivion."
-msgstr ""
+msgstr "Oddychaj głęboko, wiedząc, że właśnie skazałeś całą masę bezbronnych glonów na zagładę."
 
 #. STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MINERALDEOXIDIZER.EFFECT"
@@ -71,12 +71,12 @@ msgstr "Natleniacz Glonowy"
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC"
 msgid "Make your Duplicants faster, stronger... better!"
-msgstr ""
+msgstr "Spraw, żeby Twoi Duplikantci stali się silniejsi!"
 
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.EFFECT"
 msgid "Uses <style=\"RawMetal\">Raw Metal</style> or <style=\"RefinedMetal\">Refined Metal</style> to craft <style=\"equipment\">Multitools</style>.\n\nDuplicants will not fabricate unless recipes are queued."
-msgstr ""
+msgstr "Używa <style=\"Surowego Metalu\">Raw Metal</style> lub <style=\"Udoskonalonego\">Refined Metal</style> aby stworzyć <style=\"equipment\">Multinarzędzia</style>.\n\nDuplikanci nie będą Tworzyli nowych narzędzi dopóki w kolejce nie ma w zadań."
 
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.NAME"

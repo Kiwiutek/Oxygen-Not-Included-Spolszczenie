@@ -6,7 +6,7 @@ msgstr "Ci Duplikanci nie mogą dotrzeć to przydzielonych stref kwarantanny"
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.TOOLTIP"
 msgid "This Duplicant cannot reach their quarantine zone"
-msgstr "Ten Duplikant nie może dotrzeć do strefy kwarantanny"
+msgstr "Ten Duplikant nie może dotrzeć do swojej strefy kwarantanny"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINED.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINED.NAME"
@@ -106,7 +106,7 @@ msgstr "Ratowanie {Target}"
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESCUEWORKSTATUS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESCUEWORKSTATUS.TOOLTIP"
 msgid "This Duplicant is saving {Target} from certain peril!"
-msgstr "Ten Duplikant ratuje {Target} przez pewnym zagrożeniem"
+msgstr "Ten Duplikant ratuje {Target} przez niewątpliwym niebezpieczeństwem"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESEARCHING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESEARCHING.NAME"
@@ -116,7 +116,7 @@ msgstr "Bada <style=\"research\">{Tech}</style>"
 #. STRINGS.DUPLICANTS.STATUSITEMS.RESEARCHING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RESEARCHING.TOOLTIP"
 msgid "This Duplicant is intently researching <style=\"research\">{Tech}</style> technology"
-msgstr "Ten Duplikant uważnie wynajduje <style=\"research\">{Tech}</style> "
+msgstr "Ten Duplikant intensywnie pracuje nad wynalazieniem <style=\"research\">{Tech}</style> "
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.ROTTEN.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.ROTTEN.NAME"
@@ -316,7 +316,7 @@ msgstr "Ci Duplikanci są za bardzo <style=\"stress\">Zestresowani</style> i prz
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSVOMITING.TOOLTIP"
 msgid "This Duplicant is releasing their <style=\"stress\">Stress</style> all over the floor"
-msgstr "Ten Duplikant uwalnie swój <style=\"stress\">Stres</style> na całą podłogę "
+msgstr "Ten Duplikant uwalnia swój <style=\"stress\">Stres</style> na całą podłogę (?) "
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.NAME"

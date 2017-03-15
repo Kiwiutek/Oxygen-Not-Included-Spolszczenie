@@ -1,0 +1,999 @@
+#. STRINGS.RESEARCH.TYPES.ALPHA.NAME
+msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.NAME"
+msgid "Novice Research"
+msgstr "Badania Podstawowe"
+
+#. STRINGS.RESEARCH.TYPES.ALPHA.RECIPEDESC
+msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.RECIPEDESC"
+msgid "Unlocks rudimentary technologies."
+msgstr "Odblokuj podstawową technologię."
+
+#. STRINGS.RESEARCH.TYPES.BETA.DESC
+msgctxt "STRINGS.RESEARCH.TYPES.BETA.DESC"
+msgid "<style=\"research\">Intermediate Research</style> is required to unlock improved technologies.\nIt can be conducted at an <style=\"research\">Super Computer</style>."
+msgstr ""
+
+#. STRINGS.RESEARCH.TYPES.BETA.NAME
+msgctxt "STRINGS.RESEARCH.TYPES.BETA.NAME"
+msgid "Intermediate Research"
+msgstr ""
+
+#. STRINGS.RESEARCH.TYPES.BETA.RECIPEDESC
+msgctxt "STRINGS.RESEARCH.TYPES.BETA.RECIPEDESC"
+msgid "Unlocks improved technologies."
+msgstr ""
+
+#. STRINGS.UI.ACTIONS
+msgctxt "STRINGS.UI.ACTIONS"
+msgid "ACTIONS"
+msgstr "CZYNNOŚCI"
+
+#. STRINGS.UI.ALERTS
+msgctxt "STRINGS.UI.ALERTS"
+msgid "ALERTS"
+msgstr ""
+
+#. STRINGS.UI.ASSIGNDUPLICANT
+msgctxt "STRINGS.UI.ASSIGNDUPLICANT"
+msgid "Assign Duplicant"
+msgstr ""
+
+#. STRINGS.UI.ATTRIBUTELEVEL
+msgctxt "STRINGS.UI.ATTRIBUTELEVEL"
+msgid "Level {0} {1}"
+msgstr "Poziom {0} {1}"
+
+#. STRINGS.UI.BASECOUNT
+msgctxt "STRINGS.UI.BASECOUNT"
+msgid "Base {0}"
+msgstr "Baza {0}"
+
+#. STRINGS.UI.BUILDCATEGORIES.BASE.NAME
+msgctxt "STRINGS.UI.BUILDCATEGORIES.BASE.NAME"
+msgid "Base"
+msgstr "Baza"
+
+#. STRINGS.UI.BUILDCATEGORIES.BASE.TOOLTIP
+msgctxt "STRINGS.UI.BUILDCATEGORIES.BASE.TOOLTIP"
+msgid "Maintain your colony's infrastructure with these homebase basics."
+msgstr "Utrzymanie podstawowej infrastruktury kolonii."
+
+#. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME
+msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.NAME"
+msgid "Stations"
+msgstr "Nauka"
+
+#. STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP
+msgctxt "STRINGS.UI.BUILDCATEGORIES.EQUIPMENT.TOOLTIP"
+msgid "Unlock new technologies through the power of science!"
+msgstr "Odblokuj nową technologię dzięki sile nauki!"
+
+#. STRINGS.UI.BUILDCATEGORIES.FOOD.NAME
+msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.NAME"
+msgid "Food"
+msgstr "Jadło"
+
+#. STRINGS.UI.BUILDCATEGORIES.FOOD.TOOLTIP
+msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.TOOLTIP"
+msgid "Keep your Duplicants' spirits high and their bellies full."
+msgstr "Utrzymuj pełne brzuchy swoich Duplikantów."
+
+#. STRINGS.UI.BUILDCATEGORIES.FURNITURE.NAME
+msgctxt "STRINGS.UI.BUILDCATEGORIES.FURNITURE.NAME"
+msgid "Furniture"
+msgstr "Meble"
+
+#. STRINGS.UI.BUILDCATEGORIES.FURNITURE.TOOLTIP
+msgctxt "STRINGS.UI.BUILDCATEGORIES.FURNITURE.TOOLTIP"
+msgid "Amenities to keep your Duplicants happy, comfy and efficient."
+msgstr "Wyposażenie do utrzymania Duplikantów szczęśliwych, zrelaksowanych i efektownych."
+
+#. STRINGS.UI.BUILDCATEGORIES.MEDICAL.NAME
+msgctxt "STRINGS.UI.BUILDCATEGORIES.MEDICAL.NAME"
+msgid "Medicine"
+msgstr "Leczenie"
+
+#. STRINGS.UI.BUILDCATEGORIES.MEDICAL.TOOLTIP
+msgctxt "STRINGS.UI.BUILDCATEGORIES.MEDICAL.TOOLTIP"
+msgid "A cure for everything but the common cold."
+msgstr "Lekarstwo na wszystko."
+
+#. STRINGS.UI.BUILDCATEGORIES.MISC.NAME
+msgctxt "STRINGS.UI.BUILDCATEGORIES.MISC.NAME"
+msgid "Decor"
+msgstr "Ozdoby"
+
+#. STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP
+msgctxt "STRINGS.UI.BUILDCATEGORIES.MISC.TOOLTIP"
+msgid "Spruce up your colony with some lovely interior decorating."
+msgstr "Wystrój swoją kolonię pięknymi dekoracjami."
+
+#. STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME
+msgctxt "STRINGS.UI.BUILDCATEGORIES.OXYGEN.NAME"
+msgid "Oxygen"
+msgstr "Tlen"
+
+#. STRINGS.UI.BUILDCATEGORIES.OXYGEN.TOOLTIP
+msgctxt "STRINGS.UI.BUILDCATEGORIES.OXYGEN.TOOLTIP"
+msgid "Everything you need to keep your colony breathing."
+msgstr "Wszystko, czego potrzebujesz ,aby utrzymać tlen w kolonii."
+
+#. STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME
+msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.NAME"
+msgid "Plumbing"
+msgstr "Układy"
+
+#. STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP
+msgctxt "STRINGS.UI.BUILDCATEGORIES.PLUMBING.TOOLTIP"
+msgid "Move gases and liquid around with the greatest of ease."
+msgstr "Przenieś gazy i ciecze wokół z łatwością."
+
+#. STRINGS.UI.BUILDCATEGORIES.POWER.NAME
+msgctxt "STRINGS.UI.BUILDCATEGORIES.POWER.NAME"
+msgid "Power"
+msgstr "Energia"
+
+#. STRINGS.UI.BUILDCATEGORIES.POWER.TOOLTIP
+msgctxt "STRINGS.UI.BUILDCATEGORIES.POWER.TOOLTIP"
+msgid "Need to power your colony? Here's how you do it!"
+msgstr "Trzeba zasilać kolonię? Oto jak to zrobić!"
+
+#. STRINGS.UI.BUILDCATEGORIES.REFINING.NAME
+msgctxt "STRINGS.UI.BUILDCATEGORIES.REFINING.NAME"
+msgid "Refinement"
+msgstr "Rozwój"
+
+#. STRINGS.UI.BUILDCATEGORIES.REFINING.TOOLTIP
+msgctxt "STRINGS.UI.BUILDCATEGORIES.REFINING.TOOLTIP"
+msgid "Use the resources you want, filter the ones you don't."
+msgstr "Korzystaj z zasobów które chcesz filtrować."
+
+#. STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME
+msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.NAME"
+msgid "Utilities"
+msgstr "Dodatki"
+
+#. STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP
+msgctxt "STRINGS.UI.BUILDCATEGORIES.UTILITIES.TOOLTIP"
+msgid "Guaranteed to keep your colony warm and cozy."
+msgstr "Gwarantowane, aby utrzymać w kolonie miłą i przytulną."
+
+#. STRINGS.UI.BUILDINGEFFECTS.ADDED_EFFECT
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.ADDED_EFFECT"
+msgid "<style=\"disease\">{0}</style>"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.ASSIGNEDDUPLICANT
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.ASSIGNEDDUPLICANT"
+msgid "Duplicant assignment"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.BATTERYEFFECT
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.BATTERYEFFECT"
+msgid "<style=\"power\">Power</style> capacity: {0}"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.CONSUMESANYELEMENT
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.CONSUMESANYELEMENT"
+msgid "Any <style=\"{0}\">Element</style>"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.DECORPROVIDED"
+msgid "<style=\"decor\">Decor</style>: <style=\"{0}\">{1}</style> ({2} tile radius)"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.DUPLICANTMOVEMENTBOOST
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.DUPLICANTMOVEMENTBOOST"
+msgid "Runspeed: <style=\"produced\">+{0}</style>"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMED
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMED"
+msgid "<style={0}>{1}</style>: <style=\"consumed\">-{2}</style>"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMEDPERUSE
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTCONSUMEDPERUSE"
+msgid "<style={0}>{1}</style>: <style=\"consumed\">-{2} per use</style>"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTED"
+msgid "<style={0}>{1}</style>: <style=\"produced\">+{2}</style>"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTEDPERUSE
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.ELEMENTEMITTEDPERUSE"
+msgid "<style={0}>{1}</style>: <style=\"produced\">+{2} per use</style>"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.ENERGYCONSUMED
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.ENERGYCONSUMED"
+msgid "<style=\"power\">Power</style> consumed: {0}"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.ENERGYGENERATED
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.ENERGYGENERATED"
+msgid "<style=\"power\">Power</style>: <style=\"produced\">+{0}</style>"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.FABRICATEDITEM
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.FABRICATEDITEM"
+msgid "<style=\"{0}\">{1}</style>"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.FABRICATES
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.FABRICATES"
+msgid "Fabricates"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.GASCOOLING
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.GASCOOLING"
+msgid "<style=\"heat\">Cooling factor: </style>: <style=\"produced\">{0}</style>"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.HEATCONSUMED
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.HEATCONSUMED"
+msgid "<style=\"heat\">Heat</style>: <style=\"consumed\">-{0}</style>"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.HEATGENERATED
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.HEATGENERATED"
+msgid "<style=\"heat\">Heat</style>: <style=\"produced\">+{0}</style>"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.MAX_WATTAGE
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.MAX_WATTAGE"
+msgid "Max <style=\"power\">Power</style>: {0}"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.OPERATIONEFFECTS
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.OPERATIONEFFECTS"
+msgid "<b>Effects:</b>"
+msgstr "<b>Efekty:</b>\""
+
+#. STRINGS.UI.BUILDINGEFFECTS.OPERATIONREQUIREMENTS
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.OPERATIONREQUIREMENTS"
+msgid "<b>Requirements:</b>"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.PLANTERBOX_PENTALTY
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.PLANTERBOX_PENTALTY"
+msgid "Planter box penalty"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.REFILLOXYGENTANK
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.REFILLOXYGENTANK"
+msgid "Refills <style=\"equipment\">Exosuit Oxygen Tank</style>"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.REMOVEDEFFECT
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.REMOVEDEFFECT"
+msgid "<style=\"disease\">{0}</style>"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.REMOVESEFFECTSUBTITLE
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.REMOVESEFFECTSUBTITLE"
+msgid "Cures"
+msgstr "Lekarstwo"
+
+#. STRINGS.UI.BUILDINGEFFECTS.REQUIRESELEMENT
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESELEMENT"
+msgid "Supply of <style={0}>{1}</style>"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASINPUT
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASINPUT"
+msgid "<style=\"GasPiping\">Gas Intake Pipe</style>"
+msgstr "<style=\"GasPiping\">Wlot Gazu</style>"
+
+#. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUT
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUT"
+msgid "<style=\"GasPiping\">Gas Output Pipe</style>"
+msgstr "<style=\"GasPiping\">Ujście Gazu</style>"
+
+#. STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUTS
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESGASOUTPUTS"
+msgid "Two <style=\"GasPiping\">Gas Output Pipes</style>"
+msgstr "Dwa <style=\"GasPiping\">Ujścia Gazu</style>"
+
+#. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDINPUT
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDINPUT"
+msgid "<style=\"LiquidPiping\">Liquid Intake Pipe</style>"
+msgstr "<style=\"LiquidPiping\">Wlot Cieczy</style>"
+
+#. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUT
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUT"
+msgid "<style=\"LiquidPiping\">Liquid Output Pipe</style>"
+msgstr "<style=\"LiquidPiping\">Ujście Cieczy</style>"
+
+#. STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUTS
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESLIQUIDOUTPUTS"
+msgid "Two <style=\"LiquidPiping\">Liquid Output Pipes</style>"
+msgstr "Dwa <style=\"LiquidPiping\">Ujścia Cieczy</style>"
+
+#. STRINGS.UI.BUILDINGEFFECTS.REQUIRESMANUALOPERATION
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESMANUALOPERATION"
+msgid "Duplicant operation"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWER
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWER"
+msgid "<style=\"power\">Power</style>: <style=\"consumed\">-{0}</style>"
+msgstr "<style=\"power\">Power</style>: <style=\"consumed\">-{0}</style>"
+
+#. STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWERGENERATOR
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESPOWERGENERATOR"
+msgid "<style=\"power\">Power</style> generator"
+msgstr "Generator <style=\"power\">Energii</style>"
+
+#. STRINGS.UI.BUILDINGEFFECTS.REQUIRESSEED
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.REQUIRESSEED"
+msgid "1 Unplanted <style=\"seed\">Seed</style>"
+msgstr "1 Niezasadzone <style=\"seed\">Nasiono</style>"
+
+#. STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.STORAGECAPACITY"
+msgid "Storage capacity: {0}"
+msgstr "Pojemność Magazynu: {0}"
+
+#. STRINGS.UI.BUILDINGEFFECTS.STRESSREDUCEDPERMINUTE
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.STRESSREDUCEDPERMINUTE"
+msgid "<style=\"stress\">Stress</style>: <style=\"consumed\">{0} per minute</style>"
+msgstr "<style=\"stress\">Stres</style>: <style=\"consumed\">{0} na minutę</style>"
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ADDED_EFFECT
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ADDED_EFFECT"
+msgid "{0}"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ASSIGNEDDUPLICANT
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ASSIGNEDDUPLICANT"
+msgid "This amenity may only be used by the Duplicant it is assigned to"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.BATTERYEFFECT
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.BATTERYEFFECT"
+msgid "Can hold {0} of power when connected to a generator"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORDECREASED"
+msgid "Decreases Decor values by {0} in a {1} tile radius"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DECORPROVIDED"
+msgid "Improves Decor values by {0} in a {1} tile radius"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.DUPLICANTMOVEMENTBOOST"
+msgid "Duplicants walk {0} faster on this tile"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMED
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMED"
+msgid "Consumes {2} of {1} when in use"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMEDPERUSE
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTCONSUMEDPERUSE"
+msgid "Consumes {2} of {1} with each use"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTED"
+msgid "Produces {2} of {1} when in use"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTEDPERUSE
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ELEMENTEMITTEDPERUSE"
+msgid "Produces {2} of {1} with each use"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYCONSUMED
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYCONSUMED"
+msgid "Draws {0} from the power grid it's connected to"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYGENERATED
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.ENERGYGENERATED"
+msgid "Produces {0} for the power grid it's connected to"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.FABRICATES
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.FABRICATES"
+msgid "Fabrication is the production of items and equipment"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GASCOOLING
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.GASCOOLING"
+msgid "Reduces the temperature of piped gases by {0}"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATCONSUMED
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATCONSUMED"
+msgid "Dissipates -{0} of heat"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.HEATGENERATED"
+msgid "Generates +{0} of heat"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.MAX_WATTAGE
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.MAX_WATTAGE"
+msgid "Drawing more than the maximum allowed power can result in damage to the circuit"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.OPERATIONEFFECTS
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.OPERATIONEFFECTS"
+msgid "The building will produce these effects when its requirements are met"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.OPERATIONREQUIREMENTS
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.OPERATIONREQUIREMENTS"
+msgid "All requirements must be met in order for this building to operate"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PLANTERBOX_PENTALTY
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.PLANTERBOX_PENTALTY"
+msgid "Plants grow more slowly when contained within boxes"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REFILLOXYGENTANK
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REFILLOXYGENTANK"
+msgid "Refills Exosuit Oxygen Tanks with oxygen for reuse"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REMOVEDEFFECT
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REMOVEDEFFECT"
+msgid "{0}"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REMOVESEFFECTSUBTITLE
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REMOVESEFFECTSUBTITLE"
+msgid "Use of this building will remove the listed effects"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESELEMENT
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESELEMENT"
+msgid "Must receive deliveries of <style={0}>{1}</style> to function"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASINPUT
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASINPUT"
+msgid "Must receive gas from a gas pipe system"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUT
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUT"
+msgid "Must expel gas through a gas pipe system"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUTS
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESGASOUTPUTS"
+msgid "Must expel gas through a gas pipe system"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDINPUT
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDINPUT"
+msgid "Must receive liquid from a liquid pipe system"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUT
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUT"
+msgid "Must expel liquid through a liquid pipe system"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUTS
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESLIQUIDOUTPUTS"
+msgid "Must expel liquid through a liquid pipe system"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESMANUALOPERATION
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESMANUALOPERATION"
+msgid "A Duplicant must be present to run this building"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESPOWER
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESPOWER"
+msgid "Must be connected to a power grid with at least -{0} of available power"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESPOWERGENERATOR
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESPOWERGENERATOR"
+msgid "Must be connected to a power producing generator to function"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESSEED
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.REQUIRESSEED"
+msgid "Must receive a seed from a dug out plant"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STORAGECAPACITY
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STORAGECAPACITY"
+msgid "Holds up to {0} of material"
+msgstr ""
+
+#. STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STRESSREDUCEDPERMINUTE
+msgctxt "STRINGS.UI.BUILDINGEFFECTS.TOOLTIPS.STRESSREDUCEDPERMINUTE"
+msgid "Removes {0} of Duplicants' Stress for every uninterrupted minute of use"
+msgstr ""
+
+#. STRINGS.UI.CALCULATING
+msgctxt "STRINGS.UI.CALCULATING"
+msgid "Calculating..."
+msgstr ""
+
+#. STRINGS.UI.CANCELPLACEINRECEPTACLE
+msgctxt "STRINGS.UI.CANCELPLACEINRECEPTACLE"
+msgid "Cancel"
+msgstr "Anuluj"
+
+#. STRINGS.UI.CANCELREMOVALFROMRECEPTACLE
+msgctxt "STRINGS.UI.CANCELREMOVALFROMRECEPTACLE"
+msgid "Cancel"
+msgstr "Anuluj"
+
+#. STRINGS.UI.CHANGEPERCYCLE
+msgctxt "STRINGS.UI.CHANGEPERCYCLE"
+msgid "Change per cycle: {0}"
+msgstr ""
+
+#. STRINGS.UI.CHANGEPERSECOND
+msgctxt "STRINGS.UI.CHANGEPERSECOND"
+msgid "Change per second: {0}"
+msgstr ""
+
+#. STRINGS.UI.CHARACTERCONTAINER_EXPECTATIONS_TITLE
+msgctxt "STRINGS.UI.CHARACTERCONTAINER_EXPECTATIONS_TITLE"
+msgid "ADDITIONAL"
+msgstr "DODATKOWE"
+
+#. STRINGS.UI.CHARACTERCONTAINER_NEED
+msgctxt "STRINGS.UI.CHARACTERCONTAINER_NEED"
+msgid "{0}: {1}"
+msgstr ""
+
+#. STRINGS.UI.CHARACTERCONTAINER_SKILL_VALUE
+msgctxt "STRINGS.UI.CHARACTERCONTAINER_SKILL_VALUE"
+msgid " {0} {1}"
+msgstr ""
+
+#. STRINGS.UI.CHARACTERCONTAINER_SKILLS_TITLE
+msgctxt "STRINGS.UI.CHARACTERCONTAINER_SKILLS_TITLE"
+msgid "ATTRIBUTES"
+msgstr "ATRYBUTY"
+
+#. STRINGS.UI.CHARACTERCONTAINER_STRESSTRAIT
+msgctxt "STRINGS.UI.CHARACTERCONTAINER_STRESSTRAIT"
+msgid "Stress Response: {0}"
+msgstr "Reakcja na Stres: {0}"
+
+#. STRINGS.UI.CHARACTERCONTAINER_TRAITS_TITLE
+msgctxt "STRINGS.UI.CHARACTERCONTAINER_TRAITS_TITLE"
+msgid "TRAITS"
+msgstr "CECHY"
+
+#. STRINGS.UI.COLONYLOSTSCREEN.COLONYLOST
+msgctxt "STRINGS.UI.COLONYLOSTSCREEN.COLONYLOST"
+msgid "COLONY LOST"
+msgstr "Kolonia Stracona"
+
+#. STRINGS.UI.COLONYLOSTSCREEN.COLONYLOSTDESCRIPTION
+msgctxt "STRINGS.UI.COLONYLOSTSCREEN.COLONYLOSTDESCRIPTION"
+msgid "All Duplicants are dead or incapacitated."
+msgstr ""
+
+#. STRINGS.UI.COLONYLOSTSCREEN.DISMISSBUTTON
+msgctxt "STRINGS.UI.COLONYLOSTSCREEN.DISMISSBUTTON"
+msgid "DISMISS"
+msgstr ""
+
+#. STRINGS.UI.COLONYLOSTSCREEN.QUITBUTTON
+msgctxt "STRINGS.UI.COLONYLOSTSCREEN.QUITBUTTON"
+msgid "MAIN MENU"
+msgstr "MENU GŁÓWNE"
+
+#. STRINGS.UI.COLONYLOSTSCREEN.RESTARTPROMPT
+msgctxt "STRINGS.UI.COLONYLOSTSCREEN.RESTARTPROMPT"
+msgid "Press <color=#F44A47>[ESC]</color> to return to a previous colony, or begin a new one."
+msgstr ""
+
+#. STRINGS.UI.CONTEXTSCREEN.ASSIGNEDTO
+msgctxt "STRINGS.UI.CONTEXTSCREEN.ASSIGNEDTO"
+msgid "Assigned To:"
+msgstr ""
+
+#. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCHAT
+msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCHAT"
+msgid "Can't reach"
+msgstr ""
+
+#. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCURE
+msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANCURE"
+msgid "Can cure"
+msgstr ""
+
+#. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANMOVETO
+msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANMOVETO"
+msgid "Can't reach"
+msgstr ""
+
+#. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANPICKUP
+msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.CANPICKUP"
+msgid "Can't reach"
+msgstr ""
+
+#. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFETCHTARGETAVAILABLE
+msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFETCHTARGETAVAILABLE"
+msgid "No fetchable items available"
+msgstr ""
+
+#. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFUNCTIONAL
+msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISFUNCTIONAL"
+msgid "Not operational"
+msgstr ""
+
+#. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISMARKEDFORDECONSTRUCTION
+msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISMARKEDFORDECONSTRUCTION"
+msgid "Not marked for destruction"
+msgstr ""
+
+#. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISNOTREDALERT
+msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISNOTREDALERT"
+msgid "Red alert"
+msgstr ""
+
+#. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISOPERATIONAL
+msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISOPERATIONAL"
+msgid "Not operational"
+msgstr ""
+
+#. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISPERMITTED
+msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISPERMITTED"
+msgid "Job not allowed"
+msgstr ""
+
+#. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISTANKLOW
+msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.ISTANKLOW"
+msgid "Tank not low"
+msgstr ""
+
+#. STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.OWNSMATERIALS
+msgctxt "STRINGS.UI.CONTEXTSCREEN.PRECONDITIONS.OWNSMATERIALS"
+msgid "No resources available"
+msgstr ""
+
+#. STRINGS.UI.CONTEXTSCREEN.UNAVAILABLE
+msgctxt "STRINGS.UI.CONTEXTSCREEN.UNAVAILABLE"
+msgid "UNAVAILABLE"
+msgstr ""
+
+#. STRINGS.UI.CRAFT
+msgctxt "STRINGS.UI.CRAFT"
+msgid "FABRICATE"
+msgstr "WYTWÓRZ"
+
+#. STRINGS.UI.CRASHSCREEN.BODY
+msgctxt "STRINGS.UI.CRASHSCREEN.BODY"
+msgid "Help! A black hole ate my game!"
+msgstr ""
+
+#. STRINGS.UI.CRASHSCREEN.CONTINUEBUTTON
+msgctxt "STRINGS.UI.CRASHSCREEN.CONTINUEBUTTON"
+msgid "CONTINUE GAME"
+msgstr "KONTYNUUJ GRĘ"
+
+#. STRINGS.UI.CRASHSCREEN.HEADER
+msgctxt "STRINGS.UI.CRASHSCREEN.HEADER"
+msgid "OPTIONAL CRASH DESCRIPTION"
+msgstr ""
+
+#. STRINGS.UI.CRASHSCREEN.LOADFAILED
+msgctxt "STRINGS.UI.CRASHSCREEN.LOADFAILED"
+msgid "Load Failed: {0}\nSave Version: {1}\nExpected: {2}"
+msgstr ""
+
+#. STRINGS.UI.CRASHSCREEN.QUITBUTTON
+msgctxt "STRINGS.UI.CRASHSCREEN.QUITBUTTON"
+msgid "QUIT TO DESKTOP"
+msgstr "Wyjdź do Pulpitu"
+
+#. STRINGS.UI.CRASHSCREEN.REPORTBUTTON
+msgctxt "STRINGS.UI.CRASHSCREEN.REPORTBUTTON"
+msgid "REPORT CRASH"
+msgstr ""
+
+#. STRINGS.UI.CRASHSCREEN.REPORTING
+msgctxt "STRINGS.UI.CRASHSCREEN.REPORTING"
+msgid "REPORTING, PLEASE WAIT..."
+msgstr "RAPORTOWANIE, PROSZĘ CZEKAĆ..."
+
+#. STRINGS.UI.CRASHSCREEN.SAVEFAILED
+msgctxt "STRINGS.UI.CRASHSCREEN.SAVEFAILED"
+msgid "Save Failed: {0}"
+msgstr ""
+
+#. STRINGS.UI.CRASHSCREEN.THANKYOU
+msgctxt "STRINGS.UI.CRASHSCREEN.THANKYOU"
+msgid "Thank you!\n\nYou're making our game better, one crash at a time."
+msgstr ""
+
+#. STRINGS.UI.CRASHSCREEN.TITLE
+msgctxt "STRINGS.UI.CRASHSCREEN.TITLE"
+msgid "Whoops! We're sorry, but it seems your game has encountered an error.\nIt's okay though - these errors are how we find and fix problems to make our game more fun for everyone.\nIf you use the box below to submit a crash report to us, we can use this information to get the issue sorted out."
+msgstr ""
+
+#. STRINGS.UI.CRASHSCREEN.UPLOADINFO
+msgctxt "STRINGS.UI.CRASHSCREEN.UPLOADINFO"
+msgid "UPLOAD ADDITIONAL INFO ({0})"
+msgstr ""
+
+#. STRINGS.UI.CREDITSSCREEN.CLOSEBUTTON
+msgctxt "STRINGS.UI.CREDITSSCREEN.CLOSEBUTTON"
+msgid "CLOSE"
+msgstr "ZAMKNIJ"
+
+#. STRINGS.UI.CREDITSSCREEN.TITLE
+msgctxt "STRINGS.UI.CREDITSSCREEN.TITLE"
+msgid "CREDITS"
+msgstr "AUTORZY"
+
+#. STRINGS.UI.DELIVERED
+msgctxt "STRINGS.UI.DELIVERED"
+msgid "Delivered: {0} {1}"
+msgstr "Dostarczono: {0} {1}"
+
+#. STRINGS.UI.DEMOOVERSCREEN.DEMOOVER
+msgctxt "STRINGS.UI.DEMOOVERSCREEN.DEMOOVER"
+msgid "END OF DEMO"
+msgstr ""
+
+#. STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION
+msgctxt "STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION"
+msgid "Thank you for playing <color=#F44A47>Oxygen Not Included</color>!"
+msgstr ""
+
+#. STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION_2
+msgctxt "STRINGS.UI.DEMOOVERSCREEN.DESCRIPTION_2"
+msgid ""
+msgstr ""
+
+#. STRINGS.UI.DEMOOVERSCREEN.QUITBUTTON
+msgctxt "STRINGS.UI.DEMOOVERSCREEN.QUITBUTTON"
+msgid "RESET"
+msgstr ""
+
+#. STRINGS.UI.DEMOOVERSCREEN.TIMEREMAINING
+msgctxt "STRINGS.UI.DEMOOVERSCREEN.TIMEREMAINING"
+msgid "Demo time remaining:"
+msgstr ""
+
+#. STRINGS.UI.DEMOOVERSCREEN.TIMERINACTIVE
+msgctxt "STRINGS.UI.DEMOOVERSCREEN.TIMERINACTIVE"
+msgid "Timer inactive"
+msgstr ""
+
+#. STRINGS.UI.DEMOOVERSCREEN.TIMERTOOLTIP
+msgctxt "STRINGS.UI.DEMOOVERSCREEN.TIMERTOOLTIP"
+msgid "Demo time remaining"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_MASS
+msgctxt "STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_MASS"
+msgid "{0}: {1}"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_ROTTABLE
+msgctxt "STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_ROTTABLE"
+msgid "\n\t• {0}"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_TEMPERATURE
+msgctxt "STRINGS.UI.DETAILTABS.DETAILS.CONTENTS_TEMPERATURE"
+msgid "{0} at {1}"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_CONTENTS
+msgctxt "STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_CONTENTS"
+msgid "CONTENTS"
+msgstr "ZAWIERA"
+
+#. STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_DETAILS
+msgctxt "STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_DETAILS"
+msgid "DETAILS"
+msgstr "DETALE"
+
+#. STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_MINION_CONTENTS
+msgctxt "STRINGS.UI.DETAILTABS.DETAILS.GROUPNAME_MINION_CONTENTS"
+msgid "CARRIED ITEMS"
+msgstr "PRZEDMIOTY PRZEWIEZIONE"
+
+#. STRINGS.UI.DETAILTABS.DETAILS.NAME
+msgctxt "STRINGS.UI.DETAILTABS.DETAILS.NAME"
+msgid "Details"
+msgstr "Detale"
+
+#. STRINGS.UI.DETAILTABS.DETAILS.STORAGE_EMPTY
+msgctxt "STRINGS.UI.DETAILTABS.DETAILS.STORAGE_EMPTY"
+msgid "None"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.DETAILS.TOOLTIP
+msgctxt "STRINGS.UI.DETAILTABS.DETAILS.TOOLTIP"
+msgid "More information"
+msgstr "Więcej informacji"
+
+#. STRINGS.UI.DETAILTABS.ENERGYCONSUMER.NAME
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYCONSUMER.NAME"
+msgid "Energy"
+msgstr "Energia"
+
+#. STRINGS.UI.DETAILTABS.ENERGYCONSUMER.TOOLTIP
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYCONSUMER.TOOLTIP"
+msgid "View how much <style=\"power\">Power</style> this building consumes"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES"
+msgid "<style=\"power\">Power</style> stored: {0}"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES_TOOLTIP
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.AVAILABLE_JOULES_TOOLTIP"
+msgid "Amount of <style=\"power\">Power</style> stored in batteries"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.BATTERIES
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.BATTERIES"
+msgid "BATTERIES"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CIRCUITOVERVIEW
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CIRCUITOVERVIEW"
+msgid "CIRCUIT OVERVIEW"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CONSUMERS
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.CONSUMERS"
+msgid "POWER CONSUMERS"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.DISCONNECTED
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.DISCONNECTED"
+msgid "Not connected to an electrical circuit"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.GENERATORS
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.GENERATORS"
+msgid "POWER GENERATORS"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.MAX_SAFE_WATTAGE
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.MAX_SAFE_WATTAGE"
+msgid "Maximum Safe Wattage: {0}"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.MAX_SAFE_WATTAGE_TOOLTIP
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.MAX_SAFE_WATTAGE_TOOLTIP"
+msgid "Exceeding this value will overload the circuit and can result in damage to wiring and buildings"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NAME
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NAME"
+msgid "Energy"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOBATTERIES
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOBATTERIES"
+msgid "No batteries on this circuit"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOCONSUMERS
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOCONSUMERS"
+msgid "No consumers on this circuit"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOGENERATORS
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.NOGENERATORS"
+msgid "No generators on this circuit"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED"
+msgid "Potential <style=\"power\">Power</style> consumed: {0}"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED_TOOLTIP
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.POTENTIAL_WATTAGE_CONSUMED_TOOLTIP"
+msgid "The total amount of <style=\"power\">Power</style> that can be used by this circuit if all connected buildings are active"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.TOOLTIP
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.TOOLTIP"
+msgid "Monitor the <style=\"power\">Power</style> this building is generating"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED"
+msgid "<style=\"power\">Power</style> consumed: {0}"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED_TOOLTIP
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_CONSUMED_TOOLTIP"
+msgid "The total amount of <style=\"power\">Power</style> used by this circuit"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED"
+msgid "<style=\"power\">Power</style> produced: {0}"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED_TOOLTIP
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYGENERATOR.WATTAGE_GENERATED_TOOLTIP"
+msgid "The total amount of <style=\"power\">Power</style> generated by this circuit"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYWIRE.NAME
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYWIRE.NAME"
+msgid "Energy"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.ENERGYWIRE.TOOLTIP
+msgctxt "STRINGS.UI.DETAILTABS.ENERGYWIRE.TOOLTIP"
+msgid "View this wire's network"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.NEEDS.CURRENT_NEED_LEVEL
+msgctxt "STRINGS.UI.DETAILTABS.NEEDS.CURRENT_NEED_LEVEL"
+msgid "Current Level: {0}"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.NEEDS.CURRENT_STRESS_LEVEL
+msgctxt "STRINGS.UI.DETAILTABS.NEEDS.CURRENT_STRESS_LEVEL"
+msgid "Current <style=\"stress\">Stress</style> Level: {0}"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.NEEDS.NAME
+msgctxt "STRINGS.UI.DETAILTABS.NEEDS.NAME"
+msgid "Stress"
+msgstr "Stres"
+
+#. STRINGS.UI.DETAILTABS.NEEDS.NEXT_NEED_LEVEL
+msgctxt "STRINGS.UI.DETAILTABS.NEEDS.NEXT_NEED_LEVEL"
+msgid "Next Level: {0}"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.NEEDS.OVERVIEW
+msgctxt "STRINGS.UI.DETAILTABS.NEEDS.OVERVIEW"
+msgid "Overview"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.NEEDS.STRESS_CREATORS
+msgctxt "STRINGS.UI.DETAILTABS.NEEDS.STRESS_CREATORS"
+msgid "<style=\"stress\">Stress</style> Creators"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.NEEDS.STRESS_RELIEVERS
+msgctxt "STRINGS.UI.DETAILTABS.NEEDS.STRESS_RELIEVERS"
+msgid "<style=\"stress\">Stress</style> Relievers"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.NEEDS.TOOLTIP
+msgctxt "STRINGS.UI.DETAILTABS.NEEDS.TOOLTIP"
+msgid "View this Duplicant's psychological status"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.POSSESSIONS.ASSIGNED_TOOLTIP
+msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.ASSIGNED_TOOLTIP"
+msgid "This Duplicant has been assigned a {0}.\nEffects:{1}"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.POSSESSIONS.EQUIPMENT_TOOLTIP
+msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.EQUIPMENT_TOOLTIP"
+msgid "This Duplicant has been equipped with a <style=\"equipment\">{0}</style>"
+msgstr ""

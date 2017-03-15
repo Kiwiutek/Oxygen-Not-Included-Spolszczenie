@@ -1,0 +1,999 @@
+#. STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.SCHEDULEMESSAGE.TOOLTIP"
+msgid "Learn how to schedule your Duplicants' time"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.MESSAGEBODY"
+msgid "Duplicants are incredibly resourceful and will automatically use any materials in their reach. However, a Duplicant's productivity can be improved by storing resources closer to where they'll need them.\n\nUse the <color=#833A5FFF>STORAGE REGION TOOL</color> <color=#F44A47>[Y + T]</color> to mark an area as storage, and the <color=#833A5FFF>STORAGE OVERLAY</color> <color=#F44A47>[F6]</color> to assign resource types to it."
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.NAME"
+msgid "TIP: Storage Regions"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.STORAGEREGIONSMESSAGE.TOOLTIP"
+msgid "Learn how to improve efficiency through organization"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.MESSAGEBODY"
+msgid "Duplicants are fragile creatures and must be kept mentally healthy in order to function. Subpar conditions will increase Duplicants' <style=\"stress\">Stress</style>, while improved conditions will decrease it. Too much <style=\"stress\">Stress</style> will cause Duplicants to have a nervous breakdown.\n\nSelect a Duplicant and mouse over <style=\"stress\">Stress</style> in their <color=#833A5FFF>INFORMATION TAB</color> to view their individual <style=\"stress\">Stress</style> factors."
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.NAME"
+msgid "TIP: Stress Management"
+msgstr "TIP: Zarządzanie Stresem"
+
+#. STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.STRESSMANAGEMENTMESSAGE.TOOLTIP"
+msgid "Learn how to keep Duplicants happy and productive"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.STRUCTURALCOLLAPSE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALCOLLAPSE.NAME"
+msgid "Structural collapse"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.STRUCTURALCOLLAPSE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALCOLLAPSE.TOOLTIP"
+msgid "These buildings have collapsed:"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.NAME"
+msgid "Structural damage"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.STRUCTURALDAMAGE.TOOLTIP"
+msgid "These buildings' structural integrity has been compromised"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.MESSAGEBODY"
+msgid "Duplicants will perform pending job tasks in order of highest priority to lowest. For example, Duplicants will always harvest <style=\"food\">food</style> before they build, and always build new structures before they dig.\n\nOpen the <color=#833A5FFF>JOBS TAB</color> <color=#F44A47>[J]</color> to set which job tasks Duplicants may perform, or specialize skilled Duplicants for specific types of work."
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.NAME"
+msgid "TIP: Task Priorities"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TASKPRIORITIESMESSAGE.TOOLTIP"
+msgid "Learn how to manage Duplicants' priorities"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.MESSAGEBODY"
+msgid "Environments that are extremely <style=\"heat\">Hot</style> or <style=\"heat\">Cold</style> will affect your Duplicants' internal body temperature and cause <style=\"stress\">Stress</style>.\n\nThe <color=#833A5FFF>THERMAL COMFORT OVERLAY</color> <color=#F44A47>[F4]</color> will allow you to view all areas where Duplicants cannot regulate their temperature and will become uncomfortable."
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.NAME"
+msgid "TIP: Duplicant Temperature"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.TOOLTIP"
+msgid "Help your Duplicants keep their cool"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.NAME"
+msgid "Materials are out of reach"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.TOOLTIP"
+msgid "Duplicants cannot retrieve these resources:"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.UNREFRIGERATEDFOOD.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.UNREFRIGERATEDFOOD.NAME"
+msgid "Unrefrigerated Food"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.UNREFRIGERATEDFOOD.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.UNREFRIGERATEDFOOD.TOOLTIP"
+msgid "These <style=\"food\">Food</style> items are in storage but are not refrigerated:\n"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.NAME"
+msgid "Vent blocked"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.VENTBLOCKED.TOOLTIP"
+msgid "Blocked pipes have stopped these systems from functioning:"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.VENTOVERPRESSURE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.VENTOVERPRESSURE.NAME"
+msgid "Vent overpressurized"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.VENTOVERPRESSURE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.VENTOVERPRESSURE.TOOLTIP"
+msgid "These pipe systems have exited the ideal pressure range:"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.MESSAGEBODY"
+msgid "Duplicants are self-motivated and do not need to be individually managed in order to perform tasks in the colony.\n\nYou can use the <color=#833A5FFF>DIG TOOL</color> <color=#F44A47>[G]</color> and the <color=#833A5FFF>BUILD MENU</color> in the lower left of the screen to begin planning job tasks. Once you have a few placed, your Duplicants will automatically get to work for you."
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.NAME"
+msgid "TIP: Colony Management"
+msgstr "TIP: Zarządzanie Kolonią"
+
+#. STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.WELCOMEMESSAGE.TOOLTIP"
+msgid "Learn how to get Duplicants to do your bidding"
+msgstr ""
+
+#. STRINGS.MISC.PLACERS.DIGPLACER.NAME
+msgctxt "STRINGS.MISC.PLACERS.DIGPLACER.NAME"
+msgid "Dig"
+msgstr "Kopanie"
+
+#. STRINGS.MISC.PLACERS.MOPPLACER.NAME
+msgctxt "STRINGS.MISC.PLACERS.MOPPLACER.NAME"
+msgid "Mop"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.NAME"
+msgid "Bleachstone blocked"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONE.NEIGHBORSBLOCKED.TOOLTIP"
+msgid "This <style=\"solid\">Bleachstone</style> deposit is not exposed to air and cannot emit <style=\"gas\">Chlorine</style>"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.BLEACHSTONE.OVERPRESSURE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONE.OVERPRESSURE.NAME"
+msgid "Inert"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.BLEACHSTONE.OVERPRESSURE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONE.OVERPRESSURE.TOOLTIP"
+msgid "Environmental air pressure is too high for this <style=\"solid\">Bleachstone</style> deposit to emit <style=\"gas\">Chlorine</style>"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.BLEACHSTONEBLOCKED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEBLOCKED.NAME"
+msgid "{BlockedString}"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.BLEACHSTONEBLOCKED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEBLOCKED.TOOLTIP"
+msgid "This <style=\"solid\">Bleachstone</style> deposit has no room to emit <style=\"gas\">Chlorine</style>"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.BLEACHSTONEEMITTING.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEEMITTING.NAME"
+msgid "Emitting <style=\"gas\">{Element}</style>: {FlowRate}"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.BLEACHSTONEEMITTING.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEEMITTING.TOOLTIP"
+msgid "Producing <style=\"gas\">{Element}</style> at {FlowRate}"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.BLEACHSTONEINACTIVE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEINACTIVE.NAME"
+msgid "Inert"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.BLEACHSTONEINACTIVE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.BLEACHSTONEINACTIVE.TOOLTIP"
+msgid "Environmental air pressure is too high for this <style=\"solid\">Bleachstone</style> deposit to emit <style=\"gas\">Chlorine</style>"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.BURIEDITEM.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.BURIEDITEM.NAME"
+msgid "Buried Object"
+msgstr "Obiekt Zasypany"
+
+#. STRINGS.MISC.STATUSITEMS.BURIEDITEM.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.BURIEDITEM.TOOLTIP"
+msgid "Something seems to be hidden here"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.CLEANING.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.CLEANING.NAME"
+msgid "Cleaning"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.CLEANING.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.CLEANING.TOOLTIP"
+msgid "This building is currently being cleaned"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.EDIBLE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.EDIBLE.NAME"
+msgid "Rations: {0}"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.EDIBLE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.EDIBLE.TOOLTIP"
+msgid "Can provide <style=\"food\">{0}</style> of energy to Duplicants"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.NAME"
+msgid "{Category}"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALCATEGORY.TOOLTIP"
+msgid "This object belongs to the {Category} resource category"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.ELEMENTALMASS.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALMASS.NAME"
+msgid "{Mass}"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.ELEMENTALMASS.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALMASS.TOOLTIP"
+msgid "This object has a mass of {Mass}"
+msgstr "Obiekt ma masę {Mass}"
+
+#. STRINGS.MISC.STATUSITEMS.ELEMENTALTEMPERATURE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALTEMPERATURE.NAME"
+msgid "{Temp}"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.ELEMENTALTEMPERATURE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.ELEMENTALTEMPERATURE.TOOLTIP"
+msgid "This object is currently {Temp}"
+msgstr "Temperatura obiektu {Temp}"
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.NAME"
+msgid "Severe"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.CRITICAL.TOOLTIP"
+msgid "This Duplicant is in serious need of <style=\"medicine\">Medical</style> attention"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.DEAD.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.DEAD.NAME"
+msgid "Conclusive"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.DEAD.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.DEAD.TOOLTIP"
+msgid "This Duplicant won't be getting back up"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INCAPACITATED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INCAPACITATED.NAME"
+msgid "Paralyzing"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INCAPACITATED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INCAPACITATED.TOOLTIP"
+msgid "This Duplicant will die if they do not receive <style=\"medicine\">Medical</style> attention"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INJURED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INJURED.NAME"
+msgid "Moderate"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INJURED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.INJURED.TOOLTIP"
+msgid "This Duplicant needs some patching up"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.PERFECT.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.PERFECT.NAME"
+msgid "None"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.PERFECT.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.PERFECT.TOOLTIP"
+msgid "This Duplicant is in peak condition"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.NAME"
+msgid "Minor"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.HEALTHSTATUS.SCUFFED.TOOLTIP"
+msgid "This Duplicant has a few scrapes and bruises"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.HIT.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.HIT.NAME"
+msgid "{targetName} took {damageAmount} damage from {attackerName}'s attack!"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.NOCLEARLOCATIONSAVAILABLE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.NOCLEARLOCATIONSAVAILABLE.NAME"
+msgid "No Sweep Destination"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.NOCLEARLOCATIONSAVAILABLE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.NOCLEARLOCATIONSAVAILABLE.TOOLTIP"
+msgid "There are no valid destinations for this object to be swept to"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.OPERATING.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.OPERATING.NAME"
+msgid "In Use"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.OPERATING.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.OPERATING.TOOLTIP"
+msgid "This building is currently being used"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.OREMASS.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.OREMASS.NAME"
+msgid "{Mass}"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.OREMASS.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.OREMASS.TOOLTIP"
+msgid "This object has a mass of {Mass}"
+msgstr "Obiekt waży {Mass}"
+
+#. STRINGS.MISC.STATUSITEMS.ORETEMP.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.ORETEMP.NAME"
+msgid "{Temp}"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.ORETEMP.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.ORETEMP.TOOLTIP"
+msgid "This object is currently {Temp}"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.OXYROCK.NEIGHBORSBLOCKED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.NEIGHBORSBLOCKED.NAME"
+msgid "Oxylite blocked"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.OXYROCK.NEIGHBORSBLOCKED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.NEIGHBORSBLOCKED.TOOLTIP"
+msgid "This <style=\"solid\">Oxylite</style> deposit is not exposed to air and cannot emit <style=\"oxygen\">Oxygen</style>"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.NAME"
+msgid "Inert"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCK.OVERPRESSURE.TOOLTIP"
+msgid "Environmental air pressure is too high for this <style=\"solid\">Oxylite</style> deposit to emit <style=\"oxygen\">Oxygen</style>"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.NAME"
+msgid "{BlockedString}"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKBLOCKED.TOOLTIP"
+msgid "This <style=\"solid\">Oxylite</style> deposit has no room to emit <style=\"oxygen\">Oxygen</style>"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.OXYROCKEMITTING.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKEMITTING.NAME"
+msgid "Emitting <style=\"oxygen\">Oxygen</style>: {FlowRate}"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.OXYROCKEMITTING.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKEMITTING.TOOLTIP"
+msgid "Producing <style=\"oxygen\">Oxygen</style> at {FlowRate}"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.OXYROCKINACTIVE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKINACTIVE.NAME"
+msgid "Inert"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.OXYROCKINACTIVE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.OXYROCKINACTIVE.TOOLTIP"
+msgid "Environmental air pressure is too high for this <style=\"solid\">Oxylite</style> deposit to emit <style=\"oxygen\">Oxygen</style>"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.NAME"
+msgid "Sweep Pending"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGCLEAR.TOOLTIP"
+msgid "Awaiting a Duplicant to sweep"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.NAME"
+msgid "Harvest Pending"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGHARVEST.TOOLTIP"
+msgid "Awaiting a Duplicant to harvest"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.NAME"
+msgid "Dig Up Pending"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.PENDINGUPROOT.TOOLTIP"
+msgid "Awaiting a Duplicant to dig up"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.NAME"
+msgid "Unreachable"
+msgstr "Nieosiąglany"
+
+#. STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.PICKUPABLEUNREACHABLE.TOOLTIP"
+msgid "Duplicants cannot reach this item"
+msgstr "Duplikanci nie mogą osiągnąć tego przemiotu"
+
+#. STRINGS.MISC.STATUSITEMS.PRIORITIZED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.PRIORITIZED.NAME"
+msgid "Prioritized"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.PRIORITIZED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.PRIORITIZED.TOOLTIP"
+msgid "This task has been made a high priority"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.REGIONINVALID.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.REGIONINVALID.NAME"
+msgid "Invalid Region"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.REGIONINVALID.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.REGIONINVALID.TOOLTIP"
+msgid "This region currently needs:\n{0}"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.NAME"
+msgid "Blocked"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.REGIONISBLOCKED.TOOLTIP"
+msgid "Undug material is blocking off an essential tile"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.NAME"
+msgid "Missing Walls"
+msgstr "Brakujące Ściany"
+
+#. STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSCLOSURE.TOOLTIP"
+msgid "Use tiles to build walls around this region"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.NAME"
+msgid "Missing Doors"
+msgstr "Brakujące Drzwi"
+
+#. STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSDOOR.TOOLTIP"
+msgid "This region must have at least one door"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.REGIONNEEDSFURNITURE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSFURNITURE.NAME"
+msgid "Missing Furniture"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.REGIONNEEDSFURNITURE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSFURNITURE.TOOLTIP"
+msgid "This region still needs:\n{0}"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.REGIONNEEDSSIZE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSSIZE.NAME"
+msgid "Insufficient Size"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.REGIONNEEDSSIZE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.REGIONNEEDSSIZE.TOOLTIP"
+msgid "This region must be a minimum of {0} tiles high and {0} tiles wide"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.NAME"
+msgid "Venting"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTEMITTING.TOOLTIP"
+msgid "This spout is releasing gas"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.NAME"
+msgid "Over pressure"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTOVERPRESSURE.TOOLTIP"
+msgid "Spout cannot vent due to high environmental pressure"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.NAME"
+msgid "Pressure rising"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.SPOUTPRESSUREBUILDING.TOOLTIP"
+msgid "Gas pressure is building"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.TREEFILTERABLETAGS.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.TREEFILTERABLETAGS.NAME"
+msgid "{Tags}"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.TREEFILTERABLETAGS.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.TREEFILTERABLETAGS.TOOLTIP"
+msgid "{Tags}"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.USING.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.USING.NAME"
+msgid "Using {Target}"
+msgstr "Używa {Target}"
+
+#. STRINGS.MISC.STATUSITEMS.USING.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.USING.TOOLTIP"
+msgid "{Target} is currently in use"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.NAME"
+msgid "Dig Pending"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORDIG.TOOLTIP"
+msgid "Awaiting a Duplicant to dig"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME
+msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.NAME"
+msgid "Mop Pending"
+msgstr ""
+
+#. STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP
+msgctxt "STRINGS.MISC.STATUSITEMS.WAITINGFORMOP.TOOLTIP"
+msgid "Awaiting a Duplicant to mop"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.ALLOY
+msgctxt "STRINGS.MISC.TAGS.ALLOY"
+msgid "Alloy"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.BED
+msgctxt "STRINGS.MISC.TAGS.BED"
+msgid "Bed"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.BLEACHSTONE
+msgctxt "STRINGS.MISC.TAGS.BLEACHSTONE"
+msgid "Bleach Stone"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.BREATHABLE
+msgctxt "STRINGS.MISC.TAGS.BREATHABLE"
+msgid "Breathable Gas"
+msgstr "Gaz Tlenowy"
+
+#. STRINGS.MISC.TAGS.BUILDABLEPROCESSED
+msgctxt "STRINGS.MISC.TAGS.BUILDABLEPROCESSED"
+msgid "Refined Mineral"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.BUILDABLERAW
+msgctxt "STRINGS.MISC.TAGS.BUILDABLERAW"
+msgid "Raw Mineral"
+msgstr "Surowe Złoże"
+
+#. STRINGS.MISC.TAGS.BURNS
+msgctxt "STRINGS.MISC.TAGS.BURNS"
+msgid "Flammable"
+msgstr "Łatwopalny"
+
+#. STRINGS.MISC.TAGS.CLINIC
+msgctxt "STRINGS.MISC.TAGS.CLINIC"
+msgid "Clinic"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.COAL
+msgctxt "STRINGS.MISC.TAGS.COAL"
+msgid "Coal"
+msgstr "Węgiel"
+
+#. STRINGS.MISC.TAGS.COMPOSTABLE
+msgctxt "STRINGS.MISC.TAGS.COMPOSTABLE"
+msgid "Compostable"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.CONSUMABLEORE
+msgctxt "STRINGS.MISC.TAGS.CONSUMABLEORE"
+msgid "Consumable Ore"
+msgstr "Ruda użytkowa"
+
+#. STRINGS.MISC.TAGS.EMITSLIGHT
+msgctxt "STRINGS.MISC.TAGS.EMITSLIGHT"
+msgid "Light Emitter"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.EXTRUDABLE
+msgctxt "STRINGS.MISC.TAGS.EXTRUDABLE"
+msgid "Extrudable"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.FARMABLE
+msgctxt "STRINGS.MISC.TAGS.FARMABLE"
+msgid "Cultivable Soil"
+msgstr "Gleba Uprawna"
+
+#. STRINGS.MISC.TAGS.FILTER
+msgctxt "STRINGS.MISC.TAGS.FILTER"
+msgid "Filtration Medium"
+msgstr "Średnia filtracja"
+
+#. STRINGS.MISC.TAGS.GAS
+msgctxt "STRINGS.MISC.TAGS.GAS"
+msgid "Gas"
+msgstr "Gaz"
+
+#. STRINGS.MISC.TAGS.ICEORE
+msgctxt "STRINGS.MISC.TAGS.ICEORE"
+msgid "Ice"
+msgstr "Lód"
+
+#. STRINGS.MISC.TAGS.INDUSTRIALINGREDIENT
+msgctxt "STRINGS.MISC.TAGS.INDUSTRIALINGREDIENT"
+msgid "Industrial Ingredient"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.INDUSTRIALPRODUCT
+msgctxt "STRINGS.MISC.TAGS.INDUSTRIALPRODUCT"
+msgid "Industrial Product"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.LIFE
+msgctxt "STRINGS.MISC.TAGS.LIFE"
+msgid "Life"
+msgstr "Życie"
+
+#. STRINGS.MISC.TAGS.LIQUID
+msgctxt "STRINGS.MISC.TAGS.LIQUID"
+msgid "Liquid"
+msgstr "Ciecz"
+
+#. STRINGS.MISC.TAGS.LIQUIFIABLE
+msgctxt "STRINGS.MISC.TAGS.LIQUIFIABLE"
+msgid "Liquifiable"
+msgstr "?Stan Ciekły"
+
+#. STRINGS.MISC.TAGS.MESSSTATION
+msgctxt "STRINGS.MISC.TAGS.MESSSTATION"
+msgid "Dining Table"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.METAL
+msgctxt "STRINGS.MISC.TAGS.METAL"
+msgid "Raw Metal"
+msgstr "Surowy Metal"
+
+#. STRINGS.MISC.TAGS.MIXTURE
+msgctxt "STRINGS.MISC.TAGS.MIXTURE"
+msgid "Mixture"
+msgstr "Mieszanka"
+
+#. STRINGS.MISC.TAGS.ORE
+msgctxt "STRINGS.MISC.TAGS.ORE"
+msgid "Ore"
+msgstr "Ruda"
+
+#. STRINGS.MISC.TAGS.ORGANICS
+msgctxt "STRINGS.MISC.TAGS.ORGANICS"
+msgid "Organic"
+msgstr "Organiczny"
+
+#. STRINGS.MISC.TAGS.OTHER
+msgctxt "STRINGS.MISC.TAGS.OTHER"
+msgid "Miscellaneous"
+msgstr "Różne"
+
+#. STRINGS.MISC.TAGS.PHOSPHORUS
+msgctxt "STRINGS.MISC.TAGS.PHOSPHORUS"
+msgid "Phosphorus"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.PLUMBABLE
+msgctxt "STRINGS.MISC.TAGS.PLUMBABLE"
+msgid "Plumbable"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.PRECIOUSMETAL
+msgctxt "STRINGS.MISC.TAGS.PRECIOUSMETAL"
+msgid "Precious Metal"
+msgstr "Metal Szlachetny"
+
+#. STRINGS.MISC.TAGS.RAWPRECIOUSMETAL
+msgctxt "STRINGS.MISC.TAGS.RAWPRECIOUSMETAL"
+msgid "Raw Precious Metal"
+msgstr "?Surowy Metal Szlachetny"
+
+#. STRINGS.MISC.TAGS.REFINEDMETAL
+msgctxt "STRINGS.MISC.TAGS.REFINEDMETAL"
+msgid "Refined Metal"
+msgstr "?Przetworzony Metal"
+
+#. STRINGS.MISC.TAGS.RELAXATION_POINT
+msgctxt "STRINGS.MISC.TAGS.RELAXATION_POINT"
+msgid "Leisure Area"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.SOLID
+msgctxt "STRINGS.MISC.TAGS.SOLID"
+msgid "Solid"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.SOLIDMATERIAL
+msgctxt "STRINGS.MISC.TAGS.SOLIDMATERIAL"
+msgid "Solid Material"
+msgstr ""
+
+#. STRINGS.MISC.TAGS.SPECIAL
+msgctxt "STRINGS.MISC.TAGS.SPECIAL"
+msgid "Special"
+msgstr "Specjalny"
+
+#. STRINGS.MISC.TAGS.TOXIC
+msgctxt "STRINGS.MISC.TAGS.TOXIC"
+msgid "Toxic"
+msgstr "Toksyczny"
+
+#. STRINGS.MISC.TAGS.UNBREATHABLE
+msgctxt "STRINGS.MISC.TAGS.UNBREATHABLE"
+msgid "Unbreathable"
+msgstr "Gaz Beztlenowy"
+
+#. STRINGS.MISC.TAGS.UNSTABLE
+msgctxt "STRINGS.MISC.TAGS.UNSTABLE"
+msgid "Unstable"
+msgstr ""
+
+#. STRINGS.REGIONS.EXOSUITREGION.NAME
+msgctxt "STRINGS.REGIONS.EXOSUITREGION.NAME"
+msgid "Exosuit"
+msgstr "Egzoszkielet"
+
+#. STRINGS.REGIONS.MISSINGREQUIREMENTS.BLOCKED
+msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.BLOCKED"
+msgid "Cells must be cleared of solid materials and tiles"
+msgstr "Komórki muszą być wyczyszczone z minerałów stałych i pól"
+
+#. STRINGS.REGIONS.MISSINGREQUIREMENTS.BUILDINGTAG
+msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.BUILDINGTAG"
+msgid "A building tagged '{0}'\n"
+msgstr "Budynek oznaczony '{0}'\n"
+
+#. STRINGS.REGIONS.MISSINGREQUIREMENTS.DOOR
+msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.DOOR"
+msgid "A Door"
+msgstr "Drzwi"
+
+#. STRINGS.REGIONS.MISSINGREQUIREMENTS.ENCLOSED
+msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.ENCLOSED"
+msgid "To be enclosed"
+msgstr "W trakcie dopinania"
+
+#. STRINGS.REGIONS.MISSINGREQUIREMENTS.HEIGHT
+msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.HEIGHT"
+msgid "A height of at least {0} cells"
+msgstr "Wysokość na {0} komórek"
+
+#. STRINGS.REGIONS.MISSINGREQUIREMENTS.WIDTH
+msgctxt "STRINGS.REGIONS.MISSINGREQUIREMENTS.WIDTH"
+msgid "A width of at least {0} cells"
+msgstr "Szerokość na {0} komórek"
+
+#. STRINGS.RESEARCH.ADVANCEDFILTRATION.DESC
+msgctxt "STRINGS.RESEARCH.ADVANCEDFILTRATION.DESC"
+msgid "Cutting-edge technologies to get the most out of your recycled materials."
+msgstr "Najnowsze technologie by wycisnąć jak najwięcej z przetworzonych materiałów."
+
+#. STRINGS.RESEARCH.ADVANCEDFILTRATION.NAME
+msgctxt "STRINGS.RESEARCH.ADVANCEDFILTRATION.NAME"
+msgid "Advanced Filtration"
+msgstr "Zaawansowana Filtracja"
+
+#. STRINGS.RESEARCH.COMBUSTION.DESC
+msgctxt "STRINGS.RESEARCH.COMBUSTION.DESC"
+msgid "Crude fuel-powered generators for automatic <style=\"power\">Power</style> production."
+msgstr ""
+
+#. STRINGS.RESEARCH.COMBUSTION.NAME
+msgctxt "STRINGS.RESEARCH.COMBUSTION.NAME"
+msgid "Combustion"
+msgstr "Spalanie"
+
+#. STRINGS.RESEARCH.FARMINGTECH.DESC
+msgctxt "STRINGS.RESEARCH.FARMINGTECH.DESC"
+msgid "Produce <style=\"food\">Food</style> by mastering the peaceful art of agriculture."
+msgstr "Produkuj <style=\"food\">Żywność</style> poprzez opanowanie do perfekcji spokojnej sztuki rolnictwa."
+
+#. STRINGS.RESEARCH.FARMINGTECH.NAME
+msgctxt "STRINGS.RESEARCH.FARMINGTECH.NAME"
+msgid "Farming"
+msgstr ""
+
+#. STRINGS.RESEARCH.FINEDINING.DESC
+msgctxt "STRINGS.RESEARCH.FINEDINING.DESC"
+msgid "Prepare more nutritious <style=\"food\">Food</style> and store it longer before spoiling."
+msgstr "Przygotuj bardziej pożywną <style=\"food\">Żywność</style> i przechowuj ją dłużej nim się popsuje."
+
+#. STRINGS.RESEARCH.FINEDINING.NAME
+msgctxt "STRINGS.RESEARCH.FINEDINING.NAME"
+msgid "Fine Dining"
+msgstr "Ekskluzywne Jedzenie"
+
+#. STRINGS.RESEARCH.GASPIPING.DESC
+msgctxt "STRINGS.RESEARCH.GASPIPING.DESC"
+msgid "Rudimentary technologies for installing <style=\"gas\">Gas</style> infrastructure."
+msgstr ""
+
+#. STRINGS.RESEARCH.GASPIPING.NAME
+msgctxt "STRINGS.RESEARCH.GASPIPING.NAME"
+msgid "Gas Piping"
+msgstr "Rurociągi Gazowe"
+
+#. STRINGS.RESEARCH.INSULATION.DESC
+msgctxt "STRINGS.RESEARCH.INSULATION.DESC"
+msgid "Improve <style=\"heat\">Heat</style> distribution in your base and guard buildings from extreme temperatures."
+msgstr "Ulepsz dystrybucję <style=\"heat\">Ciepła</style> w swojej bazie i chroń budynki od ekstremalnych temperatur."
+
+#. STRINGS.RESEARCH.INSULATION.NAME
+msgctxt "STRINGS.RESEARCH.INSULATION.NAME"
+msgid "Insulation"
+msgstr "Izolacja"
+
+#. STRINGS.RESEARCH.INTERIORDECOR.DESC
+msgctxt "STRINGS.RESEARCH.INTERIORDECOR.DESC"
+msgid "<style=\"decor\">Decor</style> boosting items to counteract the gloom of underground living."
+msgstr "Przedmioty podnoszące <style=\"decor\">Wystrój</style> w celu niwelowania przygnębiającego klimatu życia pod ziemią."
+
+#. STRINGS.RESEARCH.INTERIORDECOR.NAME
+msgctxt "STRINGS.RESEARCH.INTERIORDECOR.NAME"
+msgid "Interior Decor"
+msgstr "Wystrój Wnętrz"
+
+#. STRINGS.RESEARCH.LIQUIDPIPING.DESC
+msgctxt "STRINGS.RESEARCH.LIQUIDPIPING.DESC"
+msgid "Rudimentary technologies for installing <style=\"liquid\">Liquid</style> infrastructure."
+msgstr ""
+
+#. STRINGS.RESEARCH.LIQUIDPIPING.NAME
+msgctxt "STRINGS.RESEARCH.LIQUIDPIPING.NAME"
+msgid "Liquid Piping"
+msgstr "Rurociągi Wodne"
+
+#. STRINGS.RESEARCH.MEDBAY.DESC
+msgctxt "STRINGS.RESEARCH.MEDBAY.DESC"
+msgid "<style=\"medicine\">Medicines</style> to stop injury and <style=\"disease\">Disease</style> from running rampant in your colony."
+msgstr ""
+
+#. STRINGS.RESEARCH.MEDBAY.NAME
+msgctxt "STRINGS.RESEARCH.MEDBAY.NAME"
+msgid "Medbay"
+msgstr "Centrum Medyczne"
+
+#. STRINGS.RESEARCH.MESSAGING.NORESEARCHSELECTED
+msgctxt "STRINGS.RESEARCH.MESSAGING.NORESEARCHSELECTED"
+msgid "No research selected"
+msgstr "Nie wybrano badania"
+
+#. STRINGS.RESEARCH.MESSAGING.RESEARCHTYPEALSOREQUIRED
+msgctxt "STRINGS.RESEARCH.MESSAGING.RESEARCHTYPEALSOREQUIRED"
+msgid "{0} also required"
+msgstr ""
+
+#. STRINGS.RESEARCH.MESSAGING.RESEARCHTYPEREQUIRED
+msgctxt "STRINGS.RESEARCH.MESSAGING.RESEARCHTYPEREQUIRED"
+msgid "{0} required"
+msgstr "{0} wymagany"
+
+#. STRINGS.RESEARCH.PERCOLATION.DESC
+msgctxt "STRINGS.RESEARCH.PERCOLATION.DESC"
+msgid "Waste management techniques to keep your base clean and livable."
+msgstr ""
+
+#. STRINGS.RESEARCH.PERCOLATION.NAME
+msgctxt "STRINGS.RESEARCH.PERCOLATION.NAME"
+msgid "Percolation"
+msgstr "Przesiąkanie "
+
+#. STRINGS.RESEARCH.POWERREGULATION.DESC
+msgctxt "STRINGS.RESEARCH.POWERREGULATION.DESC"
+msgid "Gain better control over your circuits to prevent wasted <style=\"power\">Power</style>."
+msgstr ""
+
+#. STRINGS.RESEARCH.POWERREGULATION.NAME
+msgctxt "STRINGS.RESEARCH.POWERREGULATION.NAME"
+msgid "Power Regulation"
+msgstr "Regulacja Mocy"
+
+#. STRINGS.RESEARCH.PRESSUREMANAGEMENT.DESC
+msgctxt "STRINGS.RESEARCH.PRESSUREMANAGEMENT.DESC"
+msgid "Unlock technologies to manage colony pressure and atmosphere."
+msgstr ""
+
+#. STRINGS.RESEARCH.PRESSUREMANAGEMENT.NAME
+msgctxt "STRINGS.RESEARCH.PRESSUREMANAGEMENT.NAME"
+msgid "Pressure Management"
+msgstr "Zarządzanie Ciśnieniem"
+
+#. STRINGS.RESEARCH.PYROTECHNICS.DESC
+msgctxt "STRINGS.RESEARCH.PYROTECHNICS.DESC"
+msgid "Unlock <style=\"heat\">Temperature</style> technologies that make heating resources a cup of tea."
+msgstr ""
+
+#. STRINGS.RESEARCH.PYROTECHNICS.NAME
+msgctxt "STRINGS.RESEARCH.PYROTECHNICS.NAME"
+msgid "Pyrotechnics"
+msgstr ""
+
+#. STRINGS.RESEARCH.SANITATIONSCIENCES.DESC
+msgctxt "STRINGS.RESEARCH.SANITATIONSCIENCES.DESC"
+msgid "Make daily ablutions less of a hassle."
+msgstr ""
+
+#. STRINGS.RESEARCH.SANITATIONSCIENCES.NAME
+msgctxt "STRINGS.RESEARCH.SANITATIONSCIENCES.NAME"
+msgid "Sanitation Sciences"
+msgstr "Urządzenia Sanitarne"
+
+#. STRINGS.RESEARCH.TEMPERATUREMODULATION.DESC
+msgctxt "STRINGS.RESEARCH.TEMPERATUREMODULATION.DESC"
+msgid "Unlock <style=\"heat\">Temperature</style> changing technologies to keep your colony at the perfect Kelvin."
+msgstr ""
+
+#. STRINGS.RESEARCH.TEMPERATUREMODULATION.NAME
+msgctxt "STRINGS.RESEARCH.TEMPERATUREMODULATION.NAME"
+msgid "Temperature Modulation"
+msgstr "Modulacja Temperatury"
+
+#. STRINGS.RESEARCH.TYPES.ALPHA.DESC
+msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.DESC"
+msgid "<style=\"research\">Novice Research</style> is required to unlock basic technologies.\nIt can be conducted at a <style=\"research\">Research Station</style>."
+msgstr ""

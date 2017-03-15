@@ -71,7 +71,7 @@ msgstr "Natleniacz Glonowy"
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.DESC"
 msgid "Make your Duplicants faster, stronger... better!"
-msgstr "Spraw, żeby Twoi Duplikantci stali się silniejsi!"
+msgstr "Spraw, żeby Twoi Duplikanci stali się silniejsi!"
 
 #. STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.EFFECT
 msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.EFFECT"

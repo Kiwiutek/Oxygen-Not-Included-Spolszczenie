@@ -610,7 +610,7 @@ msgstr "Łóżko"
 
 #. STRINGS.BUILDINGS.PREFABS.BURNER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.BURNER.DESC"
-msgid "Some people just want to see the world burn."
+msgid "Some people just want to watch the world burn."
 msgstr ""
 
 #. STRINGS.BUILDINGS.PREFABS.BURNER.EFFECT

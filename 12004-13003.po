@@ -1,3 +1,18 @@
+#. STRINGS.UI.DETAILTABS.NEEDS.TOOLTIP
+msgctxt "STRINGS.UI.DETAILTABS.NEEDS.TOOLTIP"
+msgid "View this Duplicant's psychological status"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.POSSESSIONS.ASSIGNED_TOOLTIP
+msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.ASSIGNED_TOOLTIP"
+msgid "This Duplicant has been assigned a {0}.\nEffects:{1}"
+msgstr ""
+
+#. STRINGS.UI.DETAILTABS.POSSESSIONS.EQUIPMENT_TOOLTIP
+msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.EQUIPMENT_TOOLTIP"
+msgid "This Duplicant has been equipped with a <style=\"equipment\">{0}</style>"
+msgstr ""
+
 #. STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_EQUIPMENT
 msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.GROUPNAME_EQUIPMENT"
 msgid "CARRIED ITEMS"
@@ -620,7 +635,7 @@ msgstr "WCZYTAJ GRĘ"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_SAVE_VERSION
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.UNSUPPORTED_SAVE_VERSION"
-msgid "Unspported Save File:\n{0}\n\nSave file version is v{1}.{2} but this build requires at least v{3}.{4}"
+msgid "Unsupported Save File:\n{0}\n\nSave file version is v{1}.{2} but this build requires v{3}.{4} or higher"
 msgstr ""
 
 #. STRINGS.UI.FRONTEND.MAINMENU.LOADGAME
@@ -970,7 +985,7 @@ msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_SUBMERSION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_SUBMERSION"
-msgid "Submersed in liquid"
+msgid "Submerged in liquid"
 msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRES_TEMPERATURE
@@ -981,19 +996,4 @@ msgstr ""
 #. STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRESFERTILIZER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.REQUIRESFERTILIZER"
 msgid "<style=\"solid\">{0}</style>: <style=\"consumed\">{1}</style>"
-msgstr ""
-
-#. STRINGS.UI.GAMEOBJECTEFFECTS.ROTTEN
-msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.ROTTEN"
-msgid "Rotten"
-msgstr ""
-
-#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.CALORIES
-msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.CALORIES"
-msgid "<style=\"produced\">+{0}</style>"
-msgstr ""
-
-#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COLDBREATHER
-msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COLDBREATHER"
-msgid "Lowers ambient air <style=\"heat\">Temperature</style>"
 msgstr ""

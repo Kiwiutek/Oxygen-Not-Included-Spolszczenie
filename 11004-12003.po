@@ -1,3 +1,18 @@
+#. STRINGS.RESEARCH.TEMPERATUREMODULATION.DESC
+msgctxt "STRINGS.RESEARCH.TEMPERATUREMODULATION.DESC"
+msgid "Unlock <style=\"heat\">Temperature</style> changing technologies to keep your colony at the perfect Kelvin."
+msgstr ""
+
+#. STRINGS.RESEARCH.TEMPERATUREMODULATION.NAME
+msgctxt "STRINGS.RESEARCH.TEMPERATUREMODULATION.NAME"
+msgid "Temperature Modulation"
+msgstr "Modulacja Temperatury"
+
+#. STRINGS.RESEARCH.TYPES.ALPHA.DESC
+msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.DESC"
+msgid "<style=\"research\">Novice Research</style> is required to unlock basic technologies.\nIt can be conducted at a <style=\"research\">Research Station</style>."
+msgstr ""
+
 #. STRINGS.RESEARCH.TYPES.ALPHA.NAME
 msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.NAME"
 msgid "Novice Research"
@@ -10,7 +25,7 @@ msgstr "Odblokuj podstawową technologię."
 
 #. STRINGS.RESEARCH.TYPES.BETA.DESC
 msgctxt "STRINGS.RESEARCH.TYPES.BETA.DESC"
-msgid "<style=\"research\">Intermediate Research</style> is required to unlock improved technologies.\nIt can be conducted at an <style=\"research\">Super Computer</style>."
+msgid "<style=\"research\">Intermediate Research</style> is required to unlock improved technologies.\nIt can be conducted at a <style=\"research\">Super Computer</style>."
 msgstr ""
 
 #. STRINGS.RESEARCH.TYPES.BETA.NAME
@@ -981,19 +996,4 @@ msgstr ""
 #. STRINGS.UI.DETAILTABS.NEEDS.STRESS_RELIEVERS
 msgctxt "STRINGS.UI.DETAILTABS.NEEDS.STRESS_RELIEVERS"
 msgid "<style=\"stress\">Stress</style> Relievers"
-msgstr ""
-
-#. STRINGS.UI.DETAILTABS.NEEDS.TOOLTIP
-msgctxt "STRINGS.UI.DETAILTABS.NEEDS.TOOLTIP"
-msgid "View this Duplicant's psychological status"
-msgstr ""
-
-#. STRINGS.UI.DETAILTABS.POSSESSIONS.ASSIGNED_TOOLTIP
-msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.ASSIGNED_TOOLTIP"
-msgid "This Duplicant has been assigned a {0}.\nEffects:{1}"
-msgstr ""
-
-#. STRINGS.UI.DETAILTABS.POSSESSIONS.EQUIPMENT_TOOLTIP
-msgctxt "STRINGS.UI.DETAILTABS.POSSESSIONS.EQUIPMENT_TOOLTIP"
-msgid "This Duplicant has been equipped with a <style=\"equipment\">{0}</style>"
 msgstr ""

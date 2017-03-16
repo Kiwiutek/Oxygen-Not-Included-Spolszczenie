@@ -230,7 +230,7 @@ msgstr ""
 
 #. STRINGS.CREATURES.STATS.ROT.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.ROT.TOOLTIP"
-msgid "Freshness\n----------\n<style=\"food\">Food</style> items will become stale at fifty percent freshness, and will rot zero percent"
+msgid "Freshness\n----------\n<style=\"food\">Food</style> items will become stale at fifty percent freshness, and will rot at zero percent"
 msgstr ""
 
 #. STRINGS.CREATURES.STATS.THERMALCONDUCTIVITY.NAME

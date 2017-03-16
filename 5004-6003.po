@@ -535,8 +535,8 @@ msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.TOOLTIP"
-msgid "This Duplicant stepped in dirty water and was super grossed out"
-msgstr "Duplikat wszedł do brudnej wody i bardzo go to obrzydziło"
+msgid "This Duplicant stepped in something yucky and was super grossed out"
+msgstr ""
 
 #. STRINGS.DUPLICANTS.MODIFIERS.STRESSED_BY_COLD_WATER.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSED_BY_COLD_WATER.CAUSE"

@@ -1,3 +1,33 @@
+#. STRINGS.UI.GAMEOBJECTEFFECTS.ROTTEN
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.ROTTEN"
+msgid "Rotten"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_DIG_ONLY
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_DIG_ONLY"
+msgid "Produces no seeds on harvest"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FRUIT
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_FRUIT"
+msgid "Seeds contained in fruit"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_HARVEST
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.SEED_PRODUCTION_HARVEST"
+msgid "Produces seeds on harvest"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.CALORIES
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.CALORIES"
+msgid "<style=\"produced\">+{0}</style>"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COLDBREATHER
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.COLDBREATHER"
+msgid "Lowers ambient air <style=\"heat\">Temperature</style>"
+msgstr ""
+
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.EQUIPMENT_MODS
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.EQUIPMENT_MODS"
 msgid "{Attribute} <style=\"{Style}\">{Value}</style>"
@@ -30,7 +60,7 @@ msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_SUBMERSION
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_SUBMERSION"
-msgid "This plant must be fully submersed to grow"
+msgid "This plant must be fully submerged to grow"
 msgstr ""
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRES_TEMPERATURE
@@ -41,6 +71,21 @@ msgstr ""
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER"
 msgid "This plant requires {1} <style=\"solid\">{0}</style> in order to grow"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY"
+msgid "This plant may be transplanted, but has no further reproductive features"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FRUIT
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_FRUIT"
+msgid "This plant stores its seeds in its fruit. The fruit must be consumed to release the seeds"
+msgstr ""
+
+#. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST
+msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_HARVEST"
+msgid "This plant produces seeds as part of the harvesting process"
 msgstr ""
 
 #. STRINGS.UI.IMMIGRANTSCREEN.BACK
@@ -952,48 +997,3 @@ msgstr "BADANIA"
 msgctxt "STRINGS.UI.RESEARCHPOINTS"
 msgid "Research points"
 msgstr "Punkty badań"
-
-#. STRINGS.UI.RESEARCHSCREEN_UNLOCKSTOOLTIP
-msgctxt "STRINGS.UI.RESEARCHSCREEN_UNLOCKSTOOLTIP"
-msgid "Unlocks: {0}"
-msgstr "Odblokowuje: {0}"
-
-#. STRINGS.UI.SCHEDULE
-msgctxt "STRINGS.UI.SCHEDULE"
-msgid "SCHEDULE"
-msgstr "HARMONOGRAM"
-
-#. STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION
-msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.DESCRIPTION"
-msgid "EAT:\nDuring Mealtime Duplicants will head to their assigned mess halls and eat."
-msgstr "JEDZ:\nPodczas Obiadu Duplikanci powędrują do przypisanych stolików i tam zjedzą posiłek."
-
-#. STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.NAME
-msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.EAT.NAME"
-msgid "Mealtime"
-msgstr "Czas na posiłek"
-
-#. STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.DESCRIPTION
-msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.DESCRIPTION"
-msgid "HYGIENE:\nDuring <style=\"hygiene\">Hygiene</style> hours Duplicants will head to their assigned washrooms to get cleaned up."
-msgstr "HIGIENA:\nPodczas <style=\"hygiene\">Kąpieli</style> Duplikanci powędrują do przypisanych toalet by się umyć."
-
-#. STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.NAME
-msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.HYGIENE.NAME"
-msgid "Hygiene"
-msgstr "Kąpiel"
-
-#. STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.DESCRIPTION
-msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.DESCRIPTION"
-msgid "HAMMER TIME:\nDuring Hammer Time, Duplicants will relieve their <style=\"stress\">Stress</style> through dance. Please be aware that no matter how hard your Duplicants try, they will absolutely not be able to touch this."
-msgstr "HAMMER TIME:\nPodczas Hammer Time Duplikanci zniosą swój <style=\"stress\">Stres</style> poprzez taniec. Proszę, miej świadomość, że bez względu na to, jak bardzo twoi Duplikanci będą próbować, absolutnie nie będą w stanie tego dotknąć."
-
-#. STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.NAME
-msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.RECREATION.NAME"
-msgid "Recreation"
-msgstr "Rekreacja"
-
-#. STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.DESCRIPTION
-msgctxt "STRINGS.UI.SCHEDULEBLOCKTYPES.SLEEP.DESCRIPTION"
-msgid "SLEEP:\nWhen it's time to sleep, Duplicants will head to their assigned rooms and rest."
-msgstr "SEN:\nKiedy nadchodzi czas snu, Duplikacji powędrują do przypisanych pokoi i udadzą się na spoczynek."

@@ -83,6 +83,21 @@ msgctxt "STRINGS.MISC.NOTIFICATIONS.THERMALCOMFORT.TOOLTIP"
 msgid "Help your Duplicants keep their cool"
 msgstr ""
 
+#. STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.MESSAGEBODY
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.MESSAGEBODY"
+msgid "When constructing buildings, take note of their <style=\"heat\">Overheat Temperature</style> and plan their locations accordingly. Maintaining low ambient temperatures and good ventilation will help keep building temperatures down.\n\nBuildings that exceed their Overheat Temperature will begin to take damage and if left untended, will meltdown and stop functioning until repaired."
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.NAME
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.NAME"
+msgid "TIP: Building Temperature"
+msgstr ""
+
+#. STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.TOOLTIP
+msgctxt "STRINGS.MISC.NOTIFICATIONS.TUTORIAL_OVERHEATING.TOOLTIP"
+msgid "Learn how to prevent meltdowns"
+msgstr ""
+
 #. STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.NAME
 msgctxt "STRINGS.MISC.NOTIFICATIONS.UNREACHABLEITEM.NAME"
 msgid "Materials are out of reach"
@@ -982,18 +997,3 @@ msgstr ""
 msgctxt "STRINGS.RESEARCH.SANITATIONSCIENCES.NAME"
 msgid "Sanitation Sciences"
 msgstr "Urządzenia Sanitarne"
-
-#. STRINGS.RESEARCH.TEMPERATUREMODULATION.DESC
-msgctxt "STRINGS.RESEARCH.TEMPERATUREMODULATION.DESC"
-msgid "Unlock <style=\"heat\">Temperature</style> changing technologies to keep your colony at the perfect Kelvin."
-msgstr ""
-
-#. STRINGS.RESEARCH.TEMPERATUREMODULATION.NAME
-msgctxt "STRINGS.RESEARCH.TEMPERATUREMODULATION.NAME"
-msgid "Temperature Modulation"
-msgstr "Modulacja Temperatury"
-
-#. STRINGS.RESEARCH.TYPES.ALPHA.DESC
-msgctxt "STRINGS.RESEARCH.TYPES.ALPHA.DESC"
-msgid "<style=\"research\">Novice Research</style> is required to unlock basic technologies.\nIt can be conducted at a <style=\"research\">Research Station</style>."
-msgstr ""

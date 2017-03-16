@@ -1,6 +1,3 @@
-# UWAGA! PROSZĘ NIE TŁUMACZYĆ PLIKÓW NA CZAS AKTUALIZACJI
-
-
 # Oxygen Not Included: Spolszczenie<br>
 
 <b><u>WAŻNE! Prosimy o zapoznanie się z tymi wątkami przed rozpoczęciem pierwszych tłumaczeń!</u></b>

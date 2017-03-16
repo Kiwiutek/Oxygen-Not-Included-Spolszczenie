@@ -74,7 +74,7 @@ msgstr "Potrzeba większej ilości materiału odpadowego, aby rozpocząć proces
 #. STRINGS.BUILDING.STATUSITEMS.BATTERIESSUFFICIENTLYFULL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BATTERIESSUFFICIENTLYFULL.NAME"
 msgid "Batteries Sufficiently Full"
-msgstr "Akumulatory zostały naładowane" (?)
+msgstr "Akumulatory zostały naładowane\" (?"
 
 #. STRINGS.BUILDING.STATUSITEMS.BATTERIESSUFFICIENTLYFULL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BATTERIESSUFFICIENTLYFULL.TOOLTIP"
@@ -89,7 +89,7 @@ msgstr "Uszkodzony"
 #. STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BROKEN.TOOLTIP"
 msgid "This building received damage {DamageInfo}"
-msgstr "Ten obiekt został uszkodzony {DamageInfo}" (?)
+msgstr "Ten obiekt został uszkodzony {DamageInfo}\" (?"
 
 #. STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BUILDINGDISABLED.NAME"
@@ -114,7 +114,7 @@ msgstr "{0} paliwa pozostało"
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.HAS_FUEL.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BURNER.HAS_FUEL.NAME"
 msgid "Fueled: ({0})"
-msgstr "Aktualny poziom paliwa: ({0})" (?)
+msgstr "Aktualny poziom paliwa: ({0})\" (?"
 
 #. STRINGS.BUILDING.STATUSITEMS.BURNER.HAS_FUEL.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.BURNER.HAS_FUEL.TOOLTIP"
@@ -179,7 +179,7 @@ msgstr "Temperatura Gazu jest za niska"
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDGAS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDGAS.TOOLTIP"
 msgid "This building cannot cool incoming pipe contents below {0}\n\nCurrent Pipe Contents: {0}"
-msgstr "Ten obiekt nie może schłodzić Gazu zawartego w rurach poniżej {0}\n\nAktualnie Rura Zawiera: {0}" (?)
+msgstr "Ten obiekt nie może schłodzić Gazu zawartego w rurach poniżej {0}\n\nAktualnie Rura Zawiera: {0}\" (?"
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTENV.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTENV.NAME"
@@ -374,7 +374,7 @@ msgstr "Następuje detonacja"
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.EXPLODING.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.EXPLODING.TOOLTIP"
 msgid "Kaboom!"
-msgstr "Jeb!" (?)
+msgstr "Jeb!\" (?"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.UNARMED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.UNARMED.NAME"
@@ -399,7 +399,7 @@ msgstr "Ten obiekt przekazuje ciepło do otoczenia"
 #. STRINGS.BUILDING.STATUSITEMS.EXPIRED.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXPIRED.NAME"
 msgid "Depleted"
-msgstr "Zniszczony" (?)
+msgstr "Zniszczony\" (?"
 
 #. STRINGS.BUILDING.STATUSITEMS.EXPIRED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.EXPIRED.TOOLTIP"
@@ -494,7 +494,7 @@ msgstr "Otwór wentylacyjny nie działa z powodu nadciśnienia"
 #. STRINGS.BUILDING.STATUSITEMS.GASVENTOVERPRESSURE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GASVENTOVERPRESSURE.TOOLTIP"
 msgid "Area's ambient pressure is too high to emit additional gas\nReduce pressure by pumping gas away or clearing more space"
-msgstr "Ciśnienie otoczenia jest zbyt wysokie.\nZredukuj ciśnienie rozprowadzając je dalej lub zagospodaruj więcej przestrzeni" 
+msgstr "Ciśnienie otoczenia jest zbyt wysokie.\nZredukuj ciśnienie rozprowadzając je dalej lub zagospodaruj więcej przestrzeni"
 
 #. STRINGS.BUILDING.STATUSITEMS.GENERATOROFFLINE.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.GENERATOROFFLINE.NAME"
@@ -809,7 +809,7 @@ msgstr "Brak Nasion"
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPLANT.TOOLTIP"
 msgid "Dig up wild <style=\"plant\">Plants</style> to obtain <style=\"seed\">Seeds</style>"
-msgstr "Wykop dziko rosnące <style="plant">Rośliny</style>, aby zdobyć nowe <style="seed">Nasiona</style>"
+msgstr "Wykop dziko rosnące <style=\"plant\">Rośliny</style>, aby zdobyć nowe <style=\"seed\">Nasiona</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEEDPOWER.NAME"
@@ -884,7 +884,7 @@ msgstr "Nowi Duplikanci są dostępni"
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.NOTIFICATION_TOOLTIP"
 msgid "The Printing Pod <color=#F44A47>[H]</color> is ready to print a new Duplicant.\nPlease select a DNA blueprint:"
-msgstr "Biodrukarka <color=#F44A47>[H]</color> jest gotowa do wydrukowania nowego Duplikanta.\ Proszę wybrać projekt DNA:"
+msgstr "Biodrukarka <color=#F44A47>[H]</color> jest gotowa do wydrukowania nowego Duplikanta.\\ Proszę wybrać projekt DNA:"
 
 #. STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NEWDUPLICANTSAVAILABLE.TOOLTIP"
@@ -994,9 +994,9 @@ msgstr "Nie wybrano <style=\"research\">Celu Badań</style>"
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.NOTIFICATION_TOOLTIP"
 msgid "Open the <color=#833A5FFF>Research Tree</color> [R] to select a new <style=\"research\">Research</style> project"
-msgstr "Otwórz <color=#833A5FFF>Drzewko Badań</color> [R] aby wybrać nowy projekt <style="research">Badań</style>"
+msgstr "Otwórz <color=#833A5FFF>Drzewko Badań</color> [R] aby wybrać nowy projekt <style=\"research\">Badań</style>"
 
 #. STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.NORESEARCHSELECTED.TOOLTIP"
 msgid "Open the <color=#833A5FFF>Research Tree</color> [R] to select a new <style=\"research\">Research</style> project"
-msgstr "Otwórz <color=#833A5FFF>Drzewko Badań</color> [R] aby wybrać nowy projekt <style="research">Badań</style>"
+msgstr "Otwórz <color=#833A5FFF>Drzewko Badań</color> [R] aby wybrać nowy projekt <style=\"research\">Badań</style>"

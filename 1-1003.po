@@ -179,7 +179,7 @@ msgstr "Temperatura Gazu jest za niska"
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDGAS.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDCOLDGAS.TOOLTIP"
 msgid "This building cannot cool incoming pipe contents below {0}\n\nCurrent Pipe Contents: {0}"
-msgstr "Ten obiekt nie może schłodzić Gazu zawartego w rurach poniżej {0}\n\nAktualnie Rura Zawiera: {0} " (?)
+msgstr "Ten obiekt nie może schłodzić Gazu zawartego w rurach poniżej {0}\n\nAktualnie Rura Zawiera: {0}" (?)
 
 #. STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTENV.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLINGSTALLEDHOTENV.NAME"
@@ -634,7 +634,7 @@ msgstr "Osobliwy"
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGOKAY.TOOLTIP
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGOKAY.TOOLTIP"
 msgid "Duplicants find this piece quite charming"
-msgstr ""Duplikanci są oczarowani tym dziełem
+msgstr "Duplikanci są oczarowani tym dziełem"
 
 #. STRINGS.BUILDING.STATUSITEMS.LOOKINGUGLY.NAME
 msgctxt "STRINGS.BUILDING.STATUSITEMS.LOOKINGUGLY.NAME"

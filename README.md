@@ -1,3 +1,6 @@
+# UWAGA! 
+Aktualizacja plików: od godz. 23:00 dnia 15.03.2017 proszę nie pracować na starych plikach więcej info : https://github.com/Kiwiutek/Oxygen-Not-Included-Spolszczenie/issues/29
+
 # Oxygen Not Included: Spolszczenie<br>
 
 <b><u>WAŻNE! Prosimy o zapoznanie się z tymi wątkami przed rozpoczęciem pierwszych tłumaczeń!</u></b>

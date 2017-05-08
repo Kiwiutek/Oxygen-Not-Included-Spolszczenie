@@ -10,7 +10,7 @@ UJEDNOLICONE NAZWY!
 
 Inne uwagi:
 - Polecałbym również <b>wstawiać symbol "(?)"</b> (bez apostrofów) w miejscach, w których nie jesteśmy pewni co do poprawności tłumaczenia. Ktoś inny będzie mógł szybko znaleźć takie miejsca i je poprawić.<br> 
-- Zwracajmy uwagę na to, czy słowa są pisane z Wielkiej Litery w wersji angielskiej i piszmy tak samo w polskiej.<br> 
+- Zwracajmy uwagę na to, czy słowa są pisane Wielką Literą w wersji angielskiej i piszmy tak samo w polskiej.<br> 
 
 
 # Instrukcja edytowania tłumaczenia

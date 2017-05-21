@@ -14452,7 +14452,7 @@ msgstr ""
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.REQUIRESFERTILIZER"
 msgid "This plant requires {1} <style=\"solid\">{0}</style> in order to grow"
-msgstr ""
+msgstr "Ta roślina wymaga {1} <style=\"solid\">{0}</style> aby wyrosnąć"
 
 #. STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY
 msgctxt "STRINGS.UI.GAMEOBJECTEFFECTS.TOOLTIPS.SEED_PRODUCTION_DIG_ONLY"
@@ -14489,7 +14489,7 @@ msgstr ""
 #. STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.CONFIRMATIONTITLE"
 msgid "Reject All Duplicants?"
-msgstr ""
+msgstr "Odrzucić wszystkich Duplikantów?"
 
 #. STRINGS.UI.IMMIGRANTSCREEN.EMBARK
 #, fuzzy
@@ -14536,7 +14536,7 @@ msgstr "LOSUJ"
 #. STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP
 msgctxt "STRINGS.UI.IMMIGRANTSCREEN.SHUFFLETOOLTIP"
 msgid "Shuffle for a different Duplicant"
-msgstr ""
+msgstr "Losuj innego Duplikanta"
 
 #. STRINGS.UI.JOBS
 #, fuzzy
@@ -14618,7 +14618,7 @@ msgstr "Nakładka Dekoracji"
 #. STRINGS.UI.OVERLAYS.DECOR.CLOTHING
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.CLOTHING"
 msgid "{0}'s Clothing"
-msgstr ""
+msgstr "Ubrania {0}"
 
 #. STRINGS.UI.OVERLAYS.DECOR.CLUTTER
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.CLUTTER"
@@ -14634,7 +14634,7 @@ msgstr "Wysoki Wystrój"
 #. STRINGS.UI.OVERLAYS.DECOR.HOVERTITLE
 msgctxt "STRINGS.UI.OVERLAYS.DECOR.HOVERTITLE"
 msgid "DECOR"
-msgstr ""
+msgstr "WYSTRÓJ"
 
 #. STRINGS.UI.OVERLAYS.DECOR.LIGHTING
 #, fuzzy
@@ -14714,7 +14714,7 @@ msgstr "Nadwyrężona"
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7
 msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND7"
 msgid "Overloaded"
-msgstr ""
+msgstr "Przeciążona"
 
 #. STRINGS.UI.OVERLAYS.ELECTRICAL.NAME
 #, fuzzy
@@ -14814,7 +14814,7 @@ msgstr "Ujście"
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_AFTER_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_AFTER_ARROW"
 msgid "INTAKE via pipes"
-msgstr ""
+msgstr "WLOT przez rury"
 
 #. STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_BEFORE_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.GASPLUMBING.DIAGRAM_BEFORE_ARROW"
@@ -14992,7 +14992,7 @@ msgstr "Ujście"
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_AFTER_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_AFTER_ARROW"
 msgid "INTAKE via pipes"
-msgstr ""
+msgstr "WLOT przez rury"
 
 #. STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_BEFORE_ARROW
 msgctxt "STRINGS.UI.OVERLAYS.LIQUIDPLUMBING.DIAGRAM_BEFORE_ARROW"
@@ -15113,22 +15113,22 @@ msgstr "NAKŁADKA TLENU"
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND1
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND1"
 msgid "Oxygen concentration is high and allows Duplicants to breathe"
-msgstr ""
+msgstr "Stężenie tlenu jest wysokie, Duplikanci mogą oddychać"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND2
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND2"
 msgid "Oxygen concentration is sufficient and allows Duplicants to breathe"
-msgstr ""
+msgstr "Stężenie tlenu jest wystarczające, Duplikanci mogą oddychać"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND3
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND3"
 msgid "Oxygen concentration is low and is difficult for Duplicants to breathe"
-msgstr ""
+msgstr "Stężenie tlenu jest niskie, Duplikanci mają kłopot z oddychaniem"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND4
 msgctxt "STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND4"
 msgid "Oxygen concentration is nonexistent and will suffocate Duplicants"
-msgstr ""
+msgstr "Stężenie tlenu nie występuje, Duplikanci się uduszą(?)"
 
 #. STRINGS.UI.OVERLAYS.OXYGEN.TOOLTIPS.LEGEND5
 #, fuzzy
@@ -15978,7 +15978,7 @@ msgstr "Anuluj skolejkowane rozkazy lub zdemontuj istniejące budynki"
 #. STRINGS.UI.TOOLTIPS.CLEANUPMAINBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CLEANUPMAINBUTTON"
 msgid "Mop and sweep messy floors"
-msgstr ""
+msgstr "Zmyj i zamieć brudne podłogi"
 
 #. STRINGS.UI.TOOLTIPS.CLEARBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.CLEARBUTTON"
@@ -16024,7 +16024,7 @@ msgstr "Odrzuć wiadomość"
 #. STRINGS.UI.TOOLTIPS.EDITNAME
 msgctxt "STRINGS.UI.TOOLTIPS.EDITNAME"
 msgid "Give this Duplicant a new name"
-msgstr ""
+msgstr "Daj temu Duplikantowi nowe imię"
 
 #. STRINGS.UI.TOOLTIPS.ENERGYGENERATED
 #, fuzzy
@@ -16068,7 +16068,7 @@ msgstr "Musi być zbudowane na suficie"
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_FLOOR
 msgctxt "STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_FLOOR"
 msgid "Must be built on solid ground"
-msgstr ""
+msgstr "Musi być zbudowane na solidnym gruncie"
 
 #. STRINGS.UI.TOOLTIPS.HELP_BUILDLOCATION_INSIDEGROUND
 #, fuzzy
@@ -16166,7 +16166,7 @@ msgstr "Pokaż Zdrowie Duplikantów"
 #. STRINGS.UI.TOOLTIPS.MATIERIAL_MOD
 msgctxt "STRINGS.UI.TOOLTIPS.MATIERIAL_MOD"
 msgid "Made out of {0}"
-msgstr ""
+msgstr "Zrobione z {0}"
 
 #. STRINGS.UI.TOOLTIPS.MESSAGESTOOLTIP
 msgctxt "STRINGS.UI.TOOLTIPS.MESSAGESTOOLTIP"
@@ -16310,7 +16310,7 @@ msgstr ""
 #. STRINGS.UI.TOOLTIPS.RESOURCECATEGORY.EXPAND
 msgctxt "STRINGS.UI.TOOLTIPS.RESOURCECATEGORY.EXPAND"
 msgid "Click to expand"
-msgstr ""
+msgstr "Kliknij aby rozszerzyć (?)"
 
 #. STRINGS.UI.TOOLTIPS.ROOMSOVERLAYSTRING
 #, fuzzy
@@ -16408,7 +16408,7 @@ msgstr "Panel Witalny monitoruje status i samopoczucie Duplikanta"
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.DOOR_DEFAULT
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.DOOR_DEFAULT"
 msgid "Default"
-msgstr ""
+msgstr "Domyślny"
 
 #. STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_LEFT_DISABLED
 msgctxt "STRINGS.UI.UISIDESCREENS.ACCESS_CONTROL_SIDE_SCREEN.GO_LEFT_DISABLED"
@@ -16509,7 +16509,7 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO"
 msgid "Door is automated."
-msgstr ""
+msgstr "Drzwi są zautomatyzowane"
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO_PENDING
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.AUTO_PENDING"
@@ -16524,17 +16524,17 @@ msgstr ""
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.CLOSE_PENDING
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.CLOSE_PENDING"
 msgid "Awaiting Duplicant to lock door."
-msgstr ""
+msgstr "Oczekiwanie na zamknięcie drzwi przez Duplikanta"
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN"
 msgid "Door is open."
-msgstr ""
+msgstr "Drzwi są otwarte"
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN_PENDING
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.OPEN_PENDING"
 msgid "Awaiting Duplicant to open door."
-msgstr ""
+msgstr "Oczekiwanie na otwarcie drzwi przez Duplikanta"
 
 #. STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.PENDING_FORMAT
 msgctxt "STRINGS.UI.UISIDESCREENS.DOOR_TOGGLE_SIDE_SCREEN.PENDING_FORMAT"
@@ -16555,12 +16555,12 @@ msgstr "Obecnie wyposażone:\n{0}"
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.DROP_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.DROP_BUTTON"
 msgid "Drop"
-msgstr ""
+msgstr "Upuść"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.EQUIP_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.EQUIP_BUTTON"
 msgid "Equip"
-msgstr ""
+msgstr "Wyposaż"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.NONE_EQUIPPED
 #, fuzzy
@@ -16571,12 +16571,12 @@ msgstr "Żaden"
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.SWAP_BUTTON
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.SWAP_BUTTON"
 msgid "Swap"
-msgstr ""
+msgstr "Zamień"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLE_SIDE_SCREEN.TITLE"
 msgid "Assign To Duplicant"
-msgstr ""
+msgstr "Przypisz do Duplikanta"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.ASSIGNEDTO
 #, fuzzy
@@ -16593,7 +16593,7 @@ msgstr "(Właściciel)"
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.TITLE
 msgctxt "STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.TITLE"
 msgid "Equip {0}"
-msgstr ""
+msgstr "Wyposaż {0}"
 
 #. STRINGS.UI.UISIDESCREENS.EQUIPPABLESIDESCREEN.UNASSIGNED
 #, fuzzy
@@ -16765,7 +16765,7 @@ msgstr "<b>Wymagania</b>:"
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.SELECTSEED_DESC
 msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.SELECTSEED_DESC"
 msgid "Select a seed to plant."
-msgstr ""
+msgstr "Wybierz nasiono do zasadzenia"
 
 #. STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.SELECTSEED_TITLE
 #, fuzzy
@@ -16933,7 +16933,7 @@ msgstr "Nie działa przez:"
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.ON
 msgctxt "STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.ON"
 msgid "On"
-msgstr ""
+msgstr "Włączone"
 
 #. STRINGS.UI.UISIDESCREENS.TIMEDSWITCHSIDESCREEN.ONTIME
 #, fuzzy
@@ -16974,7 +16974,7 @@ msgstr "Wszystko"
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.ALLBUTTONTOOLTIP"
 msgid "Store any materials in this storage"
-msgstr ""
+msgstr "Przechowuj wszystkie materiały w tym magazynie"
 
 #. STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.CATEGORYBUTTONTOOLTIP
 msgctxt "STRINGS.UI.UISIDESCREENS.TREEFILTERABLESIDESCREEN.CATEGORYBUTTONTOOLTIP"
@@ -17175,7 +17175,7 @@ msgstr "Anuluj Kopanie"
 #. STRINGS.UI.USERMENUACTIONS.CANCELDIG.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELDIG.TOOLTIP"
 msgid "Cancel this dig order"
-msgstr ""
+msgstr "Anuluj rozkaz tego kopania"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELHARVEST.NAME
 #, fuzzy
@@ -17238,7 +17238,7 @@ msgstr "Anuluj Zamiatanie"
 #. STRINGS.UI.USERMENUACTIONS.CLEAR.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEAR.TOOLTIP"
 msgid "Move this object into the nearest storage container"
-msgstr ""
+msgstr "Przenieś ten obiekt do najbliższego magazynu"
 
 #. STRINGS.UI.USERMENUACTIONS.CLEAR.TOOLTIP_OFF
 #, fuzzy
@@ -17410,7 +17410,7 @@ msgstr "Idź do"
 #. STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.TOOLTIP"
 msgid "Move this Duplicant to a specific spot"
-msgstr ""
+msgstr "Przesuń tego Duplikanta w konkretne miejsce"
 
 #. STRINGS.UI.USERMENUACTIONS.OVERRIDETASK.NAME
 #, fuzzy
@@ -17439,7 +17439,7 @@ msgstr "Anuluj Kwarantannę"
 #. STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP"
 msgid "Isolate this Duplicant\nDuplicant will return to their assigned Cot"
-msgstr ""
+msgstr "Izoluj tego Duplikanta\nDuplikant powróci do swojej przypisanej Koji"
 
 #. STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP_DISABLED
 #, fuzzy
@@ -17462,7 +17462,7 @@ msgstr "Opróżnij Budynek"
 #. STRINGS.UI.USERMENUACTIONS.RELEASEELEMENT.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELEASEELEMENT.TOOLTIP"
 msgid "Refund all resources currently used by this building"
-msgstr ""
+msgstr "Zwróć/Odzyskaj wszystkie materiały użyte przy tej budowli (?)"
 
 #. STRINGS.UI.USERMENUACTIONS.RELOCATE.NAME
 #, fuzzy

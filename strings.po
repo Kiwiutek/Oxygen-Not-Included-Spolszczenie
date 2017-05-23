@@ -3559,7 +3559,7 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SEEDS.SWAMPLILY.NAME"
 msgid "Swamp Lily Seed"
-msgstr ""
+msgstr "Nasiono Bagiennej Lilii"
 
 #. STRINGS.CREATURES.SPECIES.SHOCKWORM.DESC
 msgctxt "STRINGS.CREATURES.SPECIES.SHOCKWORM.DESC"
@@ -3594,17 +3594,17 @@ msgstr ""
 #. STRINGS.CREATURES.SPECIES.SWAMPLILY.NAME
 msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.NAME"
 msgid "Swamp Lily"
-msgstr ""
+msgstr "Bagienna Lilia"
 
 #. STRINGS.CREATURES.STATS.FERTILIZATION.ABSORBING_MODIFIER
 msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.ABSORBING_MODIFIER"
 msgid "Absorbing"
-msgstr ""
+msgstr "Pochłanianie"
 
 #. STRINGS.CREATURES.STATS.FERTILIZATION.CONSUME_MODIFIER
 msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.CONSUME_MODIFIER"
 msgid "Consuming"
-msgstr ""
+msgstr "Konsumowanie"
 
 #. STRINGS.CREATURES.STATS.FERTILIZATION.NAME
 #, fuzzy
@@ -3653,12 +3653,12 @@ msgstr ""
 #. STRINGS.CREATURES.STATS.MATURITY.TOOLTIP_STALLED
 msgctxt "STRINGS.CREATURES.STATS.MATURITY.TOOLTIP_STALLED"
 msgid "This <style=\"plant\">Plant</style> is not currently growing"
-msgstr ""
+msgstr "To <style=\"plant\">Plant</style> nie rośnie w tej chwili"
 
 #. STRINGS.CREATURES.STATS.ROT.NAME
 msgctxt "STRINGS.CREATURES.STATS.ROT.NAME"
 msgid "Freshness Percent"
-msgstr ""
+msgstr "Procent Świeżości"
 
 #. STRINGS.CREATURES.STATS.ROT.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATS.ROT.TOOLTIP"
@@ -3695,7 +3695,7 @@ msgstr "Barren"
 #. STRINGS.CREATURES.STATUSITEMS.BARREN.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BARREN.TOOLTIP"
 msgid "This plant cannot produce any more seeds"
-msgstr ""
+msgstr "Ta roślina nie wytworzy już więcej nasion"
 
 #. STRINGS.CREATURES.STATUSITEMS.BREATH.NAME
 #, fuzzy
@@ -3706,7 +3706,7 @@ msgstr "Duszno"
 #. STRINGS.CREATURES.STATUSITEMS.BREATH.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BREATH.TOOLTIP"
 msgid "This creature is about to suffocate"
-msgstr ""
+msgstr "To stworzenie zaraz się udusi"
 
 #. STRINGS.CREATURES.STATUSITEMS.BURROWED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BURROWED.NAME"
@@ -3722,12 +3722,12 @@ msgstr "Ciii! Myśli, że się ukrywa"
 #. STRINGS.CREATURES.STATUSITEMS.BURROWING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BURROWING.NAME"
 msgid "Burrowing"
-msgstr ""
+msgstr "Wykopywanie"
 
 #. STRINGS.CREATURES.STATUSITEMS.BURROWING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.BURROWING.TOOLTIP"
 msgid "This creature is trying to hide"
-msgstr ""
+msgstr "To stworzenie próbuje się ukryć"
 
 #. STRINGS.CREATURES.STATUSITEMS.COLD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.COLD.NAME"
@@ -3752,7 +3752,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.CONTAMINATEDATMOSPHERE.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CONTAMINATEDATMOSPHERE.NAME"
 msgid "Polluted Atmosphere"
-msgstr ""
+msgstr "Zanieczyszczona Atmosfera"
 
 #. STRINGS.CREATURES.STATUSITEMS.CONTAMINATEDATMOSPHERE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.CONTAMINATEDATMOSPHERE.TOOLTIP"
@@ -3767,7 +3767,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.COOLING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.COOLING.TOOLTIP"
 msgid "This creature's breathing is cooling the surrounding area"
-msgstr ""
+msgstr "Oddech tego stworzenia ochładza otaczający obszar(?)"
 
 #. STRINGS.CREATURES.STATUSITEMS.DEAD.NAME
 #, fuzzy
@@ -3793,7 +3793,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.DROWNING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DROWNING.NAME"
 msgid "Drowning"
-msgstr ""
+msgstr "Tonie"
 
 #. STRINGS.CREATURES.STATUSITEMS.DROWNING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DROWNING.TOOLTIP"
@@ -3819,7 +3819,7 @@ msgstr "Zjada"
 #. STRINGS.CREATURES.STATUSITEMS.EATING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EATING.TOOLTIP"
 msgid "This creature found something tasty"
-msgstr ""
+msgstr "To stworzenie znalazło coś smacznego"
 
 #. STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME"
@@ -3840,7 +3840,7 @@ msgstr "Zasypany"
 #. STRINGS.CREATURES.STATUSITEMS.ENTOMBED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.ENTOMBED.TOOLTIP"
 msgid "This creature is trapped and must be dug out"
-msgstr ""
+msgstr "To stworzenie jest uwięzione i musi być odkopane"
 
 #. STRINGS.CREATURES.STATUSITEMS.EXHALING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.EXHALING.NAME"
@@ -3855,7 +3855,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.FALLING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FALLING.NAME"
 msgid "Falling"
-msgstr ""
+msgstr "Upada"
 
 #. STRINGS.CREATURES.STATUSITEMS.FALLING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FALLING.TOOLTIP"
@@ -3865,7 +3865,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.FLEEING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FLEEING.NAME"
 msgid "Fleeing"
-msgstr ""
+msgstr "Ucieka"
 
 #. STRINGS.CREATURES.STATUSITEMS.FLEEING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FLEEING.TOOLTIP"
@@ -3875,12 +3875,12 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.FRESH.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FRESH.NAME"
 msgid "Fresh {RotPercentage}"
-msgstr ""
+msgstr "Świeże {RotPercentage}"
 
 #. STRINGS.CREATURES.STATUSITEMS.FRESH.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.FRESH.TOOLTIP"
 msgid "Now would be a great time to eat this"
-msgstr ""
+msgstr "Teraz jest świetna pora, aby to zjeść"
 
 #. STRINGS.CREATURES.STATUSITEMS.GROWING.NAME
 #, fuzzy
@@ -3912,12 +3912,12 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.HATCHING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HATCHING.TOOLTIP"
 msgid "Here it comes!"
-msgstr ""
+msgstr "Oto nadchodzi! (?)"
 
 #. STRINGS.CREATURES.STATUSITEMS.HEALTHSTATUS.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HEALTHSTATUS.NAME"
 msgid "Injuries: {healthState}"
-msgstr ""
+msgstr "Obrażenia"
 
 #. STRINGS.CREATURES.STATUSITEMS.HEALTHSTATUS.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HEALTHSTATUS.TOOLTIP"
@@ -3948,7 +3948,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.HYPOTHERMIA.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HYPOTHERMIA.NAME"
 msgid "Freezing"
-msgstr ""
+msgstr "Zamarza"
 
 #. STRINGS.CREATURES.STATUSITEMS.HYPOTHERMIA.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.HYPOTHERMIA.TOOLTIP"
@@ -3964,7 +3964,7 @@ msgstr "Bezczynny"
 #. STRINGS.CREATURES.STATUSITEMS.IDLE.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.IDLE.TOOLTIP"
 msgid "Just enjoying life, y'know?"
-msgstr ""
+msgstr "Cieszę się życiem, wiesz?"
 
 #. STRINGS.CREATURES.STATUSITEMS.INCUBATING.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.INCUBATING.NAME"
@@ -3979,7 +3979,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.LAYINGANEGG.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LAYINGANEGG.NAME"
 msgid "Laying an egg"
-msgstr ""
+msgstr "Składa jajo"
 
 #. STRINGS.CREATURES.STATUSITEMS.LAYINGANEGG.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LAYINGANEGG.TOOLTIP"
@@ -3994,7 +3994,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.TOOLTIP"
 msgid "This creature is looking for food"
-msgstr ""
+msgstr "To stworzenie szuka jedzenia"
 
 #. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME"
@@ -4097,7 +4097,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.STRUGGLING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.STRUGGLING.TOOLTIP"
 msgid "This creature is trying to get away"
-msgstr ""
+msgstr "To stworzenie próbuje odejść(?)"
 
 #. STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.NAME
 #, fuzzy
@@ -4108,7 +4108,7 @@ msgstr "Duszno"
 #. STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.TOOLTIP"
 msgid "Cannot breathe"
-msgstr ""
+msgstr "Nie może oddychać"
 
 #. STRINGS.CREATURES.STATUSITEMS.TIRED.NAME
 #, fuzzy
@@ -4119,7 +4119,7 @@ msgstr "Zmęczony"
 #. STRINGS.CREATURES.STATUSITEMS.TIRED.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.TIRED.TOOLTIP"
 msgid "This creature needs to rest"
-msgstr ""
+msgstr "To stworzenie musi odpocząć"
 
 #. STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.NAME"
@@ -4151,7 +4151,7 @@ msgstr ""
 #, fuzzy
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.NAME"
 msgid "Air Consumption Rate"
-msgstr "Ilość zurzycia powietrza"
+msgstr "Ilość zużycia powietrza"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.PROFESSION_NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.PROFESSION_NAME"
@@ -4327,7 +4327,7 @@ msgstr "Górnik"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.SPEEDMODIFIER"
 msgid "$value% Digging Speed"
-msgstr ""
+msgstr "$value% Szybkość Kopania"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.DESC"
@@ -4337,7 +4337,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.NAME
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.NAME"
 msgid "Meltdown Temperature"
-msgstr ""
+msgstr "Temperatura Topnienia"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.DESC"
@@ -4425,7 +4425,7 @@ msgstr "Technik"
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.SPEEDMODIFIER
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.SPEEDMODIFIER"
 msgid "$value% Tinkering Speed"
-msgstr ""
+msgstr "$value% Szybkość Dłubania"
 
 #. STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.DESC
 msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.DESC"
@@ -5428,13 +5428,13 @@ msgstr "Związał się"
 #. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME"
 msgid "Stress vomit"
-msgstr ""
+msgstr "Wymioty ze stresu"
 
 #. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.STATUS
 #, fuzzy
 msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.STATUS"
 msgid "Stress vomiting"
-msgstr "Wymioty ze stresu"
+msgstr "Wymiotuje ze stresu"
 
 #. STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME
 msgctxt "STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME"
@@ -6260,7 +6260,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.TOXICENVIRONMENT.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TOXICENVIRONMENT.NAME"
 msgid "Toxic environment"
-msgstr ""
+msgstr "Toksyczne środowisko"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.CAUSE
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.CAUSE"
@@ -6276,7 +6276,7 @@ msgstr "Brudny"
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.TOOLTIP"
 msgid "This Duplicant could use a shower"
-msgstr ""
+msgstr "Ten Duplikant mógłby użyć prysznica(?)"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.NAME"
@@ -6316,7 +6316,7 @@ msgstr "Lepsze niż mówią"
 #. STRINGS.DUPLICANTS.MODIFIERS.WARMAIR.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WARMAIR.NAME"
 msgid "Warm Air"
-msgstr ""
+msgstr "Ciepłe Powietrze"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.NAME
 #, fuzzy
@@ -6338,7 +6338,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.TOOLTIP"
 msgid "This Duplicant is stressed out after having been attacked"
-msgstr ""
+msgstr "Ten Duplikant jest zestresowany, po tym jak został zaatakowany"
 
 #. STRINGS.DUPLICANTS.MODIFIERS.WELLFED.NAME
 msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WELLFED.NAME"
@@ -6517,7 +6517,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.PERSONALITIES.CATALINA.NAME
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CATALINA.NAME"
 msgid "Catalina"
-msgstr ""
+msgstr "Catalina"
 
 #. STRINGS.DUPLICANTS.PERSONALITIES.DEVON.DESC
 msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DEVON.DESC"
@@ -7013,7 +7013,7 @@ msgstr "Wdycha {ConsumptionRate} O2"
 #. STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.BREATHINGO2.TOOLTIP"
 msgid "Duplicants require oxygen to live"
-msgstr ""
+msgstr "Duplikant potrzebuje tlenu by żyć"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.BUILDDELIVERSTATUS.NAME
 #, fuzzy
@@ -7059,7 +7059,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEANING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.CLEANING.TOOLTIP"
 msgid "This Duplicant is cleaning the {Target}"
-msgstr ""
+msgstr "Ten Duplikant czyści {Target}"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.CLEARDELIVERSTATUS.NAME
 #, fuzzy
@@ -7245,7 +7245,7 @@ msgstr "Wydycha {EmittingRate} CO2"
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMITTINGCO2.TOOLTIP"
 msgid "Duplicants breathe out carbon dioxide"
-msgstr ""
+msgstr "Duplikant wydycha dwutlenek węgla"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.EMPTYING.NAME"
@@ -7354,7 +7354,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FIGHTING.TOOLTIP"
 msgid "This Duplicant is attacking a creature!"
-msgstr ""
+msgstr "Ten Duplikant atakuje stworzenie!"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.FLEEING.NAME"
@@ -7439,7 +7439,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NOTIFICATION_NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NOTIFICATION_NAME"
 msgid "Illness"
-msgstr ""
+msgstr "Choroba"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HASDISEASE.NOTIFICATION_TOOLTIP"
@@ -7460,7 +7460,7 @@ msgstr "Wstrzymywał oddech"
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOLDINGBREATH.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOLDINGBREATH.TOOLTIP"
 msgid "This Duplicant cannot breathe in their current location"
-msgstr ""
+msgstr "Ten Duplikant nie może oddychać w swoim obecnym położeniu"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.HOT.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.HOT.NAME"
@@ -7711,7 +7711,7 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NIGHTTIME.TOOLTIP"
 msgid "This Duplicant is a Night Owl and gets a burst of energy at night"
-msgstr ""
+msgstr "Ten Duplikant jest Nocnym Markiem i w nocy rozpiera go energia"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NAME"
@@ -7726,12 +7726,12 @@ msgstr ""
 #. STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NOTIFICATION_TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.NOTIFICATION_TOOLTIP"
 msgid "These Duplicants have nothing to eat:"
-msgstr ""
+msgstr "Ci Duplikanci nie mają co jeść"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NORATIONSAVAILABLE.TOOLTIP"
 msgid "There is nothing in the colony for this Duplicant to eat"
-msgstr ""
+msgstr "W kolonii nie ma nic, co by mógł zjeść ten Duplikant (?)"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NAME
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.NOTOILETS.NAME"
@@ -8085,7 +8085,7 @@ msgstr "Ci Duplikanci głodują i potrzebują <style=\"food\">Żywności</style>
 #. STRINGS.DUPLICANTS.STATUSITEMS.STARVING.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STARVING.TOOLTIP"
 msgid "This Duplicant needs food!"
-msgstr ""
+msgstr "Ten Duplikant potrzebuje żywności"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STORECRITICALDELIVERSTATUS.NAME
 #, fuzzy
@@ -8180,7 +8180,7 @@ msgstr "Kolonia cierpi z powodu nadmiaru <style=\"stress\">Stresu</style>. \nUde
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.TOOLTIP"
 msgid "This Duplicant is feeling the pressure"
-msgstr ""
+msgstr "Ten Duplikant czuje presję"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.STRESSFULLYEMPTYINGBLADDER.NAME
 #, fuzzy
@@ -8366,7 +8366,7 @@ msgstr "Ogrzewa się"
 #. STRINGS.DUPLICANTS.STATUSITEMS.WARMINGUP.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WARMINGUP.TOOLTIP"
 msgid "This Duplicant got too cold and is trying to warm up"
-msgstr ""
+msgstr "Temu Duplikantowi zrobiło się zbyt zimon i próbuje się ogrzać"
 
 #. STRINGS.DUPLICANTS.STATUSITEMS.WARMUPDELIVERSTATUS.NAME
 #, fuzzy
@@ -8389,7 +8389,7 @@ msgstr "Myje ręce"
 #. STRINGS.DUPLICANTS.STATUSITEMS.WASHINGHANDS.TOOLTIP
 msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.WASHINGHANDS.TOOLTIP"
 msgid "This Duplicant is washing their hands"
-msgstr ""
+msgstr "Ten Duplikant myje ręce"
 
 #. STRINGS.DUPLICANTS.THOUGHTS.ANGRY.TOOLTIP
 #, fuzzy
@@ -8686,7 +8686,7 @@ msgstr "Wszystkożerny"
 #, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.DESC"
 msgid "This Duplicant takes a little longer than usual to \"do their business\""
-msgstr "Ten Duplikant dłużej załątwia swoje potrzeby"
+msgstr "Ten Duplikant dłużej załatwia swoje potrzeby"
 
 #. STRINGS.DUPLICANTS.TRAITS.IRRITABLEBOWEL.NAME
 #, fuzzy
@@ -8740,7 +8740,8 @@ msgstr "Ten Duplikant najlepiej pracuje kiedy wszyscy śpią"
 #, fuzzy
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.NAME"
 msgid "Night Owl"
-msgstr "Nocna Sowa"
+msgstr "Nocny Marek
+"
 
 #. STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK
 #, fuzzy
@@ -8990,7 +8991,7 @@ msgstr "(O2)  <style=\"disease\">Choroba</style>.\n\nNatleniony "
 #. STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME"
 msgid "Polluted Oxygen"
-msgstr ""
+msgstr "Zanieczyszczony Tlen(?)"
 
 #. STRINGS.ELEMENTS.COPPER.DESC
 #, fuzzy
@@ -9047,7 +9048,7 @@ msgstr "(H2O) Breja pokruczonego, lekko zmrożonego lodu"
 #. STRINGS.ELEMENTS.CRUSHEDICE.NAME
 msgctxt "STRINGS.ELEMENTS.CRUSHEDICE.NAME"
 msgid "Crushed Ice"
-msgstr ""
+msgstr "Kruchy Lód"
 
 #. STRINGS.ELEMENTS.CRUSHEDROCK.DESC
 msgctxt "STRINGS.ELEMENTS.CRUSHEDROCK.DESC"
@@ -9079,7 +9080,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.DIAMOND.NAME
 msgctxt "STRINGS.ELEMENTS.DIAMOND.NAME"
 msgid "Diamond"
-msgstr ""
+msgstr "Diament"
 
 #. STRINGS.ELEMENTS.DIRT.DESC
 msgctxt "STRINGS.ELEMENTS.DIRT.DESC"
@@ -9100,7 +9101,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.DIRTYICE.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYICE.NAME"
 msgid "Polluted Ice"
-msgstr ""
+msgstr "Zanieczyszczony Lód"
 
 #. STRINGS.ELEMENTS.DIRTYWATER.DESC
 msgctxt "STRINGS.ELEMENTS.DIRTYWATER.DESC"
@@ -9110,7 +9111,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.DIRTYWATER.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYWATER.NAME"
 msgid "Polluted Water"
-msgstr ""
+msgstr "Zanieczyszczona Woda"
 
 #. STRINGS.ELEMENTS.ELECTRUM.DESC
 msgctxt "STRINGS.ELEMENTS.ELECTRUM.DESC"
@@ -9703,7 +9704,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.SNOW.NAME
 msgctxt "STRINGS.ELEMENTS.SNOW.NAME"
 msgid "Snow"
-msgstr ""
+msgstr "Śnieg"
 
 #. STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.DESC"
@@ -11302,7 +11303,7 @@ msgstr ""
 #. STRINGS.MISC.STATUSITEMS.CLEANING.NAME
 msgctxt "STRINGS.MISC.STATUSITEMS.CLEANING.NAME"
 msgid "Cleaning"
-msgstr ""
+msgstr "Czyszczenie"
 
 #. STRINGS.MISC.STATUSITEMS.CLEANING.TOOLTIP
 msgctxt "STRINGS.MISC.STATUSITEMS.CLEANING.TOOLTIP"

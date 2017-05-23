@@ -1,0 +1,4995 @@
+#. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.NAME
+msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.NAME"
+msgid "Food Poisoning"
+msgstr "Zatrucie Pokarmowe"
+
+#. STRINGS.DUPLICANTS.DISEASES.HEATRASH.DESCRIPTION
+msgctxt "STRINGS.DUPLICANTS.DISEASES.HEATRASH.DESCRIPTION"
+msgid "This Duplicant's thought processes have short circuited as a result of the extreme heat"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.HEATRASH.NAME
+msgctxt "STRINGS.DUPLICANTS.DISEASES.HEATRASH.NAME"
+msgid "Heat Stroke"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.INFECTED_POPUP
+msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTED_POPUP"
+msgid "Became infected by {0}"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.FOOD
+msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.FOOD"
+msgid "eating a {0}"
+msgstr "zjada {0}"
+
+#. STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.INTERNAL_TEMPERATURE
+msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.INTERNAL_TEMPERATURE"
+msgid "extreme internal temperature"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.TOXIC_AREA
+msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.TOXIC_AREA"
+msgid "standing in a toxic area"
+msgstr "przebywa w toksycznym miejscu"
+
+#. STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.DESCRIPTION
+msgctxt "STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.DESCRIPTION"
+msgid "This Duplicant really doesn't feel like working right now"
+msgstr "Ten Duplikant naprawdę nie ma teraz ochoty pracować"
+
+#. STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.NAME
+msgctxt "STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.NAME"
+msgid "The Lackadaisies"
+msgstr "(?)The Lackadaisies"
+
+#. STRINGS.DUPLICANTS.DISEASES.NOMEDICINETAKEN
+msgctxt "STRINGS.DUPLICANTS.DISEASES.NOMEDICINETAKEN"
+msgid "None"
+msgstr "Żaden"
+
+#. STRINGS.DUPLICANTS.DISEASES.NOTIFICATION_TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.DISEASES.NOTIFICATION_TOOLTIP"
+msgid "{0} contracted <style=\"disease\">{1}</style> by {2}"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.CRINGE_EFFECT
+msgctxt "STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.CRINGE_EFFECT"
+msgid "Smelled a putrid odor"
+msgstr "Poczuł zgniły odór"
+
+#. STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.DESCRIPTION
+msgctxt "STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.DESCRIPTION"
+msgid "The pungent odor wafting off this Duplicant is nauseating their peers"
+msgstr "Ostry odór unoszący się za tym Duplikantem jest mdły dla pozostałych"
+
+#. STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.NAME
+msgctxt "STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.NAME"
+msgid "Trench Stench"
+msgstr "(?)"
+
+#. STRINGS.DUPLICANTS.DISEASES.RECUPERATING
+msgctxt "STRINGS.DUPLICANTS.DISEASES.RECUPERATING"
+msgid "Resting up"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.REDUCECURESPEED
+msgctxt "STRINGS.DUPLICANTS.DISEASES.REDUCECURESPEED"
+msgid "Heal speed (<style=\"disease\">{0}</style>): <style=\"consumed\">{1}</style>"
+msgstr "Szybkość uleczenia (<style=\"disease\">{0}</style>): <style=\"consumed\">{1}</style>"
+
+#. STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.DESCRIPTION
+msgctxt "STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.DESCRIPTION"
+msgid "This Duplicant saw the corpse of a friend"
+msgstr "Ten duplikant zobaczył zwłoki przzyjaciela"
+
+#. STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.NAME
+msgctxt "STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.NAME"
+msgid "Existential Angst"
+msgstr "(?)Niepokuj Egzystencjalny"
+
+#. STRINGS.DUPLICANTS.DISEASES.SPORES.DESCRIPTION
+msgctxt "STRINGS.DUPLICANTS.DISEASES.SPORES.DESCRIPTION"
+msgid "This Duplicant is a walking fungal pod"
+msgstr "(?) Ten Duplikant rozsiewa grzybice"
+
+#. STRINGS.DUPLICANTS.DISEASES.SPORES.NAME
+msgctxt "STRINGS.DUPLICANTS.DISEASES.SPORES.NAME"
+msgid "The Spores"
+msgstr "Zarodniki"
+
+#. STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP"
+msgid "{Symptoms}\n\nContracted by {InfectionSource}\nDuration remaining: {Duration}\nRemedies: <style=\"medicine\">{Cures}</style>"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.TRIGGERS.EATCOMPLETEEDIBLE
+msgctxt "STRINGS.DUPLICANTS.DISEASES.TRIGGERS.EATCOMPLETEEDIBLE"
+msgid "May cause <style=\"disease\">{Diseases}</style>"
+msgstr "Może powodować <style=\"disease\">{Diseases}</style>"
+
+#. STRINGS.DUPLICANTS.DISEASES.TRIGGERS.TOOLTIPS.EATCOMPLETEEDIBLE
+msgctxt "STRINGS.DUPLICANTS.DISEASES.TRIGGERS.TOOLTIPS.EATCOMPLETEEDIBLE"
+msgid "May cause <style=\"disease\">{Diseases}</style>"
+msgstr "Może powodować <style=\"disease\">{Diseases}</style>"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME"
+msgid "New Hope"
+msgstr "Nowa Nadzieja"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.TOOLTIP"
+msgid "This Duplicant feels pretty optimistic about their new home"
+msgstr "Ten Duplikant czuje się całkiem optymistycznie w swoim nowym domu"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.BASEDUPLICANT.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BASEDUPLICANT.NAME"
+msgid "Duplicant"
+msgstr "Duplikant"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.BASEROT.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BASEROT.NAME"
+msgid "Base Decay Rate"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.BREATHING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BREATHING.NAME"
+msgid "Breathing"
+msgstr "Tchnący życiem"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.BURNED_BY_SCALDING_WATER.CAUSE
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BURNED_BY_SCALDING_WATER.CAUSE"
+msgid "Obtained by exposure to hot water"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.BURNED_BY_SCALDING_WATER.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BURNED_BY_SCALDING_WATER.NAME"
+msgid "Scalded"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.BURNED_BY_SCALDING_WATER.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BURNED_BY_SCALDING_WATER.TOOLTIP"
+msgid "Ouch! This Duplicant took a shower or was doused in water that was much too hot"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.BURNINGCALORIES.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BURNINGCALORIES.NAME"
+msgid "Burning Calories"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.CLOTHING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CLOTHING.NAME"
+msgid "Clothing"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.COLD.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COLD.NAME"
+msgid "Cold"
+msgstr "Zimny"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.COLD.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COLD.TOOLTIP"
+msgid "This Duplicant is uncomfortably cold"
+msgstr "Temu Duplikantowi jest nieznośnie zimno"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.COLDAIR.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COLDAIR.NAME"
+msgid "Cold Air"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.COOLINGDOWN.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COOLINGDOWN.NAME"
+msgid "Cooling Down"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.COOLINGDOWN.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COOLINGDOWN.TOOLTIP"
+msgid "This Duplicant is trying to cool back down"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.NAME"
+msgid "Darkness"
+msgstr "Ciemność"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.TOOLTIP"
+msgid "This Duplicant doesn't like being in the dark!"
+msgstr "Ten Duplikant boi się ciemności!"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.DEAD.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DEAD.NAME"
+msgid "Dead"
+msgstr "Martwy"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.CAUSE
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.CAUSE"
+msgid "Obtained through prolonged digging or construction"
+msgstr "Uzyskano poprzez długotwałe kopanie lub budowę"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.NAME"
+msgid "Dirty Hands"
+msgstr "Brudne Ręce"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.TOOLTIP"
+msgid "This Duplicant needs to <style=\"hygiene\">Wash</style> their hands"
+msgstr "Ten Duplikant potrzebje <style=\"hygiene\">Umyć</style> ręce"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.NAME"
+msgid "Disturbed Sleep"
+msgstr "Zaburzenia Snu"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.TOOLTIP"
+msgid "This Duplicant's sleep was disturbed"
+msgstr "Sen tego Duplikanta został zakłucony"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.EATINGCALORIES.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.EATINGCALORIES.NAME"
+msgid "Eating"
+msgstr "Zjada"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.NAME"
+msgid "Entitlement"
+msgstr "(?)Prawo"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.TOOLTIP"
+msgid "Duplicants will demand better <style=\"decor\">Decor</style> and accommodations with each skill level they gain"
+msgstr "Ten Dubplikant wymaga lepszych <style=\"decor\">Ozdób</style> oraz zawaterowania z każdym uzyskanym poziomem umiejętności"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.FRESH_AND_CLEAN.CAUSE
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FRESH_AND_CLEAN.CAUSE"
+msgid "Obtained by taking a comfortably heated shower"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.FRESH_AND_CLEAN.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FRESH_AND_CLEAN.NAME"
+msgid "Refreshingly Clean"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.FRESH_AND_CLEAN.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FRESH_AND_CLEAN.TOOLTIP"
+msgid "This Duplicant took a shower that was just the right temperature - it was great!"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.NAME"
+msgid "Full Bladder"
+msgstr "Pełny pęcherz"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.TOOLTIP"
+msgid "This Duplicant's bladder is full"
+msgstr "Pęcherz tego Duplikanta jest pełny"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.FUSSY.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FUSSY.NAME"
+msgid "Fussy"
+msgstr "Wybredny"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.FUSSY.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FUSSY.TOOLTIP"
+msgid "This Duplicant is hard to please"
+msgstr "Tego Duplikanta jest trudno zadowolić"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.HOLDINGBREATH.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOLDINGBREATH.NAME"
+msgid "Holding breath"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.HOMEOSTASIS.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOMEOSTASIS.NAME"
+msgid "Homeostasis"
+msgstr "Homeostaza"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.HOT.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOT.NAME"
+msgid "Hot"
+msgstr "Gorący"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.HOT.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOT.TOOLTIP"
+msgid "This Duplicant is uncomfortably warm"
+msgstr "Temu Duplikantowi jest nieznośnie gorąco"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.NAME"
+msgid "Hungry"
+msgstr "Głodny"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.TOOLTIP"
+msgid "This Duplicant is ready for lunch"
+msgstr "Ten Duplikan jest gotów na obiad"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.NAME"
+msgid "Inspired"
+msgstr "Natchniony"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.TOOLTIP"
+msgid "This Duplicant has had a creative vision!"
+msgstr "Ten Duplikant miał natchnienie"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.NAME"
+msgid "Interrupted Sleep"
+msgstr "Przerwany Sen"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.TOOLTIP"
+msgid "This Duplicant was rudely awoken while they slept"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.NAME"
+msgid "Light Wounds"
+msgstr "Lekkie Rany"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.TOOLTIP"
+msgid "This Duplicant's injuries are a bit uncomfortable"
+msgstr "Urazy tego Duplikanta są lekko niekomfortowe"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.MENTALBREAK.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MENTALBREAK.NAME"
+msgid "Nervous Breakdown"
+msgstr "Załamanie Nerwowe"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.MENTALBREAK.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MENTALBREAK.TOOLTIP"
+msgid "<style=\"stress\">Stress</style> has completely eroded this Duplicant's ability to function"
+msgstr "Duplikant nie może normalnie funkcjonować z powodu <style=\"stress\">Stresu</style>"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.NAME"
+msgid "Moderate Wounds"
+msgstr "Umiarkowane Rany"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.TOOLTIP"
+msgid "This Duplicants' injuries are affecting their ability to work"
+msgstr "Rany tego Duplikanta mają wpływ na jego zdolność do pracy"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.MOURNING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MOURNING.NAME"
+msgid "Mourning"
+msgstr "Żałoba"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.MOURNING.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MOURNING.TOOLTIP"
+msgid "This Duplicant is grieving the loss of a friend"
+msgstr "Ten Duplicant opłakuje stratę przyjaciela"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.NAME"
+msgid "Narcoleptic Nap"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.TOOLTIP"
+msgid "This Duplicant just needs to rest their eyes for a second"
+msgstr "Ten Duplikant po prostu musi odpocząć chociaż przez chwilę"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.NAME"
+msgid "New Friend"
+msgstr "Nowy Przyjaciel"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.TOOLTIP"
+msgid "This Duplicant is happy to see a new face in the colony!"
+msgstr "Ten Duplikant cieszy się, że widzi nową twarz w kolonii"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.NAME"
+msgid "Nightmares"
+msgstr "Koszmary"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.TOOLTIP"
+msgid "This Duplicant was visited by something in the night"
+msgstr "Tego Duplikanta coś odwiedziło w nocy"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.NOSTRESSCREATOR.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NOSTRESSCREATOR.NAME"
+msgid "None"
+msgstr "Żaden"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.RECOVERINGBREATH.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RECOVERINGBREATH.NAME"
+msgid "Recovering breath"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.REDALERT.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.REDALERT.NAME"
+msgid "Red Alert!"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.REDALERT.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.REDALERT.TOOLTIP"
+msgid "This Duplicant is <style=\"stress\">Stressed</style> out by the current Red Alert"
+msgstr "Ten duplikant jest <style=\"stress\">Zestresowany</style> przez aktualny Czerwony Alarm"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME"
+msgid "Sleeping Peacefully"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.TOOLTIP"
+msgid "This Duplicant is getting a good night's rest"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.RESTING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTING.NAME"
+msgid "Resting"
+msgstr "Wypoczywa"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.ROTATMOSPHERE.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTATMOSPHERE.NAME"
+msgid "Contaminated Air"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.ROTTEMPERATURE.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTTEMPERATURE.NAME"
+msgid "Unrefrigerated"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.ROTTING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTTING.NAME"
+msgid "Rotting"
+msgstr "Gnije"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.NAME"
+msgid "Severe Wounds"
+msgstr "Ciężkie Rany"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.TOOLTIP"
+msgid "This Duplicant's injuries are severely affecting their work and well-being"
+msgstr "Urazy tego Duplikanta poważnie wpływają na jego pracę i dobre samopoczucie"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SKILLLEVEL.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SKILLLEVEL.NAME"
+msgid "Skill Level"
+msgstr "Poziom Umiejęności"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SLEEP.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEP.NAME"
+msgid "Sleeping"
+msgstr "Śpi"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SLEEP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEP.TOOLTIP"
+msgid "This Duplicant is recovering stamina"
+msgstr "Ten Duplikant odnawia wytrzymałość"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.NAME"
+msgid "Sleepy"
+msgstr "Senny"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.TOOLTIP"
+msgid "This Duplicant is getting tired"
+msgstr "Ten Duplikant jest zmęczony"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.NAME"
+msgid "Smelled a putrid odor"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.TOOLTIP"
+msgid "This Duplicant smelled something unspeakably foul"
+msgstr "(?)Ten Duplikant pachnie niewyobrażalnie brzydko"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.CAUSE
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.CAUSE"
+msgid "Obtained by sleeping on the ground"
+msgstr "Uzyskane przez spanie na ziemi"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.NAME"
+msgid "Sore Back"
+msgstr "Ból Pleców"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.TOOLTIP"
+msgid "This Duplicant had to sleep on the floor and would like a bed"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.NAME"
+msgid "Consumed stale food"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.TOOLTIP"
+msgid "This Duplicant is in a bad mood from having to eat stale <style=\"food\">Food</style>"
+msgstr "(?)Ten Duplikant jest w złym nastroju ponieważ musiał zjeść nieświerzą <style=\"food\">Żywność</style> (lub) Zjedzenie nieświeżej <style=\"food\">Żywności</style> spowodowało u tego Duplikanta zły nastruj"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STARVING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARVING.NAME"
+msgid "Starving"
+msgstr "Głoduje"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STARVING.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARVING.TOOLTIP"
+msgid "This Duplicant needs to eat something, soon"
+msgstr "Ten Duplikant musi wkrótce coś zjeść"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.NAME"
+msgid "Stepped in polluted water"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.TOOLTIP"
+msgid "This Duplicant stepped in something yucky and was super grossed out"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STRESSED_BY_COLD_WATER.CAUSE
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSED_BY_COLD_WATER.CAUSE"
+msgid "Obtained by exposure to icy water"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STRESSED_BY_COLD_WATER.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSED_BY_COLD_WATER.NAME"
+msgid "Numb"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STRESSED_BY_COLD_WATER.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSED_BY_COLD_WATER.TOOLTIP"
+msgid "Brr! This Duplicant took a shower or was doused in water that was much too cold"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.NAME"
+msgid "Making a mess"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.TOOLTIP"
+msgid "This Duplicant had no choice but to to empty their bladder"
+msgstr "Ten Duplikant czekał tak długo, aż narobij w majtki"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STRESSREDUCTION.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSREDUCTION.TOOLTIP"
+msgid "This Duplicant's <style=\"stress\">Stress</style> is just melting away"
+msgstr "<style=\"stress\">Stres</stres> tego Duplikanta zmniejsza się"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.TEMPEXCHANGE.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TEMPEXCHANGE.NAME"
+msgid "Environmental Exchange"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.TOXICENVIRONMENT.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TOXICENVIRONMENT.NAME"
+msgid "Toxic environment"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.CAUSE
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.CAUSE"
+msgid "Obtained by coming into contact with polluted material"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.NAME"
+msgid "Grimy"
+msgstr "Brudny"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.TOOLTIP"
+msgid "This Duplicant could use a <style=\"hygiene\">Shower</style>"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.NAME"
+msgid "Sleeping Uncomfortably"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.TOOLTIP"
+msgid "This Duplicant collapsed from sheer exhaustion"
+msgstr "Ten Duplikant padł z przemęczenia"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.NAME"
+msgid "Underwater"
+msgstr "Podwodny"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.TOOLTIP"
+msgid "This Duplicant's movement is slowed"
+msgstr "Ten Duplikant jest spowolniony"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.VOMITING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.VOMITING.NAME"
+msgid "Vomiting"
+msgstr "Wymiotuje"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.VOMITING.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.VOMITING.TOOLTIP"
+msgid "Better out than in, as they say"
+msgstr "(?)Lepsze niż mówią"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WARMAIR.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WARMAIR.NAME"
+msgid "Warm Air"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.NAME"
+msgid "Warming Up"
+msgstr "Rozgrzewanie"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.TOOLTIP"
+msgid "This Duplicant is trying to warm back up"
+msgstr "Ten Duplikant próbuje ponownie ogrzać"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.NAME"
+msgid "Recently assailed"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.TOOLTIP"
+msgid "This Duplicant was recently attacked by something and it <style=\"stress\">Stressed</style> them out"
+msgstr "Ten Duplikant ostatnio został przez coś zaatakowany podniosło to poziom jego <style=\"stress\">Stressu</style>"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WELLFED.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WELLFED.NAME"
+msgid "Well-fed"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WELLFED.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WELLFED.TOOLTIP"
+msgid "This Duplicant feels satisfied after having a big meal"
+msgstr "Duplikant jest zadowolony po zjedzeniu dużego posiłku"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WORKING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WORKING.NAME"
+msgid "Working"
+msgstr "Pracuje"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WORKING.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WORKING.TOOLTIP"
+msgid "This Duplicant is working up a sweat"
+msgstr "(?)Ten Duplikant pracuje w pocie czoła"
+
+#. STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP"
+msgid "Standing in areas with lower <style=\"decor\">Decor</style> than a Duplicant's expectations will increase their\n<style=\"stress\">Stress</style>, while higher decor will decrease it.\nDuplicants' expectations increase as they level up and become better at their jobs."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.DECOR.NAME
+msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.NAME"
+msgid "Decor Expectation"
+msgstr "Oczekuje Wystroju"
+
+#. STRINGS.DUPLICANTS.NEEDS.DECOR.OBSERVED_DECOR
+msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.OBSERVED_DECOR"
+msgid "Surroundings"
+msgstr "Otoczenie"
+
+#. STRINGS.DUPLICANTS.NEEDS.DECOR.PROFESSION_NAME
+msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.PROFESSION_NAME"
+msgid "Critic"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.OPINIONS.DARKNESS
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.DARKNESS"
+msgid "There's too little <style=\"light\">Light</style> for this Duplicant to see."
+msgstr "Poziom <style=\"light\">Oświetlenia</style> jest zbyt niski aby duplikant mógł to zobaczyć"
+
+#. STRINGS.DUPLICANTS.OPINIONS.LIGHTNESS
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.LIGHTNESS"
+msgid "There is enough <style=\"light\">Light</style> for this Duplicant to see."
+msgstr "Poziom <style=\"light\">Oświetlenia</style> jest wystarczająco wysoki aby Duplikant mógł to zobaczyć"
+
+#. STRINGS.DUPLICANTS.OPINIONS.LIGHTOPINION
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.LIGHTOPINION"
+msgid "Duplicants are drawn to lit places, and dislike being in the dark.\nMake sure your Duplicants have plenty of <style=\"light\">Light</style> to keep their eyes unstrained and their <style=\"stress\">Stress</style> low."
+msgstr "Duplikanci nie znoszą ciemności, lubia przebywać w jasnych miejscach.\nZadbaj aby twoi Duplikanci mieli wystaczające <style=\"light\">Oświetlenie</style> a zadba to o ich oczy i zredukuje <style=\"stress\">Stres</style>"
+
+#. STRINGS.DUPLICANTS.OPINIONS.MESSHALLWALLSOPINION
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.MESSHALLWALLSOPINION"
+msgid "Duplicants don't find bare rockface very inviting.\nUse wall tiles and doors to build more comfortable Mess Halls for them."
+msgstr "(?)Duplikantów nie zachęcają gołe skalne sciany.\nUżyj płytek ściennych i drzwi aby zbudować bardziej komfortową Stołówkę."
+
+#. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSMISSING
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSMISSING"
+msgid "Room is missing walls or doors."
+msgstr "W pokoju brakuje ścian lub drzwi."
+
+#. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSOPINION
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSOPINION"
+msgid "Duplicants don't find bare rockface very inviting.\nUse wall tiles and doors to build more comfortable Rooms for them."
+msgstr "(?)Duplikantów nie zachęcają gołe skalne sciany.\nUżyj płytek ściennych i drzwi aby zbudować bardziej komfortowe Pokoje."
+
+#. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSSTANDARD
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSSTANDARD"
+msgid "Room is enclosed by walls and doors."
+msgstr "(?)Pokój ma zapewnione ściany i drzwi."
+
+#. STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSMISSING
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSMISSING"
+msgid "Restroom is missing walls or doors."
+msgstr "W toalecie brakuje ścian lub drzwi."
+
+#. STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSOPINION
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSOPINION"
+msgid "Duplicants like a little privacy when they do their biz.\nUse wall tiles and doors to build more comfortable Washrooms for them."
+msgstr "Duplikanci lubią odrobinę prywatności.\nUżyj płytek ściennych i drzwi aby ich toaleta była bardziej komfortowa."
+
+#. STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSSTANDARD
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSSTANDARD"
+msgid "Restroom is enclosed by walls and doors."
+msgstr "Toaleta ma zapewnione drzwi i ściany."
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.A.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.A.DESC"
+msgid "010011100100111101010100010011010100010101001110010011110101010001001101010001010100111001001111010101000100110101000101"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.A.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.A.NAME"
+msgid "Yates"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ABE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ABE.DESC"
+msgid "{0}s are sweet, delicate flowers. They need to be treated gingerly, with great consideration for their feelings."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ABE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ABE.NAME"
+msgid "Abe"
+msgstr "Abe"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ADA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ADA.DESC"
+msgid "{0}s enjoy writing poetry in their downtime. Dark poetry."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ADA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ADA.NAME"
+msgid "Ada"
+msgstr "Ada"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BANHI.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BANHI.DESC"
+msgid "The \"cool loner\" vibes that radiate off a {0} never fail to make the colony swoon."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BANHI.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BANHI.NAME"
+msgid "Banhi"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.DESC"
+msgid "This {0} is constantly challenging others to fight her, regardless of whether or not she can actually take them."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.NAME"
+msgid "Bubbles"
+msgstr "Bubbles"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BURT.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BURT.DESC"
+msgid "Every single {0} has perpetually damp hands. It must be genetic."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BURT.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BURT.NAME"
+msgid "Burt"
+msgstr "Burt"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.CATALINA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CATALINA.DESC"
+msgid "A {0} is admired by all for her seemingly tireless work ethic. Little do people know, she's dying on the inside."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.CATALINA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CATALINA.NAME"
+msgid "Catalina"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.DEVON.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DEVON.DESC"
+msgid "This {0} dreams of owning their own personal computer so they can start a blog full of pictures of toast."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.DEVON.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DEVON.NAME"
+msgid "Devon"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.DESC"
+msgid "Nothing makes an {0} happier than a big tin of glitter and a pack of unicorn stickers."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.NAME"
+msgid "Ellie"
+msgstr "Ellie"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.DESC"
+msgid "There's nothing {0}s are more proud of than their thick, dignified eyebrows."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.NAME"
+msgid "Frankie"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.GOSSMAN.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GOSSMAN.DESC"
+msgid "{0}s are big goofballs that can make anyone laugh."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.GOSSMAN.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GOSSMAN.NAME"
+msgid "Gossman"
+msgstr "Gossman"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.DESC"
+msgid "This {0} is cripplingly self-conscious of his long middle toes."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.NAME"
+msgid "Harold"
+msgstr "Harold"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.DESC"
+msgid "If someone says something nice to a {0} he'll think about it nonstop for no less than three weeks."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.NAME"
+msgid "Hassan"
+msgstr "Hassan"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HOWARD.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HOWARD.DESC"
+msgid "A {0}'s monotonous voice and lack of facial expression make it impossible for others to tell when he's messing with them."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HOWARD.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HOWARD.NAME"
+msgid "Howard"
+msgstr "Howard"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.J.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.J.DESC"
+msgid "0100111001001111010101000101001001001001010001110100100001010100010011100100111101010100010010000100010101010010"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.J.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.J.NAME"
+msgid "Berkeley"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.DESC"
+msgid "{0}s are precious goobers. Other Duplicants are strangely incapable of cursing in a {0}'s presence."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.NAME"
+msgid "Joshua"
+msgstr "Joshua"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.LINDSAY.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LINDSAY.DESC"
+msgid "{0}s are ethereal beings composed of songs and stardust."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.LINDSAY.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LINDSAY.NAME"
+msgid "Lindsay"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MAE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAE.DESC"
+msgid "There's nothing a {0} can't do if she sets her mind to it."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MAE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAE.NAME"
+msgid "Mae"
+msgstr "Mae"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MARIE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MARIE.DESC"
+msgid "This {0} is positively glowing! What's her secret? Radioactive isotopes, of course."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MARIE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MARIE.NAME"
+msgid "Marie"
+msgstr "Marie"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MAX.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAX.DESC"
+msgid "At any given moment a {0} is viscerally reliving ten different humiliating memories."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MAX.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAX.NAME"
+msgid "Max"
+msgstr "Max"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MEEP.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.DESC"
+msgid "{0}s have a face only a twelve tonne DNA Replicator could love."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MEEP.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.NAME"
+msgid "Meep"
+msgstr "Meep"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MIMA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MIMA.DESC"
+msgid "Ol' {0} here can't stand lookin' at people's knees."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MIMA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MIMA.NAME"
+msgid "Mi-Ma"
+msgstr "Mi-Ma"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NADIA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NADIA.DESC"
+msgid "The burden of living is just too much for some people. Like this {0}, for instance."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NADIA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NADIA.NAME"
+msgid "Nadia"
+msgstr "Nadia"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NAILS.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NAILS.DESC"
+msgid "People often expect a Duplicant named \"{0}\" to be tough, but they're all pretty huge wimps."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NAILS.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NAILS.NAME"
+msgid "Nails"
+msgstr "Nails"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.DESC"
+msgid "This {0} once claimed he could build a laser so powerful it would rip the colony in half. No one asked him to prove it."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.NAME"
+msgid "Nikola"
+msgstr "Nikola"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NISBET.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NISBET.DESC"
+msgid "This {0} likes to punch people to show her affection. Everyone's too afraid of her to tell her it hurts."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NISBET.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NISBET.NAME"
+msgid "Nisbet"
+msgstr "Nisbet"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

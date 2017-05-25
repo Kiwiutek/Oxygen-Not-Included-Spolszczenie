@@ -1,0 +1,2002 @@
+#. STRINGS.DUPLICANTS.CHORES.PEE.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.NAME"
+msgid "Pee"
+msgstr "Siusia"
+
+#. STRINGS.DUPLICANTS.CHORES.PEE.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.PEE.STATUS"
+msgid "Bio Break"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.NAME"
+msgid "Prioritize chore"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.PRIORITIZECHORE.STATUS"
+msgid "Prioritize chore"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.RECHARGE.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.RECHARGE.NAME"
+msgid "Recharge"
+msgstr "Ładowanie"
+
+#. STRINGS.DUPLICANTS.CHORES.RECHARGE.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.RECHARGE.STATUS"
+msgid "Recharging equipment"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.NAME"
+msgid "Recover breath"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.RECOVERBREATH.STATUS"
+msgid "Recovering breath"
+msgstr "Odzyskuje Oddech"
+
+#. STRINGS.DUPLICANTS.CHORES.RELAX.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.RELAX.NAME"
+msgid "Relax"
+msgstr "Zrelaksuj się"
+
+#. STRINGS.DUPLICANTS.CHORES.RELAX.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.RELAX.STATUS"
+msgid "Relaxing"
+msgstr "Odpręża się/Relaksuje się"
+
+#. STRINGS.DUPLICANTS.CHORES.RELOCATE.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.RELOCATE.NAME"
+msgid "Relocate"
+msgstr "Przenieś"
+
+#. STRINGS.DUPLICANTS.CHORES.RELOCATE.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.RELOCATE.STATUS"
+msgid "Going to relocate"
+msgstr "Idzie aby przenieść"
+
+#. STRINGS.DUPLICANTS.CHORES.REPAIR.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.REPAIR.NAME"
+msgid "Repair"
+msgstr "Napraw"
+
+#. STRINGS.DUPLICANTS.CHORES.REPAIR.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.REPAIR.STATUS"
+msgid "Going to repair"
+msgstr "Idzie naprawić"
+
+#. STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.NAME"
+msgid "Rescue friend"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.RESCUEINCAPACITATED.STATUS"
+msgid "Rescuing friend"
+msgstr "Ratuje przyjaciela"
+
+#. STRINGS.DUPLICANTS.CHORES.RESEARCH.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCH.NAME"
+msgid "Research"
+msgstr "Badania"
+
+#. STRINGS.DUPLICANTS.CHORES.RESEARCH.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCH.STATUS"
+msgid "Going to research"
+msgstr "(?)Idzie badać/Idzie do badań"
+
+#. STRINGS.DUPLICANTS.CHORES.RESEARCHFETCH.NAME
+#| msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.NAME"
+#| msgid "Deliver"
+msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCHFETCH.NAME"
+msgid "Deliver"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.RESEARCHFETCH.STATUS
+#| msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDFETCH.STATUS"
+#| msgid "Delivering"
+msgctxt "STRINGS.DUPLICANTS.CHORES.RESEARCHFETCH.STATUS"
+msgid "Delivering"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.NAME"
+msgid "Rest"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.RESTDUETODISEASE.STATUS"
+msgid "Resting"
+msgstr "Odpoczywa"
+
+#. STRINGS.DUPLICANTS.CHORES.SHOWER.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.SHOWER.NAME"
+msgid "Shower"
+msgstr "Prysznic"
+
+#. STRINGS.DUPLICANTS.CHORES.SHOWER.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.SHOWER.STATUS"
+msgid "Showering"
+msgstr "Bierze prysznic"
+
+#. STRINGS.DUPLICANTS.CHORES.SIGH.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.SIGH.NAME"
+msgid "Sigh"
+msgstr "Westchnienie"
+
+#. STRINGS.DUPLICANTS.CHORES.SIGH.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.SIGH.STATUS"
+msgid "Sighing"
+msgstr "Wzdycha"
+
+#. STRINGS.DUPLICANTS.CHORES.SLEEP.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.SLEEP.NAME"
+msgid "Sleep"
+msgstr "Sen"
+
+#. STRINGS.DUPLICANTS.CHORES.SLEEP.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.SLEEP.STATUS"
+msgid "Sleeping"
+msgstr "Idzie spać"
+
+#. STRINGS.DUPLICANTS.CHORES.SLEEPONFLOOR.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.SLEEPONFLOOR.NAME"
+msgid "Sleep"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.SLEEPONFLOOR.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.SLEEPONFLOOR.STATUS"
+msgid "Sleeping"
+msgstr "(?)Śpi"
+
+#. STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.NAME"
+msgid "Lash out"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSACTINGOUT.STATUS"
+msgid "Lashing out"
+msgstr "(?)Związał się"
+
+#. STRINGS.DUPLICANTS.CHORES.STRESSIDLE.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSIDLE.NAME"
+msgid "Antsy Idle"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.STRESSIDLE.STATUS
+#| msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC"
+#| msgid "This Duplicant is light as a feather on their feet"
+msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSIDLE.STATUS"
+msgid "This Duplicant needs something to do to take their mind of their stress"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.NAME"
+msgid "Stress vomit"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.STRESSVOMIT.STATUS"
+msgid "Stress vomiting"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.NAME"
+msgid "Take medicine"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.TAKEMEDICINE.STATUS"
+msgid "Taking medicine"
+msgstr "Bierze Lekarstwo"
+
+#. STRINGS.DUPLICANTS.CHORES.TOGGLE.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.TOGGLE.NAME"
+msgid "Toggle"
+msgstr "Przełącznik"
+
+#. STRINGS.DUPLICANTS.CHORES.TOGGLE.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.TOGGLE.STATUS"
+msgid "Going to toggle"
+msgstr "Idzie do przełącznika"
+
+#. STRINGS.DUPLICANTS.CHORES.TRANSPORT.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.TRANSPORT.NAME"
+msgid "Sweep"
+msgstr "Zamiatać"
+
+#. STRINGS.DUPLICANTS.CHORES.TRANSPORT.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.TRANSPORT.STATUS"
+msgid "Going to sweep"
+msgstr "Idzie zamiatać"
+
+#. STRINGS.DUPLICANTS.CHORES.UGLY_CRY.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.UGLY_CRY.NAME"
+msgid "Ugly Cry"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.UGLY_CRY.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.UGLY_CRY.STATUS"
+msgid "Ugly crying"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.UNEQUIP.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.UNEQUIP.NAME"
+msgid "Unequip"
+msgstr "Rozłącz"
+
+#. STRINGS.DUPLICANTS.CHORES.UNEQUIP.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.UNEQUIP.STATUS"
+msgid "Moving to unequip"
+msgstr "Idzie rozłączyć"
+
+#. STRINGS.DUPLICANTS.CHORES.UPGRADE.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.UPGRADE.NAME"
+msgid "Upgrade"
+msgstr "Ulepszenie"
+
+#. STRINGS.DUPLICANTS.CHORES.UPGRADE.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.UPGRADE.STATUS"
+msgid "Going to upgrade"
+msgstr "Idzie ulepszać"
+
+#. STRINGS.DUPLICANTS.CHORES.UPROOT.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.NAME"
+msgid "Uproot"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.UPROOT.STATUS
+#| msgctxt "STRINGS.DUPLICANTS.CHORES.COOK.STATUS"
+#| msgid "Going to cook"
+msgctxt "STRINGS.DUPLICANTS.CHORES.UPROOT.STATUS"
+msgid "Going to uproot"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.USETOILET.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.USETOILET.NAME"
+msgid "Use toilet"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.USETOILET.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.USETOILET.STATUS"
+msgid "Going to use toilet"
+msgstr "Idzie do toalety"
+
+#. STRINGS.DUPLICANTS.CHORES.VOMIT.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.VOMIT.NAME"
+msgid "Vomit"
+msgstr "Wymiociny"
+
+#. STRINGS.DUPLICANTS.CHORES.VOMIT.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.VOMIT.STATUS"
+msgid "Vomiting"
+msgstr "Wymiotuje"
+
+#. STRINGS.DUPLICANTS.CHORES.WARMUP.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.NAME"
+msgid "Warm up"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.WARMUP.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.WARMUP.STATUS"
+msgid "Going to warm up"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.NAME"
+msgid "Wash hands"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.WASHHANDS.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.WASHHANDS.STATUS"
+msgid "Washing hands"
+msgstr "Myje ręce"
+
+#. STRINGS.DUPLICANTS.CONGENITALTRAITS.ABE.DESC
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.TOOLTIP"
+#| msgid "This Duplicant just needs to rest their eyes for a second"
+msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.ABE.DESC"
+msgid "This Duplicant just wants to make sure everyone's eating right"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CONGENITALTRAITS.ABE.NAME
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTTING.NAME"
+#| msgid "Rotting"
+msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.ABE.NAME"
+msgid "Doting"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CONGENITALTRAITS.CATALINA.DESC
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.TOOLTIP"
+#| msgid "This Duplicant feels pretty optimistic about their new home"
+msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.CATALINA.DESC"
+msgid "This Duplicant feels the weight of the world on her shoulders"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CONGENITALTRAITS.CATALINA.NAME
+msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.CATALINA.NAME"
+msgid "Atlas"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CONGENITALTRAITS.ELLIE.DESC
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.TOOLTIP"
+#| msgid "This Duplicant is trying to warm back up"
+msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.ELLIE.DESC"
+msgid "This Duplicant needs things done in a very particular way"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CONGENITALTRAITS.ELLIE.NAME
+msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.ELLIE.NAME"
+msgid "Fastidious"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CONGENITALTRAITS.JOSHUA.DESC
+#| msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC"
+#| msgid "This Duplicant is light as a feather on their feet"
+msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.JOSHUA.DESC"
+msgid "This Duplicant brightens others' days wherever he goes"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CONGENITALTRAITS.JOSHUA.NAME
+msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.JOSHUA.NAME"
+msgid "Cheery Disposition"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CONGENITALTRAITS.LEIRA.DESC
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.TOOLTIP"
+#| msgid "This Duplicant's injuries are a bit uncomfortable"
+msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.LEIRA.DESC"
+msgid "This Duplicant's two loves in life are art and food"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CONGENITALTRAITS.LEIRA.NAME
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARVING.NAME"
+#| msgid "Starving"
+msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.LEIRA.NAME"
+msgid "Starving Artist"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.DESC
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.TOOLTIP"
+#| msgid "This Duplicant feels pretty optimistic about their new home"
+msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.DESC"
+msgid "This Duplicant seems pretty average overall"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.NAME
+msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.NONE.NAME"
+msgid "None"
+msgstr "Żaden"
+
+#. STRINGS.DUPLICANTS.CONGENITALTRAITS.STINKY.DESC
+msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.STINKY.DESC"
+msgid "This Duplicant is genetically cursed by a pungent bodily odor"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CONGENITALTRAITS.STINKY.NAME
+#| msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.STINKY.NAME"
+#| msgid "Stinky"
+msgctxt "STRINGS.DUPLICANTS.CONGENITALTRAITS.STINKY.NAME"
+msgid "Stinkiness"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DEATHS.COMBAT.DESCRIPTION
+msgctxt "STRINGS.DUPLICANTS.DEATHS.COMBAT.DESCRIPTION"
+msgid "{Target} was slain in combat."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DEATHS.COMBAT.NAME
+msgctxt "STRINGS.DUPLICANTS.DEATHS.COMBAT.NAME"
+msgid "Slain"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DEATHS.DROWNED.DESCRIPTION
+msgctxt "STRINGS.DUPLICANTS.DEATHS.DROWNED.DESCRIPTION"
+msgid "{Target} has drowned."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DEATHS.DROWNED.NAME
+msgctxt "STRINGS.DUPLICANTS.DEATHS.DROWNED.NAME"
+msgid "Drowned"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DEATHS.EXPLOSION.DESCRIPTION
+msgctxt "STRINGS.DUPLICANTS.DEATHS.EXPLOSION.DESCRIPTION"
+msgid "{Target} has died in an explosion."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DEATHS.EXPLOSION.NAME
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.EXCAVATOR_BOMB.EXPLODING.NAME"
+#| msgid "Exploding"
+msgctxt "STRINGS.DUPLICANTS.DEATHS.EXPLOSION.NAME"
+msgid "Explosion"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DEATHS.FROZEN.DESCRIPTION
+msgctxt "STRINGS.DUPLICANTS.DEATHS.FROZEN.DESCRIPTION"
+msgid "{Target} has frozen to death."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DEATHS.FROZEN.NAME
+msgctxt "STRINGS.DUPLICANTS.DEATHS.FROZEN.NAME"
+msgid "Frozen"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DEATHS.GENERIC.DESCRIPTION
+msgctxt "STRINGS.DUPLICANTS.DEATHS.GENERIC.DESCRIPTION"
+msgid "{Target} has died."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DEATHS.GENERIC.NAME
+msgctxt "STRINGS.DUPLICANTS.DEATHS.GENERIC.NAME"
+msgid "Generic"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DEATHS.OVERHEATING.DESCRIPTION
+#| msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATION.NAME"
+#| msgid "A Duplicant has suffocated to death"
+msgctxt "STRINGS.DUPLICANTS.DEATHS.OVERHEATING.DESCRIPTION"
+msgid "{Target} has starved to death."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DEATHS.OVERHEATING.NAME
+#| msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STARVING.NOTIFICATION_NAME"
+#| msgid "Starvation"
+msgctxt "STRINGS.DUPLICANTS.DEATHS.OVERHEATING.NAME"
+msgid "Starvation"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DEATHS.STARVATION.DESCRIPTION
+#| msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATION.NAME"
+#| msgid "A Duplicant has suffocated to death"
+msgctxt "STRINGS.DUPLICANTS.DEATHS.STARVATION.DESCRIPTION"
+msgid "{Target} has starved to death."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DEATHS.STARVATION.NAME
+#| msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STARVING.NOTIFICATION_NAME"
+#| msgid "Starvation"
+msgctxt "STRINGS.DUPLICANTS.DEATHS.STARVATION.NAME"
+msgid "Starvation"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DEATHS.SUFFOCATION.DESCRIPTION
+#| msgctxt "STRINGS.MISC.NOTIFICATIONS.DEATH_SUFFOCATION.NAME"
+#| msgid "A Duplicant has suffocated to death"
+msgctxt "STRINGS.DUPLICANTS.DEATHS.SUFFOCATION.DESCRIPTION"
+msgid "{Target} has suffocated to death."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DEATHS.SUFFOCATION.NAME
+#| msgctxt "STRINGS.CREATURES.STATUSITEMS.BREATH.NAME"
+#| msgid "Suffocating"
+msgctxt "STRINGS.DUPLICANTS.DEATHS.SUFFOCATION.NAME"
+msgid "Suffocation"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.ALLDISEASES.NAME
+msgctxt "STRINGS.DUPLICANTS.DISEASES.ALLDISEASES.NAME"
+msgid "All Diseases"
+msgstr "Wszystkie Choroby"
+
+#. STRINGS.DUPLICANTS.DISEASES.BOOSTSCURESPEED
+msgctxt "STRINGS.DUPLICANTS.DISEASES.BOOSTSCURESPEED"
+msgid "Heal speed (<style=\"disease\">{0}</style>): <style=\"produced\">+{1}</style>"
+msgstr "Prędkość uzdrowienia (<style=\"disease\">{0}</style>): <style=\"produced\">+{1}</style>"
+
+#. STRINGS.DUPLICANTS.DISEASES.COLDBRAIN.DESCRIPTION
+msgctxt "STRINGS.DUPLICANTS.DISEASES.COLDBRAIN.DESCRIPTION"
+msgid "This Duplicant's thought processes have been slowed to a crawl as a result of extreme cold exposure"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.COLDBRAIN.NAME
+msgctxt "STRINGS.DUPLICANTS.DISEASES.COLDBRAIN.NAME"
+msgid "Hypothermia"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.CURED_POPUP
+msgctxt "STRINGS.DUPLICANTS.DISEASES.CURED_POPUP"
+msgid "Cured of {0}"
+msgstr "Wyleczony {0}"
+
+#. STRINGS.DUPLICANTS.DISEASES.CURES
+msgctxt "STRINGS.DUPLICANTS.DISEASES.CURES"
+msgid "Instantly cures <style=\"disease\">{0}</style>"
+msgstr "Lecz natychmiast <style=\"disease\">{0}</style>"
+
+#. STRINGS.DUPLICANTS.DISEASES.DIARRHEA.DESCRIPTION
+msgctxt "STRINGS.DUPLICANTS.DISEASES.DIARRHEA.DESCRIPTION"
+msgid "This Duplicant's gut is giving them some trouble"
+msgstr "(?)Ten Duplikant ma pewne problemy jelitowe"
+
+#. STRINGS.DUPLICANTS.DISEASES.DIARRHEA.NAME
+msgctxt "STRINGS.DUPLICANTS.DISEASES.DIARRHEA.NAME"
+msgid "Diarrhea"
+msgstr "Biegunka"
+
+#. STRINGS.DUPLICANTS.DISEASES.DWEEBCEPHALY.DESCRIPTION
+#| msgctxt "STRINGS.DUPLICANTS.DISEASES.DWEEBCEPHALY.DESCRIPTION"
+#| msgid "This Duplicant is experiencing some cognitive impairment"
+msgctxt "STRINGS.DUPLICANTS.DISEASES.DWEEBCEPHALY.DESCRIPTION"
+msgid "This Duplicant is experiencing cognitive impairment as a result of illness"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.DWEEBCEPHALY.NAME
+msgctxt "STRINGS.DUPLICANTS.DISEASES.DWEEBCEPHALY.NAME"
+msgid "Brain Fog"
+msgstr "(?)Zmęczenie mózgu/Zaćmienie mózgu"
+
+#. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DESCRIPTION
+msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.DESCRIPTION"
+msgid "This Duplicant's last meal might have been past its prime"
+msgstr "(?)Ostatni posiłek tego tego duplikanta był jego podstawowym"
+
+#. STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.NAME
+msgctxt "STRINGS.DUPLICANTS.DISEASES.FOODPOISONING.NAME"
+msgid "Food Poisoning"
+msgstr "Zatrucie Pokarmowe"
+
+#. STRINGS.DUPLICANTS.DISEASES.HEATRASH.DESCRIPTION
+msgctxt "STRINGS.DUPLICANTS.DISEASES.HEATRASH.DESCRIPTION"
+msgid "This Duplicant's thought processes have short circuited as a result of extreme heat exposure"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.HEATRASH.NAME
+msgctxt "STRINGS.DUPLICANTS.DISEASES.HEATRASH.NAME"
+msgid "Heat Stroke"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.INFECTED_POPUP
+msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTED_POPUP"
+msgid "Became infected by {0}"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.FOOD
+msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.FOOD"
+msgid "eating a {0}"
+msgstr "zjada {0}"
+
+#. STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.INTERNAL_TEMPERATURE
+msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.INTERNAL_TEMPERATURE"
+msgid "extreme internal temperature"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.TOXIC_AREA
+msgctxt "STRINGS.DUPLICANTS.DISEASES.INFECTIONSOURCES.TOXIC_AREA"
+msgid "standing in a toxic area"
+msgstr "przebywa w toksycznym miejscu"
+
+#. STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.DESCRIPTION
+msgctxt "STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.DESCRIPTION"
+msgid "This Duplicant really doesn't feel like working right now"
+msgstr "Ten Duplikant naprawdę nie ma teraz ochoty pracować"
+
+#. STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.NAME
+msgctxt "STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.NAME"
+msgid "The Lackadaisies"
+msgstr "(?)The Lackadaisies"
+
+#. STRINGS.DUPLICANTS.DISEASES.NOMEDICINETAKEN
+msgctxt "STRINGS.DUPLICANTS.DISEASES.NOMEDICINETAKEN"
+msgid "None"
+msgstr "Żaden"
+
+#. STRINGS.DUPLICANTS.DISEASES.NOTIFICATION_TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.DISEASES.NOTIFICATION_TOOLTIP"
+msgid "{0} contracted <style=\"disease\">{1}</style> by {2}"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.CRINGE_EFFECT
+msgctxt "STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.CRINGE_EFFECT"
+msgid "Smelled a putrid odor"
+msgstr "Poczuł zgniły odór"
+
+#. STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.DESCRIPTION
+#| msgctxt "STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.DESCRIPTION"
+#| msgid "The pungent odor wafting off this Duplicant is nauseating their peers"
+msgctxt "STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.DESCRIPTION"
+msgid "The pungent odor wafting off this Duplicant is nauseating to their peers"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.NAME
+msgctxt "STRINGS.DUPLICANTS.DISEASES.PUTRIDODOUR.NAME"
+msgid "Trench Stench"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.RECUPERATING
+msgctxt "STRINGS.DUPLICANTS.DISEASES.RECUPERATING"
+msgid "Resting up"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.REDUCECURESPEED
+msgctxt "STRINGS.DUPLICANTS.DISEASES.REDUCECURESPEED"
+msgid "Heal speed (<style=\"disease\">{0}</style>): <style=\"consumed\">{1}</style>"
+msgstr "Szybkość uleczenia (<style=\"disease\">{0}</style>): <style=\"consumed\">{1}</style>"
+
+#. STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.DESCRIPTION
+msgctxt "STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.DESCRIPTION"
+msgid "This Duplicant saw the corpse of a friend"
+msgstr "Ten duplikant zobaczył zwłoki przzyjaciela"
+
+#. STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.NAME
+msgctxt "STRINGS.DUPLICANTS.DISEASES.SAWCORPSOSIS.NAME"
+msgid "Existential Angst"
+msgstr "(?)Niepokuj Egzystencjalny"
+
+#. STRINGS.DUPLICANTS.DISEASES.SPORES.DESCRIPTION
+#| msgctxt "STRINGS.DUPLICANTS.DISEASES.SPORES.DESCRIPTION"
+#| msgid "This Duplicant is a walking fungal pod"
+msgctxt "STRINGS.DUPLICANTS.DISEASES.SPORES.DESCRIPTION"
+msgid "This Duplicant has become a walking fungal pod as a result of illness"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.SPORES.NAME
+msgctxt "STRINGS.DUPLICANTS.DISEASES.SPORES.NAME"
+msgid "The Spores"
+msgstr "Zarodniki"
+
+#. STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.DISEASES.STATUS_ITEM_TOOLTIP"
+msgid ""
+"{Symptoms}\n"
+"\n"
+"Contracted by {InfectionSource}\n"
+"Duration remaining: {Duration}\n"
+"Remedies: {Cures}"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.DISEASES.TRIGGERS.EATCOMPLETEEDIBLE
+msgctxt "STRINGS.DUPLICANTS.DISEASES.TRIGGERS.EATCOMPLETEEDIBLE"
+msgid "May cause <style=\"disease\">{Diseases}</style>"
+msgstr "Może powodować <style=\"disease\">{Diseases}</style>"
+
+#. STRINGS.DUPLICANTS.DISEASES.TRIGGERS.TOOLTIPS.EATCOMPLETEEDIBLE
+#| msgctxt "STRINGS.DUPLICANTS.DISEASES.TRIGGERS.TOOLTIPS.EATCOMPLETEEDIBLE"
+#| msgid "May cause <style=\"disease\">{Diseases}</style>"
+msgctxt "STRINGS.DUPLICANTS.DISEASES.TRIGGERS.TOOLTIPS.EATCOMPLETEEDIBLE"
+msgid "May cause {Diseases}"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.NAME"
+msgid "New Hope"
+msgstr "Nowa Nadzieja"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ANEWHOPE.TOOLTIP"
+msgid "This Duplicant feels pretty optimistic about their new home"
+msgstr "Ten Duplikant czuje się całkiem optymistycznie w swoim nowym domu"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.BASEDUPLICANT.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BASEDUPLICANT.NAME"
+msgid "Duplicant"
+msgstr "Duplikant"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.BASEROT.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BASEROT.NAME"
+msgid "Base Decay Rate"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.BINGE_EATING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BINGE_EATING.NAME"
+msgid "Insatiable Hunger"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.BINGE_EATING.NOTIFICATION_NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BINGE_EATING.NOTIFICATION_NAME"
+msgid "Binge Eating"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.BINGE_EATING.NOTIFICATION_TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSREDUCTION.TOOLTIP"
+#| msgid "This Duplicant's <style=\"stress\">Stress</style> is just melting away"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BINGE_EATING.NOTIFICATION_TOOLTIP"
+msgid "These Duplicants became too <style=\"stress\">Stressed</style> and started eating everything in sight:"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.BINGE_EATING.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.UPROOTING.TOOLTIP"
+#| msgid "This Duplicant is turning a {Target} into a seed"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BINGE_EATING.TOOLTIP"
+msgid "This Duplicant is stuffing their face a result of stress"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.BREATHING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BREATHING.NAME"
+msgid "Breathing"
+msgstr "Tchnący życiem"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.BURNED_BY_SCALDING_WATER.CAUSE
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BURNED_BY_SCALDING_WATER.CAUSE"
+msgid "Obtained by exposure to hot water"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.BURNED_BY_SCALDING_WATER.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BURNED_BY_SCALDING_WATER.NAME"
+msgid "Scalded"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.BURNED_BY_SCALDING_WATER.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BURNED_BY_SCALDING_WATER.TOOLTIP"
+msgid "Ouch! This Duplicant showered or was doused in water that was much too hot"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.BURNINGCALORIES.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.BURNINGCALORIES.NAME"
+msgid "Burning Calories"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.CENTEROFATTENTION.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CENTEROFATTENTION.NAME"
+msgid "Center of Attention"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.CENTEROFATTENTION.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.TOOLTIP"
+#| msgid "This Duplicant doesn't like being in the dark!"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CENTEROFATTENTION.TOOLTIP"
+msgid "This Duplicant feels like someone is watching them..."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.CLAUSTROPHOBIC.CAUSE
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CLAUSTROPHOBIC.CAUSE"
+msgid "This Duplicant got so good at their job that they became claustrophobic"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.CLAUSTROPHOBIC.NAME
+#| msgctxt "STRINGS.DUPLICANTS.TRAITS.CANTCOOK.NAME"
+#| msgid "Gastrophobia"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CLAUSTROPHOBIC.NAME"
+msgid "Claustrophobic"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.CLAUSTROPHOBIC.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CLAUSTROPHOBIC.TOOLTIP"
+msgid "This Duplicant recently found themselves in an upsettingly cramped space"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.CLOTHING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CLOTHING.NAME"
+msgid "Clothing"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.COLD.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COLD.NAME"
+msgid "Cold"
+msgstr "Zimny"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.COLD.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COLD.TOOLTIP"
+msgid "This Duplicant is uncomfortably cold"
+msgstr "Temu Duplikantowi jest nieznośnie zimno"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.COLDAIR.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COLDAIR.NAME"
+msgid "Cold Air"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.COOLINGDOWN.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COOLINGDOWN.NAME"
+msgid "Cooling Down"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.COOLINGDOWN.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.COOLINGDOWN.TOOLTIP"
+msgid "This Duplicant is trying to cool back down"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.CRYFACE.CAUSE
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CRYFACE.CAUSE"
+msgid "Obtained through the Ugly Crier stress response"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.CRYFACE.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CRYFACE.NAME"
+msgid "Cry Face"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.CRYFACE.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.DISEASES.LAZIBONITIS.DESCRIPTION"
+#| msgid "This Duplicant really doesn't feel like working right now"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.CRYFACE.TOOLTIP"
+msgid "This Duplicant recently had a crying fit and it shows"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.NAME"
+msgid "Darkness"
+msgstr "Ciemność"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.TOOLTIP"
+#| msgid "This Duplicant doesn't like being in the dark!"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DARKNESS.TOOLTIP"
+msgid "Eep! This Duplicant doesn't like being in the dark!"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.DEAD.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DEAD.NAME"
+msgid "Dead"
+msgstr "Martwy"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.CAUSE
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.CAUSE"
+msgid "Obtained through prolonged digging or construction"
+msgstr "Uzyskano poprzez długotwałe kopanie lub budowę"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.NAME"
+msgid "Dirty Hands"
+msgstr "Brudne Ręce"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARVING.TOOLTIP"
+#| msgid "This Duplicant needs to eat something, soon"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DIRTYHANDS.TOOLTIP"
+msgid "This Duplicant needs to wash their hands"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.NAME"
+msgid "Disturbed Sleep"
+msgstr "Zaburzenia Snu"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.DISTURBEDSLEEP.TOOLTIP"
+msgid "This Duplicant's sleep was disturbed"
+msgstr "Sen tego Duplikanta został zakłucony"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.EATINGCALORIES.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.EATINGCALORIES.NAME"
+msgid "Eating"
+msgstr "Zjada"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.NAME"
+msgid "Entitlement"
+msgstr "(?)Prawo"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ENTITLEMENT.TOOLTIP"
+msgid "Duplicants will demand better decor and accommodations with each Profession level they gain"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.FRESH_AND_CLEAN.CAUSE
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FRESH_AND_CLEAN.CAUSE"
+msgid "Obtained by taking a comfortably heated shower"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.FRESH_AND_CLEAN.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FRESH_AND_CLEAN.NAME"
+msgid "Refreshingly Clean"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.FRESH_AND_CLEAN.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FRESH_AND_CLEAN.TOOLTIP"
+msgid "This Duplicant took a warm shower and it was great!"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.NAME"
+msgid "Full Bladder"
+msgstr "Pełny pęcherz"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FULLBLADDER.TOOLTIP"
+msgid "This Duplicant's bladder is full"
+msgstr "Pęcherz tego Duplikanta jest pełny"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.FUSSY.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FUSSY.NAME"
+msgid "Fussy"
+msgstr "Wybredny"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.FUSSY.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FUSSY.TOOLTIP"
+msgid "This Duplicant is hard to please"
+msgstr "Tego Duplikanta jest trudno zadowolić"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.GOODEATS.CAUSE
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.CAUSE"
+#| msgid "Obtained by sleeping on the ground"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.GOODEATS.CAUSE"
+msgid "Obtained by eating a hearty meal"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.GOODEATS.NAME
+#| msgctxt "STRINGS.UI.BUILDCATEGORIES.FOOD.NAME"
+#| msgid "Food"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.GOODEATS.NAME"
+msgid "Soul Food"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.GOODEATS.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.GOODEATS.TOOLTIP"
+msgid "This Duplicant had a yummy homecooked meal and is totally stuffed"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.HOLDINGBREATH.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOLDINGBREATH.NAME"
+msgid "Holding breath"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.HOMEOSTASIS.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOMEOSTASIS.NAME"
+msgid "Homeostasis"
+msgstr "Homeostaza"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.HOT.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOT.NAME"
+msgid "Hot"
+msgstr "Gorący"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.HOT.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HOT.TOOLTIP"
+msgid "This Duplicant is uncomfortably warm"
+msgstr "Temu Duplikantowi jest nieznośnie gorąco"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.NAME"
+msgid "Hungry"
+msgstr "Głodny"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.HUNGRY.TOOLTIP"
+msgid "This Duplicant is ready for lunch"
+msgstr "Ten Duplikan jest gotów na obiad"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.NAME"
+msgid "Inspired"
+msgstr "Natchniony"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.TOOLTIP"
+msgid "This Duplicant has had a creative vision!"
+msgstr "Ten Duplikant miał natchnienie!"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.NAME"
+msgid "Interrupted Sleep"
+msgstr "Przerwany Sen"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INTERRUPTEDSLEEP.TOOLTIP"
+msgid "This Duplicant was rudely awoken while they slept"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.INTRAVENOUS_NUTRITION.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INTRAVENOUS_NUTRITION.NAME"
+msgid "Intravenous Feeding"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.NAME"
+msgid "Light Wounds"
+msgstr "Lekkie Rany"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.TOOLTIP"
+#| msgid "This Duplicant's injuries are a bit uncomfortable"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LIGHTWOUNDS.TOOLTIP"
+msgid "This Duplicant sustained injuries that are a bit uncomfortable"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.LOWOXYGEN.NAME
+#| msgctxt "STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME"
+#| msgid "Oxygen"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LOWOXYGEN.NAME"
+msgid "Low Oxygen"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.LOWOXYGEN.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.LOWOXYGEN.TOOLTIP"
+msgid "The air in this area is unpleasantly thin"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.NAME"
+msgid "Moderate Wounds"
+msgstr "Umiarkowane Rany"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.TOOLTIP"
+#| msgid "This Duplicants' injuries are affecting their ability to work"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MODERATEWOUNDS.TOOLTIP"
+msgid "This Duplicant sustained injuries that are affecting their ability to work"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.MOURNING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MOURNING.NAME"
+msgid "Mourning"
+msgstr "Żałoba"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.MOURNING.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.MOURNING.TOOLTIP"
+msgid "This Duplicant is grieving the loss of a friend"
+msgstr "Ten Duplicant opłakuje stratę przyjaciela"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.NAME"
+msgid "Narcoleptic Nap"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NARCOLEPTICSLEEP.TOOLTIP"
+msgid "This Duplicant just needs to rest their eyes for a second"
+msgstr "Ten Duplikant po prostu musi odpocząć chociaż przez chwilę"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.NAME"
+msgid "New Friend"
+msgstr "Nowy Przyjaciel"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.TOOLTIP"
+#| msgid "This Duplicant is happy to see a new face in the colony!"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NEWCREWARRIVAL.TOOLTIP"
+msgid "This Duplicant is happy to see a new face in the colony"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.NAME"
+msgid "Nightmares"
+msgstr "Koszmary"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NIGHTMARES.TOOLTIP"
+msgid "This Duplicant was visited by something in the night"
+msgstr "Tego Duplikanta coś odwiedziło w nocy"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.NOOXYGEN.NAME
+#| msgctxt "STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME"
+#| msgid "Oxygen"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NOOXYGEN.NAME"
+msgid "No Oxygen"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.NOOXYGEN.TOOLTIP
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.NOFISHABLEWATERBELOW.TOOLTIP"
+#| msgid "There are no edible fish beneath this structure"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NOOXYGEN.TOOLTIP"
+msgid "There is no breathable air in this area"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.NOSTRESSCREATOR.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.NOSTRESSCREATOR.NAME"
+msgid "None"
+msgstr "Żaden"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.PEOPLETOOCLOSEWHILESLEEPING.CAUSE
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.PEOPLETOOCLOSEWHILESLEEPING.CAUSE"
+msgid "This Duplicant got so good at their job that they stopped being comfortable sleeping near other people"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.PEOPLETOOCLOSEWHILESLEEPING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.PEOPLETOOCLOSEWHILESLEEPING.NAME"
+msgid "Personal Bubble Burst"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.PEOPLETOOCLOSEWHILESLEEPING.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RECOVERINGBREATH.TOOLTIP"
+#| msgid "This Duplicant had to hold their breath for too long and needs a breather"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.PEOPLETOOCLOSEWHILESLEEPING.TOOLTIP"
+msgid "This Duplicant had to sleep too close to others and it was awkward for them"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.RECOVERINGBREATH.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RECOVERINGBREATH.NAME"
+msgid "Recovering breath"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.REDALERT.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.REDALERT.NAME"
+msgid "Red Alert!"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.REDALERT.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.REDALERT.TOOLTIP"
+msgid "The Red Alert is stressing this Duplicant out"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.NAME"
+msgid "Sleeping Peacefully"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTFULSLEEP.TOOLTIP"
+msgid "This Duplicant is getting a good night's rest"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.RESTING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTING.NAME"
+msgid "Resting"
+msgstr "Wypoczywa"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.RESTLESS.CAUSE
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTLESS.CAUSE"
+msgid "This Duplicant got so good at their job that they forgot how to be comfortable doing anything else"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.RESTLESS.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTLESS.NAME"
+msgid "Restless"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.RESTLESS.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.RESTLESS.TOOLTIP"
+msgid "This Duplicant went a few minutes without working and is now completely awash with guilt"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.ROTATMOSPHERE.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTATMOSPHERE.NAME"
+msgid "Contaminated Air"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.ROTTEMPERATURE.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTTEMPERATURE.NAME"
+msgid "Unrefrigerated"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.ROTTING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.ROTTING.NAME"
+msgid "Rotting"
+msgstr "Gnije"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.NAME"
+msgid "Severe Wounds"
+msgstr "Ciężkie Rany"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.TOOLTIP"
+#| msgid "This Duplicant's injuries are severely affecting their work and well-being"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SEVEREWOUNDS.TOOLTIP"
+msgid "This Duplicant sustained serious injuries that are impacting their work and well-being"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SKILLLEVEL.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SKILLLEVEL.NAME"
+msgid "Skill Level"
+msgstr "Poziom Umiejęności"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SLEEP.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEP.NAME"
+msgid "Sleeping"
+msgstr "Śpi"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SLEEP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEP.TOOLTIP"
+msgid "This Duplicant is recovering stamina"
+msgstr "Ten Duplikant odnawia wytrzymałość"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.NAME"
+msgid "Sleepy"
+msgstr "Senny"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEPY.TOOLTIP"
+msgid "This Duplicant is getting tired"
+msgstr "Ten Duplikant jest zmęczony"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.NAME"
+msgid "Smelled a putrid odor"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.TOOLTIP"
+#| msgid "This Duplicant smelled something unspeakably foul"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.TOOLTIP"
+msgid "This Duplicant got a whiff of something unspeakably foul"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SMELLEDSTINKY.NAME
+#| msgctxt "STRINGS.DUPLICANTS.THOUGHTS.PUTRIDODOUR.TOOLTIP"
+#| msgid "Smelled Something Putrid"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SMELLEDSTINKY.NAME"
+msgid "Smelled Stinky"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SMELLEDSTINKY.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINEAREAUNREACHABLE.TOOLTIP"
+#| msgid "This Duplicant cannot reach their quarantine zone"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SMELLEDSTINKY.TOOLTIP"
+msgid "This Duplicant got a whiff of a certain somebody"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.NAME
+#| msgctxt "STRINGS.DUPLICANTS.CHORES.EAT.STATUS"
+#| msgid "Going to eat"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.NAME"
+msgid "Sopping Wet"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEP.TOOLTIP"
+#| msgid "This Duplicant is recovering stamina"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOAKINGWET.TOOLTIP"
+msgid "This Duplicant was recently submerged in liquid"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.CAUSE
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.CAUSE"
+msgid "Obtained by sleeping on the ground"
+msgstr "Uzyskane przez spanie na ziemi"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.NAME"
+msgid "Sore Back"
+msgstr "Ból Pleców"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SOREBACK.TOOLTIP"
+msgid "This Duplicant feels achey from sleeping on the floor last night and would like a bed"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.NAME"
+msgid "Bad leftovers"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.TOOLTIP"
+#| msgid "This Duplicant is in a bad mood from having to eat stale <style=\"food\">Food</style>"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STALEFOOD.TOOLTIP"
+msgid "This Duplicant is in a bad mood from having to eat stale food"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STARVING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARVING.NAME"
+msgid "Starving"
+msgstr "Głoduje"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STARVING.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARVING.TOOLTIP"
+msgid "This Duplicant needs to eat something, soon"
+msgstr "Ten Duplikant musi wkrótce coś zjeść"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.NAME"
+msgid "Stepped in polluted water"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SMELLEDPUTRIDODOUR.TOOLTIP"
+#| msgid "This Duplicant smelled something unspeakably foul"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STEPPEDINCONTAMINATEDWATER.TOOLTIP"
+msgid "Gross! This Duplicant stepped in something yucky"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STRESSED_BY_COLD_WATER.CAUSE
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSED_BY_COLD_WATER.CAUSE"
+msgid "Obtained by exposure to icy water"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STRESSED_BY_COLD_WATER.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSED_BY_COLD_WATER.NAME"
+msgid "Numb"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STRESSED_BY_COLD_WATER.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSED_BY_COLD_WATER.TOOLTIP"
+msgid "Brr! This Duplicant showered or was doused in water that was much too cold"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.NAME"
+msgid "Making a mess"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.TOOLTIP"
+msgid "This Duplicant had no choice but to to empty their bladder"
+msgstr "Ten Duplikant czekał tak długo, aż narobij w majtki"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.STRESSREDUCTION.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSREDUCTION.TOOLTIP"
+#| msgid "This Duplicant's <style=\"stress\">Stress</style> is just melting away"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSREDUCTION.TOOLTIP"
+msgid "This Duplicant's stress is just melting away"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.TEMPEXCHANGE.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TEMPEXCHANGE.NAME"
+msgid "Environmental Exchange"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.TOXICENVIRONMENT.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.TOXICENVIRONMENT.NAME"
+msgid "Toxic environment"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UGLY_CRYING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UGLY_CRYING.NAME"
+msgid "Ugly Crying"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UGLY_CRYING.NOTIFICATION_NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UGLY_CRYING.NOTIFICATION_NAME"
+msgid "Ugly Crying"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UGLY_CRYING.NOTIFICATION_TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UGLY_CRYING.NOTIFICATION_TOOLTIP"
+msgid "These Duplicants became too <style=\"stress\">Stressed</style> and it caused them to cry:"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UGLY_CRYING.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC"
+#| msgid "This Duplicant is light as a feather on their feet"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UGLY_CRYING.TOOLTIP"
+msgid "This Duplicant is having a cathartic ugly cry as a result of stress"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.CAUSE
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.CAUSE"
+msgid "Obtained by coming into contact with polluted substances"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.NAME"
+msgid "Grimy"
+msgstr "Brudny"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WORKING.TOOLTIP"
+#| msgid "This Duplicant is working up a sweat"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCLEAN.TOOLTIP"
+msgid "This Duplicant is dirty and needs a shower"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLEFEET.CAUSE
+#| msgctxt "STRINGS.DUPLICANTS.TRAITS.TWINKLETOES.DESC"
+#| msgid "This Duplicant is light as a feather on their feet"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLEFEET.CAUSE"
+msgid "This Duplicant got so good at their job that their feet became sensitive"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLEFEET.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLEFEET.NAME"
+msgid "Aching Feet"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLEFEET.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLEFEET.TOOLTIP"
+msgid "This Duplicant recently walked across untiled floor, much to their chagrin"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.NAME"
+msgid "Sleeping Uncomfortably"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNCOMFORTABLESLEEP.TOOLTIP"
+msgid "This Duplicant collapsed from sheer exhaustion"
+msgstr "Ten Duplikant padł z przemęczenia"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.NAME"
+msgid "Underwater"
+msgstr "Podwodny"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.TOOLTIP"
+msgid "This Duplicant's movement is slowed"
+msgstr "Ten Duplikant jest spowolniony"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNFASHIONABLECLOTHING.CAUSE
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNFASHIONABLECLOTHING.CAUSE"
+msgid "This Duplicant got so good at their job that they became incapable of tolerating unfashionable clothing"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNFASHIONABLECLOTHING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNFASHIONABLECLOTHING.NAME"
+msgid "Fashion Crime"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.UNFASHIONABLECLOTHING.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STARVING.TOOLTIP"
+#| msgid "This Duplicant needs to eat something, soon"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNFASHIONABLECLOTHING.TOOLTIP"
+msgid "This Duplicant had to wear something that was an affront to fashion"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.VERTIGO.CAUSE
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.STRESSFULYEMPTYINGBLADDER.TOOLTIP"
+#| msgid "This Duplicant had no choice but to to empty their bladder"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.VERTIGO.CAUSE"
+msgid "This Duplicant got so good at their job that they became bad at ladders"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.VERTIGO.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.VERTIGO.NAME"
+msgid "Vertigo"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.VERTIGO.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.RECOVERINGBREATH.TOOLTIP"
+#| msgid "This Duplicant had to hold their breath for too long and needs a breather"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.VERTIGO.TOOLTIP"
+msgid "This Duplicant had to climb a tall ladder that left them dizzy and unsettled"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.VOMITING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.VOMITING.NAME"
+msgid "Vomiting"
+msgstr "Wymiotuje"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.VOMITING.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.VOMITING.TOOLTIP"
+msgid "Better out than in, as they say"
+msgstr "(?)Lepsze niż mówią"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WARMAIR.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WARMAIR.NAME"
+msgid "Warm Air"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.NAME"
+msgid "Warming Up"
+msgstr "Rozgrzewanie"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WARMINGUP.TOOLTIP"
+msgid "This Duplicant is trying to warm back up"
+msgstr "Ten Duplikant próbuje ponownie ogrzać"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.NAME"
+msgid "Recently assailed"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WELLFED.TOOLTIP"
+#| msgid "This Duplicant feels satisfied after having a big meal"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WASATTACKED.TOOLTIP"
+msgid "This Duplicant is stressed out after having been attacked"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WELLFED.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WELLFED.NAME"
+msgid "Well fed"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WELLFED.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WELLFED.TOOLTIP"
+msgid "This Duplicant feels satisfied after having a big meal"
+msgstr "Duplikant jest zadowolony po zjedzeniu dużego posiłku"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WETFEET.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WETFEET.NAME"
+msgid "Soggy Feet"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WETFEET.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.SLEEP.TOOLTIP"
+#| msgid "This Duplicant is recovering stamina"
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WETFEET.TOOLTIP"
+msgid "This Duplicant recently stepped in liquid"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WORKING.NAME
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WORKING.NAME"
+msgid "Working"
+msgstr "Pracuje"
+
+#. STRINGS.DUPLICANTS.MODIFIERS.WORKING.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WORKING.TOOLTIP"
+msgid "This Duplicant is working up a sweat"
+msgstr "(?)Ten Duplikant pracuje w pocie czoła"
+
+#. STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.EXPECTATION_TOOLTIP"
+msgid ""
+"Most objects have <style=\"decor\">Decor</style> values that can increase or decrease a Duplicant's opinion of their "
+"surroundings.\n"
+"\n"
+"This Duplicant requires {0} or higher decor values, and will become <style=\"stress\">Stressed</style> in areas with lower "
+"decor."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.DECOR.NAME
+msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.NAME"
+msgid "Decor Expectation"
+msgstr "Oczekuje Wystroju"
+
+#. STRINGS.DUPLICANTS.NEEDS.DECOR.OBSERVED_DECOR
+msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.OBSERVED_DECOR"
+msgid "Surroundings"
+msgstr "Otoczenie"
+
+#. STRINGS.DUPLICANTS.NEEDS.DECOR.PROFESSION_NAME
+msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.PROFESSION_NAME"
+msgid "Critic"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVE_FORMAT_NEGATIVE
+#| msgctxt "STRINGS.UI.UISIDESCREENS.PLANTERSIDESCREEN.YIELD"
+#| msgid "Yield: {0} <style=\"food\">{1}</style>"
+msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVE_FORMAT_NEGATIVE"
+msgid "{0} (<style=\"consumed\">{1}</style>)"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVE_FORMAT_POSITIVE
+msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVE_FORMAT_POSITIVE"
+msgid "{0} (<style=\"produced\">{1}</style>)"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.MINUS_1
+msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.MINUS_1"
+msgid "Poor"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.MINUS_2
+msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.MINUS_2"
+msgid "Terrible"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.MINUS_3
+msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.MINUS_3"
+msgid "Grisly"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_1
+msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_1"
+msgid "Good"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_2
+#| msgctxt "STRINGS.DUPLICANTS.STATS.BREATH.NAME"
+#| msgid "Breath"
+msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_2"
+msgid "Great"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_3
+msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_3"
+msgid "Superb"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_4
+msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.PLUS_4"
+msgid "Ambrosial"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.ZERO
+#| msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.STANDARD"
+#| msgid "Standard"
+msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.ADJECTIVES.ZERO"
+msgid "Standard"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.BAD_FOOD_MOD
+msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.BAD_FOOD_MOD"
+msgid "Food Quality"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.EXPECTATION_TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.EXPECTATION_TOOLTIP"
+msgid ""
+"Food Quality Expectation is the minimum quality of <style=\"food\">Food</style> a Duplicant can tolerate eating.\n"
+"\n"
+"This Duplicant requires {0} or higher food, and will become <style=\"stress\">Stressed</style> if to forced to eat lower "
+"quality foods."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY
+msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY"
+msgid ""
+"\n"
+"Food Quality Score of {0}"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY_EXPECTATION
+msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.FOODQUALITY_EXPECTATION"
+msgid ""
+"\n"
+"This Duplicant is content to eat food with a Quality Score of {0} or higher"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.GOOD_FOOD_MOD
+msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.GOOD_FOOD_MOD"
+msgid "Food Quality"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.NAME
+msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.NAME"
+msgid "Food Quality"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.NORMAL_FOOD_MOD
+msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.NORMAL_FOOD_MOD"
+msgid "Food Quality"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.PROFESSION_NAME
+msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.PROFESSION_NAME"
+msgid "Gourmet"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.NEEDS.FOOD_QUALITY.TOOLTIP"
+msgid "{0}"
+msgstr "{0}"
+
+#. STRINGS.DUPLICANTS.OPINIONS.DARKNESS
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.DARKNESS"
+msgid "There's too little <style=\"light\">Light</style> for this Duplicant to see."
+msgstr "Poziom <style=\"light\">Oświetlenia</style> jest zbyt niski aby duplikant mógł to zobaczyć."
+
+#. STRINGS.DUPLICANTS.OPINIONS.LIGHTNESS
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.LIGHTNESS"
+msgid "There is enough <style=\"light\">Light</style> for this Duplicant to see."
+msgstr "Poziom <style=\"light\">Oświetlenia</style> jest wystarczająco wysoki aby Duplikant mógł to zobaczyć."
+
+#. STRINGS.DUPLICANTS.OPINIONS.LIGHTOPINION
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.LIGHTOPINION"
+msgid ""
+"Duplicants are drawn to lit places, and dislike being in the dark.\n"
+"Make sure your Duplicants have plenty of <style=\"light\">Light</style> to keep their eyes unstrained and their <style="
+"\"stress\">Stress</style> low."
+msgstr ""
+"Duplikanci nie znoszą ciemności, lubia przebywać w jasnych miejscach.\n"
+"Zadbaj aby twoi Duplikanci mieli wystaczające <style=\"light\">Oświetlenie</style> a zadba to o ich oczy i zredukuje <style="
+"\"stress\">Stres</style>."
+
+#. STRINGS.DUPLICANTS.OPINIONS.MESSHALLWALLSOPINION
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.MESSHALLWALLSOPINION"
+msgid ""
+"Duplicants don't find bare rockface very inviting.\n"
+"Use wall tiles and doors to build more comfortable Mess Halls for them."
+msgstr ""
+"(?)Duplikantów nie zachęcają gołe skalne sciany.\n"
+"Użyj płytek ściennych i drzwi aby zbudować bardziej komfortową Stołówkę."
+
+#. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSMISSING
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSMISSING"
+msgid "Room is missing walls or doors."
+msgstr "W pokoju brakuje ścian lub drzwi."
+
+#. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSOPINION
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSOPINION"
+msgid ""
+"Duplicants don't find bare rockface very inviting.\n"
+"Use wall tiles and doors to build more comfortable Rooms for them."
+msgstr ""
+"(?)Duplikantów nie zachęcają gołe skalne sciany.\n"
+"Użyj płytek ściennych i drzwi aby zbudować bardziej komfortowe Pokoje."
+
+#. STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSSTANDARD
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.ROOMWALLSSTANDARD"
+msgid "Room is enclosed by walls and doors."
+msgstr "(?)Pokój ma zapewnione ściany i drzwi."
+
+#. STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSMISSING
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSMISSING"
+msgid "Restroom is missing walls or doors."
+msgstr "W toalecie brakuje ścian lub drzwi."
+
+#. STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSOPINION
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSOPINION"
+msgid ""
+"Duplicants like a little privacy when they do their biz.\n"
+"Use wall tiles and doors to build more comfortable Washrooms for them."
+msgstr ""
+"Duplikanci lubią odrobinę prywatności.\n"
+"Użyj płytek ściennych i drzwi aby ich toaleta była bardziej komfortowa."
+
+#. STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSSTANDARD
+msgctxt "STRINGS.DUPLICANTS.OPINIONS.TOILETWALLSSTANDARD"
+msgid "Restroom is enclosed by walls and doors."
+msgstr "Toaleta ma zapewnione drzwi i ściany."
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.A.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.A.DESC"
+msgid "010011100100111101010100010011010100010101001110010011110101010001001101010001010100111001001111010101000100110101000101"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.A.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.A.NAME"
+msgid "Yates"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ABE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ABE.DESC"
+msgid "{0}s are sweet, delicate flowers. They need to be treated gingerly, with great consideration for their feelings."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ABE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ABE.NAME"
+msgid "Abe"
+msgstr "Abe"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ADA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ADA.DESC"
+msgid "{0}s enjoy writing poetry in their downtime. Dark poetry."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ADA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ADA.NAME"
+msgid "Ada"
+msgstr "Ada"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BANHI.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BANHI.DESC"
+msgid "The \"cool loner\" vibes that radiate off a {0} never fail to make the colony swoon."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BANHI.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BANHI.NAME"
+msgid "Banhi"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.DESC"
+msgid "This {0} is constantly challenging others to fight her, regardless of whether or not she can actually take them."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BUBBLES.NAME"
+msgid "Bubbles"
+msgstr "Bubbles"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BURT.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BURT.DESC"
+msgid "Every single {0} has perpetually damp hands. It must be genetic."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.BURT.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.BURT.NAME"
+msgid "Burt"
+msgstr "Burt"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.CATALINA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CATALINA.DESC"
+msgid "A {0} is admired by all for her seemingly tireless work ethic. Little do people know, she's dying on the inside."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.CATALINA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.CATALINA.NAME"
+msgid "Catalina"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.DEVON.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DEVON.DESC"
+msgid "This {0} dreams of owning their own personal computer so they can start a blog full of pictures of toast."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.DEVON.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.DEVON.NAME"
+msgid "Devon"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.DESC"
+msgid "Nothing makes an {0} happier than a big tin of glitter and a pack of unicorn stickers."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ELLIE.NAME"
+msgid "Ellie"
+msgstr "Ellie"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.DESC"
+msgid "There's nothing {0}s are more proud of than their thick, dignified eyebrows."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.FRANKIE.NAME"
+msgid "Frankie"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.GOSSMANN.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GOSSMANN.DESC"
+msgid "{0}s are big goofballs who can make anyone laugh."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.GOSSMANN.NAME
+#| msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GOSSMAN.NAME"
+#| msgid "Gossman"
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.GOSSMANN.NAME"
+msgid "Gossmann"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.DESC"
+msgid "This {0} is cripplingly self-conscious of his long middle toes."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HAROLD.NAME"
+msgid "Harold"
+msgstr "Harold"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.DESC"
+msgid "If someone says something nice to a {0} he'll think about it nonstop for no less than three weeks."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.HASSAN.NAME"
+msgid "Hassan"
+msgstr "Hassan"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.J.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.J.DESC"
+msgid "0100111001001111010101000101001001001001010001110100100001010100010011100100111101010100010010000100010101010010"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.J.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.J.NAME"
+msgid "Berkeley"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.DESC"
+msgid "{0}s are precious goobers. Other Duplicants are strangely incapable of cursing in a {0}'s presence."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.JOSHUA.NAME"
+msgid "Joshua"
+msgstr "Joshua"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.LEIRA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LEIRA.DESC"
+msgid "{0}s just want everyone to be happy."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.LEIRA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LEIRA.NAME"
+msgid "Leira"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.LINDSAY.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LINDSAY.DESC"
+msgid "A {0} is a charming, delightful woman, unless you make the mistake of messing with one of her friends."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.LINDSAY.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.LINDSAY.NAME"
+msgid "Lindsay"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MAE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAE.DESC"
+msgid "There's nothing a {0} can't do if she sets her mind to it."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MAE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAE.NAME"
+msgid "Mae"
+msgstr "Mae"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MARIE.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MARIE.DESC"
+msgid "This {0} is positively glowing! What's her secret? Radioactive isotopes, of course."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MARIE.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MARIE.NAME"
+msgid "Marie"
+msgstr "Marie"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MAX.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAX.DESC"
+msgid "At any given moment a {0} is viscerally reliving ten different humiliating memories."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MAX.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MAX.NAME"
+msgid "Max"
+msgstr "Max"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MEEP.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.DESC"
+msgid "{0}s have a face only a twelve tonne Printing Pod could love."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MEEP.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MEEP.NAME"
+msgid "Meep"
+msgstr "Meep"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MIMA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MIMA.DESC"
+msgid "Ol' {0} here can't stand lookin' at people's knees."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.MIMA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.MIMA.NAME"
+msgid "Mi-Ma"
+msgstr "Mi-Ma"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NAILS.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NAILS.DESC"
+msgid "People often expect a Duplicant named \"{0}\" to be tough, but they're all pretty huge wimps."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NAILS.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NAILS.NAME"
+msgid "Nails"
+msgstr "Nails"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.DESC"
+msgid "This {0} once claimed he could build a laser so powerful it would rip the colony in half. No one asked him to prove it."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NIKOLA.NAME"
+msgid "Nikola"
+msgstr "Nikola"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NISBET.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NISBET.DESC"
+msgid "This {0} likes to punch people to show her affection. Everyone's too afraid of her to tell her it hurts."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.NISBET.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.NISBET.NAME"
+msgid "Nisbet"
+msgstr "Nisbet"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.OTTO.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.OTTO.DESC"
+msgid "{0}s always insult people by accident and exist in a perpetual state of deep regret."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.OTTO.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.OTTO.NAME"
+msgid "Otto"
+msgstr "Otto"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.REN.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.REN.DESC"
+msgid "Every {0} has this unshakable feeling that his life's already happened and he's just watching it unfold from a memory."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.REN.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.REN.NAME"
+msgid "Ren"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.DESC"
+msgid "{0}s have exceptionally large hearts and express their emotions most efficiently by yelling."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.ROWAN.NAME"
+msgid "Rowan"
+msgstr "Rowan"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.RUBY.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.RUBY.DESC"
+msgid "This {0} asks the pressing questions, like \"Where can I get a leather jacket in space?\""
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.RUBY.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.RUBY.NAME"
+msgid "Ruby"
+msgstr "Ruby"
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.STINKY.DESC
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.STINKY.DESC"
+msgid "This {0} has never been invited to a party, which is a shame. His dance moves are incredible."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.PERSONALITIES.STINKY.NAME
+msgctxt "STRINGS.DUPLICANTS.PERSONALITIES.STINKY.NAME"
+msgid "Stinky"
+msgstr "Stinky"

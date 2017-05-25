@@ -1584,7 +1584,7 @@ msgstr ""
 #| msgid "Next Duplicant: {TimeRemaining}s"
 msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSON.NAME"
 msgid "Next Duplicant: {TimeRemaining}"
-msgstr ""
+msgstr "Nowy Duplikant: {TimeRemaining}"
 
 #. STRINGS.BUILDING.STATUSITEMS.WATTSON.TOOLTIP
 #| msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSON.TOOLTIP"
@@ -3303,7 +3303,7 @@ msgstr ""
 #. STRINGS.BUILDINGS.PREFABS.SPACEHEATER.NAME
 msgctxt "STRINGS.BUILDINGS.PREFABS.SPACEHEATER.NAME"
 msgid "Space Heater"
-msgstr "Przestrzeń Grzejnika"
+msgstr "Kosmiczny Grzejnik"
 
 #. STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.DESC
 msgctxt "STRINGS.BUILDINGS.PREFABS.STORAGELOCKER.DESC"
@@ -4446,7 +4446,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.DEAD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DEAD.NAME"
 msgid "Dead"
-msgstr ""
+msgstr "Nie żyje"
 
 #. STRINGS.CREATURES.STATUSITEMS.DEAD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.DEAD.TOOLTIP"
@@ -4751,7 +4751,7 @@ msgstr ""
 #. STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.NAME
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.NAME"
 msgid "Good Yield"
-msgstr ""
+msgstr "Dobry Wynik"
 
 #. STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.TOOLTIP
 msgctxt "STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.TOOLTIP"
@@ -10090,12 +10090,12 @@ msgstr "Rzygacz"
 #| msgid "This Duplicant is under your control"
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGARM.DESC"
 msgid "This Duplicant is very strong and cool"
-msgstr ""
+msgstr "Ten Duplikant jest bardzo silny i fajny"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGARM.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGARM.NAME"
 msgid "Buff"
-msgstr ""
+msgstr "Bawół"
 
 #. STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.DESC"
@@ -14277,7 +14277,7 @@ msgstr ""
 #| msgid "No Seeds"
 msgctxt "STRINGS.MISC.TAGS.SEED"
 msgid "Seed"
-msgstr ""
+msgstr "Nasiono"
 
 #. STRINGS.MISC.TAGS.SOLID
 msgctxt "STRINGS.MISC.TAGS.SOLID"
@@ -16320,7 +16320,7 @@ msgstr ""
 #| msgid "Level {0} {1}"
 msgctxt "STRINGS.UI.ATTRIBUTELEVEL"
 msgid "Profession: Level {0} {1}"
-msgstr ""
+msgstr "Zawód: {1} Poziom: {0}"
 
 #. STRINGS.UI.BASECOUNT
 msgctxt "STRINGS.UI.BASECOUNT"
@@ -16968,7 +16968,7 @@ msgstr ""
 #. STRINGS.UI.CONSUMABLES
 msgctxt "STRINGS.UI.CONSUMABLES"
 msgid "CONSUMABLES"
-msgstr ""
+msgstr "KONSUMPCJA"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_AVAILABLE
 #| msgctxt "STRINGS.UI.TOOLTIPS.METERSCREEN_MEALHISTORY"
@@ -16989,7 +16989,7 @@ msgstr ""
 #| msgid "Decor Expectation"
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_EXPECTATIONS"
 msgid "Expectations"
-msgstr ""
+msgstr "Oczekiwania"
 
 #. STRINGS.UI.CONSUMABLESSCREEN.FOOD_PERMISSION_OFF
 msgctxt "STRINGS.UI.CONSUMABLESSCREEN.FOOD_PERMISSION_OFF"
@@ -17584,7 +17584,7 @@ msgstr ""
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_ATTRIBUTES_SKILLS
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_ATTRIBUTES_SKILLS"
 msgid "<b>Skills</b>"
-msgstr ""
+msgstr "<b>Umiejętności</b>"
 
 #. STRINGS.UI.DETAILTABS.STATS.GROUPNAME_TRAITS
 msgctxt "STRINGS.UI.DETAILTABS.STATS.GROUPNAME_TRAITS"
@@ -18126,12 +18126,12 @@ msgstr ""
 #| msgid "Masterpiece"
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MASTER"
 msgid "Master"
-msgstr ""
+msgstr "Główny"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MUSIC
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_MUSIC"
 msgid "Music"
-msgstr ""
+msgstr "Muzyka"
 
 #. STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_SFX
 msgctxt "STRINGS.UI.FRONTEND.AUDIO_OPTIONS_SCREEN.AUDIO_BUS_SFX"
@@ -18186,7 +18186,7 @@ msgstr "Gotowe"
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.FULLSCREEN
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.FULLSCREEN"
 msgid "Fullscreen:"
-msgstr "Pełnyekran:"
+msgstr "Pełny ekran:"
 
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.RESOLUTION
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.RESOLUTION"
@@ -18206,7 +18206,7 @@ msgstr "OPCJE GRAFIKI"
 #. STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.UI_SCALE
 msgctxt "STRINGS.UI.FRONTEND.GRAPHICS_OPTIONS_SCREEN.UI_SCALE"
 msgid "UI Scale"
-msgstr ""
+msgstr "Skala Interfejsu"
 
 #. STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.APPLY
 msgctxt "STRINGS.UI.FRONTEND.INPUT_BINDINGS_SCREEN.APPLY"
@@ -18245,7 +18245,7 @@ msgstr "{0} nie jest związany (?). Czy jesteś pewien, że chcesz kontynuować?
 #| msgid "Loading world..."
 msgctxt "STRINGS.UI.FRONTEND.LOADING"
 msgid "Loading..."
-msgstr ""
+msgstr "Wczytuję..."
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.AUTOSAVEWARNING"
@@ -18269,7 +18269,7 @@ msgstr "<b><color=#ff0000>Błąd ładowania pliku {0}. Dane mogą być uszkodzon
 #. STRINGS.UI.FRONTEND.LOADSCREEN.DELETEBUTTON
 msgctxt "STRINGS.UI.FRONTEND.LOADSCREEN.DELETEBUTTON"
 msgid "DELETE"
-msgstr ""
+msgstr "USUŃ"
 
 #. STRINGS.UI.FRONTEND.LOADSCREEN.MORE_INFO
 #| msgctxt "STRINGS.UI.DETAILTABS.DETAILS.TOOLTIP"
@@ -18460,7 +18460,7 @@ msgstr "Grafika"
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.LANGUAGE
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.LANGUAGE"
 msgid "Choose a different Language"
-msgstr ""
+msgstr "Wybierz inny Język"
 
 #. STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS
 msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.METRICS"
@@ -20906,7 +20906,7 @@ msgstr "Kalorie Dostępne {0}"
 #| msgid "Next Production: {0}"
 msgctxt "STRINGS.UI.TOOLTIPS.METERSCREEN_POPULATION"
 msgid "Population: {0}"
-msgstr ""
+msgstr "Populacja: {0}"
 
 #. STRINGS.UI.TOOLTIPS.MOPBUTTON
 msgctxt "STRINGS.UI.TOOLTIPS.MOPBUTTON"
@@ -21110,7 +21110,7 @@ msgstr "Przeciągnij by stworzyć regiony magazynowania na materiały"
 #| msgid "Pause"
 msgctxt "STRINGS.UI.TOOLTIPS.UNPAUSE"
 msgid "Unpause"
-msgstr ""
+msgstr "Wznów"
 
 #. STRINGS.UI.TOOLTIPS.VITALSPANEL
 msgctxt "STRINGS.UI.TOOLTIPS.VITALSPANEL"

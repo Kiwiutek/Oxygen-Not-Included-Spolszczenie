@@ -1,0 +1,1997 @@
+#. STRINGS.CREATURES.SPECIES.SHOCKWORM.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.SHOCKWORM.DESC"
+msgid ""
+"An exceptionally aggressive, insectoid species.\n"
+"\n"
+"It has three specialized organs which discharge electrical shocks to stun prey."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.SHOCKWORM.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.SHOCKWORM.NAME"
+msgid "Shockworm"
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.SPICE_VINE.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.SPICE_VINE.DESC"
+msgid ""
+"A climbing <style=\"plant\">Vine</style> that can be domestically grown with Planter Boxes.\n"
+"\n"
+"When a Pincha Pepperplant matures it produces a flavorful <style=\"food\">Peppernut</style> that can be used to spice <style="
+"\"food\">Food</style>."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.SPICE_VINE.DOMESTICATEDDESC
+msgctxt "STRINGS.CREATURES.SPECIES.SPICE_VINE.DOMESTICATEDDESC"
+msgid "This plant produces <style=\"food\">Pincha Peppernut</style> spices."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.SPICE_VINE.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.SPICE_VINE.NAME"
+msgid "Pincha Pepperplant"
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.STEAMSPOUT.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.STEAMSPOUT.DESC"
+msgid "A rocky vent that spouts <style=\"gas\">Steam</style>."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.STEAMSPOUT.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.STEAMSPOUT.NAME"
+msgid "Steam Spout"
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.SWAMPLILY.DESC
+msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.DESC"
+msgid ""
+"An elegant, warm climate <style=\"plant\">Plant</style> that can be domestically grown with Planter Boxes.\n"
+"\n"
+"Swamp Lilies produce long, fragrant leaves with medicinal properties."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.SWAMPLILY.DOMESTICATEDDESC
+msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.DOMESTICATEDDESC"
+msgid "An elegant, warm climate <style=\"plant\">Plant</style> that produces long, fragrant leaves with medicinal properties."
+msgstr ""
+
+#. STRINGS.CREATURES.SPECIES.SWAMPLILY.NAME
+msgctxt "STRINGS.CREATURES.SPECIES.SWAMPLILY.NAME"
+msgid "Swamp Lily"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.FERTILIZATION.ABSORBING_MODIFIER
+msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.ABSORBING_MODIFIER"
+msgid "Absorbing"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.FERTILIZATION.CONSUME_MODIFIER
+msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.CONSUME_MODIFIER"
+msgid "Consuming"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.FERTILIZATION.NAME
+msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.NAME"
+msgid "Fertilization"
+msgstr "Nawożenie"
+
+#. STRINGS.CREATURES.STATS.FERTILIZATION.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATS.FERTILIZATION.TOOLTIP"
+msgid "Plants absorb solid nutrients over time when fertilized"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.HEALTH.NAME
+msgctxt "STRINGS.CREATURES.STATS.HEALTH.NAME"
+msgid "Health"
+msgstr "Zdrowie"
+
+#. STRINGS.CREATURES.STATS.IRRIGATION.ABSORBING_MODIFIER
+msgctxt "STRINGS.CREATURES.STATS.IRRIGATION.ABSORBING_MODIFIER"
+msgid "Absorbing"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.IRRIGATION.CONSUME_MODIFIER
+#| msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.LEGEND2"
+#| msgid "Consumer"
+msgctxt "STRINGS.CREATURES.STATS.IRRIGATION.CONSUME_MODIFIER"
+msgid "Consuming"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.IRRIGATION.NAME
+#| msgctxt "STRINGS.BUILDINGS.PREFABS.MULTITOOLWORKBENCH.NAME"
+#| msgid "Crafting Station"
+msgctxt "STRINGS.CREATURES.STATS.IRRIGATION.NAME"
+msgid "Irrigation"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.IRRIGATION.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATS.IRRIGATION.TOOLTIP"
+msgid "Plants absorb liquid nutrients over time when irrigated"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.MATURITY.AMOUNT_DESC_FMT
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.PIPECONTENTS.NAME"
+#| msgid "{0} of {1} at {2}"
+msgctxt "STRINGS.CREATURES.STATS.MATURITY.AMOUNT_DESC_FMT"
+msgid ""
+"{0}: {1}\n"
+"Next harvest in {2}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.MATURITY.GROWING
+msgctxt "STRINGS.CREATURES.STATS.MATURITY.GROWING"
+msgid "Domestic growth rate"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.MATURITY.GROWINGWILD
+msgctxt "STRINGS.CREATURES.STATS.MATURITY.GROWINGWILD"
+msgid "Wild growth rate"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.MATURITY.NAME
+msgctxt "STRINGS.CREATURES.STATS.MATURITY.NAME"
+msgid "Growth Progress"
+msgstr "Postęp Wzrostu"
+
+#. STRINGS.CREATURES.STATS.MATURITY.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATS.MATURITY.TOOLTIP"
+msgid ""
+"Growth Progress\n"
+"----------\n"
+msgstr ""
+"Postęp Wzrostu\n"
+"----------\n"
+
+#. STRINGS.CREATURES.STATS.MATURITY.TOOLTIP_GROWING
+msgctxt "STRINGS.CREATURES.STATS.MATURITY.TOOLTIP_GROWING"
+msgid "Predicted Maturation: {0}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.MATURITY.TOOLTIP_GROWING_CROP
+msgctxt "STRINGS.CREATURES.STATS.MATURITY.TOOLTIP_GROWING_CROP"
+msgid ""
+"Predicted Maturation Time: {0}\n"
+"Next harvest occurs in approximately {1}."
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.MATURITY.TOOLTIP_STALLED
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.UNDERWATER.TOOLTIP"
+#| msgid "This Duplicant's movement is slowed"
+msgctxt "STRINGS.CREATURES.STATS.MATURITY.TOOLTIP_STALLED"
+msgid "This plant's growth has halted"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.ROT.NAME
+msgctxt "STRINGS.CREATURES.STATS.ROT.NAME"
+msgid "Freshness Percent"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.ROT.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATS.ROT.TOOLTIP"
+msgid ""
+"Freshness\n"
+"----------\n"
+"Food items will become stale at fifty percent freshness, and will rot at zero percent"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.THERMALCONDUCTIVITY.NAME
+msgctxt "STRINGS.CREATURES.STATS.THERMALCONDUCTIVITY.NAME"
+msgid "Thermal Conductivity"
+msgstr "Przewodność Ciepła"
+
+#. STRINGS.CREATURES.STATS.THERMALCONDUCTIVITY.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATS.THERMALCONDUCTIVITY.TOOLTIP"
+msgid "Heat can pass through the selected item at a rate of (W/m)/K"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.THERMALCONDUCTIVITYBARRIER.NAME
+#| msgctxt "STRINGS.CREATURES.STATS.THERMALCONDUCTIVITY.NAME"
+#| msgid "Thermal Conductivity"
+msgctxt "STRINGS.CREATURES.STATS.THERMALCONDUCTIVITYBARRIER.NAME"
+msgid "Thermal Conductivity Barrier"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.THERMALCONDUCTIVITYBARRIER.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATS.THERMALCONDUCTIVITYBARRIER.TOOLTIP"
+msgid "Thicker conductivity barriers will reduce an object's rate of heat transfer"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.YIELDBONUS.AMOUNT_DESC_FMT
+msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.AMOUNT_DESC_FMT"
+msgid ""
+"{0}: {1} / {2}\n"
+"Predicted: <style=\"harvestQuality\">{3}</style> ({4})"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.YIELDBONUS.AMOUNT_FMT
+msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.AMOUNT_FMT"
+msgid "{0} / {1}"
+msgstr "{0} / {1}"
+
+#. STRINGS.CREATURES.STATS.YIELDBONUS.CURRENT
+msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.CURRENT"
+msgid "Current Harvest Rating: {0} / {1}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.YIELDBONUS.CYCLES_REMAINING
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.WATTSON.NAME"
+#| msgid "Next Duplicant: {TimeRemaining}s"
+msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.CYCLES_REMAINING"
+msgid "Predicted Time Remaining: {0}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.YIELDBONUS.MODIFIERS.FERTILIZED
+#| msgctxt "STRINGS.ELEMENTS.FERTILIZER.NAME"
+#| msgid "Fertilizer"
+msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.MODIFIERS.FERTILIZED"
+msgid "Fertilized"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.YIELDBONUS.MODIFIERS.IRRIGATED
+msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.MODIFIERS.IRRIGATED"
+msgid "Irrigated"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.YIELDBONUS.MODIFIERS.NOT_FERTILIZED
+#| msgctxt "STRINGS.ELEMENTS.FERTILIZER.NAME"
+#| msgid "Fertilizer"
+msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.MODIFIERS.NOT_FERTILIZED"
+msgid "Unfertilized"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.YIELDBONUS.MODIFIERS.NOT_IRRIGATED
+msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.MODIFIERS.NOT_IRRIGATED"
+msgid "Not Irrigated"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.YIELDBONUS.MODIFIERS.NOT_PERFECT_PRESSURE
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.NAME"
+#| msgid "Max Gas Pressure"
+msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.MODIFIERS.NOT_PERFECT_PRESSURE"
+msgid "Standard Pressure"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.YIELDBONUS.MODIFIERS.NOT_PERFECT_TEMPERATURE
+#| msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME"
+#| msgid "External Temperature"
+msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.MODIFIERS.NOT_PERFECT_TEMPERATURE"
+msgid "Standard Temperature"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.YIELDBONUS.MODIFIERS.PERFECT_PRESSURE
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.NAME"
+#| msgid "Max Gas Pressure"
+msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.MODIFIERS.PERFECT_PRESSURE"
+msgid "Ideal Pressure"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.YIELDBONUS.MODIFIERS.PERFECT_TEMPERATURE
+#| msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME"
+#| msgid "External Temperature"
+msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.MODIFIERS.PERFECT_TEMPERATURE"
+msgid "Ideal Temperature"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.YIELDBONUS.NAME
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.NAME"
+#| msgid "Harvest Pending"
+msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.NAME"
+msgid "Harvest Rating"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.YIELDBONUS.PAUSED
+msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.PAUSED"
+msgid "Harvest Rating change has halted because the plant is not growing."
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.YIELDBONUS.PREDICTION
+msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.PREDICTION"
+msgid "Predicted Harvest Rating: {0} ({1} / {2})"
+msgstr ""
+
+#. STRINGS.CREATURES.STATS.YIELDBONUS.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATS.YIELDBONUS.TOOLTIP"
+msgid ""
+"Plants will gain Harvest Rating Points while kept in ideal conditions\n"
+"A high Harvest Rating will improve the crop yield of a mature plant"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOHIGH.NAME
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.NAME"
+#| msgid "Max Gas Pressure"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOHIGH.NAME"
+msgid "High Air Pressure"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOHIGH.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOHIGH.TOOLTIP"
+msgid ""
+"This plant can only withstand a maximum pressure of {TargetPressure}\n"
+"\n"
+"Current Pressure: {CurrentPressure}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOLOW.NAME
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.NAME"
+#| msgid "Max Gas Pressure"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOLOW.NAME"
+msgid "Low Air Pressure"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOLOW.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.ATMOSPHERICPRESSURETOOLOW.TOOLTIP"
+msgid ""
+"This plant requires a minimum atmospheric pressure of {TargetPressure}\n"
+"\n"
+"Current Pressure: {CurrentPressure}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.BARREN.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.BARREN.NAME"
+msgid "Barren"
+msgstr "Barren"
+
+#. STRINGS.CREATURES.STATUSITEMS.BARREN.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FUSSY.TOOLTIP"
+#| msgid "This Duplicant is hard to please"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.BARREN.TOOLTIP"
+msgid "This plant will produce no more seeds"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.BREATH.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.BREATH.NAME"
+msgid "Suffocating"
+msgstr "Duszno"
+
+#. STRINGS.CREATURES.STATUSITEMS.BREATH.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.BREATH.TOOLTIP"
+msgid "This creature is about to suffocate"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.BURROWED.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.BURROWED.NAME"
+msgid "Burrowed"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.BURROWED.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.BURROWED.TOOLTIP"
+msgid "Shh! It thinks it's hiding"
+msgstr "Ciii! Myśli, że się ukrywa"
+
+#. STRINGS.CREATURES.STATUSITEMS.BURROWING.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.BURROWING.NAME"
+msgid "Burrowing"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.BURROWING.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.BURROWING.TOOLTIP"
+msgid "This creature is trying to hide"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.CANTACCEPTFERTILIZER.NAME
+#| msgctxt "STRINGS.ELEMENTS.FERTILIZER.NAME"
+#| msgid "Fertilizer"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.CANTACCEPTFERTILIZER.NAME"
+msgid "Cannot Fertilize"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.CANTACCEPTFERTILIZER.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.CANTACCEPTFERTILIZER.TOOLTIP"
+msgid ""
+"This farm plot does not accept fertilizer\n"
+"\n"
+"Move the selected plant to a fertilizable plot for optimal growth"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.CANTACCEPTIRRIGATION.NAME
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.NEUTRONIUMUNMINABLE.NAME"
+#| msgid "Cannot Mine"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.CANTACCEPTIRRIGATION.NAME"
+msgid "Cannot Irrigate"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.CANTACCEPTIRRIGATION.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.CANTACCEPTIRRIGATION.TOOLTIP"
+msgid ""
+"This farm plot does not accept irrigation\n"
+"\n"
+"Move the selected plant to an irrigatable plot for optimal growth"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.COLD.NAME
+#| msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.OBSERVED_DECOR"
+#| msgid "Surroundings"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.COLD.NAME"
+msgid "Chilly surroundings"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.COLD.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.COLD.TOOLTIP"
+msgid ""
+"This creature cannot retain enough heat to stay warm in this area\n"
+"\n"
+"It prefers temperatures between {0} and {1}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.CONSIDERINGLURE.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.CONSIDERINGLURE.NAME"
+msgid "Piqued"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.CONSIDERINGLURE.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.CONSIDERINGLURE.TOOLTIP"
+msgid "This creature is tempted to bite a nearby lure"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.CONTAMINATEDATMOSPHERE.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.CONTAMINATEDATMOSPHERE.NAME"
+msgid "Pollution Exposure"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.CONTAMINATEDATMOSPHERE.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.CONTAMINATEDATMOSPHERE.TOOLTIP"
+msgid "Exposure to contaminants is accelerating this food's decay rate"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.COOLING.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.COOLING.NAME"
+msgid "Chilly Breath"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.COOLING.TOOLTIP
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.COOLING.TOOLTIP"
+#| msgid "This building is cooling the surrounding area"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.COOLING.TOOLTIP"
+msgid "This creature's respiration has a cooling effect on the surrounding area"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.DEAD.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.DEAD.NAME"
+msgid "Dead"
+msgstr "Nie żyje"
+
+#. STRINGS.CREATURES.STATUSITEMS.DEAD.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.DEAD.TOOLTIP"
+msgid "This creature isn't getting back up"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.DIGESTING.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.DIGESTING.NAME"
+msgid "Digesting"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.DIGESTING.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.DIGESTING.TOOLTIP"
+msgid "This creature is working off a big meal"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.DROWNING.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.DROWNING.NAME"
+msgid "Drowning"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.DROWNING.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.DROWNING.TOOLTIP"
+msgid "This creature cannot survive in liquid"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.DRYINGOUT.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.DRYINGOUT.NAME"
+msgid "Beached"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.DRYINGOUT.TOOLTIP
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.NOLIQUIDELEMENTTOPUMP.TOOLTIP"
+#| msgid "This pump must be submerged in <style=\"liquid\">Liquid</style> to work"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.DRYINGOUT.TOOLTIP"
+msgid "This plant must be submerged in liquid to grow"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.EATING.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.EATING.NAME"
+msgid "Eating"
+msgstr "Zjada"
+
+#. STRINGS.CREATURES.STATUSITEMS.EATING.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.EATING.TOOLTIP"
+msgid "This creature found something tasty"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.EMERGING.NAME"
+msgid "Emerging"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.EMERGING.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.EMERGING.TOOLTIP"
+msgid "This creature is leaving its burrow"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.ENTOMBED.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.ENTOMBED.NAME"
+msgid "Entombed"
+msgstr "Uwięziony"
+
+#. STRINGS.CREATURES.STATUSITEMS.ENTOMBED.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.ENTOMBED.TOOLTIP"
+msgid "This creature is trapped and needs help digging out"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.EXHALING.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.EXHALING.NAME"
+msgid "Exhaling"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.EXHALING.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.EXHALING.TOOLTIP"
+msgid "This creature is expelling gas from its lungsacs"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.FALLING.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.FALLING.NAME"
+msgid "Falling"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.FALLING.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.FALLING.TOOLTIP"
+msgid "This creature is in freefall!"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.FLEEING.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.FLEEING.NAME"
+msgid "Fleeing"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.FLEEING.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.FLEEING.TOOLTIP"
+msgid ""
+"This creature is trying to escape\n"
+"Get'em!"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.FRESH.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.FRESH.NAME"
+msgid "Fresh {RotPercentage}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.FRESH.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.FRESH.TOOLTIP"
+msgid "Get'em while they're hot!"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.GROWING.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.GROWING.NAME"
+msgid "Growing ({PercentGrow}%)"
+msgstr "Rozwój ({PercentGrow}%)"
+
+#. STRINGS.CREATURES.STATUSITEMS.GROWING.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.GROWING.TOOLTIP"
+msgid "This plant is growing because all of it basic requirements are being met"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.HARVESTSREMAINING.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.HARVESTSREMAINING.NAME"
+msgid "Harvests Remaining: {HarvestsRemaining}"
+msgstr "Pozostałe zbiory: {HarvestsRemaining}"
+
+#. STRINGS.CREATURES.STATUSITEMS.HARVESTSREMAINING.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.HARVESTSREMAINING.TOOLTIP"
+msgid "This plant will yield {HarvestsRemaining} more harvests before it dies"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.HATCHING.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.HATCHING.NAME"
+msgid "Hatching"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.HATCHING.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.HATCHING.TOOLTIP"
+msgid "Here it comes!"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.HEALTHSTATUS.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.HEALTHSTATUS.NAME"
+msgid "Injuries: {healthState}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.HEALTHSTATUS.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.HEALTHSTATUS.TOOLTIP"
+msgid "Current physical status: {healthStateTooltip}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.HIGH_YIELD.LINE_ITEM
+#| msgctxt "STRINGS.UI.LISTENTRYSTRING"
+#| msgid "     {0}\n"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.HIGH_YIELD.LINE_ITEM"
+msgid "    • {0}\n"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.HIGH_YIELD.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.HIGH_YIELD.NAME"
+msgid "Excellent Yield"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.HIGH_YIELD.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.HIGH_YIELD.TOOLTIP"
+msgid ""
+"Consistently ideal conditions allowed this plant to bear a large yield\n"
+"{Effects}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.HOT.NAME
+#| msgctxt "STRINGS.DUPLICANTS.NEEDS.DECOR.OBSERVED_DECOR"
+#| msgid "Surroundings"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.HOT.NAME"
+msgid "Toasty surroundings"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.HOT.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.HOT.TOOLTIP"
+msgid ""
+"This creature cannot let off enough heat to keep cool in this area\n"
+"\n"
+"It prefers temperatures between {0} and {1}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.HYPERTHERMIA.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.HYPERTHERMIA.NAME"
+msgid "Overheating"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.HYPERTHERMIA.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.HYPERTHERMIA.TOOLTIP"
+msgid "Internal temperature is dangerously high ({InternalTemperature} / {TargetTemperature})"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.HYPOTHERMIA.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.HYPOTHERMIA.NAME"
+msgid "Freezing"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.HYPOTHERMIA.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.HYPOTHERMIA.TOOLTIP"
+msgid "Internal temperature is dangerously low"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.IDLE.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.IDLE.NAME"
+msgid "Idle"
+msgstr "Bezczynny"
+
+#. STRINGS.CREATURES.STATUSITEMS.IDLE.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.IDLE.TOOLTIP"
+msgid "Just enjoying life, y'know?"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.INCUBATING.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.INCUBATING.NAME"
+msgid "Incubating"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.INCUBATING.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.INCUBATING.TOOLTIP"
+msgid "The creature inside is gestating comfortably"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.LAYINGANEGG.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.LAYINGANEGG.NAME"
+msgid "Laying an egg"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.LAYINGANEGG.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.LAYINGANEGG.TOOLTIP"
+msgid "This creature is participating in the miracle of life"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.NAME"
+msgid "Foraging"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.LOOKINGFORFOOD.TOOLTIP"
+msgid "This creature is hungry and looking for food"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.LOW_YIELD.NAME
+#| msgctxt "STRINGS.UI.FRONTEND.WORLDGENSCREEN.SIZES.STANDARD"
+#| msgid "Standard"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.LOW_YIELD.NAME"
+msgid "Standard Yield"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.LOW_YIELD.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.LOW_YIELD.TOOLTIP"
+msgid "This plant produced an average yield"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.LINE_ITEM
+msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.LINE_ITEM"
+msgid "    • {0}: {1}\n"
+msgstr "    • {0}: {1}\n"
+
+#. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGSEEDDELIVERY.NAME"
+#| msgid "Awaiting Delivery"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.NAME"
+msgid "Awaiting Fertilizer"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSFERTILIZER.TOOLTIP"
+msgid ""
+"This plant requires additional nutrients to improve growth:\n"
+"{Required}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.LINE_ITEM
+msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.LINE_ITEM"
+msgid "    • {0}: {1}\n"
+msgstr "    • {0}: {1}\n"
+
+#. STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.NAME
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.AWAITINGARTING.NAME"
+#| msgid "Awaiting Decoration"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.NAME"
+msgid "Awaiting Irrigation"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.NEEDSIRRIGATION.TOOLTIP"
+msgid ""
+"This plant requires additional liquid to improve growth:\n"
+"{Required}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.LINE_ITEM
+#| msgctxt "STRINGS.UI.LISTENTRYSTRING"
+#| msgid "     {0}\n"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.LINE_ITEM"
+msgid "    • {0}\n"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.NAME"
+msgid "Good Yield"
+msgstr "Dobry Wynik"
+
+#. STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.NORMAL_YIELD.TOOLTIP"
+msgid ""
+"Comfortable conditions allowed this plant to produce a better yield\n"
+"{Effects}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.PERFECTATMOSPHERICPRESSURE.NAME
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.PRESSUREOK.NAME"
+#| msgid "Max Gas Pressure"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.PERFECTATMOSPHERICPRESSURE.NAME"
+msgid "Ideal Air Pressure"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.PERFECTATMOSPHERICPRESSURE.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.PERFECTATMOSPHERICPRESSURE.TOOLTIP"
+msgid ""
+"This creature is comfortable in the current atmospheric pressure\n"
+"\n"
+"Ideal Range: {0} - {1}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.PERFECTTEMPERATURE.NAME
+#| msgctxt "STRINGS.DUPLICANTS.STATS.EXTERNALTEMPERATURE.NAME"
+#| msgid "External Temperature"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.PERFECTTEMPERATURE.NAME"
+msgid "Ideal Temperature"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.PERFECTTEMPERATURE.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.PERFECTTEMPERATURE.TOOLTIP"
+msgid ""
+"This creature is comfortable with the current ambient temperature\n"
+"\n"
+"Ideal Range: {0} - {1}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.NAME
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.PENDINGHARVEST.NAME"
+#| msgid "Harvest Pending"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.NAME"
+msgid "Harvest Ready"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.QUARANTINED.TOOLTIP"
+#| msgid "This Duplicant has been isolated from the colony"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.READYFORHARVEST.TOOLTIP"
+msgid "This plant can be harvested for materials"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.REFRIGERATED.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.REFRIGERATED.NAME"
+msgid "Refrigerated"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.REFRIGERATED.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.REFRIGERATED.TOOLTIP"
+msgid "Ideal temperature storage is slowing this food's decay rate"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.SCALDING.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.SCALDING.NAME"
+msgid "Scalding"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.SCALDING.NOTIFICATION_NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.SCALDING.NOTIFICATION_NAME"
+msgid "Scalding"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.SCALDING.NOTIFICATION_TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.SCALDING.NOTIFICATION_TOOLTIP"
+msgid "Scalding temperatures are hurting these Duplicants:"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.SCALDING.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.SCALDING.TOOLTIP"
+msgid "Current external temperature is perilously high ({ExternalTemperature} / {TargetTemperature})"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.SLEEPING.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.SLEEPING.NAME"
+msgid "Sleeping"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.SLEEPING.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.SLEEPING.TOOLTIP"
+msgid "This creature is replenishing its stamina"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.SPOILED.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.SPOILED.NAME"
+msgid "Rotten"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.SPOILED.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.SPOILED.TOOLTIP"
+msgid "This food has putrified and should not be consumed"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.STALE.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.STALE.NAME"
+msgid "Stale {RotPercentage}"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.STALE.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.STALE.TOOLTIP"
+msgid "This food is still edible but will soon expire"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.STERILIZINGATMOSPHERE.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.STERILIZINGATMOSPHERE.NAME"
+msgid "Sterile Atmosphere"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.STERILIZINGATMOSPHERE.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.STERILIZINGATMOSPHERE.TOOLTIP"
+msgid "Microbe destroying conditions are preventing this food from decaying"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.STRUGGLING.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.STRUGGLING.NAME"
+msgid "Struggling"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.STRUGGLING.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.STRUGGLING.TOOLTIP"
+msgid "This creature is trying to get away"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.NAME"
+msgid "Suffocating"
+msgstr "Udusił się"
+
+#. STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.TOOLTIP
+#| msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.SUFFOCATING.TOOLTIP"
+#| msgid "This Duplicant cannot breathe!"
+msgctxt "STRINGS.CREATURES.STATUSITEMS.SUFFOCATING.TOOLTIP"
+msgid "This creature cannot breathe"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.TIRED.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.TIRED.NAME"
+msgid "Fatigued"
+msgstr "Zmęczony"
+
+#. STRINGS.CREATURES.STATUSITEMS.TIRED.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.TIRED.TOOLTIP"
+msgid "This creature needs to rest"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.NAME"
+msgid "Unrefrigerated"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.UNREFRIGERATED.TOOLTIP"
+msgid "Temperatures above {RotTemperature} spoil food more quickly"
+msgstr ""
+
+#. STRINGS.CREATURES.STATUSITEMS.WILTING.NAME
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.NAME"
+msgid "Stifled"
+msgstr "Stłumiony"
+
+#. STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP
+msgctxt "STRINGS.CREATURES.STATUSITEMS.WILTING.TOOLTIP"
+msgid ""
+"This plant has stopped growing because one of its basic requirements has not been met\n"
+"\n"
+"Unmet Condition: {0}"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.DESC"
+msgid "Air Consumption determines how much <style=\"oxygen\">Oxygen</style> a Duplicant requires per minute to live."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.NAME"
+msgid "Air Consumption Rate"
+msgstr "Ilość zurzycia powietrza"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.PROFESSION_NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.AIRCONSUMPTIONRATE.PROFESSION_NAME"
+msgid ""
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.ART.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.DESC"
+msgid "Creativity affects the speed and quality of a Duplicant's artistic creations."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.ART.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.NAME"
+msgid "Creativity"
+msgstr "Kreatywność"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.ART.PROFESSION_NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.PROFESSION_NAME"
+msgid "Artist"
+msgstr "Artysta"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.ART.SPEEDMODIFIER
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ART.SPEEDMODIFIER"
+msgid "$value% Decorating Speed"
+msgstr "$value% Prędkość Dekorowania"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.DESC"
+msgid "The Athletics attribute determines a Duplicant's movement speed."
+msgstr "Atrybut atletyka określa szybkość ruchu Duplikantów."
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.NAME"
+msgid "Athletics"
+msgstr "Atletyka"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.PROFESSION_NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.PROFESSION_NAME"
+msgid "Runner"
+msgstr "Biegacz"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.SPEEDMODIFIER
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.SPEEDMODIFIER"
+msgid "$value% Movement Speed"
+msgstr "$value% Szybkość Ruchu"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.DESC"
+msgid ""
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.BLADDERDELTA.NAME"
+msgid "Bladder Change"
+msgstr "Zmiany w pęcherzu"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.DESC"
+msgid ""
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.NAME
+#| msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.NAME"
+#| msgid "Calories Burn Rate"
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CALORIESDELTA.NAME"
+msgid "Calories Change Rate"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.DESC"
+msgid "The Construction attribute determines a Duplicant's building speed."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.NAME"
+msgid "Construction"
+msgstr "Budowa"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.PROFESSION_NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.PROFESSION_NAME"
+msgid "Architect"
+msgstr "Architekt"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.SPEEDMODIFIER
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.CONSTRUCTION.SPEEDMODIFIER"
+msgid "$value% Construction Speed"
+msgstr "$value% Szybkość Budowy"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.DESC"
+msgid "The Cooking attribute determines a Duplicant's speed when preparing <style=\"food\">Food</style>."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.NAME"
+msgid "Cooking"
+msgstr "Gotowanie"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.PROFESSION_NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.PROFESSION_NAME"
+msgid "Chef"
+msgstr "Kucharz"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.SPEEDMODIFIER
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.SPEEDMODIFIER"
+msgid "$value% Cooking Speed"
+msgstr "$value% Szybkość Gotowania"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.DESC
+#| msgctxt "STRINGS.BUILDINGS.PREFABS.CANVAS.EFFECT"
+#| msgid ""
+#| "Increases <style=\"decor\">Decor Opinion</style> and reduces Duplicants' <style=\"stress\">Stress</style>.\n"
+#| "\n"
+#| "Must be painted by a Duplicant."
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.DESC"
+msgid ""
+"<style=\"decor\">Decor</style> affects a Duplicant's <style=\"decor\">Stress</style> and their opinion of their surroundings."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOR.NAME"
+msgid "Decor"
+msgstr "Dekoracja"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.DESC
+#| msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT"
+#| msgid "Increases <style=\"decor\">Decor Opinion</style> and reduces Duplicant <style=\"stress\">Stress</style>."
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.DESC"
+msgid ""
+"Not meeting a Duplicant's <style=\"decor\">Decor</style> expectations will increase their <style=\"stress\">Stress</style>."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME"
+msgid "Decor Expectation"
+msgstr "Oczekuje Wystroju"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.DESC
+#| msgctxt "STRINGS.UI.OVERLAYS.ELECTRICAL.TOOLTIPS.LEGEND3"
+#| msgid "Generates <style=\"power\">Power</style> for circuit"
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.DESC"
+msgid "Distance of a item's <style=\"decor\">Decor</style> effect."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECORRADIUS.NAME"
+msgid "Decor Radius"
+msgstr "Zasięg Dekoracji"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.DESC"
+msgid "The Digging attribute determines a Duplicant's mining speed."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.NAME"
+msgid "Digging"
+msgstr "Kopanie"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.PROFESSION_NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.PROFESSION_NAME"
+msgid "Miner"
+msgstr "Górnik"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.SPEEDMODIFIER
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DIGGING.SPEEDMODIFIER"
+msgid "$value% Digging Speed"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.DESC"
+msgid "A building at Meltdown <style=\"heat\">Temperature</style> will lose functionality and take damage"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FATALTEMPERATURE.NAME"
+msgid "Meltdown Temperature"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.DESC
+#| msgctxt "STRINGS.BUILDINGS.PREFABS.FLOWERVASE.EFFECT"
+#| msgid "Increases <style=\"decor\">Decor Opinion</style> and reduces Duplicant <style=\"stress\">Stress</style>."
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.DESC"
+msgid ""
+"Not meeting a Duplicant's <style=\"food\">Food</style> expectations will increase their <style=\"stress\">Stress</style>."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.NAME
+#| msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.DECOREXPECTATION.NAME"
+#| msgid "Decor Expectation"
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.FOODEXPECTATION.NAME"
+msgid "Food Quality Expectation"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.DESC"
+msgid "<style=\"hygiene\">Hygiene</style> affects a Duplicant's sense of cleanliness."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.NAME"
+msgid "Hygiene"
+msgstr "Higiena"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.PROFESSION_NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.HYGIENE.PROFESSION_NAME"
+msgid ""
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.DESC
+#| msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.DESC"
+#| msgid "The Tinkering attribute determines a Duplicant's efficiency when operating machines."
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.DESC"
+msgid "The Insulation attribute determines a Duplicant's innate ability to retain or lose body heat in any given environment."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.NAME"
+msgid "Insulation"
+msgstr "Izolacja"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.PROFESSION_NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.PROFESSION_NAME"
+msgid ""
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.SPEEDMODIFIER
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.INSULATION.SPEEDMODIFIER"
+msgid "$value% Temperature Retention"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.DESC"
+msgid ""
+"The Learning attribute determines a Duplicant's <style=\"research\">Research</style> effectiveness and rate of skill level "
+"gain."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.NAME"
+msgid "Learning"
+msgstr "Nauka"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.PROFESSION_NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.PROFESSION_NAME"
+msgid "Scientist"
+msgstr "Naukowiec"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.RESEARCHPOINTS
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.RESEARCHPOINTS"
+msgid "$value Research Points Per Day"
+msgstr "$value Punktów badań na dzień"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.SPEEDMODIFIER
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.LEARNING.SPEEDMODIFIER"
+msgid "$value% Skill Leveling"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.DESC"
+msgid "The Tinkering attribute determines a Duplicant's efficiency when operating machines."
+msgstr "Atrybut Dłubanie określa efektywność Duplikanta przy obsłudze maszyn."
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.NAME"
+msgid "Tinkering"
+msgstr "Dłubanie"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.PROFESSION_NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.PROFESSION_NAME"
+msgid "Technician"
+msgstr "Technik"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.SPEEDMODIFIER
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MACHINERY.SPEEDMODIFIER"
+msgid "$value% Tinkering Speed"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.DESC"
+msgid ""
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.NAME"
+msgid "Underwater Movement"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.PROFESSION_NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MAXUNDERWATERTRAVELCOST.PROFESSION_NAME"
+msgid ""
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.DESC"
+msgid ""
+"The Medicine attribute determines a Duplicant's <style=\"disease\">Disease</style> resistance and ability to heal after "
+"injury."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.NAME"
+msgid "Medicine"
+msgstr "Leczenie"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.PROFESSION_NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.PROFESSION_NAME"
+msgid "Physician"
+msgstr "Lekarz"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.SPEEDMODIFIER
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.MEDICAL.SPEEDMODIFIER"
+msgid "$value% Disease Resistance"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.DESC"
+msgid "A building at Overheat <style=\"heat\">Temperature</style> will take damage and melt down if not cooled"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.OVERHEATTEMPERATURE.NAME"
+msgid "Overheat Temperature"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.PROFESSION_DESC"
+msgid ""
+"This Duplicant's highest attribute is {0}\n"
+"----------\n"
+"Duplicants develop higher expectations as their profession level increases"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.DESC"
+msgid "Determines the minimum body heat a Duplicant prefers to maintain."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.NAME
+#| msgctxt "STRINGS.UI.OVERLAYS.TEMPERATURE.BUTTON"
+#| msgid "Temperature Overlay"
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.NAME"
+msgid "Temperature Preference"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.PROFESSION_NAME
+#| msgid ""
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ROOMTEMPERATUREPREFERENCE.PROFESSION_NAME"
+msgid ""
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.SNEEZYNESS.DESC
+#| msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.ATHLETICS.DESC"
+#| msgid "The Athletics attribute determines a Duplicant's movement speed."
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.SNEEZYNESS.DESC"
+msgid "The Sneeziness attribute determines how frequently a Duplicant sneezes."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.SNEEZYNESS.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.SNEEZYNESS.NAME"
+msgid "Sneeziness"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.DESC"
+msgid ""
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STAMINADELTA.NAME"
+msgid "Stamina Change"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.DESC"
+msgid "The Strength attribute determines a Duplicant's carrying capacity and combat effectiveness."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.NAME"
+msgid "Strength"
+msgstr "Siła"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.PROFESSION_NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.PROFESSION_NAME"
+msgid "Body Builder"
+msgstr "Kulturysta"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.SPEEDMODIFIER
+#| msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.COOKING.SPEEDMODIFIER"
+#| msgid "$value% Cooking Speed"
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRENGTH.SPEEDMODIFIER"
+msgid "$value Carrying Weight"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.DESC
+#| msgctxt "STRINGS.DUPLICANTS.STATUSITEMS.STRESSED.TOOLTIP"
+#| msgid "This Duplicant is feeling the <style=\"stress\">Stress</style>"
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.DESC"
+msgid "Determines how quickly a Duplicant gains or reduces <style=\"stress\">Stress</style>."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.STRESSDELTA.NAME"
+msgid "Stress Change"
+msgstr "Zmiany Stresu"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.NAME
+#| msgctxt "STRINGS.BUILDINGS.PREFABS.INSULATIONWALL.NAME"
+#| msgid "Insulation"
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.NAME"
+msgid "Insulation Thickness"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.TOOLTIP
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.THERMALCONDUCTIVITYBARRIER.TOOLTIP"
+msgid ""
+"Insulation Thickness determines how quickly a Duplicant retains or loses body <style=\"heat\">Heat</style> in any given "
+"area.\n"
+"\n"
+"It is the sum of a Duplicant's equipment and their natural Insulation values."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.DESC"
+msgid "Determines how long a Duplicant needs to do their \"business\"."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.NAME"
+msgid "Bladder Efficiency"
+msgstr "Sprawność Pęcherza"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.PROFESSION_NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOILETEFFICIENCY.PROFESSION_NAME"
+msgid ""
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.DESC
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.DESC"
+msgid ""
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.TOXICITYDELTA.NAME"
+msgid "Toxicity Change"
+msgstr "Toksyczna Zmiana"
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_DESC
+#| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.INSPIRED.TOOLTIP"
+#| msgid "This Duplicant has had a creative vision!"
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_DESC"
+msgid "This Duplicant has no discernible skills"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_NAME
+msgctxt "STRINGS.DUPLICANTS.ATTRIBUTES.UNPROFESSIONAL_NAME"
+msgid "Lump"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.ART.DESC
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.ART.DESC"
+msgid "Sculpt or paint to improve colony decor."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.ART.NAME
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.ART.NAME"
+msgid "Art"
+msgstr "Sztuka"
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.DESC
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.DESC"
+msgid "Construct new buildings."
+msgstr "Konstrukcja nowych budynków."
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.NAME
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.BUILD.NAME"
+msgid "Build"
+msgstr "Konstrukcja"
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.DESC
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.DESC"
+msgid "Fight wild creatures."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.NAME
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMBAT.NAME"
+msgid "Combat"
+msgstr "Walka"
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.DESC
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.DESC"
+msgid "Tend composts to produce fertilizer."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.NAME
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COMPOST.NAME"
+msgid "Compost"
+msgstr "Kompost"
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.DESC"
+msgid "Operate food preparation buildings to produce calories."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.COOK.NAME"
+msgid "Cook"
+msgstr "Gotować"
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.DESC
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.DESC"
+msgid "Run resources to critical buildings and high priority storage."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.NAME
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DELIVER.NAME"
+msgid "Deliver"
+msgstr "Dostarczyć"
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.DESC
+#| msgctxt "STRINGS.UI.PRODUCTINFO_MISSINGRESOURCES_HOVER"
+#| msgid "Missing resource(s)"
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.DESC"
+msgid "Mine raw resources."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.DIG.NAME"
+msgid "Dig"
+msgstr "Kopanie"
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.DESC
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.DESC"
+msgid "Produce power by running on manual generators."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.NAME
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.GENERATEPOWER.NAME"
+msgid "Power"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.DESC
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.DESC"
+msgid "Gather crops from mature plants."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.NAME
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.HARVEST.NAME"
+msgid "Harvest"
+msgstr "Zbiory"
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.LIQUIDCOOLEDFAN.DESC
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.LIQUIDCOOLEDFAN.DESC"
+msgid "Operate hydrofans to cool ambient temperatures."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.LIQUIDCOOLEDFAN.NAME
+#| msgctxt "STRINGS.BUILDINGS.PREFABS.LIQUIDCOOLEDFAN.NAME"
+#| msgid "Hydrofan"
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.LIQUIDCOOLEDFAN.NAME"
+msgid "Hydrofan"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.DESC
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.DESC"
+msgid "Take breaks for massages."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.NAME
+#| msgctxt "STRINGS.BUILDINGS.PREFABS.MASSAGETABLE.NAME"
+#| msgid "Massage Table"
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MASSAGE.NAME"
+msgid "Massage"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.MOP.DESC
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MOP.DESC"
+msgid "Clean up liquid messes."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.MOP.NAME
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.MOP.NAME"
+msgid "Mop"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.DESC
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.DESC"
+msgid "Repair damaged buildings."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.NAME
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.REPAIR.NAME"
+msgid "Repair"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.DESC
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.DESC"
+msgid "Use research stations to unlock new technologies."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.NAME
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.RESEARCH.NAME"
+msgid "Research"
+msgstr "Badania"
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.DESC
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.DESC"
+msgid "Run resources to noncritical buildings or storage."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.NAME
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.SWEEP.NAME"
+msgid "Sweep"
+msgstr "Zamiatac"
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.DESC"
+msgid "Manually enable, disable or adjust building switches and filters."
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.NAME
+msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.NAME"
+msgid "Toggle"
+msgstr "Przełącznik"
+
+#. STRINGS.DUPLICANTS.CHORES.ART.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.ART.NAME"
+msgid "Decorate"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.ART.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.ART.STATUS"
+msgid "Going to decorate"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.ATTACK.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.ATTACK.NAME"
+msgid "Attack"
+msgstr "Atak"
+
+#. STRINGS.DUPLICANTS.CHORES.ATTACK.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.ATTACK.STATUS"
+msgid "Attacking"
+msgstr "Atakuje"
+
+#. STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.NAME"
+msgid "Incapacitated"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.BEINCAPACITATED.STATUS"
+msgid "Dying"
+msgstr "Umiera"
+
+#. STRINGS.DUPLICANTS.CHORES.BINGE_EAT.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.BINGE_EAT.NAME"
+msgid "Binge Eat"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.BINGE_EAT.STATUS
+#| msgctxt "STRINGS.BUILDING.STATUSITEMS.OVERHEATED.NAME"
+#| msgid "Overheating"
+msgctxt "STRINGS.DUPLICANTS.CHORES.BINGE_EAT.STATUS"
+msgid "Binge eating"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.BUILD.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.BUILD.NAME"
+msgid "Build"
+msgstr "Kompilacja"
+
+#. STRINGS.DUPLICANTS.CHORES.BUILD.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.BUILD.STATUS"
+msgid "Going to build"
+msgstr "Idzie budować"
+
+#. STRINGS.DUPLICANTS.CHORES.BUILDDIG.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.NAME"
+msgid "Dig"
+msgstr "Kopanie"
+
+#. STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDDIG.STATUS"
+msgid "Going to dig"
+msgstr "Idzie kopać"
+
+#. STRINGS.DUPLICANTS.CHORES.BUILDFETCH.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDFETCH.NAME"
+msgid "Deliver"
+msgstr "Dostarcza"
+
+#. STRINGS.DUPLICANTS.CHORES.BUILDFETCH.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.BUILDFETCH.STATUS"
+msgid "Delivering"
+msgstr "Dostarcza"
+
+#. STRINGS.DUPLICANTS.CHORES.CLEANTOILET.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.CLEANTOILET.NAME"
+msgid "Clean"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.CLEANTOILET.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.CLEANTOILET.STATUS"
+msgid "Going to clean"
+msgstr "Idzie się umyć"
+
+#. STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.NAME"
+msgid "Compost"
+msgstr "Kompost"
+
+#. STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.COMPOSTWORKABLE.STATUS"
+msgid "Going to compost"
+msgstr "Idzie do kompostu"
+
+#. STRINGS.DUPLICANTS.CHORES.COOK.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.COOK.NAME"
+msgid "Cook"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.COOK.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.COOK.STATUS"
+msgid "Going to cook"
+msgstr "Idzie gotować"
+
+#. STRINGS.DUPLICANTS.CHORES.COOKFETCH.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.COOKFETCH.NAME"
+msgid "Deliver"
+msgstr "Dostarczyć"
+
+#. STRINGS.DUPLICANTS.CHORES.COOKFETCH.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.COOKFETCH.STATUS"
+msgid "Delivering"
+msgstr "Dostarcza"
+
+#. STRINGS.DUPLICANTS.CHORES.COOLDOWN.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.COOLDOWN.NAME"
+msgid "Cool off"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.COOLDOWN.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.COOLDOWN.STATUS"
+msgid "Going to cool off"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.NAME"
+msgid "DebugGoTo"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.DEBUGGOTO.STATUS"
+msgid "DebugGoTo"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.NAME"
+msgid "Deconstruct"
+msgstr "Dekonstrukcja"
+
+#. STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.DECONSTRUCT.STATUS"
+msgid "Going to deconstruct"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.NAME"
+msgid "Deliver food"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.DELIVERFOOD.STATUS"
+msgid "Delivering food"
+msgstr "Dostarcza jedzenie"
+
+#. STRINGS.DUPLICANTS.CHORES.DIE.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.DIE.NAME"
+msgid "Die"
+msgstr "Umiera"
+
+#. STRINGS.DUPLICANTS.CHORES.DIE.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.DIE.STATUS"
+msgid "Dying"
+msgstr "Kona"
+
+#. STRINGS.DUPLICANTS.CHORES.DIG.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.NAME"
+msgid "Dig"
+msgstr "Kopanie"
+
+#. STRINGS.DUPLICANTS.CHORES.DIG.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.DIG.STATUS"
+msgid "Going to dig"
+msgstr "Idzie kopać"
+
+#. STRINGS.DUPLICANTS.CHORES.DOCTOR.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.DOCTOR.NAME"
+msgid "Doctor"
+msgstr "Lekarz"
+
+#. STRINGS.DUPLICANTS.CHORES.DOCTOR.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.DOCTOR.STATUS"
+msgid "Nursing"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.NAME"
+msgid "Drop unused inventory"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.DROPUNUSEDINVENTORY.STATUS"
+msgid "Dropping unused inventory"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.EAT.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.EAT.NAME"
+msgid "Eat"
+msgstr "Jeść"
+
+#. STRINGS.DUPLICANTS.CHORES.EAT.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.EAT.STATUS"
+msgid "Going to eat"
+msgstr "Idzie jeść"
+
+#. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.NAME"
+msgid "Emoting"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.EMOTEHIGHPRIORITY.STATUS"
+msgid "Expressing themself"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.NAME"
+msgid "Empty storage"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.EMPTYSTORAGE.STATUS"
+msgid "Going to empty storage"
+msgstr "Idzie do pustego magazynu"
+
+#. STRINGS.DUPLICANTS.CHORES.ENTOMBED.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.ENTOMBED.NAME"
+msgid "Entombed"
+msgstr "Uwięziony"
+
+#. STRINGS.DUPLICANTS.CHORES.ENTOMBED.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.ENTOMBED.STATUS"
+msgid "Entombed"
+msgstr "Uwięziony"
+
+#. STRINGS.DUPLICANTS.CHORES.EQUIP.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIP.NAME"
+msgid "Equip"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.EQUIP.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.EQUIP.STATUS"
+msgid "Moving to equip"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.FABRICATE.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.NAME"
+msgid "Fabricating"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.FABRICATE.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATE.STATUS"
+msgid "Going to fabricate"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.NAME"
+msgid "Deliver"
+msgstr "Dostarcza"
+
+#. STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.FABRICATEFETCH.STATUS"
+msgid "Delivering"
+msgstr "Dostarcza"
+
+#. STRINGS.DUPLICANTS.CHORES.FETCH.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.FETCH.NAME"
+msgid "Deliver"
+msgstr "Dostarcza"
+
+#. STRINGS.DUPLICANTS.CHORES.FETCH.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.FETCH.STATUS"
+msgid "Delivering"
+msgstr "Dostarcza"
+
+#. STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.NAME"
+msgid "Deliver"
+msgstr "Dostarczyć"
+
+#. STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.FETCHCRITICAL.STATUS"
+msgid "Delivering"
+msgstr "Dostarcza"
+
+#. STRINGS.DUPLICANTS.CHORES.FLEE.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.FLEE.NAME"
+msgid "Flee"
+msgstr "U"
+
+#. STRINGS.DUPLICANTS.CHORES.FLEE.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.FLEE.STATUS"
+msgid "Fleeing"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.NAME"
+msgid "Flip"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.FLIPCOMPOST.STATUS"
+msgid "Going to flip compost"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.NAME"
+msgid "Generate Power"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.GENERATEPOWER.STATUS"
+msgid "Going to generate power"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.HARVEST.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.HARVEST.NAME"
+msgid "Harvest"
+msgstr "Zbiory"
+
+#. STRINGS.DUPLICANTS.CHORES.HARVEST.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.HARVEST.STATUS"
+msgid "Going to harvest"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.HEAL.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.HEAL.NAME"
+msgid "Heal"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.HEAL.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.HEAL.STATUS"
+msgid "Healing"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.NAME"
+msgid "Heal"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.HEALCRITICAL.STATUS"
+msgid "Healing"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.IDLE.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.IDLE.NAME"
+msgid "Idle"
+msgstr "Bezczynny"
+
+#. STRINGS.DUPLICANTS.CHORES.IDLE.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.IDLE.STATUS"
+msgid "Idle"
+msgstr "Bezczynny"
+
+#. STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.NAME"
+msgid "Use Fan"
+msgstr "Użyj wentylator"
+
+#. STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.LIQUIDCOOLEDFAN.STATUS"
+msgid "Going to use fan"
+msgstr "Idzie użyć wentylator"
+
+#. STRINGS.DUPLICANTS.CHORES.MOP.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.NAME"
+msgid "Mop"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.MOP.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.MOP.STATUS"
+msgid "Going to mop"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.MOVETO.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETO.NAME"
+msgid "Move to"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.MOVETO.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETO.STATUS"
+msgid "Moving to location"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.NAME"
+msgid "Move to location"
+msgstr "(?)Przejdź Do Lokalizacji / Przejdź Do"
+
+#. STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOLOCATION.STATUS"
+msgid "Moving to location"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.NAME"
+msgid "Move to quarantine"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOQUARANTINE.STATUS"
+msgid "Moving to quarantine"
+msgstr "Poddaj się kwarantannie"
+
+#. STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.NAME"
+msgid "Move to safety"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.MOVETOSAFETY.STATUS"
+msgid "Moving to safety"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.MUSH.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.MUSH.NAME"
+msgid "Mush"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.MUSH.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.MUSH.STATUS"
+msgid "Going to mush"
+msgstr ""
+
+#. STRINGS.DUPLICANTS.CHORES.MUSHFETCH.NAME
+msgctxt "STRINGS.DUPLICANTS.CHORES.MUSHFETCH.NAME"
+msgid "Deliver"
+msgstr "Dostarczyć"
+
+#. STRINGS.DUPLICANTS.CHORES.MUSHFETCH.STATUS
+msgctxt "STRINGS.DUPLICANTS.CHORES.MUSHFETCH.STATUS"
+msgid "Delivering"
+msgstr "Dostarcza"

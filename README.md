@@ -2,9 +2,6 @@
 
 <b><u>WAŻNE! Prosimy o zapoznanie się z tymi wątkami przed rozpoczęciem pierwszych tłumaczeń!</u></b>
 
-PODZIAŁ OBOWIĄZKÓW!
-► https://github.com/Kiwiutek/Oxygen-Not-Included-Spolszczenie/issues/21
-
 UJEDNOLICONE NAZWY!
 ► https://github.com/Kiwiutek/Oxygen-Not-Included-Spolszczenie/issues/15
 
@@ -17,7 +14,7 @@ Inne uwagi:
 1. Zakładacie konto<br>
 2. Logujcie się do konta<br>
 3. Wchodzicie na mojego githuba (https://github.com/Kiwiutek/Oxygen-Not-Included-Spolszczenie)<br>
-4. Klikacie strings.po<br>
+4. Klikacie wybrany przedział tłumaczenia<br>
 5. Gdy załaduje się nowa strona, to klikacie ikonkę ołówka/pióra jak kto woli obok kosza<br>
 6. Następnie macie dostęp do edycji spolszczenia, gdy skończycie klikacie na dole strony zielony guzik z napisem Propose file change<br>
 7. Później klikacie zielone Create pull request -> i jeszcze raz Create pull request (możęcie wpisać komentarz)<br>

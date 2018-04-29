@@ -17,12 +17,12 @@ msgstr ""
 #| msgid "This Duplicant is getting tired"
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.DESC"
 msgid "This Duplicant gets antsy when left idle"
-msgstr ""
+msgstr "Ten Duplikant staje się nerwowy, gdy pozostaje bezczynny"
 
 #. STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NEEDS.WORKAHOLIC.NAME"
 msgid "Workaholic"
-msgstr ""
+msgstr "Pracuś"
 
 #. STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NIGHTOWL.DESC"
@@ -39,12 +39,12 @@ msgstr "Nocna Sowa"
 #| msgid "This Duplicant may have been a talented opera singer in another life"
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.DESC"
 msgid "This Duplicant's arms have all the tensile strength of an overcooked linguine"
-msgstr ""
+msgstr "Ramiona tego Duplanta mają całą wytrzymałość jak rozciągnięty rozgotowany makaron linguine"
 
 #. STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.NOODLEARMS.NAME"
 msgid "Noodle Arms"
-msgstr ""
+msgstr "Makaronowe ramiona"
 
 #. STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK
 msgctxt "STRINGS.DUPLICANTS.TRAITS.REFUSES_TO_DO_TASK"
@@ -136,12 +136,12 @@ msgstr "Balerina"
 #. STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.DESC"
 msgid "Things won't be pretty if this Duplicant gets too stressed"
-msgstr ""
+msgstr "Rzeczy nie będą ładne, jeśli ten Duplikant będzie zbyt zestresowany"
 
 #. STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.NAME
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UGLYCRIER.NAME"
 msgid "Ugly Crier"
-msgstr ""
+msgstr "Brzydki Stwór"
 
 #. STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC
 msgctxt "STRINGS.DUPLICANTS.TRAITS.UNCULTURED.DESC"
@@ -175,6 +175,9 @@ msgid ""
 "\n"
 "It can be used as a renewable source of <style=\"oxygen\">Oxygen</style> when grown domestically in Algae Terrariums."
 msgstr ""
+"Algi to skupisko nieruchliwych, jednokomórkowych form życia.\n"
+"\n"
+"Mogą być używane jako odnawialne źródło <style=\"oxygen\">Tlenu</style>, gdy jest uprawiana w glonowych terrariach."
 
 #. STRINGS.ELEMENTS.ALGAE.NAME
 msgctxt "STRINGS.ELEMENTS.ALGAE.NAME"
@@ -188,6 +191,9 @@ msgid ""
 "\n"
 "It is useful in <style=\"hygiene\">Hygienic</style> processes."
 msgstr ""
+"Wybielacz Kamienny jest niestabilnym związkiem, który emituje toksyczny <styl=\"gaz\">gaz chlorowy</styl>.\n"
+"\n"
+"Jest to przydatne w procesach <style=\"higieny\">higienicznych</style>."
 
 #. STRINGS.ELEMENTS.BLEACHSTONE.NAME
 msgctxt "STRINGS.ELEMENTS.BLEACHSTONE.NAME"
@@ -221,6 +227,9 @@ msgid ""
 "\n"
 "It is useful in <style=\"power\">Power</style> production."
 msgstr ""
+"Węgiel to palne paliwo kopalne składające się z włókna węglowego.\n"
+"\n"
+"Jest to przydatne w produkcji <style=\"power\">Mocy</style>."
 
 #. STRINGS.ELEMENTS.CARBON.NAME
 msgctxt "STRINGS.ELEMENTS.CARBON.NAME"
@@ -234,6 +243,9 @@ msgid ""
 "\n"
 "It tends to sink below other gases."
 msgstr ""
+"(CO2) Tlenek węgla toksyczny, atomowo ciężki związek chemiczny w stanie <style=\"gas\">Gazowym</style>.\n"
+"\n"
+"Ma tendencję do opadania poniżej innych gazów."
 
 #. STRINGS.ELEMENTS.CARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONDIOXIDE.NAME"
@@ -245,7 +257,7 @@ msgstr "Dwutlenek Węgla"
 #| msgid "A <style=\"RefinedMineral\">Manufactured Material</style> with high tensile strength."
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.DESC"
 msgid "Carbon Fiber is a <style=\"RefinedMineral\">Manufactured Material</style> with high tensile strength."
-msgstr ""
+msgstr "Włókno węglowe to <style=\"RefinedMineral\">Wyprodukowany Materiał</style> o wysokiej wytrzymałości na rozciąganie."
 
 #. STRINGS.ELEMENTS.CARBONFIBRE.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONFIBRE.NAME"
@@ -255,7 +267,7 @@ msgstr "Włókna Węglowe"
 #. STRINGS.ELEMENTS.CARBONGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CARBONGAS.DESC"
 msgid "(C) Carbon is an abundant, versatile element heated into a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "(C) Włókno węglowe jest obfitym, wszechstronnym elementem ogrzanym do stanu <style=\"gas\">Gazowego</style>."
 
 #. STRINGS.ELEMENTS.CARBONGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CARBONGAS.NAME"
@@ -265,7 +277,7 @@ msgstr "Węgiel"
 #. STRINGS.ELEMENTS.CHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINE.DESC"
 msgid "(Cl) Chlorine is an extremely toxic element in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(Cl) Chlor jest wyjątkowo toksycznym elementem w <style=\"solid\">Solidnym</style> stanie."
 
 #. STRINGS.ELEMENTS.CHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINE.NAME"
@@ -275,7 +287,7 @@ msgstr "Chlor"
 #. STRINGS.ELEMENTS.CHLORINEGAS.DESC
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.DESC"
 msgid "(Cl) Chlorine is an extremely toxic chemical in a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "(Cl) Chlor jest niezwykle toksyczną substancją chemiczną w stanie <style=\"gas\">Gazowym</style>."
 
 #. STRINGS.ELEMENTS.CHLORINEGAS.NAME
 msgctxt "STRINGS.ELEMENTS.CHLORINEGAS.NAME"
@@ -294,6 +306,9 @@ msgid ""
 "\n"
 "It is a reliable <style=\"RawMineral\">Construction Material</style>."
 msgstr ""
+"Glina jest miękkim, naturalnie występującym złożem z kamienia i gleby, który twardnieje w wysokich temperaturach <style=\"heat\">Temperaturach</style>.\n"
+"\n"
+"Jest to niezawodny <style=\"RawMineral\">Materiał konstrukcyjny</style>."
 
 #. STRINGS.ELEMENTS.CLAY.NAME
 msgctxt "STRINGS.ELEMENTS.CLAY.NAME"
@@ -307,11 +322,14 @@ msgid ""
 "\n"
 "It is breathable."
 msgstr ""
+"(O2) Zanieczyszczona Tlenowa jednostka powietrzna <style=\"disease\">Chorobowa</style>.\n"
+"\n"
+"Może być wdychany."
 
 #. STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.CONTAMINATEDOXYGEN.NAME"
 msgid "Polluted Oxygen"
-msgstr ""
+msgstr "Zanieczyszczony tlen"
 
 #. STRINGS.ELEMENTS.COPPER.DESC
 msgctxt "STRINGS.ELEMENTS.COPPER.DESC"
@@ -320,6 +338,9 @@ msgid ""
 "\n"
 "It is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
+"(Cu) Miedź jest przewodzącym <style=\"RawMetal\">Metalem</style>.\n"
+"\n"
+"Jest odpowiedni do budowania systemów <style =\"power\">Zasilania</style>."
 
 #. STRINGS.ELEMENTS.COPPER.NAME
 msgctxt "STRINGS.ELEMENTS.COPPER.NAME"
@@ -329,7 +350,7 @@ msgstr "Miedź"
 #. STRINGS.ELEMENTS.COPPERGAS.DESC
 msgctxt "STRINGS.ELEMENTS.COPPERGAS.DESC"
 msgid "(Cu) Copper is a conductive <style=\"RawMetal\">Metal</style> heated into a <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "(Cu) Miedź jest przewodzącym <style=\"RawMetal\">Metalem</style>po podgrzaniu zamienia się w<style=\"gas\">Gaz</style>."
 
 #. STRINGS.ELEMENTS.COPPERGAS.NAME
 msgctxt "STRINGS.ELEMENTS.COPPERGAS.NAME"
@@ -343,18 +364,21 @@ msgid ""
 "\n"
 "Duplicants are printed from pure <style=\"solid\">Ooze</style>."
 msgstr ""
+"(DuPe) Szlam to gnojówka wody, węgla i dziesiątki różnych śladowych pierwiastków.\n"
+"\n"
+"Duplikaty są drukowane z czystego <style=\"solid\">Mułu</style>."
 
 #. STRINGS.ELEMENTS.CREATURE.NAME
 msgctxt "STRINGS.ELEMENTS.CREATURE.NAME"
 msgid "Genetic Ooze"
-msgstr ""
+msgstr "Szlam genetyczny"
 
 #. STRINGS.ELEMENTS.CRUDEOIL.DESC
 #| msgctxt "STRINGS.ELEMENTS.CRUDEOIL.DESC"
 #| msgid "A raw <style=\"power\">Power</style> source composed of billions of dead, primordial organisms."
 msgctxt "STRINGS.ELEMENTS.CRUDEOIL.DESC"
 msgid "Crude Oil is a raw <style=\"power\">Power</style> source composed of billions of dead, primordial organisms."
-msgstr ""
+msgstr "Ropa to surowe źródło <style=\"power\">Energii</style> złożone z miliardów martwych, pierwotnych organizmów."
 
 #. STRINGS.ELEMENTS.CRUDEOIL.NAME
 msgctxt "STRINGS.ELEMENTS.CRUDEOIL.NAME"
@@ -369,12 +393,12 @@ msgstr "(H2O) Breja pokruszonego, lekko zmrożonego lodu."
 #. STRINGS.ELEMENTS.CRUSHEDICE.NAME
 msgctxt "STRINGS.ELEMENTS.CRUSHEDICE.NAME"
 msgid "Crushed Ice"
-msgstr ""
+msgstr "Kruchy lód"
 
 #. STRINGS.ELEMENTS.CRUSHEDROCK.DESC
 msgctxt "STRINGS.ELEMENTS.CRUSHEDROCK.DESC"
 msgid "Crushed Rock is <style=\"solid\">Igneous Rock</style> crushed into a mechanical mixture."
-msgstr ""
+msgstr "Krucha skała to <style="solid"\">Kamień magmowy</style> kruszony na mechaniczną mieszaninę."
 
 #. STRINGS.ELEMENTS.CRUSHEDROCK.NAME
 msgctxt "STRINGS.ELEMENTS.CRUSHEDROCK.NAME"
@@ -388,6 +412,9 @@ msgid ""
 "\n"
 "It is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
+"(Cu20) Ruda miedzi jest przewodzącym <style=\"RawMetal\">Metalem</style>.\n"
+"\n"
+"Jest odpowiedni do budowania systemów <style=\"power\">Zasilania</style>."
 
 #. STRINGS.ELEMENTS.CUPRITE.NAME
 msgctxt "STRINGS.ELEMENTS.CUPRITE.NAME"
@@ -401,11 +428,14 @@ msgid ""
 "\n"
 "It is very difficult to excavate."
 msgstr ""
+"(C) Diament to węgiel o wysokiej gęstości do zastosowań przemysłowych.\n"
+"\n"
+"Bardzo trudno jest wykopać."
 
 #. STRINGS.ELEMENTS.DIAMOND.NAME
 msgctxt "STRINGS.ELEMENTS.DIAMOND.NAME"
 msgid "Diamond"
-msgstr ""
+msgstr "Diamont"
 
 #. STRINGS.ELEMENTS.DIRT.DESC
 msgctxt "STRINGS.ELEMENTS.DIRT.DESC"
@@ -414,6 +444,9 @@ msgid ""
 "\n"
 "It is necessary in some forms of <style=\"food\">Food</style> production."
 msgstr ""
+"Brud to miękka, bogata w substancje odżywcze substancja zdolna do podtrzymywania życia.\n"
+"\n"
+"Jest przydatny w niektórych procesach produkcji <style=\"food\">Jedzenia</style>."
 
 #. STRINGS.ELEMENTS.DIRT.NAME
 msgctxt "STRINGS.ELEMENTS.DIRT.NAME"
@@ -423,12 +456,12 @@ msgstr "Ziemia"
 #. STRINGS.ELEMENTS.DIRTYICE.DESC
 msgctxt "STRINGS.ELEMENTS.DIRTYICE.DESC"
 msgid "Polluted Ice is <style=\"disease\">Disease</style> infested water frozen into a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "Zanieczyszczony lód jest <style=\"disease\">Chorobową</style> zarażoną wodą zamrożoną w <style=\"solid\">Solidnym</style> stanie."
 
 #. STRINGS.ELEMENTS.DIRTYICE.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYICE.NAME"
 msgid "Polluted Ice"
-msgstr ""
+msgstr "Zanieczyszczony lód"
 
 #. STRINGS.ELEMENTS.DIRTYWATER.DESC
 msgctxt "STRINGS.ELEMENTS.DIRTYWATER.DESC"
@@ -437,11 +470,14 @@ msgid ""
 "\n"
 "It is not fit for consumption."
 msgstr ""
+"Zanieczyszczona woda jest <style=\"disease\">Chorobową</style>zarażoną<style=\"liquid\">Wodą</style>.\n"
+"\n"
+"Nie nadaje się do konsumpcji".
 
 #. STRINGS.ELEMENTS.DIRTYWATER.NAME
 msgctxt "STRINGS.ELEMENTS.DIRTYWATER.NAME"
 msgid "Polluted Water"
-msgstr ""
+msgstr "Zanieczyszczona woda"
 
 #. STRINGS.ELEMENTS.ELECTRUM.DESC
 msgctxt "STRINGS.ELEMENTS.ELECTRUM.DESC"
@@ -450,11 +486,14 @@ msgid ""
 "\n"
 "It is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
+"Elektrum jest przewodzącym stopem <style=\"RawMetal\">Metalu</ style> złożonym ze złota i srebra.\n"
+"\n"
+"Jest odpowiedni do budowania systemów <style=\"power\">Zasilania</style>."
 
 #. STRINGS.ELEMENTS.ELECTRUM.NAME
 msgctxt "STRINGS.ELEMENTS.ELECTRUM.NAME"
 msgid "Electrum"
-msgstr ""
+msgstr "Elektrum"
 
 #. STRINGS.ELEMENTS.ELEMENTDESCGAS
 msgctxt "STRINGS.ELEMENTS.ELEMENTDESCGAS"
@@ -462,6 +501,8 @@ msgid ""
 "Resource Type: {0}\n"
 "Condensation point: {1}"
 msgstr ""
+"Typ zasobu: {0}\n"
+"Punkt kondensacji: {1}"
 
 #. STRINGS.ELEMENTS.ELEMENTDESCLIQUID
 msgctxt "STRINGS.ELEMENTS.ELEMENTDESCLIQUID"
@@ -470,6 +511,9 @@ msgid ""
 "Freezing point: {1}\n"
 "Evaporation point: {2}"
 msgstr ""
+"Typ zasobu: {0}\n"
+"Punkt zamarzania: {1}\n"
+"Punkt odparowania: {2}"
 
 #. STRINGS.ELEMENTS.ELEMENTDESCSOLID
 msgctxt "STRINGS.ELEMENTS.ELEMENTDESCSOLID"
@@ -478,6 +522,9 @@ msgid ""
 "Melting point: {1}\n"
 "Hardness: {2}"
 msgstr ""
+"Typ zasobu: {0}\n"
+"Temperatura topnienia: {1}\n"
+"Twardość: {2}"
 
 #. STRINGS.ELEMENTS.ELEMENTDESCVACUUM
 msgctxt "STRINGS.ELEMENTS.ELEMENTDESCVACUUM"
@@ -487,7 +534,7 @@ msgstr ""
 #. STRINGS.ELEMENTS.ELEMENTPROPERTIES
 msgctxt "STRINGS.ELEMENTS.ELEMENTPROPERTIES"
 msgid "Properties: {0}"
-msgstr ""
+msgstr "Właściwości: {0}"
 
 #. STRINGS.ELEMENTS.FERTILIZER.DESC
 msgctxt "STRINGS.ELEMENTS.FERTILIZER.DESC"
@@ -496,6 +543,9 @@ msgid ""
 "\n"
 "It aids in the growth of certain <style=\"plant\">Plants</style>."
 msgstr ""
+"Nawóz jest przetworzoną mieszaniną biologicznych składników odżywczych.\n"
+"\n"
+"Pomaga w rozwoju niektórych <style=\"plant\">Roślin</ style>."
 
 #. STRINGS.ELEMENTS.FERTILIZER.NAME
 msgctxt "STRINGS.ELEMENTS.FERTILIZER.NAME"
@@ -509,11 +559,14 @@ msgid ""
 "\n"
 "Also known as \"Fool's Gold\", is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
+"(FeS2) Piryt jest przewodzącym <style=\"RawMetal\">Metalem</style>.\n"
+"\n"
+"Znany również jako \"Fool's Gold\", nadaje się do budowania systemów <style=\"power\">Zasilania</style>."
 
 #. STRINGS.ELEMENTS.FOOLSGOLD.NAME
 msgctxt "STRINGS.ELEMENTS.FOOLSGOLD.NAME"
 msgid "Pyrite"
-msgstr ""
+msgstr "Piryt"
 
 #. STRINGS.ELEMENTS.GOLD.DESC
 msgctxt "STRINGS.ELEMENTS.GOLD.DESC"
@@ -522,6 +575,9 @@ msgid ""
 "\n"
 "It is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
+"(Au) Złoto jest przewodzącym cennym <style=\"RawMetal\">Metalem</style>.\n"
+"\n"
+"Jest odpowiedni do budowania systemów <style=\"power\">Zasilania</style>."
 
 #. STRINGS.ELEMENTS.GOLD.NAME
 msgctxt "STRINGS.ELEMENTS.GOLD.NAME"
@@ -535,16 +591,19 @@ msgid ""
 "\n"
 "It is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
+"Złoty Amalgamat jest przewodzącym amalgamatem złota i rtęci.\n"
+"\n"
+"Jest odpowiedni do budowania systemów <style=\"power\">Zasilania</style>."
 
 #. STRINGS.ELEMENTS.GOLDAMALGAM.NAME
 msgctxt "STRINGS.ELEMENTS.GOLDAMALGAM.NAME"
 msgid "Gold Amalgam"
-msgstr ""
+msgstr "Złoty Amalgamat"
 
 #. STRINGS.ELEMENTS.GOLDGAS.DESC
 msgctxt "STRINGS.ELEMENTS.GOLDGAS.DESC"
 msgid "(Au) Gold is a conductive precious <style=\"RawMetal\">Metal</style>, heated into a <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "(Au) Złoto jest przewodzącym cennym <style=\"RawMetal\">Metalem</style>, podgrzewany staje się <style=\"gas\">Gazem</style>."
 
 #. STRINGS.ELEMENTS.GOLDGAS.NAME
 msgctxt "STRINGS.ELEMENTS.GOLDGAS.NAME"
@@ -563,6 +622,9 @@ msgid ""
 "\n"
 "It is useful as a <style=\"RawMineral\">Construction Material</style>."
 msgstr ""
+"Granit jest gęstym kompozytem <style=\"RawMineral\">Skały Magmowej</style>.\n"
+"\n"
+"Jest używany jako <style=\"RawMineral\">Materiał konstrukcyjny</style>."
 
 #. STRINGS.ELEMENTS.GRANITE.NAME
 msgctxt "STRINGS.ELEMENTS.GRANITE.NAME"
@@ -607,7 +669,7 @@ msgstr "{0} (Bardzo Miękkie)"
 #. STRINGS.ELEMENTS.HELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.HELIUM.DESC"
 msgid "(He) Helium is an atomically lightweight, chemical <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "(He) Hel to atomowo lekki, chemiczny <style=\"gas\">Gaz</style>."
 
 #. STRINGS.ELEMENTS.HELIUM.NAME
 msgctxt "STRINGS.ELEMENTS.HELIUM.NAME"
@@ -617,7 +679,7 @@ msgstr "Hel"
 #. STRINGS.ELEMENTS.HYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.HYDROGEN.DESC"
 msgid "(H) Hydrogen is the universe's most common and atomically light element in a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "(H) Wodór jest najbardziej powszechnym i atomowo lekkim elementem wszechświata w stanie <style=\"gas\">Gazowym</style>."
 
 #. STRINGS.ELEMENTS.HYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.HYDROGEN.NAME"
@@ -627,7 +689,7 @@ msgstr "Wodór"
 #. STRINGS.ELEMENTS.ICE.DESC
 msgctxt "STRINGS.ELEMENTS.ICE.DESC"
 msgid "(H20) Ice is clean water frozen into a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(H20) Lód jest czystą wodą zamrożoną w <style=\"solid\">Solidnym</style> stanie."
 
 #. STRINGS.ELEMENTS.ICE.NAME
 msgctxt "STRINGS.ELEMENTS.ICE.NAME"
@@ -646,6 +708,9 @@ msgid ""
 "\n"
 "It is useful as a <style=\"RawMineral\">Construction Material</style>."
 msgstr ""
+"Skała Magmowa jest złożem zastygłej skały wulkanicznej.\n"
+"\n"
+"Jest używany jako <style=\"RawMineral\">Materiał konstrukcyjny</style>."
 
 #. STRINGS.ELEMENTS.IGNEOUSROCK.NAME
 msgctxt "STRINGS.ELEMENTS.IGNEOUSROCK.NAME"
@@ -655,7 +720,7 @@ msgstr "Skały Magmowe"
 #. STRINGS.ELEMENTS.IRON.DESC
 msgctxt "STRINGS.ELEMENTS.IRON.DESC"
 msgid "(Fe) Iron is a common industrial <style=\"RawMetal\">Metal</style>."
-msgstr ""
+msgstr "(Fe) Żelazo to powszechnie stosowany w przemyśle <style=\"RawMetal\">Metal</style>."
 
 #. STRINGS.ELEMENTS.IRON.NAME
 msgctxt "STRINGS.ELEMENTS.IRON.NAME"
@@ -665,7 +730,7 @@ msgstr "Źelazo"
 #. STRINGS.ELEMENTS.IRONGAS.DESC
 msgctxt "STRINGS.ELEMENTS.IRONGAS.DESC"
 msgid "(Fe) Iron is a common industrial <style=\"RawMetal\">Metal</style>, heated into a <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "(Fe) Żelazo to powszechnie stosowany w przemyśle <style=\"RawMetal\">Metal</ style>, podgrzaniu staje się <style=\"gas\">Gazem</ style>."
 
 #. STRINGS.ELEMENTS.IRONGAS.NAME
 msgctxt "STRINGS.ELEMENTS.IRONGAS.NAME"
@@ -677,7 +742,7 @@ msgstr "Żelazo"
 #| msgid "Requires more <style=\"power\">Power</style>"
 msgctxt "STRINGS.ELEMENTS.IRONINGOT.DESC"
 msgid "Iron is refined <style=\"RawMetal\">Iron Ore</style>."
-msgstr ""
+msgstr "Żelazo jest uzyskiwany z <style=\"RawMetal\">Rudy żelaza</style>."
 
 #. STRINGS.ELEMENTS.IRONINGOT.NAME
 msgctxt "STRINGS.ELEMENTS.IRONINGOT.NAME"
@@ -691,6 +756,9 @@ msgid ""
 "\n"
 "It is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
+"(Fe) Ruda Żelaza to miękki materiał <style=\"RawMetal\">Metal</style>, który można wzmocnić do celów przemysłowych poprzez wytapianie.\n"
+"\n"
+"Jest odpowiedni do budowania systemów <style=\"power\">Zasilania</ style>."
 
 #. STRINGS.ELEMENTS.IRONORE.NAME
 msgctxt "STRINGS.ELEMENTS.IRONORE.NAME"
@@ -700,18 +768,18 @@ msgstr "Ruda Żelaza"
 #. STRINGS.ELEMENTS.KATAIRITE.DESC
 msgctxt "STRINGS.ELEMENTS.KATAIRITE.DESC"
 msgid "(Ab) Abyssalite is a resilient, crystalline element."
-msgstr ""
+msgstr "(Ab) Abyssalit jest sprężystym, krystalicznym pierwiastkiem."
 
 #. STRINGS.ELEMENTS.KATAIRITE.NAME
 msgctxt "STRINGS.ELEMENTS.KATAIRITE.NAME"
 msgid "Abyssalite"
-msgstr ""
+msgstr "Abyssalit"
 
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.DESC"
 msgid ""
 "(CO2) Carbon Dioxide is a toxic chemical compound. This selection is currently in a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(CO2) Dwutlenek węgla jest toksycznym związkiem chemicznym. Zawarty jest obecnie w stanie <style=\"liquid\">Ciekłym</ style>."
 
 #. STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDCARBONDIOXIDE.NAME"
@@ -721,7 +789,7 @@ msgstr "Dwutlenek Węgla"
 #. STRINGS.ELEMENTS.LIQUIDHELIUM.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDHELIUM.DESC"
 msgid "(He) Helium is an atomically lightweight chemical element cooled into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(He) Hel to atomowo lekki pierwiastek chemiczny schłodzony staje się <style=\"liquid\">Cieczą</ style>."
 
 #. STRINGS.ELEMENTS.LIQUIDHELIUM.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDHELIUM.NAME"
@@ -735,6 +803,9 @@ msgid ""
 "\n"
 "It freezes most substances that come into contact with it."
 msgstr ""
+"(H) Wodór to substancja chemiczna w postaci <style=\"liquid\">Cieczy</styl>.\n"
+"\ n"
+"Zamraża większość substancji, które mają z nim kontakt".
 
 #. STRINGS.ELEMENTS.LIQUIDHYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDHYDROGEN.NAME"
@@ -748,11 +819,14 @@ msgid ""
 "\n"
 "This selection is in a <style=\"liquid\">Liquid</style> state."
 msgstr ""
+"(CH4) Metan to alkan.\n"
+"\n"
+"Zawarty jest w <style=\"liquid\">Cieczy</style>."
 
 #. STRINGS.ELEMENTS.LIQUIDMETHANE.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDMETHANE.NAME"
 msgid "Methane"
-msgstr ""
+msgstr "Metan"
 
 #. STRINGS.ELEMENTS.LIQUIDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.LIQUIDOXYGEN.DESC"
@@ -761,6 +835,9 @@ msgid ""
 "\n"
 "This selection is in a <style=\"liquid\">Liquid</style> state."
 msgstr ""
+"(O2) Tlen to substancja chemiczna do oddychania.\n"
+"\n"
+"Zawarty jest w <style=\"liquid\">Cieczy</style>."
 
 #. STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDOXYGEN.NAME"
@@ -774,6 +851,9 @@ msgid ""
 "\n"
 "This selection is in a <style=\"liquid\">Liquid</style> state."
 msgstr ""
+"(P) Fosfor to pierwiastek chemiczny.\n"
+"\n"
+"Zawarty jest w stanie <style=\"liquid\">Ciekłym</style>."
 
 #. STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDPHOSPHORUS.NAME"
@@ -792,6 +872,9 @@ msgid ""
 "\n"
 "It is useful in <style=\"power\">Power</style> production."
 msgstr ""
+"(C3H8) Propan to alkan w stanie <style=\"liquid\">Cieczy</style>.\n"
+"\n"
+"Jest przydatny w produkcji <style=\"power\">Energii</ style>."
 
 #. STRINGS.ELEMENTS.LIQUIDPROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.LIQUIDPROPANE.NAME"
@@ -804,16 +887,17 @@ msgid ""
 "Magma is a composite of <style=\"RawMineral\">Igneous Rock</style> heated into a molten, <style=\"liquid\">Liquid</style> "
 "state."
 msgstr ""
+"Magma jest kompozytem <style=\"RawMineral\">Skały Magmowej</style> po rozgrzaniu stopi się w <style=\"liquid\">Ciecz</style>"
 
 #. STRINGS.ELEMENTS.MAGMA.NAME
 msgctxt "STRINGS.ELEMENTS.MAGMA.NAME"
 msgid "Magma"
-msgstr ""
+msgstr "Magma"
 
 #. STRINGS.ELEMENTS.MERCURY.DESC
 msgctxt "STRINGS.ELEMENTS.MERCURY.DESC"
 msgid "(Hg) Mercury is a toxic, <style=\"RawMetal\">Metallic</style> <style=\"liquid\">Liquid</style>."
-msgstr ""
+msgstr "(Hg) Rtęć jest toksyczną, <style=\"RawMetal\">Metaliczną</style> <style =\"liquid \">Cieczą</ style>."
 
 #. STRINGS.ELEMENTS.MERCURY.NAME
 msgctxt "STRINGS.ELEMENTS.MERCURY.NAME"
@@ -823,7 +907,7 @@ msgstr "Rtęć"
 #. STRINGS.ELEMENTS.MERCURYGAS.DESC
 msgctxt "STRINGS.ELEMENTS.MERCURYGAS.DESC"
 msgid "(Hg) Mercury is a toxic <style=\"RawMetal\">Metal</style> heated into a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "(Hg) Rtęć to toksyczny <style=\"RawMetal\">Metal</style> rozgrzany staje się <style=\"gas\">Gazem</ style>."
 
 #. STRINGS.ELEMENTS.MERCURYGAS.NAME
 msgctxt "STRINGS.ELEMENTS.MERCURYGAS.NAME"
@@ -837,18 +921,21 @@ msgid ""
 "\n"
 "It is useful in <style=\"power\">Power</style> production."
 msgstr ""
+"Gaz ziemny to mieszanka różnych alkanów w stanie <style=\"gas\">Gazowym</style>.\n"
+"\n"
+"Jest przydatny w produkcji <style=\"power\">Energii</ style>."
 
 #. STRINGS.ELEMENTS.METHANE.NAME
 #| msgctxt "STRINGS.DUPLICANTS.TRAITS.STRONGIMMUNESYSTEM.NAME"
 #| msgid "Naturally Robust"
 msgctxt "STRINGS.ELEMENTS.METHANE.NAME"
 msgid "Natural Gas"
-msgstr ""
+msgstr "Naturalny Gaz"
 
 #. STRINGS.ELEMENTS.MOLTENCARBON.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENCARBON.DESC"
 msgid "(C) Carbon is an abundant, versatile element heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(C) Węgiel jest powszechnie występującym, wszechstronnym surowcem do ogrzewania do stanu <style=\"liquid\">Cieczy</style>."
 
 #. STRINGS.ELEMENTS.MOLTENCARBON.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENCARBON.NAME"
@@ -858,7 +945,7 @@ msgstr "Węgiel"
 #. STRINGS.ELEMENTS.MOLTENCOPPER.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENCOPPER.DESC"
 msgid "(Cu) Copper is a conductive <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(Cu) Miedź jest przewodzącym <style=\"RawMetal\">Metalem</style> po podgrzaniu staje się <style=\"liquid\">Cieczą</style>."
 
 #. STRINGS.ELEMENTS.MOLTENCOPPER.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENCOPPER.NAME"
@@ -868,18 +955,18 @@ msgstr "Miedź"
 #. STRINGS.ELEMENTS.MOLTENGLASS.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENGLASS.DESC"
 msgid "Molten Glass is a composite of granular rock heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "Stopione szkło jest kompozytem z granulowanej skały po podgrzaniu staje się <style=\"liquid\">Cieczą</ style>."
 
 #. STRINGS.ELEMENTS.MOLTENGLASS.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENGLASS.NAME"
 msgid "Molten Glass"
-msgstr ""
+msgstr "Stopione szkło"
 
 #. STRINGS.ELEMENTS.MOLTENGOLD.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENGOLD.DESC"
 msgid ""
 "(Au) Gold is a conductive precious <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(Au) Złoto jest przewodzącym cennym <style=\"RawMetal\">Metalem</style> podgrzany staje się <style=\"liquid\"> Liquid </style>."
 
 #. STRINGS.ELEMENTS.MOLTENGOLD.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENGOLD.NAME"
@@ -889,12 +976,12 @@ msgstr "Złoto"
 #. STRINGS.ELEMENTS.MOLTENIRON.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENIRON.DESC"
 msgid "(Fe) Iron is a common industrial <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(Fe) Żelazo jest powszechnym industrialnym <style=\"RawMetal\">Metalem</style> podgrzany staje się <style=\"liquid\">Cieczą</style>"
 
 #. STRINGS.ELEMENTS.MOLTENIRON.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENIRON.NAME"
 msgid "Iron"
-msgstr ""
+msgstr "Żelazo"
 
 #. STRINGS.ELEMENTS.MOLTENSTEEL.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENSTEEL.DESC"
@@ -902,21 +989,23 @@ msgid ""
 "Steel is a <style=\"RawMetal\">Metal</style> alloy of iron and carbon, heated into a hazardous <style=\"liquid\">Liquid</"
 "style> state."
 msgstr ""
+"Stal jest stopem <style=\"RawMetal\">Metalu</style> żelaza i węgla, podgrzany staje się niebezpieczną <style=\"liquid\">Cieczą</"
+"styl>."
 
 #. STRINGS.ELEMENTS.MOLTENSTEEL.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENSTEEL.NAME"
 msgid "Steel"
-msgstr ""
+msgstr "Stal"
 
 #. STRINGS.ELEMENTS.MOLTENTUNGSTEN.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENTUNGSTEN.DESC"
 msgid "(W) Tungsten is a crystalline <style=\"RawMetal\">Metal</style> heated into a <style=\"liquid\">Liquid</style> state."
-msgstr ""
+msgstr "(W) Wolfram jest krystalicznym <style=\"RawMetal\">Metalem</style> podgrzany staje się <style=\"liquid\">Cieczą</ style>."
 
 #. STRINGS.ELEMENTS.MOLTENTUNGSTEN.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENTUNGSTEN.NAME"
 msgid "Tungsten"
-msgstr ""
+msgstr "Wolfram"
 
 #. STRINGS.ELEMENTS.MOLTENTUNGSTENDISELENIDE.DESC
 msgctxt "STRINGS.ELEMENTS.MOLTENTUNGSTENDISELENIDE.DESC"
@@ -924,16 +1013,18 @@ msgid ""
 "(WSe2) Tungsten Diselenide is an inorganic <style=\"RawMetal\">Metal</style> compound heated into a <style=\"liquid\">Liquid</"
 "style> state."
 msgstr ""
+"(WSe2) Diselenek wolframu jest nieorganicznym związkiem <style=\"RawMetal\">Metalu</style> pogrzewanym staje się <style=\"liquid\">Cieczą</"
+"styl>."
 
 #. STRINGS.ELEMENTS.MOLTENTUNGSTENDISELENIDE.NAME
 msgctxt "STRINGS.ELEMENTS.MOLTENTUNGSTENDISELENIDE.NAME"
 msgid "Tungsten Diselenide"
-msgstr ""
+msgstr "Diselenek wolframu"
 
 #. STRINGS.ELEMENTS.OBSIDIAN.DESC
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.DESC"
 msgid "Obsidian is a brittle composite of volcanic <style=\"solid\">Glass</style>."
-msgstr ""
+msgstr "Obsydian jest kruchym <style=\"solid\">szklanym</style> kompozytem wulkanicznym."
 
 #. STRINGS.ELEMENTS.OBSIDIAN.NAME
 msgctxt "STRINGS.ELEMENTS.OBSIDIAN.NAME"
@@ -947,6 +1038,9 @@ msgid ""
 "\n"
 "It tends to rise above other gases."
 msgstr ""
+(O2) Tlen jest atomowo lekkim potrzebnym do oddychania <style=\"gaz\">Gazem</styl>, niezbędny do podtrzymania życia.\n "
+"\n"
+"Ma skłonność do wznoszenia się ponad inne gazy."
 
 #. STRINGS.ELEMENTS.OXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.OXYGEN.NAME"
@@ -960,26 +1054,29 @@ msgid ""
 "\n"
 "The rate of oxygen emission will increase when excavated, but it will lose mass and deplete more rapidly."
 msgstr ""
+"(Ir3O2) Oxylit jest związkiem chemicznym, który powoli wydziela <style=\"oxygen\">Tlen</style>.\n"
+"\n"
+"Tempo emisji tlenu wzrośnie po wydobyciu, ale straci masę i szybciej zubożeje."
 
 #. STRINGS.ELEMENTS.OXYROCK.NAME
 msgctxt "STRINGS.ELEMENTS.OXYROCK.NAME"
 msgid "Oxylite"
-msgstr ""
+msgstr "Oxylit"
 
 #. STRINGS.ELEMENTS.PHOSPHATENODULES.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHATENODULES.DESC"
 msgid "(PO3-4) Nodules of sedimentary rock containing high concentrations of phosphate."
-msgstr ""
+msgstr "(PO3-4) Guzy skały osadowej zawierające wysokie stężenia fosforanów."
 
 #. STRINGS.ELEMENTS.PHOSPHATENODULES.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHATENODULES.NAME"
 msgid "Phosphate Nodules"
-msgstr ""
+msgstr "Fosforanowe guzki"
 
 #. STRINGS.ELEMENTS.PHOSPHORITE.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORITE.DESC"
 msgid "Phosphorite is a composite of sedimentary rock, saturated with phosphate."
-msgstr ""
+msgstr "Fosforyt to złożony kamień osadowy, nasycony fosforanem."
 
 #. STRINGS.ELEMENTS.PHOSPHORITE.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORITE.NAME"
@@ -989,7 +1086,7 @@ msgstr "Fosforyt"
 #. STRINGS.ELEMENTS.PHOSPHORUS.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUS.DESC"
 msgid "(P) Phosphorus is a chemical element in its <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(P) Fosfor jest pierwiastkiem chemicznym w stanie <style=\"solid\">Stałym</style>."
 
 #. STRINGS.ELEMENTS.PHOSPHORUS.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUS.NAME"
@@ -999,7 +1096,7 @@ msgstr "Fosfor"
 #. STRINGS.ELEMENTS.PHOSPHORUSGAS.DESC
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUSGAS.DESC"
 msgid "(P) Phosphorus is a chemical element in a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "(P) Fosfor to pierwiastek chemiczny w stanie <style=\"gas\">Gazowym</tyle>."
 
 #. STRINGS.ELEMENTS.PHOSPHORUSGAS.NAME
 msgctxt "STRINGS.ELEMENTS.PHOSPHORUSGAS.NAME"
@@ -1014,11 +1111,15 @@ msgid ""
 "It may be processed into <style=\"solid\">Fertilizer</style> and aids in the growth of certain <style=\"plant\">Plants</"
 "style>."
 msgstr ""
+"Pondscum to miękki, naturalnie występujący kompleks biologicznych składników odżywczych.\n"
+"\n"
+"Może być przetworzone na <style=\"solid\">Nawóz</styl> i pomaga w rozwoju niektórych roślin <style=\"plant\">Plants</"
+"styl>."
 
 #. STRINGS.ELEMENTS.PONDSCUM.NAME
 msgctxt "STRINGS.ELEMENTS.PONDSCUM.NAME"
-msgid "Pondscum"
-msgstr ""
+msgid "Szlam"
+msgstr "Szlam"
 
 #. STRINGS.ELEMENTS.PROPANE.DESC
 msgctxt "STRINGS.ELEMENTS.PROPANE.DESC"
@@ -1027,6 +1128,9 @@ msgid ""
 "\n"
 "It is useful in <style=\"power\">Power</style> production."
 msgstr ""
+"(C3H8) Propan jest naturalnym <style=\"gas\">Gazem</style> alkanowym.\n"
+"\n"
+"Jest przydatny w produkcji <style=\"power\">Energii</style>."
 
 #. STRINGS.ELEMENTS.PROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.PROPANE.NAME"
@@ -1040,6 +1144,9 @@ msgid ""
 "\n"
 "It is useful as a <style=\"power\">Power</style> source."
 msgstr ""
+"(Ra) Rad jest <style=\"light\">Świecącą</style> emitującym substancją radioaktywną .\n"
+"\ n"
+"Jest użyteczny jako źródło <style=\"power\">Energii</style>."
 
 #. STRINGS.ELEMENTS.RADIUM.NAME
 msgctxt "STRINGS.ELEMENTS.RADIUM.NAME"
@@ -1049,7 +1156,7 @@ msgstr "Rad"
 #. STRINGS.ELEMENTS.ROCKGAS.DESC
 msgctxt "STRINGS.ELEMENTS.ROCKGAS.DESC"
 msgid "Rock Gas is rock that has been superheated into a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "Gaz skalny to skała, która została przegrzana staje się <style=\"gas\">Gazem</style>."
 
 #. STRINGS.ELEMENTS.ROCKGAS.NAME
 msgctxt "STRINGS.ELEMENTS.ROCKGAS.NAME"
@@ -1063,6 +1170,9 @@ msgid ""
 "\n"
 "It is useful as a <style=\"misc\">Filtration Medium</style>."
 msgstr ""
+"Piasek jest kompozytem z ziarnistej skały.\n"
+"\ n"
+"Jest użyteczny jako <style=\"misc\">Medium filtracyjne</style>."
 
 #. STRINGS.ELEMENTS.SAND.NAME
 msgctxt "STRINGS.ELEMENTS.SAND.NAME"
@@ -1081,6 +1191,9 @@ msgid ""
 "\n"
 "It is useful as a <style=\"RawMineral\">Construction Material</style>."
 msgstr ""
+"Piaskowiec jest złożem stosunkowo miękkiej skały osadowej.\n"
+"\n"
+"Jest używany jako <style=\"RawMineral\">Materiał konstrukcyjny</style>."
 
 #. STRINGS.ELEMENTS.SANDSTONE.NAME
 msgctxt "STRINGS.ELEMENTS.SANDSTONE.NAME"
@@ -1099,6 +1212,9 @@ msgid ""
 "\n"
 "It is useful as a <style=\"RawMineral\">Construction Material</style>."
 msgstr ""
+"Skała osadowa jest utwardzonym złożem warstw osadów.\n"
+"\n"
+"Jest używany jako <style=\"RawMineral\"> Materiał konstrukcyjny</style>."
 
 #. STRINGS.ELEMENTS.SEDIMENTARYROCK.NAME
 msgctxt "STRINGS.ELEMENTS.SEDIMENTARYROCK.NAME"
@@ -1113,6 +1229,10 @@ msgid ""
 "It can be distilled into <style=\"solid\">Algae</style> and is useful in some <style=\"oxygen\">Oxygen</style> production "
 "processes."
 msgstr ""
+"Szlam to gruba biomiksulacja glonów, grzybów i mukopolisacharydów.\n"
+"\n"
+"Można go oddestylować do <style=\"solid\">Glonów </style> i jest użyteczny w niektórych procesach produkcji <style=\"oxygen\">Tlenu</style>."
+
 
 #. STRINGS.ELEMENTS.SLIMEMOLD.NAME
 msgctxt "STRINGS.ELEMENTS.SLIMEMOLD.NAME"
@@ -1126,16 +1246,19 @@ msgid ""
 "\n"
 "It becomes <style=\"liquid\">Water</style> when melted."
 msgstr ""
+"(H20) Śnieg to masa luźnych, krystalicznych cząsteczek lodu.\n"
+"\n"
+"Po stopieniu staje się <style=\"liquid\">Wodą</styl>."
 
 #. STRINGS.ELEMENTS.SNOW.NAME
 msgctxt "STRINGS.ELEMENTS.SNOW.NAME"
 msgid "Snow"
-msgstr ""
+msgstr "Śnieg"
 
 #. STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.DESC"
 msgid "(CO2) Carbon Dioxide is a toxic compound in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(CO2) Dwutlenek węgla jest trującym związkiem w <style=\"solid\">Solidnym</style> stanie."
 
 #. STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCARBONDIOXIDE.NAME"
@@ -1145,7 +1268,7 @@ msgstr "Dwutlenek Węgla"
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.DESC"
 msgid "(Cl) Chlorine is a toxic chemical element in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(Cl) Chlor jest toksycznym pierwiastkiem chemicznym w <style=\"solid\">Solidnym</style>stanie."
 
 #. STRINGS.ELEMENTS.SOLIDCHLORINE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDCHLORINE.NAME"
@@ -1155,7 +1278,7 @@ msgstr "Chlor"
 #. STRINGS.ELEMENTS.SOLIDHYDROGEN.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDHYDROGEN.DESC"
 msgid "(H) Hydrogen is the universe's most common element in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(H) Wodór jest najczęstszym elementem wszechświata w <style=\"solid\">Solidnym</style> stanie."
 
 #. STRINGS.ELEMENTS.SOLIDHYDROGEN.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDHYDROGEN.NAME"
@@ -1165,7 +1288,7 @@ msgstr "Wodór"
 #. STRINGS.ELEMENTS.SOLIDMERCURY.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDMERCURY.DESC"
 msgid "(Hg) Mercury is a toxic <style=\"RawMetal\">Metal</style> in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(Hg) Rtęć jest toksycznym <style=\"RawMetal\">Metalem</style> w <style=\"solid\">Solidnym</style> stanie."
 
 #. STRINGS.ELEMENTS.SOLIDMERCURY.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDMERCURY.NAME"
@@ -1175,17 +1298,17 @@ msgstr "Rtęć"
 #. STRINGS.ELEMENTS.SOLIDMETHANE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDMETHANE.DESC"
 msgid "(CH4) Methane is an alkane in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(CH4) Metan to alkan w <style=\"solid\">Solidnym</style> stanie."
 
 #. STRINGS.ELEMENTS.SOLIDMETHANE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDMETHANE.NAME"
 msgid "Methane"
-msgstr ""
+msgstr "Metan"
 
 #. STRINGS.ELEMENTS.SOLIDOXYGEN.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDOXYGEN.DESC"
 msgid "(O2) Oxygen is a breathable element in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(O2) Tlen jest elementem oddychania w <style=\"solid\">Solidnym</style> stanie."
 
 #. STRINGS.ELEMENTS.SOLIDOXYGEN.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDOXYGEN.NAME"
@@ -1195,7 +1318,7 @@ msgstr "Tlen"
 #. STRINGS.ELEMENTS.SOLIDPROPANE.DESC
 msgctxt "STRINGS.ELEMENTS.SOLIDPROPANE.DESC"
 msgid "(C3H8) Propane is a natural gas in a <style=\"solid\">Solid</style> state."
-msgstr ""
+msgstr "(C3H8) Propan jest gazem ziemnym w <style=\"solid\">Solidnym</style> stanie."
 
 #. STRINGS.ELEMENTS.SOLIDPROPANE.NAME
 msgctxt "STRINGS.ELEMENTS.SOLIDPROPANE.NAME"
@@ -1225,17 +1348,17 @@ msgstr "Żaden"
 #. STRINGS.ELEMENTS.STEAM.DESC
 msgctxt "STRINGS.ELEMENTS.STEAM.DESC"
 msgid "(H20) Steam is water that has been heated into a scalding <style=\"gas\">Gas</style>."
-msgstr ""
+msgstr "(H20) Para wodna to woda, która po podgrzaniu do wrzenia stała <style=\"gas\">Gaem</style>."
 
 #. STRINGS.ELEMENTS.STEAM.NAME
 msgctxt "STRINGS.ELEMENTS.STEAM.NAME"
 msgid "Steam"
-msgstr "Para"
+msgstr "Para wodna"
 
 #. STRINGS.ELEMENTS.STEEL.DESC
 msgctxt "STRINGS.ELEMENTS.STEEL.DESC"
 msgid "Steel is a <style=\"RefinedMetal\">Metal Alloy</style> composed of iron and carbon."
-msgstr ""
+msgstr "Stal to <style=\"RafinedMetal\">Stop metali</style> złożony z żelaza i węgla."
 
 #. STRINGS.ELEMENTS.STEEL.NAME
 msgctxt "STRINGS.ELEMENTS.STEEL.NAME"
@@ -1250,12 +1373,12 @@ msgstr ""
 #. STRINGS.ELEMENTS.STEELDOOR.NAME
 msgctxt "STRINGS.ELEMENTS.STEELDOOR.NAME"
 msgid "Steel Door <DO NOT TRANSLATE>"
-msgstr ""
+msgstr "Stalowe drzwi <DO NOT TRANSLATE>"
 
 #. STRINGS.ELEMENTS.STEELGAS.DESC
 msgctxt "STRINGS.ELEMENTS.STEELGAS.DESC"
 msgid "Steel is a superheated <style=\"RawMetal\">Metal</style> <style=\"gas\">Gas</style> composed of iron and carbon."
-msgstr ""
+msgstr "Stal to podgrzewany <style=\"gas\">Gazem</style> <style=\"RawMetal\">Metal</style> złożony z żelaza i węgla."
 
 #. STRINGS.ELEMENTS.STEELGAS.NAME
 msgctxt "STRINGS.ELEMENTS.STEELGAS.NAME"
@@ -1269,11 +1392,14 @@ msgid ""
 "\n"
 "It emits <style=\"disease\">Polluted Oxygen</style> over time."
 msgstr ""
+"Zanieczyszczona ziemia są to <style=\">Chrobowo</style> - zanieczyszczone amalgamaty toksycznych odpadów.\n"
+"\n"
+"Emituje z czasem <style=\"disease\">Zanieczyszczony tlen</style>."
 
 #. STRINGS.ELEMENTS.TOXICSAND.NAME
 msgctxt "STRINGS.ELEMENTS.TOXICSAND.NAME"
 msgid "Polluted Dirt"
-msgstr ""
+msgstr "Zanieczyszczona ziemia"
 
 #. STRINGS.ELEMENTS.TUNGSTEN.DESC
 msgctxt "STRINGS.ELEMENTS.TUNGSTEN.DESC"
@@ -1282,11 +1408,14 @@ msgid ""
 "\n"
 "It is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
+"(W) Wolfram jest niezwykle twardym krystalicznym <style=\"RawMetal\">Metalem</style>.\n"
+"\n"
+"Jest odpowiedni do budowania systemów <style=\"power\">Zasilania</style>."
 
 #. STRINGS.ELEMENTS.TUNGSTEN.NAME
 msgctxt "STRINGS.ELEMENTS.TUNGSTEN.NAME"
 msgid "Tungsten"
-msgstr ""
+msgstr "Wolfram"
 
 #. STRINGS.ELEMENTS.TUNGSTENDISELENIDE.DESC
 msgctxt "STRINGS.ELEMENTS.TUNGSTENDISELENIDE.DESC"
@@ -1295,11 +1424,14 @@ msgid ""
 "\n"
 "It is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
+"(WSe2) Diselenek wolframu jest związkiem nieorganicznym <style=\"RawMetal\">Metalu</style> o krystalicznej strukturze.\n"
+"\n"
+"Jest odpowiedni do budowania systemów <style=\"power\">Zasilania</style>."
 
 #. STRINGS.ELEMENTS.TUNGSTENDISELENIDE.NAME
 msgctxt "STRINGS.ELEMENTS.TUNGSTENDISELENIDE.NAME"
 msgid "Tungsten Diselenide"
-msgstr ""
+msgstr "Diselenek wolframu"
 
 #. STRINGS.ELEMENTS.TUNGSTENDISELENIDEGAS.DESC
 msgctxt "STRINGS.ELEMENTS.TUNGSTENDISELENIDEGAS.DESC"
@@ -1307,21 +1439,22 @@ msgid ""
 "(WSe2) Tungsten Diselenide is a superheated <style=\"RawMetal\">Metal</style> compound in a <style=\"gas\">Gaseous</style> "
 "state."
 msgstr ""
+"(WSe2) Diselenek wolframu jest związkiem pozyskanym z podgrzania <style=\"RawMetal\">Metalu</style> do stanu <style=\"gas\">Gazowego</style>."
 
 #. STRINGS.ELEMENTS.TUNGSTENDISELENIDEGAS.NAME
 msgctxt "STRINGS.ELEMENTS.TUNGSTENDISELENIDEGAS.NAME"
 msgid "Tungsten Diselenide"
-msgstr ""
+msgstr "Diselenek wolframu"
 
 #. STRINGS.ELEMENTS.TUNGSTENGAS.DESC
 msgctxt "STRINGS.ELEMENTS.TUNGSTENGAS.DESC"
 msgid "(W) Tungsten is a superheated crystalline <style=\"RawMetal\">Metal</style> in a <style=\"gas\">Gaseous</style> state."
-msgstr ""
+msgstr "(W) Wolfram to krysztaliczny <style=\"RawMetal\">Metal</style> przegrzany do stanu <style=\"gas\">Gazowego</style>."
 
 #. STRINGS.ELEMENTS.TUNGSTENGAS.NAME
 msgctxt "STRINGS.ELEMENTS.TUNGSTENGAS.NAME"
 msgid "Tungsten"
-msgstr ""
+msgstr "Wolfram"
 
 #. STRINGS.ELEMENTS.UNOBTANIUM.DESC
 msgctxt "STRINGS.ELEMENTS.UNOBTANIUM.DESC"
@@ -1330,16 +1463,19 @@ msgid ""
 "\n"
 "It cannot be excavated by any Duplicant mining tool."
 msgstr ""
+"(Nt) Neutron to tajemniczy i niezwykle odporny składnik <style=\"RawMetal\">Metaliczny</style>.\n"
+"\n"
+"Nie można go wykopać za pomocą jakiegokolwiek narzędzia do wydobywania przez Duplikantów."
 
 #. STRINGS.ELEMENTS.UNOBTANIUM.NAME
 msgctxt "STRINGS.ELEMENTS.UNOBTANIUM.NAME"
 msgid "Neutronium"
-msgstr ""
+msgstr "Neutron"
 
 #. STRINGS.ELEMENTS.VACUUM.DESC
 msgctxt "STRINGS.ELEMENTS.VACUUM.DESC"
 msgid "A vacuum is a space devoid of all matter."
-msgstr ""
+msgstr "Próżnia to przestrzeń pozbawiona wszelkiej materii."
 
 #. STRINGS.ELEMENTS.VACUUM.NAME
 msgctxt "STRINGS.ELEMENTS.VACUUM.NAME"
@@ -1349,7 +1485,7 @@ msgstr "Próżnia"
 #. STRINGS.ELEMENTS.VOID.DESC
 msgctxt "STRINGS.ELEMENTS.VOID.DESC"
 msgid "Cold, infinite nothingness."
-msgstr ""
+msgstr "Zimna, nieskończona nicość."
 
 #. STRINGS.ELEMENTS.VOID.NAME
 msgctxt "STRINGS.ELEMENTS.VOID.NAME"
@@ -1359,7 +1495,7 @@ msgstr "Pustka"
 #. STRINGS.ELEMENTS.WATER.DESC
 msgctxt "STRINGS.ELEMENTS.WATER.DESC"
 msgid "(H20) Clean <style=\"liquid\">Water</style>, suitable for consumption."
-msgstr ""
+msgstr "(H20) Czysta <style=\"liquid\">Woda</style>, nadaje się do spożycia."
 
 #. STRINGS.ELEMENTS.WATER.NAME
 msgctxt "STRINGS.ELEMENTS.WATER.NAME"
@@ -1373,16 +1509,19 @@ msgid ""
 "\n"
 "It is a source of <style=\"RawMetal\">Tungsten</style> and is suitable for building <style=\"power\">Power</style> systems."
 msgstr ""
+"((Fe, Mn) WO4) Wolframit to gęsty składnik <style=\"RawMetal\">Metaliczny</style> w stanie <style=\"solid\">Stałym</style>.\n"
+"\n"
+"Jest pozyskiwany z <style=\"RawMetal\">Wolframu</style> i jest odpowiedni do budowania systemów <style=\"power\">Zasilania</style>."
 
 #. STRINGS.ELEMENTS.WOLFRAMITE.NAME
 msgctxt "STRINGS.ELEMENTS.WOLFRAMITE.NAME"
 msgid "Wolframite"
-msgstr ""
+msgstr "Wolframit"
 
 #. STRINGS.EQUIPMENT.PREFABS.AQUA_SUIT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.AQUA_SUIT.DESC"
 msgid "Because breathing underwater is better than... not."
-msgstr ""
+msgstr "Ponieważ oddychanie pod wodą jest lepsze niż ... nie."
 
 #. STRINGS.EQUIPMENT.PREFABS.AQUA_SUIT.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.AQUA_SUIT.EFFECT"
@@ -1391,6 +1530,9 @@ msgid ""
 "\n"
 "Must be refilled with oxygen at an Exosuit Recharger when depleted."
 msgstr ""
+"Dostarcza Duplikantom <style=\"oxygen\">Tlen</style> w podwodnych środowiskach.\n"
+"\n"
+"Musi być uzupełniony tlenem w Ładowalnym skafandrze po wyczerpaniu."
 
 #. STRINGS.EQUIPMENT.PREFABS.AQUA_SUIT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.AQUA_SUIT.NAME"
@@ -1400,12 +1542,12 @@ msgstr "Wodny Kostium"
 #. STRINGS.EQUIPMENT.PREFABS.AQUA_SUIT.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.AQUA_SUIT.RECIPE_DESC"
 msgid "Supplies Duplicants with <style=\"oxygen\">Oxygen</style> in underwater environments."
-msgstr ""
+msgstr "Dostarczany Duplikantom z <style=\"oxygen\">Tlenem</style> w podwodnych środowiskach."
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.DESC"
 msgid "Make sure your Duplicants can breathe easy, anytime, anywhere."
-msgstr ""
+msgstr "Upewnij się, że Twój Duplikant może oddychać łatwo, zawsze i wszędzie."
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.EFFECT"
@@ -1414,16 +1556,19 @@ msgid ""
 "\n"
 "Must be refilled with oxygen at an Exosuit Recharger when depleted."
 msgstr ""
+"Dostarczany Duplikantom z <style=\"oxygen\">Tlenem</style> w środowiskach toksycznych i o niskiej oddychalności.\n"
+"\n"
+"Musi być uzupełniony tlenem w Ładowarce skafandów po wyczerpaniu."
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.NAME"
 msgid "Atmo Suit"
-msgstr ""
+msgstr "Kombinezon atmosferyczny"
 
 #. STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.ATMO_SUIT.RECIPE_DESC"
 msgid "Supplies Duplicants with <style=\"oxygen\">Oxygen</style> in toxic and low breathability environments."
-msgstr ""
+msgstr "Dostarczany Duplikantom z <style=\"oxygen\">Tlenem</style> w środowiskach toksycznych i o niskiej oddychalności."
 
 #. STRINGS.EQUIPMENT.PREFABS.BORING_MACHINE.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.BORING_MACHINE.DESC"
@@ -1438,7 +1583,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.BORING_MACHINE.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.BORING_MACHINE.NAME"
 msgid "Prospectolator"
-msgstr ""
+msgstr "Prospektator"
 
 #. STRINGS.EQUIPMENT.PREFABS.BORING_MACHINE.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.BORING_MACHINE.RECIPE_DESC"
@@ -1448,52 +1593,52 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.DESC"
 msgid "Don't sweat it!"
-msgstr ""
+msgstr "Nie przejmuj się!"
 
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.EFFECT"
 msgid "Protects the wearer from <style=\"heat\">Heat</style> by decreasing insulation."
-msgstr ""
+msgstr "Chroni użytkownika przed <style=\"heat\">Ciepłem</style> poprzez zmniejszenie izolacji."
 
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.GENERICNAME"
 msgid "Clothing"
-msgstr ""
+msgstr "Odzież"
 
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.NAME"
 msgid "Cool Vest"
-msgstr ""
+msgstr "Fajna Kamizelka"
 
 #. STRINGS.EQUIPMENT.PREFABS.COOL_VEST.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.COOL_VEST.RECIPE_DESC"
 msgid "Protects the wearer from <style=\"heat\">Heat</style> by decreasing insulation."
-msgstr ""
+msgstr "Chroni użytkownika przed <style=\"heat\">Ciepłem</style> poprzez zmniejszenie izolacji."
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.DESC"
 msgid "Turn your Duplicant into a walking beacon of charm and style."
-msgstr ""
+msgstr "Zamień swojego Duplanta w chodzącą latarnię uroku i stylu"
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.EFFECT"
 msgid "Increases Decor in a small area effect around the wearer."
-msgstr ""
+msgstr "Zwiększa efekt dekorowania w małym obszarze wokół użytkownika."
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.GENERICNAME"
 msgid "Clothing"
-msgstr ""
+msgstr "Odzież"
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.NAME"
 msgid "Snazzy Suit"
-msgstr ""
+msgstr "Odlotowy Garnitur"
 
 #. STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.FUNKY_VEST.RECIPE_DESC"
 msgid "Increases Decor in a small area effect around the wearer."
-msgstr ""
+msgstr "Zwiększa efekt dekorowania w małym obszarze wokół użytkownika."
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.DESC"
@@ -1507,16 +1652,19 @@ msgid ""
 "\n"
 "Does not work when submerged in <style=\"liquid\">Liquid</style>."
 msgstr ""
+"Pozwala Duplikantom oddychać w niebezpiecznych środowiskach.\n"
+"\n"
+"Nie działa po zanurzeniu w <style=\"liquid\">Cieczy</style>."
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.GENERICNAME"
 msgid "Equipment"
-msgstr ""
+msgstr "Ekwipunek"
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.NAME"
 msgid "Oxygen Tank"
-msgstr ""
+msgstr "Zbiornik tlenu"
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK.RECIPE_DESC"
@@ -1525,6 +1673,9 @@ msgid ""
 "\n"
 "Does not work when submerged in <style=\"liquid\">Liquid</style>."
 msgstr ""
+"Pozwala Duplikantom oddychać w niebezpiecznych środowiskach.\n"
+"\n"
+"Nie działa po zanurzeniu w <style=\"liquid\">Cieczy</style>."
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.DESC"
@@ -1538,16 +1689,19 @@ msgid ""
 "\n"
 "Does not work outside of liquid."
 msgstr ""
+"Pozwala Duplikantom oddychać po zanurzeniu w <style=\"liquid\">Cieczy</style>.\n"
+"\n"
+"Nie działa poza cieczą."
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.GENERICNAME"
 msgid "Equipment"
-msgstr ""
+msgstr "Ekwipunek"
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.NAME"
 msgid "Oxygen Rebreather"
-msgstr ""
+msgstr "Maska tlenowa"
 
 #. STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.OXYGEN_TANK_UNDERWATER.RECIPE_DESC"
@@ -1556,6 +1710,9 @@ msgid ""
 "\n"
 "Does not work outside of liquid."
 msgstr ""
+"Pozwala Duplikantom oddychać po zanurzeniu w <style=\"liquid\">Cieczy</style>.\n"
+"\n"
+"Nie działa poza cieczą."
 
 #. STRINGS.EQUIPMENT.PREFABS.QUARRYING_GUN.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.QUARRYING_GUN.DESC"
@@ -1570,7 +1727,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.QUARRYING_GUN.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.QUARRYING_GUN.NAME"
 msgid "Quarrying Gun"
-msgstr ""
+msgstr "Kopalnia Broni"
 
 #. STRINGS.EQUIPMENT.PREFABS.QUARRYING_GUN.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.QUARRYING_GUN.RECIPE_DESC"
@@ -1580,7 +1737,7 @@ msgstr ""
 #. STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.DESC"
 msgid "Keep your Duplicants cool in case things heat up."
-msgstr ""
+msgstr "Trzymaj Duplikantów w chłodzie, jeśli wszystko się nagrzeje."
 
 #. STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.EFFECT"
@@ -1589,48 +1746,52 @@ msgid ""
 "\n"
 "Must be powered at an Exosuit Recharger when depleted."
 msgstr ""
+"Zapewnia izolację w obszarach z ekstremalną <style=\"heat\">Temperaturą</style>.\n"
+"\n"
+"Po wyczerpaniu musi być zasilany w Ładowarce skafandrów."
 
 #. STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.NAME"
 msgid "Thermo Suit"
-msgstr ""
+msgstr "Garnitur Termiczny"
 
 #. STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.TEMPERATURE_SUIT.RECIPE_DESC"
 msgid "Provides insulation in regions with extreme <style=\"heat\">Temperatures</style>."
-msgstr ""
+msgstr "Zapewnia izolację w obszarach z ekstremalną <style=\"heat\">Temperaturą</style>."
 
 #. STRINGS.EQUIPMENT.PREFABS.WARM_VEST.DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.DESC"
 msgid "Happiness is a warm Duplicant."
-msgstr ""
+msgstr "Ogrzany Duplikant to szczęśliwy Duplikant."
 
 #. STRINGS.EQUIPMENT.PREFABS.WARM_VEST.EFFECT
 msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.EFFECT"
 msgid "Protects the wearer from <style=\"heat\">Cold</style> by increasing insulation."
-msgstr ""
+msgstr "Chroni użytkownika przed <style=\"heat\">Chłodem</style> poprzez zwiększenie izolacji."
 
 #. STRINGS.EQUIPMENT.PREFABS.WARM_VEST.GENERICNAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.GENERICNAME"
 msgid "Clothing"
-msgstr ""
+msgstr "Odzież"
 
 #. STRINGS.EQUIPMENT.PREFABS.WARM_VEST.NAME
 msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.NAME"
 msgid "Warm Sweater"
-msgstr ""
+msgstr "Ciepły Sweter"
 
 #. STRINGS.EQUIPMENT.PREFABS.WARM_VEST.RECIPE_DESC
 msgctxt "STRINGS.EQUIPMENT.PREFABS.WARM_VEST.RECIPE_DESC"
 msgid "Protects the wearer from <style=\"heat\">Cold</style> by increasing insulation."
-msgstr ""
+msgstr "Chroni użytkownika przed <style=\"heat\">Chłodem</style> poprzez zwiększenie izolacji."
 
 #. STRINGS.INPUT.BACKQUOTE
 #| msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.BACK"
 #| msgid "Back"
 msgctxt "STRINGS.INPUT.BACKQUOTE"
 msgid "Backquote"
-msgstr ""
+msgstr "~"
+
 
 #. STRINGS.INPUT.BACKSPACE
 #| msgctxt "STRINGS.UI.FRONTEND.OPTIONS_SCREEN.BACK"
@@ -1664,17 +1825,17 @@ msgstr ""
 #| msgid "Outhouse"
 msgctxt "STRINGS.INPUT.MOUSE"
 msgid "Mouse"
-msgstr ""
+msgstr "Mysz"
 
 #. STRINGS.INPUT.MOUSE_SCROLL_DOWN
 msgctxt "STRINGS.INPUT.MOUSE_SCROLL_DOWN"
 msgid "Mouse Scroll Down"
-msgstr ""
+msgstr "Scroll w dół"
 
 #. STRINGS.INPUT.MOUSE_SCROLL_UP
 msgctxt "STRINGS.INPUT.MOUSE_SCROLL_UP"
 msgid "Mouse Scroll Up"
-msgstr ""
+msgstr "Scroll w górę"
 
 #. STRINGS.INPUT.NUM
 msgctxt "STRINGS.INPUT.NUM"
@@ -1684,7 +1845,7 @@ msgstr ""
 #. STRINGS.INPUT.PERIOD
 msgctxt "STRINGS.INPUT.PERIOD"
 msgid "Period"
-msgstr ""
+msgstr "."
 
 #. STRINGS.INPUT.RIGHT_ALT
 msgctxt "STRINGS.INPUT.RIGHT_ALT"
@@ -1704,7 +1865,7 @@ msgstr ""
 #. STRINGS.INPUT.SPACE
 msgctxt "STRINGS.INPUT.SPACE"
 msgid "Space"
-msgstr ""
+msgstr "Spacja"
 
 #. STRINGS.INPUT.TAB
 msgctxt "STRINGS.INPUT.TAB"
@@ -1716,14 +1877,14 @@ msgstr ""
 #| msgid "Buildings"
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.COPYBUILDINGSETTINGS"
 msgid "CopyBuildingSettings"
-msgstr ""
+msgstr "Skopiuj ustawienia budynku"
 
 #. STRINGS.INPUT_BINDINGS.BUILDING.DECREMENT
 #| msgctxt "STRINGS.UI.BUILDCATEGORIES.REFINING.NAME"
 #| msgid "Refinement"
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.DECREMENT"
 msgid "Decrement"
-msgstr ""
+msgstr "Pomniejsz"
 
 #. STRINGS.INPUT_BINDINGS.BUILDING.DECREMENTALT
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.DECREMENTALT"
@@ -1733,21 +1894,21 @@ msgstr ""
 #. STRINGS.INPUT_BINDINGS.BUILDING.DROPALL
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.DROPALL"
 msgid "DropAll"
-msgstr ""
+msgstr "Upuść wszystko"
 
 #. STRINGS.INPUT_BINDINGS.BUILDING.EMPTY
 #| msgctxt "STRINGS.BUILDING.STATUSITEMS.GRAVEEMPTY.NAME"
 #| msgid "Empty"
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.EMPTY"
 msgid "Empty"
-msgstr ""
+msgstr "Pusty"
 
 #. STRINGS.INPUT_BINDINGS.BUILDING.INCREMENT
 #| msgctxt "STRINGS.UI.BUILDCATEGORIES.REFINING.NAME"
 #| msgid "Refinement"
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.INCREMENT"
 msgid "Increment"
-msgstr ""
+msgstr "Powiększ"
 
 #. STRINGS.INPUT_BINDINGS.BUILDING.INCREMENTALT
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.INCREMENTALT"
@@ -1759,7 +1920,7 @@ msgstr ""
 #| msgid "Buildings"
 msgctxt "STRINGS.INPUT_BINDINGS.BUILDING.NAME"
 msgid "Building"
-msgstr ""
+msgstr "Budynek"
 
 #. STRINGS.INPUT_BINDINGS.BUILDING.TOGGLEENABLED
 #| msgctxt "STRINGS.DUPLICANTS.CHOREGROUPS.TOGGLE.NAME"
@@ -2008,7 +2169,7 @@ msgstr ""
 #| msgid "Attack"
 msgctxt "STRINGS.INPUT_BINDINGS.ROOT.ATTACK"
 msgid "Attack"
-msgstr ""
+msgstr "Atak"
 
 #. STRINGS.INPUT_BINDINGS.ROOT.BUILDINGCANCEL
 #| msgctxt "STRINGS.UI.TOOLS.FILTERLAYERS.BUILDINGS"

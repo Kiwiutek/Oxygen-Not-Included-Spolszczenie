@@ -32,7 +32,7 @@ msgstr " kcal"
 #| msgid " mg"
 msgctxt "STRINGS.UI.UNITSUFFIXES.DISTANCE.METER"
 msgid " m"
-msgstr ""
+msgstr " m"
 
 #. STRINGS.UI.UNITSUFFIXES.ELECTRICAL.JOULE
 msgctxt "STRINGS.UI.UNITSUFFIXES.ELECTRICAL.JOULE"
@@ -117,7 +117,7 @@ msgstr " K"
 #. STRINGS.UI.UNITSUFFIXES.UNITS
 msgctxt "STRINGS.UI.UNITSUFFIXES.UNITS"
 msgid " units"
-msgstr ""
+msgstr " wymiary"
 
 #. STRINGS.UI.USERMENUACTIONS.ATTACK.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.ATTACK.NAME"
@@ -134,12 +134,12 @@ msgstr "Zaatakuj to stworzenie"
 #| msgid "Disable Red Alert"
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCEL_HARVEST_WHEN_READY.NAME"
 msgid "Disable Autoharvest"
-msgstr ""
+msgstr "Wyłącz Automatyczne zbiory"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCEL_HARVEST_WHEN_READY.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCEL_HARVEST_WHEN_READY.TOOLTIP"
 msgid "Duplicants will require orders to harvest from this plant"
-msgstr ""
+msgstr "Duplikanci będą wymagać zleceń do zbioru z tej rośliny"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELATTACK.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELATTACK.NAME"
@@ -206,14 +206,14 @@ msgstr "Anuluj rozkaz tego mopowania"
 #| msgid "Cancel tool"
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELUPROOT.NAME"
 msgid "Cancel Uproot"
-msgstr ""
+msgstr "Anuluj wykorzenianie"
 
 #. STRINGS.UI.USERMENUACTIONS.CANCELUPROOT.TOOLTIP
 #| msgctxt "STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.TOOLTIP_OFF"
 #| msgid "Cancel this empty order"
 msgctxt "STRINGS.UI.USERMENUACTIONS.CANCELUPROOT.TOOLTIP"
 msgid "Cancel this uproot order"
-msgstr ""
+msgstr "Anuluj tę kolejność wykorzeniania"
 
 #. STRINGS.UI.USERMENUACTIONS.CLEANTOILET.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEANTOILET.NAME"
@@ -238,7 +238,7 @@ msgstr "Anuluj Zamiatanie"
 #. STRINGS.UI.USERMENUACTIONS.CLEAR.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEAR.TOOLTIP"
 msgid "Put this object away in the nearest storage container"
-msgstr ""
+msgstr "Umieść ten przedmiot w najbliższym pojemniku"
 
 #. STRINGS.UI.USERMENUACTIONS.CLEAR.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.CLEAR.TOOLTIP_OFF"
@@ -250,12 +250,12 @@ msgstr "Anuluj ten rozkaz zamiatania"
 #| msgid "Filter Settings"
 msgctxt "STRINGS.UI.USERMENUACTIONS.COPY_BUILDING_SETTINGS.NAME"
 msgid "Copy Settings"
-msgstr ""
+msgstr "Ustawienia kopiowania"
 
 #. STRINGS.UI.USERMENUACTIONS.COPY_BUILDING_SETTINGS.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.COPY_BUILDING_SETTINGS.TOOLTIP"
 msgid "Apply the settings and priorities of this building to others of the same type"
-msgstr ""
+msgstr "Zastosuj ustawienia i priorytety tego budynku do innych tego samego typu"
 
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.NAME"
@@ -272,7 +272,7 @@ msgstr "Anuluj Dekonstrukcję"
 #| msgid "Drag to demolish buildings and refund their resources"
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP"
 msgid "Demolish this building and refund all resources"
-msgstr ""
+msgstr "Zburz ten budynek i zwróć wszystkie surowce"
 
 #. STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.DEMOLISH.TOOLTIP_OFF"
@@ -294,7 +294,7 @@ msgstr "Wykop tę komórkę"
 #| msgid "Cancel this dig order"
 msgctxt "STRINGS.UI.USERMENUACTIONS.DIG.TOOLTIP_OFF"
 msgid "Cancel this dig order"
-msgstr ""
+msgstr "Anuluj ren rozkaz kopania"
 
 #. STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.DRAWPATHS.NAME"
@@ -329,7 +329,7 @@ msgstr "Anuluj Opróżnianie"
 #. STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.TOOLTIP"
 msgid "Eject all resources from this storage region"
-msgstr ""
+msgstr "Wyrzuć wszystkie zasoby z tego obszaru pamięci"
 
 #. STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.TOOLTIP_OFF
 msgctxt "STRINGS.UI.USERMENUACTIONS.EMPTYSTORAGE.TOOLTIP_OFF"
@@ -365,14 +365,14 @@ msgstr "Wznów działanie tego budynku"
 #. STRINGS.UI.USERMENUACTIONS.FOLLOWCAM.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.FOLLOWCAM.NAME"
 msgid "Follow Cam"
-msgstr ""
+msgstr "Podąrzaj za kamerą"
 
 #. STRINGS.UI.USERMENUACTIONS.FOLLOWCAM.TOOLTIP
 #| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.FUSSY.TOOLTIP"
 #| msgid "This Duplicant is hard to please"
 msgctxt "STRINGS.UI.USERMENUACTIONS.FOLLOWCAM.TOOLTIP"
 msgid "Track this Duplicant with the camera"
-msgstr ""
+msgstr "Śledź tego Duplikanta za pomocą kamery"
 
 #. STRINGS.UI.USERMENUACTIONS.HARVEST.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST.NAME"
@@ -384,24 +384,24 @@ msgstr "Zbierz"
 #| msgid "Remove waste from this toilet"
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST.TOOLTIP"
 msgid "Harvest materials from this plant"
-msgstr ""
+msgstr "Zbierz materiały z tej rośliny"
 
 #. STRINGS.UI.USERMENUACTIONS.HARVEST.TOOLTIP_DISABLED
 #| msgctxt "STRINGS.DUPLICANTS.MODIFIERS.WORKING.TOOLTIP"
 #| msgid "This Duplicant is working up a sweat"
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST.TOOLTIP_DISABLED"
 msgid "This plant has nothing to harvest yet"
-msgstr ""
+msgstr "Ta roślina nie ma jeszcze żadnych zbiorów"
 
 #. STRINGS.UI.USERMENUACTIONS.HARVEST_WHEN_READY.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST_WHEN_READY.NAME"
 msgid "Enable Autoharvest"
-msgstr ""
+msgstr "Włącz automatyczne zbiory"
 
 #. STRINGS.UI.USERMENUACTIONS.HARVEST_WHEN_READY.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.HARVEST_WHEN_READY.TOOLTIP"
 msgid "Duplicants will automatically harvest this plant when it matures"
-msgstr ""
+msgstr "Duplikanci automatycznie zbierają tę roślinę, gdy dojrzewa"
 
 #. STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.NAME"
@@ -411,7 +411,7 @@ msgstr "Idź do"
 #. STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.MOVETOLOCATION.TOOLTIP"
 msgid "Move this Duplicant to a specific location"
-msgstr ""
+msgstr "Przenieś tego Duplikanta do określonej lokalizacji"
 
 #. STRINGS.UI.USERMENUACTIONS.OVERRIDETASK.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.OVERRIDETASK.NAME"
@@ -438,7 +438,7 @@ msgctxt "STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP"
 msgid ""
 "Isolate this Duplicant\n"
 "The Duplicant will return to their assigned Cot"
-msgstr ""
+msgstr "Duplikant powróci do przydzielonego łóżeczka"
 
 #. STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP_DISABLED
 msgctxt "STRINGS.UI.USERMENUACTIONS.QUARANTINE.TOOLTIP_DISABLED"
@@ -458,7 +458,7 @@ msgstr "Opróżnij Budynek"
 #. STRINGS.UI.USERMENUACTIONS.RELEASEELEMENT.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELEASEELEMENT.TOOLTIP"
 msgid "Refund all resources currently in use by this building"
-msgstr ""
+msgstr "Zwróć wszystkie zasoby aktualnie używane przez ten budynek"
 
 #. STRINGS.UI.USERMENUACTIONS.RELOCATE.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.RELOCATE.NAME"
@@ -509,12 +509,12 @@ msgstr "Przypisz materiały do magazynu"
 #. STRINGS.UI.USERMENUACTIONS.UPROOT.NAME
 msgctxt "STRINGS.UI.USERMENUACTIONS.UPROOT.NAME"
 msgid "Uproot"
-msgstr ""
+msgstr "Wykorzenianie"
 
 #. STRINGS.UI.USERMENUACTIONS.UPROOT.TOOLTIP
 msgctxt "STRINGS.UI.USERMENUACTIONS.UPROOT.TOOLTIP"
 msgid "Convert this plant into a seed"
-msgstr ""
+msgstr "Zamień tę roślinę w nasiona"
 
 #. STRINGS.UI.VIEWDUPLICANTS
 msgctxt "STRINGS.UI.VIEWDUPLICANTS"
@@ -541,7 +541,7 @@ msgstr "Dziś Zdjedzone"
 #| msgid "The amount of <style=\"food\">Food</style> your Duplicant has eaten this cycle"
 msgctxt "STRINGS.UI.VITALSSCREEN_EATENTODAY_TOOLTIP"
 msgid "The amount of food your Duplicant has eaten this cycle"
-msgstr ""
+msgstr "Ilość jedzenia, które twój Duplikant zjadł w tym cyklu"
 
 #. STRINGS.UI.VITALSSCREEN_HEALTH
 msgctxt "STRINGS.UI.VITALSSCREEN_HEALTH"
@@ -590,6 +590,8 @@ msgid ""
 "Your crew has awoken miles beneath the surface of an unfamiliar asteroid. Oddly, they have no recollection of how they got "
 "here."
 msgstr ""
+"Twoja załoga rozbiła się pod powierzchnią nieznanej asteroidy, co dziwne, nie pamiętają, jak się znaleźli"
+"tutaj."
 
 #. STRINGS.UI.WELCOMEMESSAGETITLE
 msgctxt "STRINGS.UI.WELCOMEMESSAGETITLE"
@@ -894,7 +896,7 @@ msgstr "Zbliżanie się do horyzontu zdarzeń..."
 #. STRINGS.UI.WORLDGEN.GENERATINGWORLD
 msgctxt "STRINGS.UI.WORLDGEN.GENERATINGWORLD"
 msgid "The Galaxy Synthesizer"
-msgstr ""
+msgstr "Galaktyczny sentyzator"
 
 #. STRINGS.UI.WORLDGEN.LOADING
 msgctxt "STRINGS.UI.WORLDGEN.LOADING"
